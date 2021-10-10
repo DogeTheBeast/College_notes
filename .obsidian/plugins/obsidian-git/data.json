@@ -1,0 +1,14 @@
+{
+  "commitMessage": "Laptop vault backup: {{date}}",
+  "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
+  "autoSaveInterval": 2,
+  "autoPullInterval": 2,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFilesInMessageBody": false,
+  "showStatusBar": true,
+  "updateSubmodules": false,
+  "gitPath": ""
+}
