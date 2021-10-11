@@ -1,10 +1,4 @@
-emptying
-the world is a nice place
-a
-a
-a
-a
-aa
+this was ez
 a
 a
 a
@@ -12,7 +6,3 @@ a
 a
 a
 a
-a
-a
-a
-
