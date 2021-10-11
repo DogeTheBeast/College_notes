@@ -1,9 +1,9 @@
 {
-  "commitMessage": "Laptop vault backup: {{date}}",
-  "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
+  "commitMessage": "vault backup: {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
-  "autoPullInterval": 2,
-  "autoPullOnBoot": true,
+  "autoPullInterval": 1,
+  "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
