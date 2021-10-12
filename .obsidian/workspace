@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 2/Valence Electrons.md",
+            "file": "CHEM 154/Unit 1/Orbitals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 2/Valence Electrons.md",
+                "file": "CHEM 154/Unit 1/Orbitals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "9dfef61d98c1bc23",
   "lastOpenFiles": [
+    "CHEM 154/Unit 1/Orbitals.md",
+    "CHEM 154/Unit 1/Isotopes.md",
+    "CHEM 154/Unit 1/Atomic Number.md",
     "CHEM 154/Unit 2/valence electrons.md",
     "Untitled.md",
     "CHEM 154/Unit 1/Atomic Mass Unit.md",
-    "CHEM 154/Unit 1/Atomic Number.md",
     "CHEM 154/Unit 1/Mass Spectroscopy.md",
-    "CHEM 154/Unit 1/Orbitals.md",
-    "CHEM 154/Unit 1/Isotopes.md",
     "CHEM 154/Periodic Table/Periodic Table.md",
     "CHEM 154/Periodic Table/Period.md",
     "CHEM 154/Periodic Table/Group.md"
