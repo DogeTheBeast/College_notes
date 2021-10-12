@@ -9,10 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Periodic Table/Periodic Table.md",
+            "file": "CHEM 154/Unit 1/Atomic Number.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "28983e8a693d59d2"
       },
       {
         "id": "b1f602571cb968a5",
@@ -20,10 +21,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Periodic Table/Period.md",
+            "file": "CHEM 154/Unit 1/Atomic Number.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "28983e8a693d59d2"
       }
     ],
     "direction": "vertical"
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Periodic Table/Period.md",
+                "file": "CHEM 154/Unit 1/Atomic Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +101,15 @@
   },
   "active": "b1f602571cb968a5",
   "lastOpenFiles": [
+    "CHEM 154/Unit 1/Atomic Number.md",
+    "CHEM 154/Unit 1/Isotopes.md",
+    "CHEM 154/Unit 1/Atomic Mass Unit.md",
+    "CHEM 154/Periodic Table/Periodic Table.md",
     "CHEM 154/Periodic Table/Period.md",
     "CHEM 154/Periodic Table/Group.md",
-    "CHEM 154/Periodic Table/Periodic Table.md",
     "valence electrons.md",
     "Groups.md",
     "Untitled.md",
-    "CHEM 154/Unit 1/Atomic Mass Unit.md",
-    "CHEM 154/Unit 1/Periodic Table.md",
-    "CHEM 154/Atomic Mass Unit.md",
-    "CHEM 154/Mass Spectroscopy.md"
+    "CHEM 154/Unit 1/Periodic Table.md"
   ]
 }
