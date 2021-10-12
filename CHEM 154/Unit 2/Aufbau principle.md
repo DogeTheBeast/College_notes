@@ -13,6 +13,6 @@ The order the orbitals are filled in is displayed above.
 
 ## Exception
 
-The 3d oribital has less energy than 4s orbital for atomic number less than 30. Hence, when the option is available, chromium and 
+The 3d oribital has less energy than 4s orbital for atomic number less than 30. Hence, when the option is available, chromium and copper
 
 Chromium - ${4s^1 3d^5}$
