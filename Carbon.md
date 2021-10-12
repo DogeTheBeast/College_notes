@@ -7,4 +7,3 @@ It has 3 forms of [[allotropes]].
 - [[Diamond]]
 - [[Graphite]]
 - [[Fullerene]]
-- 
