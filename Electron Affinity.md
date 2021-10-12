@@ -5,4 +5,10 @@ Electron affinity is the energy change resulting from the addition of a single e
 ${X(g) + e^- -> X^- (g)}$
 
 [[alkali earth metal]] do not form stable anions. 
-[[hal]]
+[[halogen]] have an electron affinity of zero because they don't want to accept any electrons.
+
+
+
+
+The negative sign means that that element wants electrons.
+Fluorine has the most negative electron 
