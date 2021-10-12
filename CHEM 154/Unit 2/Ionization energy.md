@@ -4,4 +4,6 @@ Ionization energy is the minimum energy required to remove a single electrons fr
 
 														${X-> X^+ + e^-}$
 														
-Fluorine has the highest ionization energy because it has the greatest [[Effective Nuclear Charge]]														
+Fluorine has the highest ionization energy because it has the greatest [[Effective Nuclear Charge]] meaning that it is difficult to remove electrons from fluorine.
+
+
