@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Mass Spectroscopy.md",
+            "file": "Carbon.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Mass Spectroscopy.md",
+                "file": "Carbon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "9dfef61d98c1bc23",
   "lastOpenFiles": [
+    "Untitled.md",
+    "CHEM 154/Unit 1/Atomic Mass Unit.md",
+    "CHEM 154/Unit 1/Periodic Table.md",
+    "CHEM 154/Atomic Mass Unit.md",
     "CHEM 154/Mass Spectroscopy.md",
     "CHEM 154/Isotopes.md",
     "CHEM 154/Atomic Number.md",
-    "Untitled.md",
     "CHEM 154/Orbitals.md",
     "CHEM 154/Periodic Table.md",
-    "CHEM 154/Atomic Mass Unit.md",
-    "Isotopes.md",
-    "this is a test.md"
+    "Isotopes.md"
   ]
 }
