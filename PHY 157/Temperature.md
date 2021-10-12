@@ -4,4 +4,5 @@ Temperature is the measure of the random average [[kinetic energy]] of the molec
 
 ## Different units for measuring temperature
 
-- Celsius - Based on 
+- Celsius - Based on the boiling and melting point of water.
+- Kelvin - 
