@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Isotopes.md",
+            "file": "CHEM 154/Orbitals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Isotopes.md",
+                "file": "CHEM 154/Orbitals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,14 +83,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "9dfef61d98c1bc23",
   "lastOpenFiles": [
+    "CHEM 154/Orbitals.md",
+    "CHEM 154/Periodic Table.md",
+    "CHEM 154/Atomic Mass Unit.md",
     "CHEM 154/Isotopes.md",
     "CHEM 154/Atomic Number.md",
-    "CHEM 154/Atomic Mass Unit.md",
-    "CHEM 154/Periodic Table.md",
     "Untitled.md",
     "Isotopes.md",
     "this is a test.md"
