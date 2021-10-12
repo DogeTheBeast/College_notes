@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9dfef61d98c1bc23",
+        "id": "cb93f97ff0a16e39",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9dfef61d98c1bc23",
+  "active": "cb93f97ff0a16e39",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Aufbau principle.md",
+    "CHEM 154/Unit 2/Effective Nuclear Charge.md",
     "CHEM 154/Unit 2/Bonding.md",
+    "CHEM 154/Unit 2/Valence Electrons.md",
+    "Untitled.md",
     "Excalidraw/Drawing 2021-10-11 20.57.38.excalidraw.png",
     "Excalidraw/Drawing 2021-10-11 20.57.38.excalidraw.md",
-    "CHEM 154/Unit 2/Effective Nuclear Charge.md",
     "CHEM 154/Unit 2/Isoelectric.md",
     "CHEM 154/Unit 2/Lattice Energy.md",
-    "CHEM 154/Unit 2/Ionization energy.md",
-    "CHEM 154/Unit 2/Valence Electrons.md",
-    "Bonding.md"
+    "CHEM 154/Unit 2/Ionization energy.md"
   ]
 }
