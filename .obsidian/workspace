@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Isoelectric.md",
+            "file": "CHEM 154/Unit 2/Isoelectric.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isoelectric.md",
+                "file": "CHEM 154/Unit 2/Isoelectric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "9dfef61d98c1bc23",
   "lastOpenFiles": [
-    "Untitled.md",
-    "CHEM 154/Unit 1/Isotopes.md",
+    "CHEM 154/Unit 2/Isoelectric.md",
     "CHEM 154/Unit 2/Valence Electrons.md",
     "CHEM 154/Unit 2/Electronic Configuration.md",
     "CHEM 154/Unit 1/Orbitals.md",
-    "CHEM 154/Unit 1/Atomic Number.md",
-    "CHEM 154/Unit 2/valence electrons.md",
-    "CHEM 154/Unit 1/Atomic Mass Unit.md",
     "CHEM 154/Unit 1/Mass Spectroscopy.md",
-    "CHEM 154/Periodic Table/Periodic Table.md"
+    "CHEM 154/Unit 1/Isotopes.md",
+    "CHEM 154/Unit 1/Atomic Number.md",
+    "CHEM 154/Unit 1/Atomic Mass Unit.md",
+    "Untitled.md",
+    "CHEM 154/Unit 2/valence electrons.md"
   ]
 }
