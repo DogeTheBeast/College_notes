@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Group.md",
-            "mode": "source"
+            "file": "CHEM 154/Periodic Table/Group.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Group.md",
+                "file": "CHEM 154/Periodic Table/Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "9dfef61d98c1bc23",
   "lastOpenFiles": [
+    "CHEM 154/Periodic Table/Group.md",
+    "CHEM 154/Periodic Table/Period.md",
+    "CHEM 154/Periodic Table/Periodic Table.md",
     "Groups.md",
     "Untitled.md",
     "CHEM 154/Unit 1/Atomic Mass Unit.md",
     "CHEM 154/Unit 1/Periodic Table.md",
     "CHEM 154/Atomic Mass Unit.md",
     "CHEM 154/Mass Spectroscopy.md",
-    "CHEM 154/Isotopes.md",
-    "CHEM 154/Atomic Number.md",
-    "CHEM 154/Orbitals.md",
-    "CHEM 154/Periodic Table.md"
+    "CHEM 154/Isotopes.md"
   ]
 }

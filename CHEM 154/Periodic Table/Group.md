@@ -7,4 +7,6 @@ The names of the groups are as follows -
 2. Alkali Earth Metals
 15. Pnictogens
 16. Chalcogens
-17. 
+17. Halogens
+18. Noble Gases
+
