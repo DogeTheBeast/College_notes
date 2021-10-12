@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electron Affinity.md",
+            "file": "Electronegativity.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electron Affinity.md",
+                "file": "Electronegativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "9dfef61d98c1bc23",
   "lastOpenFiles": [
+    "Untitled.md",
     "Electron Affinity.md",
     "CHEM 154/Unit 2/Ionization energy.md",
-    "Untitled.md",
     "CHEM 154/Unit 2/Effective Nuclear Charge.md",
     "CHEM 154/Unit 2/Valence Electrons.md",
     "CHEM 154/Unit 1/Atomic Mass Unit.md",

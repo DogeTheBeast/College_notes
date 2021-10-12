@@ -11,4 +11,4 @@ ${X(g) + e^- -> X^- (g)}$
 
 
 The negative sign means that that element wants electrons.
-Fluorine has the most negative electron 
+Fluorine has the most negative electron affinity.
