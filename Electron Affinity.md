@@ -4,4 +4,4 @@ Electron affinity is the energy change resulting from the addition of a single e
 
 ${X(g) + e^- -> X^- (g)}$
 
-Elements in the [[alkali earth metal]] do not form stable an
+Elements in the [[alkali earth metal]] do not form stable anions. The electron 
