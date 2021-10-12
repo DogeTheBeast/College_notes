@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Extensive and Intensive Properties.md",
+            "file": "Thermodynamics Compiled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extensive and Intensive Properties.md",
+                "file": "Thermodynamics Compiled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   "active": "cb93f97ff0a16e39",
   "lastOpenFiles": [
     "Untitled.md",
+    "PHY 157/Thermal Equilibrium.md",
+    "PHY 157/Temperature.md",
+    "PHY 157/Laws of thermodynamics.md",
     "CHEM 154/Unit 2/Aufbau principle.md",
     "Aufbau principle.md",
     "CHEM 154/Unit 2/Effective Nuclear Charge.md",
     "CHEM 154/Unit 2/Bonding.md",
     "CHEM 154/Unit 2/Valence Electrons.md",
-    "Excalidraw/Drawing 2021-10-11 20.57.38.excalidraw.png",
-    "Excalidraw/Drawing 2021-10-11 20.57.38.excalidraw.md",
-    "CHEM 154/Unit 2/Isoelectric.md",
-    "CHEM 154/Unit 2/Lattice Energy.md"
+    "Excalidraw/Drawing 2021-10-11 20.57.38.excalidraw.png"
   ]
 }
