@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electron Affinity.md",
+            "file": "CHEM 154/Unit 2/Ionization energy.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electron Affinity.md",
+                "file": "CHEM 154/Unit 2/Ionization energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "9dfef61d98c1bc23",
   "lastOpenFiles": [
+    "CHEM 154/Unit 2/Ionization energy.md",
     "Untitled.md",
     "CHEM 154/Unit 2/Effective Nuclear Charge.md",
     "CHEM 154/Unit 2/Valence Electrons.md",
@@ -96,7 +97,6 @@
     "CHEM 154/Unit 2/Isoelectric.md",
     "CHEM 154/Unit 2/Electronic Configuration.md",
     "CHEM 154/Periodic Table/Group.md",
-    "core electrons.md",
-    "CHEM 154/Unit 1/Orbitals.md"
+    "core electrons.md"
   ]
 }
