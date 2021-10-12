@@ -5,4 +5,4 @@ Isotopes are elements with the same [[Atomic Number]] but different [[mass numbe
 
 
 --------------------------------------------
-Related - Isobar mass spectroscopy
+Related - Isobar [[Mass Spectroscopy]]
