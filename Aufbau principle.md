@@ -9,3 +9,5 @@ The order the orbitals are filled in is displayed above.
 
 ![[spdf levels.png]]
 
+
+
