@@ -1,0 +1,3 @@
+# Constant Volume gas thermometer
+
+A constant volume gas thermometer is a thermometer in the shape of a sphere 
