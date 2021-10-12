@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Isotopes.md",
+            "file": "CHEM 154/Atomic Mass Unit.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isotopes.md",
+                "file": "CHEM 154/Atomic Mass Unit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,13 +83,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "9dfef61d98c1bc23",
   "lastOpenFiles": [
-    "Isotopes.md",
+    "CHEM 154/Atomic Mass Unit.md",
+    "CHEM 154/Atomic Number.md",
     "Untitled.md",
+    "Isotopes.md",
     "this is a test.md"
   ]
 }
