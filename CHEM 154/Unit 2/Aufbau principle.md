@@ -10,3 +10,7 @@ The order the orbitals are filled in is displayed above.
 ![[spdf levels.png]]
 
 
+
+## Exception
+
+Chromium - ${4s^1 3d^5}$
