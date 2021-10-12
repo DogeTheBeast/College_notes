@@ -2,4 +2,6 @@
 
 Electron affinity is the energy change resulting from the addition of a single electron to an atom or molecule in its gaseous state.
 
-										${X(g) + e^- -> X^- (g)}
+${X(g) + e^- -> X^- (g)}$
+
+Elements in the [[alkali earth metal]] do not form stable an
