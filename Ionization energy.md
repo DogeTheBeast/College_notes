@@ -2,4 +2,4 @@
 
 Ionization energy is the minimum energy required to remove a single electrons from an atom, molecule or ion in its gaseous state.
 
-\ce{X-> 1000}
+${X-> X^+ +}$
