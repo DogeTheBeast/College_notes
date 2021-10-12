@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Constant Volume gas thermometer.md",
+            "file": "PHY 157/Temperature.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Constant Volume gas thermometer.md",
+                "file": "PHY 157/Temperature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "cb93f97ff0a16e39",
   "lastOpenFiles": [
-    "Untitled.md",
     "PHY 157/Temperature.md",
+    "Untitled.md",
     "PHY 157/Thermal Equilibrium.md",
     "PHY 157/Laws of thermodynamics.md",
     "CHEM 154/Unit 2/Aufbau principle.md",
