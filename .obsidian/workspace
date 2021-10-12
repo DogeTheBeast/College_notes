@@ -7,11 +7,8 @@
         "id": "9dfef61d98c1bc23",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CHEM 154/Unit 2/Valence Electrons.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 2/Valence Electrons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,10 +79,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "9dfef61d98c1bc23",
   "lastOpenFiles": [
+    "CHEM 154/Unit 2/Effective Nuclear Charge.md",
+    "core electrons.md",
     "CHEM 154/Unit 2/Valence Electrons.md",
     "CHEM 154/Unit 2/Isoelectric.md",
     "CHEM 154/Unit 2/Electronic Configuration.md",
@@ -94,8 +93,6 @@
     "CHEM 154/Unit 1/Mass Spectroscopy.md",
     "CHEM 154/Unit 1/Atomic Mass Unit.md",
     "CHEM 154/Unit 1/Atomic Number.md",
-    "CHEM 154/Unit 1/Isotopes.md",
-    "Untitled.md",
-    "CHEM 154/Unit 2/valence electrons.md"
+    "CHEM 154/Unit 1/Isotopes.md"
   ]
 }
