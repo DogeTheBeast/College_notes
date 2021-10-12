@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 1/Atomic Mass Unit.md",
+            "file": "Electronic Configuration.md",
             "mode": "source"
           }
-        },
-        "group": "28983e8a693d59d2"
-      },
-      {
-        "id": "b1f602571cb968a5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CHEM 154/Unit 1/Atomic Mass Unit.md",
-            "mode": "preview"
-          }
-        },
-        "group": "28983e8a693d59d2"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 1/Atomic Mass Unit.md",
+                "file": "Electronic Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +88,7 @@
   },
   "active": "9dfef61d98c1bc23",
   "lastOpenFiles": [
+    "Untitled.md",
     "CHEM 154/Unit 1/Atomic Mass Unit.md",
     "CHEM 154/Unit 1/Atomic Number.md",
     "CHEM 154/Unit 1/Mass Spectroscopy.md",
@@ -109,7 +97,6 @@
     "CHEM 154/Periodic Table/Periodic Table.md",
     "CHEM 154/Periodic Table/Period.md",
     "CHEM 154/Periodic Table/Group.md",
-    "valence electrons.md",
-    "Groups.md"
+    "valence electrons.md"
   ]
 }
