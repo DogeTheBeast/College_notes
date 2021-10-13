@@ -10,3 +10,5 @@ where
 *A* is the cross sectional area
 *L* is the length or the thickness of the body conducting the heat.
 
+![[Thermal Conductivity graph.PNG]]
+
