@@ -10,5 +10,5 @@ Temperature is the measure of the random average [[kinetic energy]] of the molec
 
 ## Conversion between different unites of temperature
 
-${T_kelvin = T_celsius + 273.15}$
-${T_fahrenheit =9/5 ** T_celsius + 273.15}$
+${T_{kelvin} = T_{celsius} + 273.15}$
+${T_{fahrenheit} =9/5 * T_{celsius} + 32}$
