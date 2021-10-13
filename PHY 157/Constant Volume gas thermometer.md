@@ -9,4 +9,4 @@ ${T = constant * P}$
 
 Hence, P is the reading that we obtain from the thermometer. The constant is determined by testing it against the temperature at the triple point of water.
 
-${constant = T_{triple point of water} /  P_{triple point of water}}$
+${constant = T_{triple-point_of_water} /  P_{triple_point_of_water}}$
