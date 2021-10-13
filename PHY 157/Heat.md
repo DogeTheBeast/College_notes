@@ -26,4 +26,6 @@ Heat Capacity is the amount of energy required to increase the temperature of a 
 ${Q = C\Delta T}$
 
 
-#
+# Latent Heat
+
+Latent heat is the amount of energy required to change the phase of 
