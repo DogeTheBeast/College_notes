@@ -32,4 +32,6 @@ Latent heat is the amount of energy required to change the phase of a material o
 - Latent heat of fusion which is the change in phase between solid and liquid.
 - Latent heat of vaporization which is the change in phase between liquid and gas.
 
+${Q = mL}$
 
+Where L is either the latent heat of fusion ()
