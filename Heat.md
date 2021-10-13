@@ -9,6 +9,11 @@ ${Q = mc\Delta T}$
 
 The units for c are ${\frac{J}{kg.K}}$
 
+![[Specific heat capacity.png]]
+
+This value differs for different materials because in complicated
+
+
 The same principle can be used for Molar heat capacity, by replacing the mass with the number of moles. 
 ${Q = nc \Delta T}$
 
