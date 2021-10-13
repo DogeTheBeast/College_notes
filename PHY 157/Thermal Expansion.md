@@ -19,3 +19,4 @@ ${\Delta L = \alpha L_o \Delta T}$
 where ${\alpha}$ is the coefficient of linear expansion with the units as ${K^{-1}}$. 
 ${\alpha}$ can depend upon temperature but the linear approximation is good over small temperature intervals.
 
+![[List of coefficient of Linear thermal expansion.png]]
