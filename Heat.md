@@ -7,9 +7,13 @@ Specific Heat Capacity is the amount of energy required to increase the temperat
 
 ${Q = mc\Delta T}$
 
-The units for c are ${\frac{J}{kg K}}$
+The units for c are ${\frac{J}{kg.K}}$
 
-The same principle can be used for Molar heat capacity, by replacing 
+The same principle can be used for Molar heat capacity, by replacing the mass with the number of moles. 
+${Q = nc \Delta T}$
+
+The units for c are ${\frac{J}{mol.K}}$
+
 
 # Heat Capacity
 
