@@ -10,4 +10,4 @@ The expansion of a body in terms of length or volume because of increase in [[Te
 
 ${\Delta L = \alpha L_o \Delta T}$
 
-where ${\alpha}$ 
+where ${\alpha}$ is the coefficient of linear expansion with the units as ${K^{-1}}$. ${\alpha}$ can depend upong 
