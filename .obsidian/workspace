@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY 157/Thermal Expansion.md",
+            "file": "PHY 157/Stress, Strain and Young's Modulus.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY 157/Thermal Expansion.md",
+                "file": "PHY 157/Stress, Strain and Young's Modulus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "cb93f97ff0a16e39",
   "lastOpenFiles": [
-    "PHY 157/Thermal Expansion.md",
+    "PHY 157/Stress, Strain and Young's Modulus.md",
     "PHY 157/Thermal Equilibrium.md",
-    "PHY 157/Temperature.md",
-    "PHY 157/Constant Volume gas thermometer.md",
+    "PHY 157/Thermal Expansion.md",
     "PHY 157/Thermodynamics Compiled.md",
-    "Untitled.md",
-    "PHY 157/Extensive and Intensive Properties.md",
+    "PHY 157/Temperature.md",
     "PHY 157/Laws of thermodynamics.md",
-    "CHEM 154/Unit 2/Aufbau principle.md",
-    "Aufbau principle.md"
+    "PHY 157/Extensive and Intensive Properties.md",
+    "Untitled.md",
+    "PHY 157/Constant Volume gas thermometer.md",
+    "CHEM 154/Unit 2/Aufbau principle.md"
   ]
 }
