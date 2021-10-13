@@ -9,4 +9,4 @@ Eg - Mass, Volume, Energy
 
 Intensive properties are properties that are not dependent ipon the amount of matter that is present. If the system is divided, the property is identical between each part.
 
-Eg - Temperature, density, colour, taste, melting/boiling point.
+Eg - [[Temperature]], density, colour, taste, melting/boiling point.
