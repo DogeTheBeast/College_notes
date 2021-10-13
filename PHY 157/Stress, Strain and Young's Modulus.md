@@ -17,7 +17,7 @@ Strain is the fractional change in length of an object due to a force or stress 
 
 ${Strain = \frac{\Delta L}{L_o}}$
 
-Read also [[Types of deformation]]
+Read also [[Types of deformation]] [[Relating Stress, Strain and Thermal Expansion]]
 
 
 # Young's Modulus
