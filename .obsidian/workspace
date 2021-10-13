@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY 157/Constant Volume gas thermometer.md",
+            "file": "Thermal Expansion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY 157/Constant Volume gas thermometer.md",
+                "file": "Thermal Expansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "cb93f97ff0a16e39",
   "lastOpenFiles": [
+    "Untitled.md",
     "PHY 157/Constant Volume gas thermometer.md",
     "PHY 157/Extensive and Intensive Properties.md",
     "PHY 157/Laws of thermodynamics.md",
     "PHY 157/Thermodynamics Compiled.md",
     "PHY 157/Temperature.md",
-    "Untitled.md",
     "PHY 157/Thermal Equilibrium.md",
     "CHEM 154/Unit 2/Aufbau principle.md",
     "Aufbau principle.md",
