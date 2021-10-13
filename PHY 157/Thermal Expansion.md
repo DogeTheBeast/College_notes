@@ -20,3 +20,8 @@ where ${\alpha}$ is the coefficient of linear expansion with the units as ${K^{-
 ${\alpha}$ can depend upon temperature but the linear approximation is good over small temperature intervals.
 
 ![[List of coefficient of Linear thermal expansion.png]]
+
+
+## Volumetric Thermal Expansion
+
+${\Delta V = \Beta V_o}
