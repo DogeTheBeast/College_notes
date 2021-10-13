@@ -8,4 +8,4 @@ where
 *H* is the heat current
 *k* is the Thermal Conductivity of the material
 *A* is the cross sectional area
-*L* is the length o
+*L* is the length or the thickness of the body connecting the ob
