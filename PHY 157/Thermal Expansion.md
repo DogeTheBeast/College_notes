@@ -7,7 +7,7 @@ The expansion of a body in terms of length or volume because of increase in [[Te
 
 ### Reason for expansion due to heating
 
-
+![[increase in atomic distance due to change in energy.png]]
 
 
 ## Linear Thermal Expansion
