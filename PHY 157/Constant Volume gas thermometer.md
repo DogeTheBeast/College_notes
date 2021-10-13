@@ -5,4 +5,6 @@ A constant volume gas thermometer is a thermometer in the shape of a sphere whic
 ## How to use a CVGT 
 
 The CVGT is defined by the equation
-${T = constant times }
+${T = constant * P}$
+
+Hence, P is the reading that we obtain from the thermometer. The constant 
