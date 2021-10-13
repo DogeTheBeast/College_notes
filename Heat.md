@@ -9,4 +9,5 @@ ${Q = mc\Delta T}$
 
 The units for c are ${\frac{J}{kg K}}$
 
-# H
+# Heat Capacity
+
