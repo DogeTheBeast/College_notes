@@ -16,5 +16,7 @@ where
 
 Thermal resistance is the measure of the effectiveness of insulation layer.
 
+${R = }
+
 
 
