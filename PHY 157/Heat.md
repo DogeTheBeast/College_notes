@@ -34,4 +34,4 @@ Latent heat is the amount of energy required to change the phase of a material o
 
 ${Q = mL}$
 
-Where L is either the latent heat of fusion (${L_f}$) or the latent heat of vaporization (${L_V}$).
+Where L is either the latent heat of fusion (${L_f}$) or the latent heat of vaporization (${L_V}$). The unit of L is ${\frac{J}{kg}}$.
