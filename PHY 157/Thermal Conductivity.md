@@ -21,6 +21,9 @@ ${R = \frac{L}{k}}$
 Where L is the thickness,
 and k is the thermal conductivity.
 
+The larger the R value, the better insulation the material provides.
+
+
 
 
 
