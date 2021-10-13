@@ -14,5 +14,5 @@ where
 
 # Thermal Resistance
 
-Thermal 
+Thermal resistance is the measure of the effectiveness of insulation layer.
 
