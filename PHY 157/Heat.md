@@ -22,3 +22,5 @@ The units for c are ${\frac{J}{mol.K}}$
 
 # Heat Capacity
 Heat Capacity is the amount of energy required to increase the temperature of a body of a specific mass by 1 degree C or K. It differs from specific heat capacity because specific heat capacity is for *unit mass* but Heat capacity is for a specific body with a mass with isn't necessarily 1.
+
+${Q = =}
