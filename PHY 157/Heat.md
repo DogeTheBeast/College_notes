@@ -25,3 +25,5 @@ Heat Capacity is the amount of energy required to increase the temperature of a 
 
 ${Q = C\Delta T}$
 
+
+#
