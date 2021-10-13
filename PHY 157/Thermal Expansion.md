@@ -8,4 +8,6 @@ The expansion of a body in terms of length or volume because of increase in [[Te
 
 ## Linear Thermal Expansion
 
-${}
+${\Delta L = \alpha L_o \Delta T}$
+
+where ${\alpha}$ 
