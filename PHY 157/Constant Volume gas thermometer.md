@@ -5,8 +5,8 @@ A constant volume gas thermometer is a thermometer in the shape of a sphere whic
 ## How to use a CVGT 
 
 The CVGT is defined by the equation
-${T = constant * P}$
+${T = constant \times P}$
 
 Hence, P is the reading that we obtain from the thermometer. The constant is determined by testing it against the temperature at the triple point of water.
 
-${constant = T_{triple-point_of_water} /  P_{triple_point_of_water}}$
+${constant = \frac{T_{triple-point_of_water}}{P_{triple_point_of_water}}}$
