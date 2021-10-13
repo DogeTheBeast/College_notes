@@ -14,9 +14,14 @@ where
 
 # Thermal Resistance
 
-Thermal resistance is the measure of the effectiveness of insulation layer.
+Thermal resistance (R) is the measure of the effectiveness of insulation layer.
 
-${R = }
+${R = \frac{L}{k}}$
+
+Where L is the thickness,
+and k is the thermal conductivity.
+
+
 
 
 
