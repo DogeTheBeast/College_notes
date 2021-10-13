@@ -23,4 +23,5 @@ Read also [[Types of deformation]]
 # Young's Modulus
 
 The constant of propertionality used to relate Stress to Strain is called Young's modulus. It is denoted by ${Y}$
-${Y = \frac{Stress}{Strain} = \frac{F/A}{}}
+${Y = \frac{Stress}{Strain} = \frac{F/A}{\Delta L / L_o}}$
+${\frac{F}{A} = Y \frac{\Delta L}{L_o}}$
