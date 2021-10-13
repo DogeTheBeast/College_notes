@@ -21,4 +21,4 @@ The units for c are ${\frac{J}{mol.K}}$
 
 
 # Heat Capacity
-Heat Capacity is the amount of energy required to increase the temperature 
+Heat Capacity is the amount of energy required to increase the temperature of a body of any ma by 1 degree C or K.
