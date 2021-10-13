@@ -27,3 +27,5 @@ ${\alpha}$ can depend upon temperature but the linear approximation is good over
 ${\Delta V = \beta V_o \Delta T}$
 
 where ${\beta}$ is the coefficient of volume expansion. It has the same units as ${\alpha}$ (${K^{-1}}$). This applies to solids as well as liquids.
+
+${\beta = 3 \times \alpha}$
