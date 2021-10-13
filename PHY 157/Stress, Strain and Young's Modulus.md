@@ -13,4 +13,8 @@ and it has the same units as pressure ([[Pascal]]).
 
 # Strain
 
-Strain is the fractional change in length of an object due to a force or stress applied to it.
+Strain is the fractional change in length of an object due to a force or stress applied to it. It is dimensionless and is calculated using
+
+${Strain = \frac{\Delta L}{L_o}}$
+
+Read also [[Types of de]]
