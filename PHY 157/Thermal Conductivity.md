@@ -14,5 +14,5 @@ where
 
 # Thermal Resistance
 
-
+Thermal 
 
