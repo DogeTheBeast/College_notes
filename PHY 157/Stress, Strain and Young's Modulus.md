@@ -17,4 +17,4 @@ Strain is the fractional change in length of an object due to a force or stress 
 
 ${Strain = \frac{\Delta L}{L_o}}$
 
-Read also [[Types of de]]
+Read also [[Types of deformation]]
