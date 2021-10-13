@@ -7,11 +7,8 @@
         "id": "cb93f97ff0a16e39",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PHY 157/Types of deformation.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY 157/Types of deformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
