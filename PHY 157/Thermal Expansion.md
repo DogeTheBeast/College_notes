@@ -31,3 +31,6 @@ where ${\beta}$ is the coefficient of volume expansion. It has the same units as
 ${\beta = 3 \times \alpha}$
 
 ![[Exceptional case of volumetric expansion of water.png]]
+
+---
+Read also - [[Relating Stress, Strain and Thermal Expansion]]
