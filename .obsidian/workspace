@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linear Thermal Expansion.md",
+            "file": "PHY 157/Temperature.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Thermal Expansion.md",
+                "file": "PHY 157/Temperature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "cb93f97ff0a16e39",
   "lastOpenFiles": [
+    "PHY 157/Temperature.md",
+    "PHY 157/Thermodynamics Compiled.md",
+    "PHY 157/Thermal Equilibrium.md",
     "Untitled.md",
     "PHY 157/Constant Volume gas thermometer.md",
     "PHY 157/Extensive and Intensive Properties.md",
     "PHY 157/Laws of thermodynamics.md",
-    "PHY 157/Thermodynamics Compiled.md",
-    "PHY 157/Temperature.md",
-    "PHY 157/Thermal Equilibrium.md",
     "CHEM 154/Unit 2/Aufbau principle.md",
     "Aufbau principle.md",
     "CHEM 154/Unit 2/Effective Nuclear Charge.md"
