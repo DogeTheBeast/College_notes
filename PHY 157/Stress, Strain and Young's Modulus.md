@@ -18,3 +18,8 @@ Strain is the fractional change in length of an object due to a force or stress 
 ${Strain = \frac{\Delta L}{L_o}}$
 
 Read also [[Types of deformation]]
+
+
+# Young's Modulus
+
+The constant of propertionality used to relate Stress to Strain is called Young's modulus. 
