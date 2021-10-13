@@ -28,4 +28,4 @@ ${Q = C\Delta T}$
 
 # Latent Heat
 
-Latent heat is the amount of energy required to change the phase of 
+Latent heat is the amount of energy required to change the phase of a material of unit mass. There is 
