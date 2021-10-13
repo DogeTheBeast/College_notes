@@ -8,7 +8,7 @@ Stress is the force per unit area applied on a body. There are 2 types of stress
 Stress is similar to [[Pressure]], meaning that it is measured using 
 ${Stress = \frac{F}{A}}$
 
-and it has the same units as pressure ([[Pascal]]).
+and it has the same units as [[Pressure]] ([[Pascal]]).
 
 
 # Strain
@@ -22,7 +22,7 @@ Read also [[Types of deformation]] [[Relating Stress, Strain and Thermal Expansi
 
 # Young's Modulus
 
-The constant of propertionality used to relate Stress to Strain is called Young's modulus. It is denoted by ${Y}$. It’s a measure of how much pressure is required to produce a significant fractional change in length.
+The constant of propertionality used to relate Stress to Strain is called Young's modulus. It is denoted by ${Y}$. It’s a measure of how much [[Pressure]] is required to produce a significant fractional change in length.
 ${Y = \frac{Stress}{Strain} = \frac{F/A}{\Delta L / L_o}}$
 ${\frac{F}{A} = Y \frac{\Delta L}{L_o}}$
 
