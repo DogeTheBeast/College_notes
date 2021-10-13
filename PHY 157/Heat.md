@@ -30,4 +30,4 @@ ${Q = C\Delta T}$
 
 Latent heat is the amount of energy required to change the phase of a material of unit mass. There are 2 types of latent heat
 - Latent heat of fusion which is the change in phase between solid and liquid.
-- Latent heat of vaporization
+- Latent heat of vaporization which is the change in phase between liquid and gas.
