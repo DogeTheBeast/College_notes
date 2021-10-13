@@ -24,4 +24,6 @@ ${\alpha}$ can depend upon temperature but the linear approximation is good over
 
 ## Volumetric Thermal Expansion
 
-${\Delta V = \Beta V_o}
+${\Delta V = \beta V_o \Delta T}$
+
+where ${\beta}$ is the coefficient of volume expansion. It has the same units as ${\alpha}$ ()
