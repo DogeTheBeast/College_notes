@@ -11,7 +11,7 @@ The units for c are ${\frac{J}{kg.K}}$
 
 ![[Specific heat capacity.png]]
 
-This value differs for different materials because in complicated
+This value differs for different materials because in more complicated, part of energy added goes to rotations/vibrations and etc.., so it takes more Q to increase the internal energy.
 
 
 The same principle can be used for Molar heat capacity, by replacing the mass with the number of moles. 
