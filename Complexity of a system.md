@@ -4,3 +4,4 @@
 - Human interactions
 - Feedback loops
 
+Identify patterns, structures, and interactions between components
