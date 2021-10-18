@@ -11,6 +11,8 @@ Resonance structures are structures which can exist for a compound but the actua
 - Total number of electrons in system is constant, total charge in system is constant.
 - All structures should be proper Lweis structures.
 - Look for lone pairs and double-bond electrons. These move in resonance structures.
+- 
+![[resonance structure example.png]]
 
 ## Best Lewis Structures
 The same rules as [[Lewis Dot Structure]].
