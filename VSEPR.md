@@ -23,3 +23,6 @@ Parent shape is the shape of the compound including the lone pairs of electrons 
 
 # Electron Repulsion
 
+- LP-LP   Strongest repulsion
+- LP-BP   Normal repulsion
+- BP-BP   
