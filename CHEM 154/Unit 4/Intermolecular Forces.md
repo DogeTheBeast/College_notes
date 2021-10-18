@@ -30,3 +30,4 @@ A strong dipole-dipole force in molecules with a hydrogen atom bonded to an elec
 ![[hydrogen bonding.png]]
 
 ## Charge-dipole forces
+Charge-dipole forces are forces that e
