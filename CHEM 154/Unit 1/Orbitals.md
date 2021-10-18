@@ -12,10 +12,15 @@ There are 4 types of sub orbitals
 
 - P which can hold 6 electrons
 
-
+![[p orbitals.jpg]]
 
 - D which can hold 10 electrons
+
+![[D_orbitals.png]]
+
 - F which can hold 14 electrons
+
+
 
 So, if N = 1, the total number of electrons it can hold is 2. If N = 2, that shell can hold 2 (in s) and 6 (in p), a total of 8. This goes on for N = 3, 4 and so on.
 
