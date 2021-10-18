@@ -32,7 +32,7 @@ Elements in the Group 13 sometimes follow a "sextet" rule which means that they 
 
 Molecules with an odd number of electrons will have an unpaired electron. These species are called radicals. Example,
 
-![[NO.jpg]].{width=50%}
+![[NO.jpg{width=50%}]]
 
 ### Hypervalence (Expanded Octet)
 Elements on the third row of the periodic table and below can expand their octet. Terminal atoms are not hypervalent. Example,
