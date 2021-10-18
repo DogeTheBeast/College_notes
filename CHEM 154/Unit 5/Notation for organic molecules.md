@@ -7,3 +7,8 @@
 - Lone pairs can be omitted.
 
 ![[hydrocarbon notation.png]]![[hydrocarbon notation 2.png]]
+
+## Condensed vs normal Lewis structure
+
+![[condensed lewis structure.png]]
+
