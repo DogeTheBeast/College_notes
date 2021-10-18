@@ -6,7 +6,8 @@ A polymer is a macromolecule constructed by a sequential stringing together of s
 ### Condensation polymers
 
 - Two monomers join together to form a polymer and a small molecule byproduct (water or hydrochloric acid).
-- Condens
+- Condensation monomers have two reactive sites.
+- An amide linkage is formed when carboxylic acids or an acid chloride react with amines.
 
 ### Addition polymers
 
