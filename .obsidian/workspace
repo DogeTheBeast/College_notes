@@ -1,29 +1,32 @@
 {
   "main": {
-    "id": "4c33e9444d0f66e2",
+    "id": "75bcfdb4a3e1bf90",
     "type": "split",
     "children": [
       {
-        "id": "cb93f97ff0a16e39",
+        "id": "45126ab40b06d0bb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CHEM 154/Intermolecular Forces.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c34a9ee7858bc3b4",
+    "id": "e85984b165cd0c29",
     "type": "split",
     "children": [
       {
-        "id": "2d62c234ace9063b",
+        "id": "502b605831329a15",
         "type": "tabs",
         "children": [
           {
-            "id": "7e24c21f858f49c1",
+            "id": "c7325059fbdf765e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +34,7 @@
             }
           },
           {
-            "id": "bd278f19c2a74521",
+            "id": "60c7bb1d314c2071",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,29 +52,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356
+    "width": 300
   },
   "right": {
-    "id": "231f9ff6f382092e",
+    "id": "7ba8a47061505297",
     "type": "split",
     "children": [
       {
-        "id": "0ae0d523b9fc9839",
+        "id": "7d03785f647340ac",
         "type": "tabs",
         "children": [
           {
-            "id": "274c000cda5b3127",
+            "id": "4dbdf9bd43754095",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CHEM 154/Intermolecular Forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -82,17 +86,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb93f97ff0a16e39",
+  "active": "45126ab40b06d0bb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Complexity of a system.md",
-    "Intermolecular Forces.md",
-    "Numbers (Les Nombres).md",
-    "Excalidraw/Drawing 2021-10-15 16.31.04.excalidraw.md",
-    "Untitled.md",
-    "CHEM 154/Unit 2/Aufbau principle.md",
-    "PHY 157/Thermodynamics Compiled.md",
-    "PHY 157/Laws of thermodynamics.md",
-    "PHY 157/Heat.md"
+    "CHEM 154/Intermolecular Forces.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
