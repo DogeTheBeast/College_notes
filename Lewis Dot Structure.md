@@ -37,4 +37,5 @@ Molecules with an odd number of electrons will have an unpaired electron. These 
 ### Hypervalence (Expanded Octet)
 Elements on the third row of the periodic table and below can expand their octet. Example,
 
+![[PCl5.png]]
 
