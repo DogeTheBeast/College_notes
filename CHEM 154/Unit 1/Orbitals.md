@@ -7,6 +7,8 @@ The orbital number (N) is the period number.
 There are 4 types of sub orbitals 
 
 - S which can hold 2 electrons
+
+
 - P which can hold 6 electrons
 - D which can hold 10 electrons
 - F which can hold 14 electrons
