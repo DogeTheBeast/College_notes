@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 2/Valence Electrons.md",
+            "file": "Atomic Radius.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 2/Valence Electrons.md",
+                "file": "Atomic Radius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "45126ab40b06d0bb",
   "lastOpenFiles": [
+    "Untitled.md",
+    "CHEM 154/Intermolecular Forces.md",
     "CHEM 154/Unit 2/Valence Electrons.md",
     "CHEM 154/Unit 2/Lattice Energy.md",
     "CHEM 154/Unit 2/Isoelectric.md",
@@ -95,8 +97,6 @@
     "CHEM 154/Unit 2/Electron Affinity.md",
     "CHEM 154/Unit 2/Aufbau principle.md",
     "CHEM 154/Unit 2/Bonding.md",
-    "CHEM 154/Unit 2/Effective Nuclear Charge.md",
-    "CHEM 154/Unit 2/Electronegativity.md",
-    "CHEM 154/Unit 2/Electronic Configuration.md"
+    "CHEM 154/Unit 2/Effective Nuclear Charge.md"
   ]
 }
