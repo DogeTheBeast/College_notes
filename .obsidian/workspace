@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Polymers.md",
-            "mode": "source"
+            "file": "CHEM 154/Unit 5/Functional Groups.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polymers.md",
+                "file": "CHEM 154/Unit 5/Functional Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "08567c5045282d1c",
   "lastOpenFiles": [
-    "Polymers.md",
     "CHEM 154/Unit 5/Functional Groups.md",
+    "Polymers.md",
     "CHEM 154/Unit 5/Notation for organic molecules.md",
     "CHEM 154/Unit 5/Untitled.md",
     "Templates/Notes template.md",
