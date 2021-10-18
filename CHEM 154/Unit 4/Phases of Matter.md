@@ -20,4 +20,4 @@ A substance behaves as a supercritical fluid at temperatures and pressures beyon
 
 ## Vapor Pressure
 
-Vapour pressure is defined as the pressure exerted by a vapor in thermodynamic equilibri
+Vapour pressure is defined as the pressure exerted by a vapor in thermodynamic equilibrium. with its condensed phases (solid or liquid) at a given temperature in a closed system.
