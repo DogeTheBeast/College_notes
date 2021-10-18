@@ -16,8 +16,9 @@ A polymer is a macromolecule constructed by a sequential stringing together of s
 #### Ester Linkage
 - An ester linkage is formed when carboxylic acid or an acid chloride reacts with alcohols.
 - The ester linkage repeats along the backbone of the polymer.
--
+
 ![[condensation polymer ester.png]]
+
 ### Addition polymers
 
 ---
