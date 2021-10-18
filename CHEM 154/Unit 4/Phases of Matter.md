@@ -16,3 +16,5 @@ A substance is in a distinct phase when all physical properties, such as density
 
 A substance behaves as a supercritical fluid at temperatures and pressures beyond the critical point. A supercritical fluid exhibits properties of a liquid and a gas.
 
+![[supercritical fluids.png]]
+
