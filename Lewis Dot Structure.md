@@ -5,4 +5,6 @@ Lewis dot structure is a way to represent the bonding and lone pairs of electron
 
 ![[lewis dot structure.png]]
 
-## Rules for making 
+## Rules for making lewis dot structures
+
+### Octet
