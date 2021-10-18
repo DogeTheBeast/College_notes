@@ -6,3 +6,4 @@
 - Hydrogen atoms are only shown if they are bonded to an atom other than carbon.
 - Lone pairs can be omitted.
 
+![[hydrocarbon notation.png]]![[hydrocarbon notation 2.png]]
