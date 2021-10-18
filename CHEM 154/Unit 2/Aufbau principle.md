@@ -15,5 +15,5 @@ The order the orbitals are filled in is displayed above.
 
 The 3d oribital has less energy than 4s orbital for atomic number less than 30. Hence, when the option is available, chromium and copper
 
-Chromium - ${4s^1 3d^5}$
-Copper - ${4s^1 3d^10}$
+Chromium - ${[Ar] 4s^1 3d^5}$
+Copper - ${[Ar] 4s^1 3d^{10}}$
