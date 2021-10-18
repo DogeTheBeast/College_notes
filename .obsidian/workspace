@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 2/Bonding.md",
+            "file": "CHEM 154/Intermolecular Forces.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 2/Bonding.md",
+                "file": "CHEM 154/Intermolecular Forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "45126ab40b06d0bb",
   "lastOpenFiles": [
+    "CHEM 154/Intermolecular Forces.md",
     "CHEM 154/Unit 2/Bonding.md",
     "CHEM 154/Unit 2/Effective Nuclear Charge.md",
     "Excalidraw/Drawing 2021-10-11 20.57.38.excalidraw.png",
@@ -96,7 +97,6 @@
     "Excalidraw/Drawing 2021-10-15 16.31.04.excalidraw.md",
     "CHEM 154/General Stuff/Carbon.md",
     "CHEM 154/Unit 1/Orbitals.md",
-    "CHEM 154/Unit 1/Mass Spectroscopy.md",
-    "CHEM 154/Unit 1/Isotopes.md"
+    "CHEM 154/Unit 1/Mass Spectroscopy.md"
   ]
 }
