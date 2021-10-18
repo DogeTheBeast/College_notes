@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 5/Notation for organic molecules.md",
+            "file": "APSC 100/help.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 5/Notation for organic molecules.md",
+                "file": "APSC 100/help.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "08567c5045282d1c",
   "lastOpenFiles": [
+    "APSC 100/help.md",
     "CHEM 154/Unit 5/Notation for organic molecules.md",
     "CHEM 154/Unit 5/Functional Groups.md",
     "CHEM 154/Unit 2/Bonding.md",
@@ -96,7 +97,6 @@
     "Untitled.md",
     "CHEM 154/Unit 5/Polymers.md",
     "CHEM 154/Unit 3/Resonance Structures.md",
-    "CHEM 154/Unit 3/Lewis Dot Structure.md",
-    "CHEM 154/Unit 3/VSEPR.md"
+    "CHEM 154/Unit 3/Lewis Dot Structure.md"
   ]
 }
