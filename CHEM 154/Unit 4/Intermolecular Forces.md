@@ -26,3 +26,6 @@ Dipole-Dipole forces are intermolecular interactions in which polar molecules ha
 ## Hydrogen Bonding
 
 A strong dipole-dipole force in molecules with a hydrogen atom bonded to an electronegative atom (N, O, or F).
+
+![[hydrogen bonding.png]]
+
