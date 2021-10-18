@@ -8,4 +8,7 @@ Lewis dot structure is a way to represent the bonding and lone pairs of electron
 ## Rules for making lewis dot structures
 
 ### Octet Rule
-Elements gain, lose or share electrons to achieve a configuration in which they are surrounded by eight valence electrons. Some elements can ignore the 
+Elements gain, lose or share electrons to achieve a configuration in which they are surrounded by eight valence electrons. Some elements can ignore this rule. They are said to be hypervalent.
+
+### Formal Charge
+
