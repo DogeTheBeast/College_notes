@@ -35,7 +35,7 @@ Molecules with an odd number of electrons will have an unpaired electron. These 
 ![[NO.jpg]]
 
 ### Hypervalence (Expanded Octet)
-Elements on the third row of the periodic table and below can expand their octet. Example,
+Elements on the third row of the periodic table and below can expand their octet. Terminal atoms are not hypervalent. Example,
 
 ![[PCl5.png]]
 
