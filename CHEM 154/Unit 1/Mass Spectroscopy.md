@@ -5,3 +5,6 @@ It is the process of measuring the mass of an element by accelerating the atoms 
 1. First, electrons are removed from or added to atoms or molecules, thus producing charged particles called ions. 
 2. When an electric field is applied, the ions are accelerated into a separate chamber where they are deflected from their initial trajectory by a magnetic field, like the electrons in Thomson’s experiment.
 3.   The extent of the deflection depends on the mass-to-charge ratio of the ion. By measuring the relative deflection of ions that have the same charge, scientists can determine their relative masses.
+
+
+ ![[schematic-of-mass-spectrometer.jpg]]
