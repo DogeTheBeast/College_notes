@@ -9,6 +9,9 @@ ${X(g) + e^- -> X^- (g)}$
 
 ![[ElectronAffinity.png]]
 
+(Pay attention to the sign on the Y axis)
+
 
 The negative sign means that that element wants electrons.
 Fluorine has the most negative electron affinity.
+
