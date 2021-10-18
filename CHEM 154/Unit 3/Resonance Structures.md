@@ -14,5 +14,5 @@ Resonance structures are structures which can exist for a compound but the actua
 - 
 ![[resonance structure example.png]]
 
-## Best Lewis Structures
+## Best Resonance Structures
 The same rules as [[Lewis Dot Structure]].

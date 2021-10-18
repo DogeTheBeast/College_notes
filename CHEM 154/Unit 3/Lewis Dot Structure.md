@@ -39,3 +39,4 @@ Elements on the third row of the periodic table and below can expand their octet
 
 ![[PCl5.png]]
 
+# CHEM 154 Rules
