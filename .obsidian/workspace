@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lewis Dot Structure.md",
+            "file": "Resonance Structures.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lewis Dot Structure.md",
+                "file": "Resonance Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0c0857933819ac90",
   "lastOpenFiles": [
+    "Untitled.md",
+    "CHEM 154/Unit 3/Intermolecular Forces.md",
+    "CHEM 154/Unit 3/Lewis Dot Structure.md",
     "Lewis Dot Structure.md",
     "Excalidraw/Hookes law.png",
-    "Untitled.md",
     "CHEM 154/Intermolecular Forces.md",
     "Atomic Radius.md",
     "CHEM 154/Unit 2/Isoelectric.md",
     "CHEM 154/Unit 2/Lattice Energy.md",
-    "CHEM 154/Unit 2/Valence Electrons.md",
-    "Excalidraw/Atomic-Radius.png",
-    "CHEM 154/Unit 2/Ionization energy.md"
+    "CHEM 154/Unit 2/Valence Electrons.md"
   ]
 }
