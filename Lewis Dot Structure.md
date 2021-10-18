@@ -11,4 +11,4 @@ Lewis dot structure is a way to represent the bonding and lone pairs of electron
 Elements gain, lose or share electrons to achieve a configuration in which they are surrounded by eight valence electrons. Some elements can ignore this rule. They are said to be hypervalent.
 
 ### Formal Charge
-
+Formal charge is the difference between the number of valence electrons and the number of electrons surrounding an atom in a 
