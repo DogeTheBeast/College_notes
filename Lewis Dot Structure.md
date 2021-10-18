@@ -15,3 +15,4 @@ Formal charge is the difference between the number of valence electrons and the 
 
 ${FC = VE - LPE - (BE)/2}$
 
+
