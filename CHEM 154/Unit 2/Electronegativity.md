@@ -6,5 +6,7 @@ Electronegativity is the ability of an atom to attract shared electrons to itsel
 
 It is not an atomic property because it refers to atoms in a bond and it is a calculated value, not measured. The greater the electronegativity, the more polar a compound is.
 
+![[ElectronegativityTrend.png]]
+
 -----
 Read also - [[Electron Affinity]]
