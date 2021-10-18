@@ -6,3 +6,10 @@ VSEPR is a theory that predicts molecular shape by treating atoms in a molecule 
 A perspective diagram is a 3 dimensional representation of a molecule in space. A solid wedge bond represents an atom coming out of the plane of the molecule. A dash bond represents an atom going into the plane of the molecule.
 
 
+![[difference between lewis and perspecttive.png]]
+
+
+## Guidelines
+
+- You do not need to show lone pairs in VSEPR perspective diagrams.
+- You do not need to draw multi
