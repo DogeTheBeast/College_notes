@@ -31,3 +31,5 @@ Elements in the Group 13 sometimes follow a "sextet" rule which means that they 
 ### Radical Species
 
 Molecules with an odd number of electrons will have an unpaired electron. These species are called radicals. Example,
+
+![[NO.jpg]]
