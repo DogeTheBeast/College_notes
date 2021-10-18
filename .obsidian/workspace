@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Phases of Matter.md",
+            "file": "CHEM 154/Unit 4/Phases of Matter.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phases of Matter.md",
+                "file": "CHEM 154/Unit 4/Phases of Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -88,6 +88,8 @@
   },
   "active": "08567c5045282d1c",
   "lastOpenFiles": [
+    "Phases of Matter.md",
+    "CHEM 154/Unit 4/Intermolecular Forces.md",
     "Untitled.md",
     "CHEM 154/Unit 3/Intermolecular Forces.md",
     "CHEM 154/Unit 3/VSEPR.md",
@@ -95,8 +97,6 @@
     "CHEM 154/Unit 3/Polarity.md",
     "CHEM 154/Unit 3/Lewis Dot Structure.md",
     "CHEM 154/Unit 2/Valence Electrons.md",
-    "CHEM 154/Unit 2/Lattice Energy.md",
-    "CHEM 154/Unit 2/Isoelectric.md",
-    "CHEM 154/Unit 2/Ionization energy.md"
+    "CHEM 154/Unit 2/Lattice Energy.md"
   ]
 }
