@@ -10,3 +10,6 @@ where,
 ${Z_{eff}}$ = effective nuclear charge
 Z = Number of protons in the nucleus (atomic number)
 S = Shielding constant
+
+
+![[effective nulcear charge.png]]
