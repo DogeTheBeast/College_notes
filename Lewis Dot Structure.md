@@ -15,4 +15,6 @@ Formal charge is the difference between the number of valence electrons and the 
 
 ${FC = VE - LPE - (BE)/2}$
 
+The most stable Lewis structure is the one with the least non-zero formal charges.
+
 
