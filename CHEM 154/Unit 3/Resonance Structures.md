@@ -12,4 +12,5 @@ Resonance structures are structures which can exist for a compound but the actua
 - All structures should be proper Lweis structures.
 - Look for lone pairs and double-bond electrons. These move in resonance structures.
 
-## 
+## Best Lewis Structures
+The best lewis structure is the structure with the least formal charge and 

@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resonance Structures.md",
+            "file": "CHEM 154/Unit 3/Resonance Structures.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "08567c5045282d1c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CHEM 154/Unit 3/Lewis Dot Structure.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resonance Structures.md",
+                "file": "CHEM 154/Unit 3/Lewis Dot Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +97,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c0857933819ac90",
+  "active": "08567c5045282d1c",
   "lastOpenFiles": [
+    "CHEM 154/Unit 3/Lewis Dot Structure.md",
     "Untitled.md",
     "CHEM 154/Unit 3/Intermolecular Forces.md",
-    "CHEM 154/Unit 3/Lewis Dot Structure.md",
     "Lewis Dot Structure.md",
     "Excalidraw/Hookes law.png",
     "CHEM 154/Intermolecular Forces.md",
