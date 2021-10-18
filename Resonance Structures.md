@@ -4,3 +4,6 @@ Resonance structures are structures which can exist for a compound but the actua
 
 
 ![[resonance structures.png]]
+
+
+## Rules for drawing resonance structures
