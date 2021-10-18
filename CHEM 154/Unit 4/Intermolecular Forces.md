@@ -7,6 +7,6 @@ Also known as instantaneous dipole-induced dipole forces, they exist between all
 
 ![[london dispersion.png]]
 
-London dispersion forces are based on the polarizability of the molecule. The greater the polarizability 
+London dispersion forces are based on the polarizability of the molecule. The greater the polarizability (meaning that it has more weakly bound or delocalized electrons)
 
 ##
