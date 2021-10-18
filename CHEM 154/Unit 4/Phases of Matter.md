@@ -6,3 +6,5 @@ A substance is in a distinct phase when all physical properties, such as density
 
 ![[changing the phase of matter.png]]
 
+![[changing phases 2.png]]
+
