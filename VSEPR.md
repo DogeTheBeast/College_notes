@@ -21,3 +21,4 @@ Parent shape is the shape of the compound including the lone pairs of electrons 
 # VSEPR Cheat Sheet
 ![[VSEPR.png]]
 
+# Electron Repulsio
