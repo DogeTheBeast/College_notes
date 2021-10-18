@@ -22,7 +22,11 @@ Two monomers join together to form a polymer and a small molecule byproduct (wat
 ### Addition polymers
 Addition reactions occue when two or more molecules join to form a larger molecule **without** the loss of any atoms/small molecules.
 
-#### Add
+The steps can be broken down into 3 major steps.
+
+#### Initiation
+
+
 
 ---
 Read also - 
