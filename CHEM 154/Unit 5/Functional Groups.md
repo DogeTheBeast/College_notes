@@ -1,3 +1,5 @@
 # Functional Groups
 
-Moieties (each of two parts into which a thing is or can be divided) in a molecule that have characteristi
+Moieties (each of two parts into which a thing is or can be divided) in a molecule that have characteristic properties such as reactivity.
+
+## Notation
