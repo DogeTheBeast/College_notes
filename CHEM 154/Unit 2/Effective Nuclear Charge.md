@@ -6,4 +6,7 @@ It is a theoretical value which is calculated by subtracting the electron shield
 
 ${Z_{eff} = Z-S}$
 
-where ${Z_eff}$ = effective nu
+where,
+${Z_{eff}}$ = effective nuclear charge
+Z = Number of protons in the nucleus (atomic number)
+S = Shielding constant
