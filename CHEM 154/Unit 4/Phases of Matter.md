@@ -8,3 +8,6 @@ A substance is in a distinct phase when all physical properties, such as density
 
 ![[changing phases 2.png]]
 
+## 
+
+![[phase change diagram.png]]
