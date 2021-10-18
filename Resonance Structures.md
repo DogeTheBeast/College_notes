@@ -7,3 +7,5 @@ Resonance structures are structures which can exist for a compound but the actua
 
 
 ## Rules for drawing resonance structures
+- only electrons can be moved - nuclei never move in resonance structures.
+- Total number of electrons in system is constant, total charge in system is constant.
