@@ -20,7 +20,10 @@ The most stable Lewis structure
 - is the one with the negative charge on the most electronegative atom and positive charge on the least electronegative atom.
 
 
-## Exceptions to the Octet Rule
+## Exceptions 
+
+### Octet Rule
+Elements in the Group 13 sometimes follow a "sextet" rule which means that they only have 3 electron groups surrounding them.
 
 
 
