@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Intermolecular Forces.md",
+            "file": "CHEM 154/Unit 1/Isotopes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Intermolecular Forces.md",
+                "file": "CHEM 154/Unit 1/Isotopes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,15 @@
   },
   "active": "45126ab40b06d0bb",
   "lastOpenFiles": [
-    "CHEM 154/Intermolecular Forces.md",
-    "conflict-files-obsidian-git.md"
+    "CHEM 154/Unit 1/Isotopes.md",
+    "CHEM 154/Unit 1/Atomic Mass Unit.md",
+    "CHEM 154/Unit 1/Atomic Number.md",
+    "CHEM 154/Unit 2/Aufbau principle.md",
+    "CHEM 154/Unit 2/Bonding.md",
+    "CHEM 154/Unit 2/Effective Nuclear Charge.md",
+    "CHEM 154/Unit 2/Electron Affinity.md",
+    "CHEM 154/Unit 2/Electronegativity.md",
+    "CHEM 154/Unit 2/Electronic Configuration.md",
+    "CHEM 154/Unit 2/Ionization energy.md"
   ]
 }
