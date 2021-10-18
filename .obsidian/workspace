@@ -7,9 +7,10 @@
         "id": "0c0857933819ac90",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Hookes law.png"
+            "file": "Lewis Dot Structure.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Hookes law.png",
+                "file": "Lewis Dot Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +88,7 @@
   },
   "active": "0c0857933819ac90",
   "lastOpenFiles": [
+    "Lewis Dot Structure.md",
     "Excalidraw/Hookes law.png",
     "Untitled.md",
     "CHEM 154/Intermolecular Forces.md",
@@ -95,7 +97,6 @@
     "CHEM 154/Unit 2/Lattice Energy.md",
     "CHEM 154/Unit 2/Valence Electrons.md",
     "Excalidraw/Atomic-Radius.png",
-    "CHEM 154/Unit 2/Ionization energy.md",
-    "CHEM 154/Unit 2/Electron Affinity.md"
+    "CHEM 154/Unit 2/Ionization energy.md"
   ]
 }
