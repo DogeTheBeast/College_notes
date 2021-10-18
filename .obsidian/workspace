@@ -7,8 +7,11 @@
         "id": "08567c5045282d1c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Polymers.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Polymers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "08567c5045282d1c",
   "lastOpenFiles": [
+    "Polymers.md",
+    "CHEM 154/Unit 5/Functional Groups.md",
+    "CHEM 154/Unit 5/Notation for organic molecules.md",
     "CHEM 154/Unit 5/Untitled.md",
     "Templates/Notes template.md",
-    "CHEM 154/Unit 5/Notation for organic molecules.md",
-    "CHEM 154/Unit 5/Functional Groups.md",
     "Templates/Untitled.md",
     "Untitled.md",
     "CHEM 154/Unit 3/VSEPR.md",
     "CHEM 154/Unit 3/Resonance Structures.md",
-    "CHEM 154/Unit 3/Lewis Dot Structure.md",
-    "CHEM 154/Unit 3/Polarity.md"
+    "CHEM 154/Unit 3/Lewis Dot Structure.md"
   ]
 }
