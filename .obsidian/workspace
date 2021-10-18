@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 3/Lewis Dot Structure.md",
+            "file": "VSEPR.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 3/Lewis Dot Structure.md",
+                "file": "VSEPR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "08567c5045282d1c",
   "lastOpenFiles": [
-    "CHEM 154/Unit 3/Lewis Dot Structure.md",
+    "Untitled 1.md",
     "CHEM 154/Unit 3/Resonance Structures.md",
+    "Excalidraw/Atomic-Radius.png",
+    "CHEM 154/Unit 3/Lewis Dot Structure.md",
     "Untitled.md",
     "CHEM 154/Unit 3/Intermolecular Forces.md",
     "Lewis Dot Structure.md",
     "Excalidraw/Hookes law.png",
     "CHEM 154/Intermolecular Forces.md",
-    "Atomic Radius.md",
-    "CHEM 154/Unit 2/Isoelectric.md",
-    "CHEM 154/Unit 2/Lattice Energy.md"
+    "Atomic Radius.md"
   ]
 }
