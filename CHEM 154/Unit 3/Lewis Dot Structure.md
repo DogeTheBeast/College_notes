@@ -40,3 +40,5 @@ Elements on the third row of the periodic table and below can expand their octet
 ![[PCl5.png]]
 
 # CHEM 154 Rules
+- If multiple hypervalent resonance structures are possible, only those having positive or zero formal charges on the central atom are considered valid.
+- Do not put a negative formal charge on the central 
