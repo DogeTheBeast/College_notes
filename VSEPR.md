@@ -25,4 +25,6 @@ Parent shape is the shape of the compound including the lone pairs of electrons 
 
 - LP-LP   Strongest repulsion
 - LP-BP   Normal repulsion
-- BP-BP   
+- BP-BP   Weaker repulsion
+
+"Bad" contacts are angles between 
