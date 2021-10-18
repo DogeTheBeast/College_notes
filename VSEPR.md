@@ -12,4 +12,5 @@ A perspective diagram is a 3 dimensional representation of a molecule in space. 
 ## Guidelines
 
 - You do not need to show lone pairs in VSEPR perspective diagrams.
-- You do not need to draw multi
+- You do not need to draw multiple bonds in VSEPR perspective diagrams.
+
