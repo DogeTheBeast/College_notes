@@ -4,4 +4,5 @@ Because of the difference in electronegativity, electrons are never equally dist
 
 ![[polarity.png]]
 
-The polarity of a 
+The polarity of a molecule is denoted by an arrow to show bond polarity. The arrow points to the electronegative element and the line to denote the electropositive element.
+
