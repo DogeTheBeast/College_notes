@@ -26,3 +26,4 @@ Vapour pressure is defined as the pressure exerted by a vapor in thermodynamic e
 
 ![[vapor pressure 2.png]]
 
+![[vapor pressure preference.png]]
