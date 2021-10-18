@@ -16,4 +16,8 @@ A perspective diagram is a 3 dimensional representation of a molecule in space. 
 
 ## Parent Shape and Molecular Shape
 
-Parent shape is the shape of the compound including the lone pairs of electrons whereas the molecul
+Parent shape is the shape of the compound including the lone pairs of electrons whereas the molecular shape is the shape of the compound based on the bonds only.
+
+# VSEPR Cheat Sheet
+
+
