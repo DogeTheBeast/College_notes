@@ -4,4 +4,6 @@ Effective nuclear charge is the nuclear charge experienced by [[Valence Electron
 
 It is a theoretical value which is calculated by subtracting the electron shielding effect from the acutal nuclear charge experienced by the valence electrons.
 
+${Z_{eff} = Z-S}$
 
+where ${Z_eff}$ = effective nu
