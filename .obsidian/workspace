@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 3/Polarity.md",
+            "file": "CHEM 154/Unit 3/VSEPR.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 3/Polarity.md",
+                "file": "CHEM 154/Unit 3/VSEPR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "08567c5045282d1c",
   "lastOpenFiles": [
-    "Polarity.md",
-    "Untitled.md",
-    "Untitled 1.md",
+    "CHEM 154/Unit 3/VSEPR.md",
     "CHEM 154/Unit 3/Resonance Structures.md",
-    "Excalidraw/Atomic-Radius.png",
+    "CHEM 154/Unit 3/Polarity.md",
     "CHEM 154/Unit 3/Lewis Dot Structure.md",
     "CHEM 154/Unit 3/Intermolecular Forces.md",
-    "Lewis Dot Structure.md",
-    "Excalidraw/Hookes law.png",
-    "CHEM 154/Intermolecular Forces.md"
+    "CHEM 154/Unit 2/Valence Electrons.md",
+    "CHEM 154/Unit 2/Lattice Energy.md",
+    "CHEM 154/Unit 2/Isoelectric.md",
+    "CHEM 154/Unit 2/Ionization energy.md",
+    "CHEM 154/Unit 2/Electronic Configuration.md"
   ]
 }
