@@ -7,4 +7,5 @@ Lewis dot structure is a way to represent the bonding and lone pairs of electron
 
 ## Rules for making lewis dot structures
 
-### Octet Rules
+### Octet Rule
+Elements gain, lose or share electrons to achieve a configuration in which they are surrounded by 
