@@ -21,9 +21,13 @@ The most stable Lewis structure
 
 
 ## Exceptions to the Octet Rule
+
+### Sextet
+
 Elements in the Group 13 sometimes follow a "sextet" rule which means that they only have 3 electron groups surrounding them.
 
 ![[sextet.png]]
 
+### Radical Species
 
-
+Molecules with an odd numbe
