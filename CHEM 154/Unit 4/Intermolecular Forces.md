@@ -15,3 +15,6 @@ London dispersion forces are based on the polarizability of the molecule. The gr
 ![[hydrocarbons.png]]
 
 - Branching within a molecule reduces the possibilities for intermolecular interactions and lowers the melting points.
+
+![[branching hydrocarbons.png]]
+
