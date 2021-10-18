@@ -21,3 +21,4 @@ London dispersion forces are based on the polarizability of the molecule. The gr
 ## Dipole-Dipole Forces
 Dipole-Dipole forces are intermolecular interactions in which polar molecules have forces between them because of the difference in electronegativity.
 
+![[Dipole-dipole-forces.jpg]]
