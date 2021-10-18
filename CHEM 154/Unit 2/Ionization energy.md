@@ -7,5 +7,4 @@ ${X-> X^+ + e^-}$
 Fluorine has the highest ionization energy because it has the greatest [[Effective Nuclear Charge]] meaning that it is difficult to remove electrons from fluorine. Noble gases have the highest ionization energy because they have a stable octet and don't want to lose any electrons.
 
 
-
 ![[ionization energy.jpg]]
