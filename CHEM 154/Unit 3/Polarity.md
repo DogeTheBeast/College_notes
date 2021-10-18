@@ -8,4 +8,6 @@ The polarity of a molecule is denoted by an arrow to show bond polarity. The arr
 
 ![[polarity arrow.png]]
 
-## Rules for denoting the 
+## Rules for identifying polar compounds
+- There should be a dipole moment on the molecule.
+- The vector addition of the dipole m
