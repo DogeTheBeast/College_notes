@@ -26,6 +26,8 @@ The steps can be broken down into 3 major steps.
 
 - #### Initiation - Number of radicals increases
 
+Initiation is the process of generating a free radical by removing one electron from an atom.
+
 - #### Propogation - Number of radicals remains constant
 
 - #### Termination - Number of radicals decreases
