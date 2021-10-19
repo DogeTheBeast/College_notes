@@ -24,7 +24,12 @@ Addition reactions occue when two or more molecules join to form a larger molecu
 
 The steps can be broken down into 3 major steps.
 
-#### Initiation
+#### Initiation - Number of radicals increases
+
+#### Propogation - Number of radicals remains constant
+
+#### Termination - Number of radicals decreases
+
 
 
 
