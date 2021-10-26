@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Force vector directed along a line.md",
+            "file": "Dot Product.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Force vector directed along a line.md",
+                "file": "Dot Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "545a0c907716dab9",
   "lastOpenFiles": [
+    "Dot Product.md",
     "Force vector directed along a line.md",
     "Position Vector.md",
     "PHY170/3D Vectors.md",
@@ -96,7 +97,6 @@
     "CHEM 154/Unit 5/Functional Groups.md",
     "CHEM 154/Unit 3/VSEPR.md",
     "CHEM 154/Unit 3/Resonance Structures.md",
-    "CHEM 154/Unit 3/Polarity.md",
-    "CHEM 154/Unit 3/Lewis Dot Structure.md"
+    "CHEM 154/Unit 3/Polarity.md"
   ]
 }
