@@ -10,6 +10,6 @@ The magnitude of a vector is denoted by *A* or |*${\overrightarrow{A}}$*|.
 
 ![[negative of a vector.png]]
 
-
-
+## Scalar Multiplication
+![[scalar multiple of a vector.png]]
 
