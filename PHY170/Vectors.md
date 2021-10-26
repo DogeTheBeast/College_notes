@@ -20,4 +20,4 @@ If **F** is a vector in some arbitrary direction, then
 ${F_x = F cos(\theta)}$
 ${F_y = F sin(\theta)}$
 
-${\theta}$ is the angle between **F** to 
+${\theta}$ is the angle between **F** and the positive x-axis.
