@@ -7,8 +7,11 @@
         "id": "545a0c907716dab9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Moment of a Force.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Moment of a Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,7 @@
   },
   "active": "545a0c907716dab9",
   "lastOpenFiles": [
+    "Moment of a Force.md",
     "PHY170/Equilibrium of Force.md",
     "PHY170/Dot Product.md",
     "PHY170/Force vector directed along a line.md",
@@ -92,7 +97,6 @@
     "PHY170/Position Vector.md",
     "CHEM 154/Unit 5/Notation for organic molecules.md",
     "CHEM 154/Unit 5/Functional Groups.md",
-    "CHEM 154/Unit 3/VSEPR.md",
-    "CHEM 154/Unit 3/Resonance Structures.md"
+    "CHEM 154/Unit 3/VSEPR.md"
   ]
 }
