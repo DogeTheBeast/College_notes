@@ -22,4 +22,5 @@ ${F_y = F sin(\theta)}$
 
 ${\theta}$ is the angle between **F** and the positive x-axis.
 
-## Cartesian Vector Notation
+## Cartesian Notation
+Defining vectors using 
