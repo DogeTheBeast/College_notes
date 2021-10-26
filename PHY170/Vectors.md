@@ -37,4 +37,8 @@ ${F_{Ry} = \sum{F_y}}$
   
   ${F_R \sqrt{F_{Rx}^2 + F_{Ry}^2}}$
   
-  ## Angle between
+  ## Angle between the vector and the x-axis
+  
+  The angle between the vector and the positive x-axis is given by,
+  
+  ${\theta = tan^{-1}|\}
