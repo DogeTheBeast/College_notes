@@ -13,8 +13,10 @@ These are angles which are measured between the tail of the vector and the posit
 ![[3d vector angles.png]]
 
 $${\LARGE cos(\alpha) = \frac{\bf{A_x}}{A}}$$
-$${cos(\beta) = \frac{\bf{A_y}}{A}}$$
-$${cos(\gamma) = \frac{\bf{A_z}}{A}}$$
+$${\LARGE cos(\beta) = \frac{\bf{A_y}}{A}}$$
+$${\LARGE cos(\gamma) = \frac{\bf{A_z}}{A}}$$
+
+## Unit Vector (for 3D)
 
 
 
