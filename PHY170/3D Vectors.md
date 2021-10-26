@@ -30,7 +30,7 @@ To find the components of a 3D vector, we need to find an extra vector ${\vec{F}
 
 ![[problem with vectors.png]]
 
-$${}
+$${\LARGE F_x = |}
 
 ---
 Read also - [[Vectors]]
