@@ -27,4 +27,6 @@ Defining vectors using *unit vectors* in x, y and z axis. Unit vectors are denot
 
 ## Resultant force
 
-${}
+${F_{Rx} = \sum{F_x}}$
+${F_{Ry} = \sum{F_y}}$
+ T
