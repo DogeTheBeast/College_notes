@@ -12,7 +12,7 @@ These are angles which are measured between the tail of the vector and the posit
 
 ![[3d vector angles.png]]
 
-$${cos(\alpha) = \frac{\bf{A_x}}{A}}$$
+$${\LARGE cos(\alpha) = \frac{\bf{A_x}}{A}}$$
 $${cos(\beta) = \frac{\bf{A_y}}{A}}$$
 $${cos(\gamma) = \frac{\bf{A_z}}{A}}$$
 
