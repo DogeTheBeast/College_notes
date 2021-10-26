@@ -10,11 +10,9 @@ ${\alpha, \beta, \gamma}$
 
 These are angles which are measured between the tail of the vector and the positive x, y and z axes located at the tail.
 
-
-
 ![[3d vector angles.png]]
 
-
+${cos(\alpha) = \frac{\textbf{A_x}}
 
 ---
 Read also - [[Vectors]]
