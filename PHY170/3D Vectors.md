@@ -27,13 +27,18 @@ $${\LARGE cos^2(\alpha) + cos^2(\beta)+ cos^2(\gamma) = 1}$$
 
 ## Problem with 3D vectors
 To find the components of a 3D vector, we need to find an extra vector ${\vec{F}'}$
+Sample problem,
 
 ![[problem with vectors.png]]
+
+Equations for the image above,
 
 $${\LARGE |\vec{F}'| = |\vec{F}| cos(60)}$$
 $${\LARGE F_x = |\vec{F}'|cos(45)}$$
 $${\LARGE F_y = -|\vec{F}'|sin(45)}$$
 $${\LARGE F_z = |\vec{F}|sin(45)}$$
+
+
 
 
 ---
