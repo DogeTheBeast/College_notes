@@ -45,5 +45,7 @@ ${F_{Ry} = \sum{F_y}}$
   
   ## Unit Vector
   
+  Unit vector is a vector in an arbitrary direction with the magnitude of 1. It is denoted by **u**.
   
+  ${}}}
   
