@@ -18,7 +18,7 @@ $${\LARGE cos(\gamma) = \frac{\bf{A_z}}{A}}$$
 
 ## Unit Vector (for 3D)
 
-
+${\LARGE \bf{u_A}}
 
 
 ---
