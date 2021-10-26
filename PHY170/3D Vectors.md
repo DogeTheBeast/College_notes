@@ -6,7 +6,7 @@ ${\textbf{A} = A_x\hat{\textbf{i}}+ A_y\hat{\textbf{j}}+}$${A_z\hat{\textbf{k}}}
 
 ### Coordinate direction angles of a Cartesian Vector
 
-Thesea
+These are angles which are measured between the tail of the vector and the positive x, y and z axes located at the tail.
 
 
 ---
