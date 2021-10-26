@@ -47,5 +47,7 @@ ${F_{Ry} = \sum{F_y}}$
   
   Unit vector is a vector in an arbitrary direction with the magnitude of 1. It is denoted by **u**.
   
-  ${\textbf{u}_A = \frac{\textbf{A}}{\textitalic{\vec{A}*}}}$
+  ${\textbf{u}_A = \frac{\textbf{A}}{\vec{A}*}}$
+  
+  
   
