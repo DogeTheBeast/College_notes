@@ -25,5 +25,8 @@ Which leads to the relationship,
 $${\LARGE cos^2(\alpha) + cos^2(\beta)+ cos^2(\gamma) = 1}$$
 
 
+## Problem with 3D vectors
+To find the 
+
 ---
 Read also - [[Vectors]]
