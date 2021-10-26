@@ -6,4 +6,5 @@ They are denoted by **A** or *${\overrightarrow{A}}$*.
 
 The magnitude of a vector is denoted by *A* or |*${\overrightarrow{A}}$*|.
 
-## Negative of a 
+## Negative of a Vector
+
