@@ -22,7 +22,7 @@ $${\LARGE \bf{u_A} = cos(\alpha)\bf{i} + cos(\beta)\bf{j} + cos(\gamma)\bf{k}}$$
 
 Which leads to the relationship,
 
-$${\LARGE cos(\alpha)\bf{i} + cos(\beta)\bf{j} + cos(\gamma)\bf{k} }
+$${\LARGE cos^2(\alpha) + cos^2(\beta)+ cos^2(\gamma) = 1}$$
 
 
 ---
