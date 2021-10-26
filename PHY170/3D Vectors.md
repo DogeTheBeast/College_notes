@@ -18,7 +18,11 @@ $${\LARGE cos(\gamma) = \frac{\bf{A_z}}{A}}$$
 
 ## Unit Vector (for 3D)
 
-${\LARGE \bf{u_A} = cos(\alpha)\bf{i} + cos(\beta)\bf{j} + cos(\gamma)\bf{k}}
+$${\LARGE \bf{u_A} = cos(\alpha)\bf{i} + cos(\beta)\bf{j} + cos(\gamma)\bf{k}}$$
+
+Which leads to the relationship,
+
+$${\LARGE cos(\alpha)\bf{i} + cos(\beta)\bf{j} + cos(\gamma)\bf{k} }
 
 
 ---
