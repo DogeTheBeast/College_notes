@@ -30,7 +30,7 @@ To find the components of a 3D vector, we need to find an extra vector ${\vec{F}
 
 ![[problem with vectors.png]]
 
-$${\}
+$${\LARGE |\vec{F}'| = |\vec{F}| cos(60)}$$
 $${\LARGE F_x = |\vec{F}'|cos(45)}$$
 
 ---
