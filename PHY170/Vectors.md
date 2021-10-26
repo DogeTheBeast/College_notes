@@ -17,8 +17,8 @@ The magnitude of a vector is denoted by *A* or |*${\vec{A}}$*|.
 ## Scalar Notation
 If **F** is a vector in some arbitrary direction, then
 
-${F_x = F cos(\theta)}$
-${F_y = F sin(\theta)}$
+$${\LARGE F_x = F cos(\theta)}$$
+$${\LARGE F_y = F sin(\theta)}$$
 
 ${\theta}$ is the angle between **F** and the positive x-axis.
 
@@ -27,8 +27,8 @@ Defining vectors using *unit vectors* in x, y and z axis. Unit vectors are denot
 
 ## Resultant force
 
-${F_{Rx} = \sum{F_x}}$
-${F_{Ry} = \sum{F_y}}$
+$${F_{Rx} = \sum{F_x}}$$
+$${F_{Ry} = \sum{F_y}}$$
  
  The resultant is the sum of the all the components of all the vectors acting at one point.
  
