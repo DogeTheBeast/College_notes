@@ -35,21 +35,21 @@ $${F_{Ry} = \sum{F_y}}$$
  ## Magnitude 
   The magnitude of a vector is the root of the square sum of the components of the vector.
   
-  ${F_R \sqrt{F_{Rx}^2 + F_{Ry}^2}}$
+  $${\LARGE F_R \sqrt{F_{Rx}^2 + F_{Ry}^2}}$$
   
   ## Angle between the vector and the x-axis
   
   The angle between the vector and the positive x-axis is given by,
   
-  ${\theta = tan^{-1}|\frac{F_{Ry}}{F_{Rx}}|}$
+  $${\LARGE \theta = tan^{-1}|\frac{F_{Ry}}{F_{Rx}}|}$$
   
   ## Unit Vector
   
   Unit vector is a vector in an arbitrary direction with the magnitude of 1. It is denoted by **u**.
   
-  ${\textbf{u}_A = \frac{\textbf{A}}{\vec{A}*}}$
+  $${\LARGE \textbf{u}_A = \frac{\textbf{A}}{\vec{A}}}$$
   
-  ${\vec{A} = |A|\hat{u}_A}$
+  $${\LARGE \vec{A} = |A|\hat{u}_A}$$
   
  
   
