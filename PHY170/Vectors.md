@@ -35,7 +35,7 @@ $${F_{Ry} = \sum{F_y}}$$
  ## Magnitude 
   The magnitude of a vector is the root of the square sum of the components of the vector.
   
-  $${\LARGE F_R \sqrt{F_{Rx}^2 + F_{Ry}^2}}$$
+  $${\LARGE F_R = \sqrt{F_{Rx}^2 + F_{Ry}^2}}$$
   
   ## Angle between the vector and the x-axis
   
