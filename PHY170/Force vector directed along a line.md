@@ -1,6 +1,6 @@
 # Force vector directed along a line
 
-the the the the the the the 
+The force along a line or a directio
 
 ---
 Read also - 
