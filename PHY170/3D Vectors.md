@@ -27,7 +27,7 @@ $${\LARGE cos^2(\alpha) + cos^2(\beta)+ cos^2(\gamma) = 1}$$
 
 ## Problem with 3D vectors
 To find the components of a 3D vector, we need to find an extra vector ${\vec{F}'}$
-![[pro]]
+![[problem with vectors.png]]
 
 
 ---
