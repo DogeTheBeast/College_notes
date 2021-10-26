@@ -30,4 +30,5 @@ Defining vectors using *unit vectors* in x, y and z axis. Unit vectors are denot
 ${F_{Rx} = \sum{F_x}}$
 ${F_{Ry} = \sum{F_y}}$
  
- The resultant is the sum of the 
+ The resultant is the sum of the all the components of all the vectors acting at one point.
+ 
