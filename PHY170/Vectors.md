@@ -13,3 +13,5 @@ The magnitude of a vector is denoted by *A* or |*${\vec{A}}$*|.
 ## Scalar Multiplication
 ![[scalar multiple of a vector.png]]
 
+
+
