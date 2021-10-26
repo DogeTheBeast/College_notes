@@ -6,9 +6,11 @@ $${\LARGE \it{A}_u = A cos(\theta)}$$
 
 $${\LARGE \bf{A}_u = \it{A} cos(\theta) \bf{u}}$$
 
+![[Dot Product]]
+
 $${\LARGE \it{A}_u = \bf{A} \cdot \bf{u}}$$
 
 $${\LARGE \bf{A}_u = (\bf{A} \cdot \bf{u})\bf{u}}$$
 
 ---
-Read also - 
+Read also - [[Dot Product]]
