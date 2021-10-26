@@ -12,7 +12,7 @@ These are angles which are measured between the tail of the vector and the posit
 
 ![[3d vector angles.png]]
 
-${cos(\alpha) = \frac{\textbf{A_x}}
+${cos(\alpha) = \frac{\textbf{A_x}}{A}}$
 
 ---
 Read also - [[Vectors]]
