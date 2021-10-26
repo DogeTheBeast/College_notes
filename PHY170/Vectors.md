@@ -15,5 +15,4 @@ The magnitude of a vector is denoted by *A* or |*${\vec{A}}$*|.
 
 
 ## Scalar Notation
-
-
+If **F** is a vector in some arbitrary direction
