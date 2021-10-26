@@ -14,4 +14,6 @@ The magnitude of a vector is denoted by *A* or |*${\vec{A}}$*|.
 ![[scalar multiple of a vector.png]]
 
 
+## Scalar Notation
+
 
