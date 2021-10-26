@@ -2,7 +2,7 @@
 Dot product of A and B is the profuct of the magnitude of A and B and the cosine of the angle ${\theta}$ between their tails (the least angle between the vectors).
 
 
-$${\LARGE \bf{A}\bf{B} = AB cos{\theta}}$$
+$${\LARGE \bf{A} \cdot \bf{B} = AB cos{\theta}}$$
 
 ---
 Read also - 
