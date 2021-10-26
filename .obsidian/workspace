@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY170/Dot Product.md",
-            "mode": "preview"
+            "file": "PHY170/Force vector directed along a line.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY170/Dot Product.md",
+                "file": "PHY170/Force vector directed along a line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "545a0c907716dab9",
   "lastOpenFiles": [
+    "PHY170/Force vector directed along a line.md",
     "PHY170/Dot Product.md",
     "PHY170/Position Vector.md",
-    "PHY170/Force vector directed along a line.md",
     "PHY170/Vectors.md",
     "PHY170/3D Vectors.md",
     "CHEM 154/Unit 5/Notation for organic molecules.md",
