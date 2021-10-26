@@ -41,4 +41,7 @@ ${F_{Ry} = \sum{F_y}}$
   
   The angle between the vector and the positive x-axis is given by,
   
-  ${\theta = tan^{-1}|\}
+  ${\theta = tan^{-1}|\frac{F_{Ry}}{F_{Rx}}|}$
+  
+  
+  
