@@ -25,3 +25,6 @@ ${\theta}$ is the angle between **F** and the positive x-axis.
 ## Cartesian Notation
 Defining vectors using *unit vectors* in x, y and z axis. Unit vectors are denoted by ${\hat{i}}$ or *${\vec{i}}$* or **i**.
 
+## Resultant force
+
+${}
