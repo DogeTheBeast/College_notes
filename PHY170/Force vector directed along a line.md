@@ -2,7 +2,7 @@
 
 The force along a line or a direction is determined using the formula,
 
-$$
+$${\LARGE \it{A}
 
 $${\LARGE \bf{A}_u = \it{A} cos(\theta) \bf{u}}$$
 
