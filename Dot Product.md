@@ -4,7 +4,7 @@ Dot product of A and B is the profuct of the magnitude of A and B and the cosine
 
 $${\LARGE \bf{A} \cdot \bf{B} =\it{|A||B|} cos{\theta}}$$
 
-$${\LARGE \bf{A} \}
+$${\LARGE \bf{A} \cdot \bf{B} = \it{A_x B_x +A_y B_y +A_z B_z}}$$
 
 ---
 Read also - 
