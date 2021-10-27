@@ -7,7 +7,7 @@ It is a vector and the larger the force or the greater the perpendicular distanc
 $${\LARGE M_O = Fd}$$
 
 where,
-${M_O}$ is the moment of the arm,
+${M_O}$ is the moment of the arm at any point *O*,
 ${F}$ is the magnitude of the force, and 
 ${d}$ is known as the moment arm (it is the perpendicular distance to the axis).
 
