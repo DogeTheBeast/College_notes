@@ -39,6 +39,8 @@ $${\LARGE M_O = F rsin(\theta)}$$
 which can be rewritten as,
 $${\LARGE M_O = Fd}$$
 
+![[]]
+
 
 ---
 Read also - [[Cross Product]] [[3D Vectors]] [[Position Vector]] [[Vectors]]
