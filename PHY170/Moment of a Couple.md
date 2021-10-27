@@ -9,6 +9,7 @@ The moment produced by a couple.
 
 Couple moment is independent of where moments are computed about. Hence, moment can be computed by doing,
 
+$${\LARGE \bf{M} = \bf{r} \times \bf{F}}$$
 
 ---
 Read also - 
