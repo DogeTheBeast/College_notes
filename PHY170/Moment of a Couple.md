@@ -7,6 +7,7 @@ Two parallel forces that have the same magnitude, opposite directions, and which
 ### Couple moment
 The moment produced by a couple.
 
+Couple mom
 
 ---
 Read also - 
