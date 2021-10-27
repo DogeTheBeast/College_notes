@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cross Product.md",
+            "file": "APSC 100/Complexity of a system.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cross Product.md",
+                "file": "APSC 100/Complexity of a system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "545a0c907716dab9",
   "lastOpenFiles": [
-    "Cross Product.md",
-    "Moment of a Force.md",
+    "APSC 100/Complexity of a system.md",
+    "PHY170/Moment of a Force.md",
+    "PHY170/Cross Product.md",
     "PHY170/Equilibrium of Force.md",
     "PHY170/Dot Product.md",
     "PHY170/Force vector directed along a line.md",
     "PHY170/Vectors.md",
     "PHY170/3D Vectors.md",
     "PHY170/Position Vector.md",
-    "CHEM 154/Unit 5/Notation for organic molecules.md",
-    "CHEM 154/Unit 5/Functional Groups.md"
+    "CHEM 154/Unit 5/Notation for organic molecules.md"
   ]
 }
