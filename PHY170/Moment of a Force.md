@@ -29,5 +29,8 @@ The direction of moment is determined using the right hand thumb rule. The force
 
 ## Magnitude of Moment
 
-The magnitude of moment is given by,
+The magnitude of moment is given by (by using the magnitude of cross product),
 $${\LARGE M_O = rF sin(\theta)}$$
+
+---
+Read also - [[Cross Product]] [[3D Vectors]] [[Position Vector]]
