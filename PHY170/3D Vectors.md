@@ -2,7 +2,7 @@
 ## Components of a 3D vector
 
 ### Cartesian Form ([[Vectors]])
-$${\LARGE \textbf{A} = A_x\hat{\textbf{i}}+ A_y\hat{\textbf{j}}+}{A_z\hat{\textbf{k}}}$$
+$${\LARGE \textbf{A} = A_x\hat{\textbf{i}}+ A_y\hat{\textbf{j}}+}{\LARGE A_z\hat{\textbf{k}}}$$
 
 ### Coordinate direction angles of a Cartesian Vector
 
