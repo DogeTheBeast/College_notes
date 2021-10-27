@@ -12,7 +12,7 @@ Couple moment is independent of where moments are computed about. Hence, moment 
 $${\LARGE \bf{M} = \bf{r} \times \bf{F}}$$
 
 ![[couple moment at any point.png]]
- The moment can be computed from the point *A* instead of *O*. Hence, the **r** vector is 
+ The moment can be computed from the point *A* instead of *O*. Hence, **r** vector 
 
 ---
 Read also - 
