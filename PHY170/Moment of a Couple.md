@@ -19,7 +19,7 @@ $${\LARGE \bf{M} = \bf{r} \times \bf{F}}$$
 ### Equivalent couples
 Two couples are equivalent if they produce the same moment. Since direction of couple moment is always perpendicular to place containing two forces defining the couple,equivalent couples must either lie in the same place, or in planes that are parallel to one another.
 
-$$
+$${\bf{M}_R = \bf{M}_1 + \bf{}}
 
 
 
