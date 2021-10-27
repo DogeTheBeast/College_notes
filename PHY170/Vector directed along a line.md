@@ -10,7 +10,10 @@ $${\LARGE \it{A}_u = \bf{A} \cdot \bf{u}}$$
 
 $${\LARGE \bf{A}_u = (\bf{A} \cdot \bf{u})\bf{u}}$$
 
-# Moment vector directed 
+# Moment vector directed along a line
+
+
+
 
 
 ---
