@@ -12,7 +12,9 @@ $${\LARGE \bf{A}_u = (\bf{A} \cdot \bf{u})\bf{u}}$$
 
 # Moment vector directed along a line
 
+The moment vector can be projected onto any axis using the formula,
 
+$${\LARGE M_a = \bf{M}_O \cdot \bf{u}_a = \bf{u}}
 
 
 
