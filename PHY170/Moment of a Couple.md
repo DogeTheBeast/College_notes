@@ -17,7 +17,7 @@ $${\LARGE \bf{M} = \bf{r} \times \bf{F}}$$
  The moment can be computed from the point *A* instead of *O*. Hence, **r** is an arbitrary vector from the line of action of -**F** to line of action of **F**.
  
 ### Equivalent couples
-Two couples are equivalent if they produce the same moment. Since 
+Two couples are equivalent if they produce the same moment. Since direction of couple moment is always perpendicular to place containing two forces defining the couple,
 
 
 
