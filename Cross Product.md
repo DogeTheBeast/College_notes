@@ -14,7 +14,9 @@ ${\bf{u}_c}$ is the unit vector in the direction of C.
 
 $${A \times B = 
 \begin{vmatrix}
-\bf{i}
+\bf{i} &\bf{j} &\bf{i}\\
+\it A_x & A_y & A_z \\
+
 \end{vmatrix}
 }$$
 
