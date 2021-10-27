@@ -9,4 +9,4 @@ $${\LARGE M_O = Fd}$$
 where,
 ${M_O}$ is the moment of the arm,
 ${F}$ is the magnitude of the force, and 
-${}
+${d}$ is known as the moment arm (it is the perpendicular distance to the axis).
