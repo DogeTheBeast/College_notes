@@ -7,7 +7,8 @@ Two parallel forces that have the same magnitude, opposite directions, and which
 ### Couple moment
 The moment produced by a couple.
 
-Couple mom
+Couple moment is independent of where moments are computed about. Hence, moment can be computed by doing,
+
 
 ---
 Read also - 
