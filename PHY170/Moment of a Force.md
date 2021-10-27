@@ -25,7 +25,7 @@ $${\LARGE \bf{M}_O = r \times F}$$
 
 The resultant of the moment is related to the forces acting on the body by the equation,
 
-$${\LARGE \bf (M_)}
+$${\LARGE \bf (M_R)_\it{O} = \sum{(\bf{r} \times \bf{F})}}$$
 
 ## Direction of Moment
 
