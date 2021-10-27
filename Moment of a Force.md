@@ -1,6 +1,6 @@
 # Moment/Torque
 
-Moment of a force about a point or axis provides a measure of the tendency of the force to cause a body to rotate about the point or axis. 
+Moment of a force about a point or axis provides a measure of the tendency of the force to cause a body to rotate about the point or axis. The SI unit of moments: ${N \cdot m}$
 
 It is a vector and the larger the force or the greater the perpendicular distance from the axis, the greater the turning effect.
 
@@ -12,3 +12,6 @@ ${F}$ is the magnitude of the force, and
 ${d}$ is known as the moment arm (it is the perpendicular distance to the axis).
 
 ![[moment of the arm.png]]
+
+## Direction of Moment
+
