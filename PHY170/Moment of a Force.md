@@ -21,4 +21,4 @@ The direction of moment is determined using the right hand thumb rule. The force
 
 ## Moment of a force using [[Cross Product]]
 
-Moment of force F about moment axis passing through O and perpendicular to plane containing O and F is given by
+Moment of force **F** about moment axis passing through *O* and perpendicular to plane containing *O* and **F** is given by
