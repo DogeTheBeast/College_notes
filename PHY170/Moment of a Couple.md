@@ -5,14 +5,17 @@ Two parallel forces that have the same magnitude, opposite directions, and which
 ![[couple moment.png]]
 
 ### Couple moment
-The moment produced by a couple.
+The moment produced by a couple. 
 
-Couple moment is independent of where moments are computed about. Hence, moment can be computed by doing,
+Couple moment is independent of where moments are computed about. 
+
+Hence, moment can be computed by doing,
 
 $${\LARGE \bf{M} = \bf{r} \times \bf{F}}$$
 
 ![[couple moment at any point.png]]
- The moment can be computed from the point *A* instead of *O*. Hence, **r** vector 
+ The moment can be computed from the point *A* instead of *O*. Hence, **r** is an arbitrary vector from the line of action of -**F** to line of action of **F**.
+ 
 
 ---
 Read also - 
