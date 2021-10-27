@@ -14,7 +14,7 @@ $${\LARGE \bf{A}_u = (\bf{A} \cdot \bf{u})\bf{u}}$$
 
 The moment vector can be projected onto any axis using the formula,
 
-$${\LARGE M_a = \bf{M}_O \cdot \bf{u}_a = \bf{u}}
+$${\LARGE M_a = \bf{u}_a \cdot \bf{M}_O = \bf{u}_a \cdot (\bf{r} \times \bf{F})}$$
 
 
 
