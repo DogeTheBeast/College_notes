@@ -16,7 +16,7 @@ The moment vector can be projected onto any axis using the formula,
 
 $${\LARGE M_a = \bf{u}_a \cdot \bf{M}_O = \bf{u}_a \cdot (\bf{r} \times \bf{F})}$$
 
-$${\LARGE \bf{M}_a = M_a \bf{u}_a = [\bf{u}_a \cdot (\bf{r} \times \bf {F})]}
+$${\LARGE \bf{M}_a = M_a \bf{u}_a = [\bf{u}_a \cdot (\bf{r} \times \bf {F})]}$$
 
 
 
