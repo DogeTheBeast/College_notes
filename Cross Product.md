@@ -4,10 +4,9 @@ Cross product is the product of 2 vectors which gives another vector perpendicul
 ![[cross product.png]]
 $${\LARGE \bf{C} = \bf{A} \times \bf{B}}$$
 
-## Magnitude of C
-
 $${\LARGE C = AB sin(\theta)}$$
 
+$${\LARGE \bf{C} = (\it{AB}sin(\theta))\bf{u}__}
 
 
 ---
