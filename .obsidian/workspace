@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Moment of a Force.md",
-            "mode": "preview"
+            "file": "Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moment of a Force.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "545a0c907716dab9",
   "lastOpenFiles": [
+    "Untitled.md",
     "Moment of a Force.md",
     "PHY170/Equilibrium of Force.md",
     "PHY170/Dot Product.md",
@@ -96,7 +97,6 @@
     "PHY170/3D Vectors.md",
     "PHY170/Position Vector.md",
     "CHEM 154/Unit 5/Notation for organic molecules.md",
-    "CHEM 154/Unit 5/Functional Groups.md",
-    "CHEM 154/Unit 3/VSEPR.md"
+    "CHEM 154/Unit 5/Functional Groups.md"
   ]
 }
