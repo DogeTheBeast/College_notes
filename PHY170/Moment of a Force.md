@@ -39,7 +39,7 @@ $${\LARGE M_O = F rsin(\theta)}$$
 which can be rewritten as,
 $${\LARGE M_O = Fd}$$
 
-![[]]
+![[r and d.png]]
 
 
 ---
