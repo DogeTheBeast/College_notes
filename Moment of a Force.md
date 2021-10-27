@@ -13,6 +13,8 @@ ${d}$ is known as the moment arm (it is the perpendicular distance to the axis).
 
 ![[moment of the arm.png]]
 
+Moment is perpendicular to plane containing ${\bf{F}}$ and ${d}$.
+
 ## Direction of Moment
 
 The direction of moment is determined using the right hand thumb rule. The forces rotating the body in an anti-clockwise direction are positive and vice-versa. The thumb points in the direction of moment.
