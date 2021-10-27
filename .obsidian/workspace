@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY170/Vector directed along a line.md",
-            "mode": "preview"
+            "file": "Moment of a Couple.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY170/Vector directed along a line.md",
+                "file": "Moment of a Couple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "545a0c907716dab9",
   "lastOpenFiles": [
+    "Moment of a Couple.md",
     "PHY170/Vector directed along a line.md",
     "PHY170/Moment of a Force.md",
     "CHEM 154/Unit 3/VSEPR.md",
@@ -96,7 +97,6 @@
     "CHEM 154/Unit 4/Intermolecular Forces.md",
     "PHY170/Position Vector.md",
     "PHY170/3D Vectors.md",
-    "PHY170/Cross Product.md",
-    "PHY170/Dot Product.md"
+    "PHY170/Cross Product.md"
   ]
 }
