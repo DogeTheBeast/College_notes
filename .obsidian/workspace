@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY170/Moment of a Couple.md",
-            "mode": "source"
+            "file": "PHY170/Moment of a Force.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY170/Moment of a Couple.md",
+                "file": "PHY170/Moment of a Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "545a0c907716dab9",
   "lastOpenFiles": [
+    "PHY170/Moment of a Force.md",
     "PHY170/Moment of a Couple.md",
     "PHY170/Vector directed along a line.md",
-    "PHY170/Moment of a Force.md",
     "CHEM 154/Unit 3/VSEPR.md",
     "CHEM 154/Unit 3/Resonance Structures.md",
     "CHEM 154/Unit 4/Phases of Matter.md",
