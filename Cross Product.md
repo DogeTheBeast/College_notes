@@ -12,10 +12,11 @@ where
 ${\bf{u}_c}$ is the unit vector in the direction of C.
 
 
-\begin{matrix}
-
-
-
+$${A \times B = 
+\begin{vmatrix}
+\bf{i}
+\end{vmatrix}
+}$$
 
 ---
 Read also - 
