@@ -23,6 +23,10 @@ $${\LARGE \bf{M}_O = r \times F}$$
 
 **r** is a position vector drawn from *O* to any point lying on the line of action of **F**.
 
+The resultant of the moment is related to the forces acting on the body by the equation,
+
+$${\LARGE \bf (M_)}
+
 ## Direction of Moment
 
 The direction of moment is determined using the right hand thumb rule. The forces rotating the body in an anti-clockwise direction are positive and vice-versa. The thumb points in the direction of moment.
