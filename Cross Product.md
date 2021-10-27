@@ -14,11 +14,13 @@ ${\bf{u}_c}$ is the unit vector in the direction of C.
 
 $${A \times B = 
 \begin{vmatrix}
-\bf{i} &\bf{j} &\bf{i}\\
+\bf{i} &\bf{j} &\bf{k}\\
 \it A_x & A_y & A_z \\
-
+B_x & B_y & B_z
 \end{vmatrix}
 }$$
+
+
 
 ---
 Read also - 
