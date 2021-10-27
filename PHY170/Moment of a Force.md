@@ -22,3 +22,12 @@ Moment of force **F** about moment axis passing through *O* and perpendicular to
 $${\LARGE \bf{M}_O = r \times F}$$
 
 **r** is a position vector drawn from *O* to any point lying on the line of action of **F**.
+
+## Direction of Moment
+
+The direction of moment is determined using the right hand thumb rule. The forces rotating the body in an anti-clockwise direction are positive and vice-versa. The thumb points in the direction of moment.
+
+## Magnitude of Moment
+
+The magnitude of moment is given by,
+$${\LARGE M_O = rF sin(\theta)}$$
