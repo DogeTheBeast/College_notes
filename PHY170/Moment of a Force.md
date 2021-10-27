@@ -18,3 +18,7 @@ Moment is perpendicular to plane containing ${\bf{F}}$ and ${d}$.
 ## Direction of Moment
 
 The direction of moment is determined using the right hand thumb rule. The forces rotating the body in an anti-clockwise direction are positive and vice-versa. The thumb points in the direction of moment.
+
+## Moment of a force using [[Cross Product]]
+
+Moment of force F about moment axis passing through O and perpendicular to plane containing O and F is given by

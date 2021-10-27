@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "APSC 100/Complexity of a system.md",
+            "file": "PHY170/Moment of a Force.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APSC 100/Complexity of a system.md",
+                "file": "PHY170/Moment of a Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "545a0c907716dab9",
   "lastOpenFiles": [
-    "APSC 100/Complexity of a system.md",
     "PHY170/Moment of a Force.md",
+    "APSC 100/Complexity of a system.md",
     "PHY170/Cross Product.md",
     "PHY170/Equilibrium of Force.md",
     "PHY170/Dot Product.md",
