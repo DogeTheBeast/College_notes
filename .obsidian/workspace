@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY170/3D Vectors.md",
+            "file": "PHY170/Vectors.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.0036334991455
+    "width": 300
   },
   "right": {
     "id": "7ba8a47061505297",
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY170/3D Vectors.md",
+                "file": "PHY170/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -88,15 +88,15 @@
   },
   "active": "545a0c907716dab9",
   "lastOpenFiles": [
-    "PHY170/3D Vectors.md",
-    "PHY170/Cross Product.md",
-    "PHY170/Dot Product.md",
-    "PHY170/Moment of a Couple.md",
-    "PHY170/Moment of a Force.md",
-    "PHY170/Position Vector.md",
     "PHY170/Vectors.md",
     "PHY170/Vector directed along a line.md",
-    "Excalidraw/Drawing 2021-10-26 22.53.26.excalidraw.md",
-    "CHEM 154/Unit 3/VSEPR.md"
+    "PHY170/Position Vector.md",
+    "PHY170/Moment of a Force.md",
+    "PHY170/Moment of a Couple.md",
+    "PHY170/Dot Product.md",
+    "PHY170/Cross Product.md",
+    "PHY170/3D Vectors.md",
+    "CHEM 154/Unit 5/Notation for organic molecules.md",
+    "CHEM 154/Unit 5/Functional Groups.md"
   ]
 }
