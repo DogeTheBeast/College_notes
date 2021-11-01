@@ -1,7 +1,7 @@
 # Benefits and problems with CAD
 ## Benefits
-- Inexpensive
-- 
+- Files can be used for rapid prototyping
+- Simulation of stress
 
 ---
 Read also - 
