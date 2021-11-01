@@ -9,6 +9,9 @@ Types of prototyping in order of their use in the design cycle:-
 6) Beta prototypes
 
 
+Communicate an idea
+more focussed on function 
+
 
 ---
 Read also - 
