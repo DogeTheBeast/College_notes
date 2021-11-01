@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY170/3D Vectors.md",
-            "mode": "preview"
+            "file": "APSC 100/Module 3/Prototyping.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY170/3D Vectors.md",
+                "file": "APSC 100/Module 3/Prototyping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "545a0c907716dab9",
   "lastOpenFiles": [
+    "APSC 100/Module 3/Prototyping.md",
     "PHY170/3D Vectors.md",
     "PHY170/Cross Product.md",
     "PHY170/Moment of a Force.md",
@@ -96,7 +97,6 @@
     "CHEM 154/Unit 4/Intermolecular Forces.md",
     "CHEM 154/Unit 1/Atomic Mass Unit.md",
     "CHEM 154/Unit 1/Isotopes.md",
-    "PHY170/Moment of a Couple.md",
-    "PHY170/Position Vector.md"
+    "PHY170/Moment of a Couple.md"
   ]
 }
