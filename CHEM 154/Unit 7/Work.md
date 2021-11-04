@@ -3,7 +3,8 @@ Work is the energy transferred between system and the surroundings attributable 
 
 $${\LARGE W = Fd cos(\theta)}$$
 
-
+where *W* is the work done,
+*F* is the force applied on the system
 
 ---
 Read also - 
