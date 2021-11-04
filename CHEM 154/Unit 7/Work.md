@@ -13,7 +13,10 @@ The work done at a constant pressure with a change in the volume. The equation i
 $${\LARGE W = P\Delta V}$$
 where *W* is the work done,
 *P* is the pressure of the system which is constant, and
-${}
+${\Delta V}$ is the change in the volume of the gas.
+
+The sign is very important as it specific
+
 
 
 ---
