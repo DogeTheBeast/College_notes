@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "545a0c907716dab9",
+        "id": "05a3735f66a807cc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 7/Thermodynamics first law.md",
+            "file": "PHY 157/Thermodynamics/Laws of thermodynamics.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 7/Thermodynamics first law.md",
+                "file": "PHY 157/Thermodynamics/Laws of thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "545a0c907716dab9",
+  "active": "05a3735f66a807cc",
   "lastOpenFiles": [
+    "PHY 157/Thermodynamics/Laws of thermodynamics.md",
+    "PHY 157/Thermodynamics/Temperature.md",
+    "PHY 157/Thermodynamics/Constant Volume gas thermometer.md",
+    "PHY 157/Thermodynamics/Heat.md",
     "CHEM 154/Unit 7/Thermodynamics first law.md",
     "PHY170/Vectors.md",
     "conflict-files-obsidian-git.md",
     "PHY170/Vector directed along a line.md",
     "PHY170/3D Vectors.md",
-    "PHY170/Dot Product.md",
-    "PHY170/Moment of a Couple.md",
-    "PHY170/Cross Product.md",
-    "PHY170/Position Vector.md",
-    "PHY170/Moment of a Force.md"
+    "PHY170/Dot Product.md"
   ]
 }
