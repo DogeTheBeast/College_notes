@@ -6,7 +6,8 @@ $${\LARGE W = Fd cos(\theta)}$$
 where *W* is the work done,
 *F* is the force applied on the system,
 *d* is the distance that the system has been shifted, and
-${\theta}$ is the angle 
+${\theta}$ is the angle between the moment of the system and the direction of the force applied.
+
 
 ---
 Read also - 
