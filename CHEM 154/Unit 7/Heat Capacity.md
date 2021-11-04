@@ -1,5 +1,5 @@
 # Heat Capacity
-It is the quantity of heat required to change the temperature of a substance (without phase change occuring). There are 2 types of heat capacity :-
+It is the quantity of heat required to change the temperature of a substance (without phase change occuring). There are 2 types of heat capacity under constant pressure :-
 
 ## Molar heat capacity
 It is the amount of energy required to raise the temperature of 1 mole of a substance by 1 degree or 1 kelvin. The formula is,
