@@ -4,7 +4,7 @@ It is the quantity of heat required to change the temperature of a substance (wi
 ## Molar heat capacity
 It is the amount of energy required to raise the temperature of 1 mole of a substance by 1 degree or 1 kelvin. The formula is,
 
-$${\LARGE Q = n \times C_{p,m} \times \delta T}$$
+$${\LARGE Q = n \times C_{p,m} \times \Delta T}$$
  
  where *Q* is the energy required,
  *n* is the number of moles,
