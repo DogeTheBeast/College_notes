@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY170/Vectors.md",
+            "file": "CHEM 154/Unit 7/Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY170/Vectors.md",
+                "file": "CHEM 154/Unit 7/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "545a0c907716dab9",
   "lastOpenFiles": [
+    "CHEM 154/Unit 7/Untitled.md",
     "PHY170/Vectors.md",
     "conflict-files-obsidian-git.md",
     "PHY170/Vector directed along a line.md",
@@ -96,7 +97,6 @@
     "PHY170/Moment of a Couple.md",
     "PHY170/Cross Product.md",
     "PHY170/Position Vector.md",
-    "PHY170/Moment of a Force.md",
-    "CHEM 154/Unit 4/Phases of Matter.md"
+    "PHY170/Moment of a Force.md"
   ]
 }
