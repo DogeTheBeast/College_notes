@@ -10,7 +10,10 @@ ${\theta}$ is the angle between the moment of the system and the direction of th
 
 ## Pressure and volume
 The work done at a constant pressure with a change in the volume. The equation is,
-$${\LARGE }
+$${\LARGE W = P\Delta V}$$
+where *W* is the work done,
+*P* is the pressure of the system which is constant, and
+${}
 
 
 ---
