@@ -17,6 +17,8 @@ ${\Delta V}$ is the change in the volume of the gas.
 
 The sign is very important as it specifies if the work is done on the system or by the system.
 
+- If work is **Negative** is the 
+
 
 
 ---
