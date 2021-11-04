@@ -1,5 +1,5 @@
 # Internal Energy
-Internal energy is the sum of the total energy of the particles in a system (kinetic and potential energy of the particles). This does not include the translations
+Internal energy is the sum of the total energy of the particles in a system (kinetic and potential energy of the particles). This does not include the translations and rotations of the whole system.
 
 ---
 Read also - 
