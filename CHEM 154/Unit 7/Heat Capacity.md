@@ -8,7 +8,10 @@ $${\LARGE Q = n \times C_{p,m} \times \delta T}$$
  
  where *Q* is the energy required,
  *n* is the number of moles,
- ${C_{p,m}}$ is the molar heat capacity
+ ${C_{p,m}}$ is the molar heat capacity, and 
+ ${\delta}$ is the change in temperature of the substance.
+ 
+ 
 
 
 ---
