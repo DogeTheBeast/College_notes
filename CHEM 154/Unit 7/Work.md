@@ -15,7 +15,7 @@ where *W* is the work done,
 *P* is the pressure of the system which is constant, and
 ${\Delta V}$ is the change in the volume of the gas.
 
-The sign is very important as it specific
+The sign is very important as it specifies if the work is done on the system or by the system.
 
 
 
