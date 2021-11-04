@@ -9,7 +9,8 @@ where *W* is the work done,
 ${\theta}$ is the angle between the moment of the system and the direction of the force applied.
 
 ## Pressure and volume
-The work done by pressure and volume 
+The work done at a constant pressure with a change in the volume. The equation is,
+$${\LARGE }
 
 
 ---
