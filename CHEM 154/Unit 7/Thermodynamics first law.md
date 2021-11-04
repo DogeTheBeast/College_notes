@@ -14,4 +14,4 @@ where ${\delta U}$ is the change in internal energy,
 
 
 ---
-Read also - 
+Read also - [[Laws of thermodynamics]]
