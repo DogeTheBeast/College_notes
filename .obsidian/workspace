@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 7/Heat Capacity.md",
+            "file": "CHEM 154/Unit 7/Work.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 7/Heat Capacity.md",
+                "file": "CHEM 154/Unit 7/Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "05a3735f66a807cc",
   "lastOpenFiles": [
-    "CHEM 154/Unit 7/Heat Capacity.md",
+    "CHEM 154/Unit 7/Work.md",
     "CHEM 154/Unit 7/Thermodynamics first law.md",
+    "CHEM 154/Unit 7/Heat Capacity.md",
     "PHY 157/Thermodynamics/Laws of thermodynamics.md",
     "PHY 157/Thermodynamics/Temperature.md",
     "PHY 157/Thermodynamics/Constant Volume gas thermometer.md",
     "PHY 157/Thermodynamics/Heat.md",
     "PHY170/Vectors.md",
     "conflict-files-obsidian-git.md",
-    "PHY170/Vector directed along a line.md",
-    "PHY170/3D Vectors.md"
+    "PHY170/Vector directed along a line.md"
   ]
 }

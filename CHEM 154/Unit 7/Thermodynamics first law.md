@@ -5,8 +5,8 @@ $${\LARGE Universe = System + Surroundings}$$
 
 This can also be written as 
 
-$${\LARGE \delta U = Q-W}$$
-where ${\delta U}$ is the change in internal energy,
+$${\LARGE \Delta U = Q-W}$$
+where ${\Delta U}$ is the change in internal energy,
 *Q* is the energy supplied to the system, and 
 *W* is the work done by the system on its surroundings.
 
