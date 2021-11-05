@@ -45,7 +45,7 @@ ${\sigma}$ is the Stefan-Boltzmann constant, which is
 
 $${\sigma = 5.670374419×10^{−8} W\cdot m^{−2}\cdot K^{−4}}$$
 
-If the body is placed in an 
+If the body is placed in surroundings with the temperature ${T_S}$, then
 
 ---
 Read also - 
