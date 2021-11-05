@@ -1,6 +1,8 @@
 # Electromagnetic wave properties
 
-Electromagnetic radiation consists of waves of the electromagnetic field, propagating through space, carrying electromagnetic radiant energy.
+Electromagnetic radiation consists of waves of the electromagnetic field, propagating through space, carrying electromagnetic radiant energy. The wave consists of electric field and magnetic field oscillating at right angles to each other.
+
+Light is an electromagnetic wave. Other ex
 
 ---
 Read also - 
