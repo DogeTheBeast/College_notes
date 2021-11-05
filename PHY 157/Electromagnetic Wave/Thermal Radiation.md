@@ -9,8 +9,7 @@ As the temperature increases, the intensity of the wavelength increases.
 
 ## Peak Wavelength
 
-The peakwavelength
-
+The peakwavelength is the 
 
 ---
 Read also - 
