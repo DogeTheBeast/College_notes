@@ -8,8 +8,9 @@ The area underneath the graph gives the total power emitted by the body. This ca
 As the temperature increases, the intensity of the wavelength increases.
 
 ## Emissivity and Black Body
-Emissivity (denoted by *e*) is defined as **the ratio of the energy radiated from a material's surface to that radiated from a perfect emitter**, known as a blackbody, at the same temperature and wavelength and under the same viewing conditions.
+Emissivity (denoted by *e*) is defined as the ratio of the energy radiated from a material's surface to that radiated from a perfect emitter, known as a blackbody, at the same temperature and wavelength and under the same viewing conditions.
 
+For substances 
 
 
 
