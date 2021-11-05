@@ -41,7 +41,9 @@ where *P* is the power released,
 *A* is the surface area of the body,
 *e* is the emissivity of the body,
 *T* is the temperature of the body, and
-${\sigma}$ is the Stefan-Boltzmann constant
+${\sigma}$ is the Stefan-Boltzmann constant, which is
+
+$${\sigma = 5.670374419×10−8 W⋅m−2⋅K−4}
 
 
 
