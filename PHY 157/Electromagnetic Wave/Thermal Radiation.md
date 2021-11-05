@@ -55,7 +55,11 @@ $${\LARGE H_{net} = Ae \sigma (T^4 - T_S^4)}$$
 where, *T* is the temperature of the body, and
 ${T_S}$ is the temperature of the surroundings.
 
-### Steady state
+### Steady state heat flow
+
+$${\LARGE H_{in} = H_{out}}$$
+
+
 
 
 ---
