@@ -7,6 +7,11 @@ The thermal radiation from an object is released in a mix of electromagnetic wav
 The area underneath the graph gives the total power emitted by the body. This can be used to calculate the amount of power released for a specific wavelength. 
 As the temperature increases, the intensity of the wavelength increases.
 
+## Emissivity and Black B
+
+
+
+
 ## Peak Wavelength
 
 The peak wavelength is the wavelength where the graph has the greatest intensity. As seen from the graph above, as the temperature increases, the peak wavelength decreases.
@@ -23,7 +28,7 @@ where b is the Wien's displacement constant,
 
 $${\LARGE b = 2.897771955 \times 10^{−3} m \cdot K}$$
 
-## Stefans
+## Stefan-Boltzmann's Law
 
 
 
