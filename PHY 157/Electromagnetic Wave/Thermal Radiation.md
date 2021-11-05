@@ -50,7 +50,11 @@ If the body is placed in surroundings with the temperature ${T_S}$, then,
 $${\LARGE H_{net} = H_{emit} - H_{abs}}$$
 
 and therefore, 
-$${\LARGE H_{net} = Ae \sigma (T^4 - T_S^4}$$
+$${\LARGE H_{net} = Ae \sigma (T^4 - T_S^4)}$$
+
+where, *T* is the temperature of the body, and
+${T_S}$ is the temperature of the surroundings.
+
 
 ---
 Read also - 
