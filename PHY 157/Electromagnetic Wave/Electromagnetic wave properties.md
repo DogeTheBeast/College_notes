@@ -4,6 +4,9 @@ Electromagnetic radiation consists of waves of the electromagnetic field, propag
 
 The spectrum of all the electromagnetic waves with their different wavelengths and frequencies is called an electromagnetic spectrum.
 
+![[Electromagnetic spectrum.jpg]]
+
+
 
 
 ---
