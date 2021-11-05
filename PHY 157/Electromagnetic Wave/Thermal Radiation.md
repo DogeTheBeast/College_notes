@@ -34,6 +34,10 @@ Stefan-Boltzmann law states that the total power from thermal radiation is propo
 
 $${\LARGE P \propto T^4}$$
 
+This law can be elaborated into,
+
+$${\LARGE P = Ae\sigma T^4}$$
+where *P*
 
 
 
