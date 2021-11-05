@@ -13,5 +13,9 @@ The peak wavelength is the wavelength where the graph has the greatest intensity
 
 $${\LARGE \lambda_{peak} \propto \frac{1}{T}}$$
 
+## Wien's Displacement law
+
+
+
 ---
 Read also - 
