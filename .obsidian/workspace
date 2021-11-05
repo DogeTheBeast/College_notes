@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY170/Moment/Moment of a Couple.md",
+            "file": "PHY 157/Thermodynamics/Thermal Conductivity.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY170/Moment/Moment of a Couple.md",
+                "file": "PHY 157/Thermodynamics/Thermal Conductivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "05a3735f66a807cc",
   "lastOpenFiles": [
+    "PHY 157/Thermodynamics/Thermal Conductivity.md",
+    "PHY 157/Cyclic processes/Untitled.md",
     "PHY170/Moment/Moment of a Couple.md",
     "PHY170/Vectors/Position Vector.md",
     "PHY170/Moment/Moment of a Force.md",
@@ -95,8 +97,6 @@
     "PHY 157/Stress and Strain/Relating Stress, Strain and Thermal Expansion.md",
     "CHEM 154/Unit 7/Work.md",
     "CHEM 154/Unit 7/First Law of Thermodynamics.md",
-    "Excalidraw/Drawing 2021-10-26 22.53.26.excalidraw.md",
-    "CHEM 154/Unit 7/Internal Energy.md",
-    "CHEM 154/Unit 7/Heat Capacity.md"
+    "Excalidraw/Drawing 2021-10-26 22.53.26.excalidraw.md"
   ]
 }
