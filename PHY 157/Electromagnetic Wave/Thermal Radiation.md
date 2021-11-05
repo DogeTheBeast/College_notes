@@ -15,7 +15,7 @@ $${\LARGE \lambda_{peak} \propto \frac{1}{T}}$$
 
 ## Wien's Displacement law
 
-Wien's displacement law states that 
+Wien's displacement law states that black-body radiation
 
 ---
 Read also - 
