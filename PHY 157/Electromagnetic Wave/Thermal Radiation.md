@@ -43,7 +43,7 @@ where *P* is the power released,
 *T* is the temperature of the body, and
 ${\sigma}$ is the Stefan-Boltzmann constant, which is
 
-$${\sigma = 5.670374419×10−8 W⋅m−2⋅K−4}
+$${\sigma = 5.670374419×10^{−8} W\cdot m^{−2}\cdot K^{−4}}$$
 
 
 
