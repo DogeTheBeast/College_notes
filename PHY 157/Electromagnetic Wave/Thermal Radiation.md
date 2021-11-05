@@ -26,7 +26,7 @@ $${\LARGE \lambda_{peak} = \frac{b}{T}}$$
 
 where b is the Wien's displacement constant,
 
-$${\LARGE b = 2.897771955 \times 10^{−3} m \cdot K}$$
+$${b = 2.897771955 \times 10^{−3} m \cdot K}$$
 
 ## Stefan-Boltzmann's Law
 
