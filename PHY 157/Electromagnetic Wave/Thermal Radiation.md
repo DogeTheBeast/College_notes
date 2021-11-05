@@ -11,7 +11,7 @@ As the temperature increases, the intensity of the wavelength increases.
 
 The peak wavelength is the wavelength where the graph has the greatest intensity. As seen from the graph above, as the temperature increases, the peak wavelength decreases.
 
-$${\LARGE \lambda_{peakwavelength} \propto }
+$${\LARGE \lambda_{peak} \propto \frac{1}{T}}$$
 
 ---
 Read also - 
