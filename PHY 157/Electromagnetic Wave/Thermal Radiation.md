@@ -19,8 +19,9 @@ Wien's displacement law states that black-body radiation curve will peak at diff
 
 $${\LARGE \lambda_{peak} = \frac{b}{T}}$$
 
-where 
-b is the Wien's displacement constant,
+where b is the Wien's displacement constant,
+
+$${\LARGE x = 2.897771955 \times 10−3 m K}$$
 
 
 ---
