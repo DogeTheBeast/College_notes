@@ -10,7 +10,7 @@ As the temperature increases, the intensity of the wavelength increases.
 ## Emissivity and Black Body
 Emissivity (denoted by *e*) is defined as the ratio of the energy radiated from a material's surface to that radiated from a perfect emitter, known as a blackbody, at the same temperature and wavelength and under the same viewing conditions.
 
-For substances which act as black bodies, the emissivity is 1 and for 
+For substances which act as black bodies, the emissivity is 1 and for white bodies (which absorb all)
 
 
 
