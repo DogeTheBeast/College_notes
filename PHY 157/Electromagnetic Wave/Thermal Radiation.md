@@ -7,7 +7,8 @@ The thermal radiation from an object is released in a mix of electromagnetic wav
 The area underneath the graph gives the total power emitted by the body. This can be used to calculate the amount of power released for a specific wavelength. 
 As the temperature increases, the intensity of the wavelength increases.
 
-## Emissivity and Black B
+## Emissivity and Black Body
+Emissivity (denoted by *e*) is defined as **the ratio of the energy radiated from a material's surface to that radiated from a perfect emitter**, known as a blackbody, at the same temperature and wavelength and under the same viewing conditions.
 
 
 
