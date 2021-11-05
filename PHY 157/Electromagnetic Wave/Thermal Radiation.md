@@ -40,7 +40,7 @@ $${\LARGE P = Ae\sigma T^4}$$
 where *P* is the power released,
 *A* is the surface area of the body,
 *e* is the emissivity of the body,
-
+${\sigma}$ is the Stefan-Boltz
 
 
 
