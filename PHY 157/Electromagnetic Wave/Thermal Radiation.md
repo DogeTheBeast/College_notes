@@ -68,7 +68,7 @@ Albedo is the overall average reflection coefficient for solar radiation inciden
 
 Heat radiated by a spherical body uses the formula,
 
-$${\}
+$${\LARGE H = 4 \pi r^2}
 
 
 
