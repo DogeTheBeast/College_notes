@@ -70,7 +70,7 @@ Heat radiated by a spherical body uses the formula,
 
 $${\LARGE H = (4 \pi r^2) e \sigma T^4}$$
 
-and if the body receiving the heat 
+where *r* is the radius of the body.
 
 
 
