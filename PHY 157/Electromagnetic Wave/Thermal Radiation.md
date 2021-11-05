@@ -60,7 +60,11 @@ ${T_S}$ is the temperature of the surroundings.
 $${\LARGE H_{in} = H_{out}}$$
 
 
-#
+## Albedo
+
+Albedo is the overall average reflection coefficient for solar radiation incident on an object.
+
+
 
 
 
