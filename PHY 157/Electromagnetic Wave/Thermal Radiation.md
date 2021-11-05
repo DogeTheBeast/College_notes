@@ -9,7 +9,9 @@ As the temperature increases, the intensity of the wavelength increases.
 
 ## Peak Wavelength
 
-The peak wavelength is the wavelength where the graph has the greatest intensity. As seen from the graph above, as the temperature increases, the 
+The peak wavelength is the wavelength where the graph has the greatest intensity. As seen from the graph above, as the temperature increases, the peak wavelength decreases.
+
+$${}
 
 ---
 Read also - 
