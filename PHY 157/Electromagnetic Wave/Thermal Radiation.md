@@ -17,5 +17,7 @@ $${\LARGE \lambda_{peak} \propto \frac{1}{T}}$$
 
 Wien's displacement law states that black-body radiation curve will peak at different wavelengths that are inversely proportional to the temperature, as stated above.
 
+$${\LARGE \lambda_{}}
+
 ---
 Read also - 
