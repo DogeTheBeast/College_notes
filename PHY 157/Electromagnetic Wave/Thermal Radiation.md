@@ -32,12 +32,12 @@ $${b = 2.897771955 \times 10^{−3} m \cdot K}$$
 
 Stefan-Boltzmann law states that the total power from thermal radiation is proportional to temperature raised to the power of 4.
 
-$${\LARGE P \propto T^4}$$
+$${\LARGE H \propto T^4}$$
 
 This law can be elaborated into,
 
-$${\LARGE P = Ae\sigma T^4}$$
-where *P* is the power released,
+$${\LARGE H = Ae\sigma T^4}$$
+where *H* is the heat released,
 *A* is the surface area of the body,
 *e* is the emissivity of the body,
 *T* is the temperature of the body, and
