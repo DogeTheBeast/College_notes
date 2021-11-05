@@ -30,7 +30,7 @@ $${b = 2.897771955 \times 10^{−3} m \cdot K}$$
 
 ## Stefan-Boltzmann's Law
 
-Stefan-Boltzmann law states that the total power from thermal radiation is proportional to temperature raised to the power of 4.
+Stefan-Boltzmann law states that the total power (heat) from thermal radiation is proportional to temperature raised to the power of 4.
 
 $${\LARGE H \propto T^4}$$
 
@@ -45,7 +45,7 @@ ${\sigma}$ is the Stefan-Boltzmann constant, which is
 
 $${\sigma = 5.670374419×10^{−8} W\cdot m^{−2}\cdot K^{−4}}$$
 
-
+If the body is placed in an 
 
 ---
 Read also - 
