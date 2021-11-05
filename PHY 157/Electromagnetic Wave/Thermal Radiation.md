@@ -30,7 +30,10 @@ $${\LARGE b = 2.897771955 \times 10^{−3} m \cdot K}$$
 
 ## Stefan-Boltzmann's Law
 
-Stefan-Boltzmann law states that 
+Stefan-Boltzmann law states that the total power from thermal radiation is proportional to temperature raised to the power of 4.
+
+$${\LARGE P \propto T^4}$$
+
 
 
 
