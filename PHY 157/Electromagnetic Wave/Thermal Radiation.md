@@ -64,7 +64,8 @@ $${\LARGE H_{in} = H_{out}}$$
 
 Albedo is the overall average reflection coefficient for solar radiation incident on an object. Albedo of the Earth is about 0.3 which means that the Earth as a whole reflects 30% of solar radiation.
 
-Using this, 
+## Heat radiated by a spherical body
+
 
 
 
