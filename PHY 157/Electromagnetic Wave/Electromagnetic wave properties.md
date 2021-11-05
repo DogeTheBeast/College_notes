@@ -1,6 +1,6 @@
 # Electromagnetic wave properties
 
-Electromagnetic waves are waves which travel at the speed of light and the wave is characterised by the oscillating electric and ol
+Electromagnetic radiation consists of waves of the electromagnetic field, propagating through space, carrying electromagnetic radiant energy.
 
 ---
 Read also - 
