@@ -37,7 +37,10 @@ $${\LARGE P \propto T^4}$$
 This law can be elaborated into,
 
 $${\LARGE P = Ae\sigma T^4}$$
-where *P*
+where *P* is the power released,
+*A* is the surface area of the body,
+*e* is the emissivity of the body,
+
 
 
 
