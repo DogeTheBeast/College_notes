@@ -10,7 +10,12 @@ Types of prototyping in order of their use in the design cycle:-
 
 
 Communicate an idea
-more focussed on function 
+more focussed on function than form
+
+## Purpose
+- To determine placement and orientation
+- TO understand ergonomics and workflow
+- To communicate 
 
 
 ---
