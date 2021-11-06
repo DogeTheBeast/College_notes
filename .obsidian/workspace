@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 7/Work.md",
+            "file": "PHY 157/Electromagnetic Wave/Thermal Radiation.md",
+            "mode": "source"
+          }
+        },
+        "group": "f7a31931d8db7422"
+      },
+      {
+        "id": "65e956a4c5b2b081",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PHY 157/Electromagnetic Wave/Thermal Radiation.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "f7a31931d8db7422"
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 146
   },
   "right": {
     "id": "7ba8a47061505297",
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 7/Work.md",
+                "file": "PHY 157/Electromagnetic Wave/Thermal Radiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +101,15 @@
   },
   "active": "05a3735f66a807cc",
   "lastOpenFiles": [
-    "CHEM 154/Unit 7/Work.md",
-    "CHEM 154/Unit 7/First Law of Thermodynamics.md",
-    "Excalidraw/Drawing 2021-10-26 22.53.26.excalidraw.md",
-    "CHEM 154/Unit 7/Internal Energy.md",
-    "CHEM 154/Unit 7/Heat Capacity.md",
-    "PHY 157/Thermodynamics/Laws of thermodynamics.md",
-    "PHY 157/Thermodynamics/Temperature.md",
-    "PHY 157/Thermodynamics/Constant Volume gas thermometer.md",
-    "PHY 157/Thermodynamics/Heat.md",
-    "PHY170/Vectors.md"
+    "PHY 157/Electromagnetic Wave/Thermal Radiation.md",
+    "PHY 157/Electromagnetic Wave/Electromagnetic wave properties.md",
+    "PHY 157/Thermodynamics/Thermal Conductivity.md",
+    "PHY 157/Cyclic processes/Untitled.md",
+    "PHY170/Moment/Moment of a Couple.md",
+    "PHY170/Vectors/Position Vector.md",
+    "PHY170/Moment/Moment of a Force.md",
+    "PHY170/Vectors/3D Vectors.md",
+    "PHY 157/Stress and Strain/Relating Stress, Strain and Thermal Expansion.md",
+    "CHEM 154/Unit 7/Work.md"
   ]
 }
