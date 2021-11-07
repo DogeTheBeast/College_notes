@@ -95,7 +95,8 @@ where *I* is the intensity,
 Using the equation above,
 $${\LARGE H_{in} = \pi r^2 (1-a)I}$$
 
-where *r* is t
+where *r* is the radius of the body, and 
+*a* is the albedo of the body.
 
 ---
 Read also - 
