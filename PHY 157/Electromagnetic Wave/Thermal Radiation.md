@@ -87,14 +87,15 @@ If heat is being incident onto a spherical body, the area on which the heat is i
 
 Intensity is defined as the power transferred per unit area. The SI units for intensity is ${J/m^2}$.
 
-$${\LARGE I = \frac{H_S}{4\pi r^2}}$$
+$${\LARGE I = \frac{H_S}{4\pi R^2}}$$
 where *I* is the intensity,
 *H* is the heat released from the source, and
-*r* is the distance between the source and the body the heat is incident upon.
+*R* is the distance between the source and the body the heat is incident upon.
 
 Using the equation above,
 $${\LARGE H_{in} = \pi r^2 (1-a)I}$$
 
+where *r* is t
 
 ---
 Read also - 
