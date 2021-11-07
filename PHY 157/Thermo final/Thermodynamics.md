@@ -19,7 +19,7 @@ Temperature is the measure of the random average [[kinetic energy]] of the molec
 ### Conversion between different unites of temperature
 
 $${\LARGE T_{kelvin} = T_{celsius} + 273.15}$$
-$${\LARGE T_{fahrenheit} = \frac{9 \times T_{celsius}{5} + 32}$$
+$${\LARGE T_{fahrenheit} = \frac{9 \times T_{celsius}}{5} + 32}$$
 
 
 
