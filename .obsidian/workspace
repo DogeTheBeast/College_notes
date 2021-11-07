@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY 157/Thermo final/Thermal Radiation.md",
-            "mode": "preview"
+            "file": "PHY 157/Thermo final/Thermodynamics.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY 157/Thermo final/Thermal Radiation.md",
+                "file": "PHY 157/Thermo final/Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "05a3735f66a807cc",
   "lastOpenFiles": [
-    "PHY 157/Thermo final/Thermal Radiation.md",
+    "PHY 157/Thermo final/Thermodynamics.md",
+    "PHY 157/Thermodynamics/Heat.md",
+    "PHY 157/Thermodynamics/Constant Volume gas thermometer.md",
     "PHY 157/Thermo final/Thermal Expansion.md",
+    "PHY 157/Thermo final/Thermal Radiation.md",
     "PHY 157/Cyclic processes/Untitled.md",
     "PHY 157/Electromagnetic Wave/Electromagnetic wave properties.md",
     "PHY 157/Stress and Strain/Stress, Strain and Young's Modulus.md",
     "PHY 157/Stress and Strain/Types of deformation.md",
-    "PHY 157/Stress and Strain/Relating Stress, Strain and Thermal Expansion.md",
-    "PHY 157/Thermodynamics/Constant Volume gas thermometer.md",
-    "PHY 157/Thermodynamics/Heat.md",
-    "PHY 157/Thermodynamics/Phases of Matter.md"
+    "PHY 157/Stress and Strain/Relating Stress, Strain and Thermal Expansion.md"
   ]
 }
