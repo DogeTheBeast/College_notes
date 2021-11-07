@@ -18,8 +18,8 @@ Temperature is the measure of the random average [[kinetic energy]] of the molec
 
 ### Conversion between different unites of temperature
 
-${T_{kelvin} = T_{celsius} + 273.15}$
-${T_{fahrenheit} =9/5 * T_{celsius} + 32}$
+$${\LARGE T_{kelvin} = T_{celsius} + 273.15}$$
+$${\LARGE T_{fahrenheit} = \frac{9 \times T_{celsius}{5} + 32}$$
 
 
 
