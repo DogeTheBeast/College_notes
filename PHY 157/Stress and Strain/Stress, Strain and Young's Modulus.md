@@ -6,7 +6,7 @@ Stress is the force per unit area applied on a body. There are 2 types of stress
 - Compressive Stress - It occuers when an object is compressed by forces acting at the ends.
 
 Stress is similar to [[Pressure]], meaning that it is measured using 
-${Stress = \frac{F}{A}}$
+$${\Stress = \frac{F}{A}}$$
 
 and it has the same units as [[Pressure]] ([[Pascal]]).
 
