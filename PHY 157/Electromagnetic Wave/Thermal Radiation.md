@@ -81,8 +81,11 @@ where *r* is the radius of the body.
 
 If heat is being incident onto a spherical body, the area on which the heat is incident upon is the cross-sectional area of the sphere. Hence,
 
+![[cross sectional area of a sphere.gif]]
 
+## Intensity
 
+Intensity is defined as the power transferred per unit area,
 
 
 ---
