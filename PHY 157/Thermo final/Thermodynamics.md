@@ -30,9 +30,9 @@ Heat is the amount of energy that flows between 2 bodies due to difference in [[
 
 Specific Heat Capacity is the amount of energy required to increase the temperature of a material of unit mass by 1 degree C or K.
 
-${Q = mc\Delta T}$
+$${\LARGE Q = mc\Delta T}$$
 
-The units for c are ${\frac{J}{kg.K}}$
+The units for c are ${J kg^{-1} K^{-1}}$
 
 ![[Specific heat capacity.png]]
 
