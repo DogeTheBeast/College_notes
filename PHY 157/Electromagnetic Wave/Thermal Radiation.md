@@ -89,8 +89,8 @@ Intensity is defined as the power transferred per unit area. The SI units for in
 
 $${\LARGE I = \frac{H}{4\pi r^2}}$$
 where *I* is the intensity,
-*H* is the heat released fromt the source,
-
+*H* is the heat released from the source, and
+*r* is the distance betwe
 
 ---
 Read also - 
