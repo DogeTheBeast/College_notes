@@ -73,9 +73,9 @@ $${\LARGE H_{abs} = (1-a)H_{incident}}$$
 
 Heat radiated by a spherical body uses the formula,
 
-$${\LARGE H = (4 \pi r^2) e \sigma T^4}$$
+$${\LARGE H = (4 \pi r_S^2) e \sigma T^4}$$
 
-where *r* is the radius of the body.
+where *r* is the radius of the source.
 
 ## Heat incident on a spherical body
 
@@ -87,7 +87,7 @@ If heat is being incident onto a spherical body, the area on which the heat is i
 
 Intensity is defined as the power transferred per unit area. The SI units for intensity is ${J/m^2}$.
 
-$${\LARGE I = \frac{H}{4\pi r^2}}$$
+$${\LARGE I = \frac{H}{4\pi r_^2}}$$
 where *I* is the intensity,
 *H* is the heat released from the source, and
 *r* is the distance between the source and the body the heat is incident upon.
