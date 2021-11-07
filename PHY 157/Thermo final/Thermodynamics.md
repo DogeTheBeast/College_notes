@@ -40,9 +40,9 @@ This value differs for different materials because in more complicated, part of 
 
 
 The same principle can be used for Molar heat capacity, by replacing the mass with the number of moles. 
-${Q = nc \Delta T}$
+$${\LARGE Q = nc \Delta T}$$
 
-The units for c are ${\frac{J}{mol.K}}$
+The units for c are ${J mol^{-1} K^{-1}}$
 
 
 ### Heat Capacity
