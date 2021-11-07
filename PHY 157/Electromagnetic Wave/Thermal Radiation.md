@@ -79,7 +79,7 @@ where *r* is the radius of the body.
 
 ## Heat incident on a spherical body
 
-If heat is being incident onto a 
+If heat is being incident onto a spherical body, the area on which the 
 
 
 
