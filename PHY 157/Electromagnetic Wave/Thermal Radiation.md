@@ -79,7 +79,9 @@ where *r* is the radius of the body.
 
 ## Heat incident on a spherical body
 
-If heat is being incident onto a spherical body, the area on which the heat is incident upon is the cross-sectional area of the sphere
+If heat is being incident onto a spherical body, the area on which the heat is incident upon is the cross-sectional area of the sphere. Hence,
+
+
 
 
 
