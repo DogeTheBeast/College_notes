@@ -50,7 +50,7 @@ Heat Capacity is the amount of energy required to increase the temperature of a 
 
 $${\LARGE Q = c_{capacity} \Delta T}$$
 
-
+## 
 
 ---
 Read also - 
