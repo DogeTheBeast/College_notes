@@ -93,7 +93,7 @@ where *I* is the intensity,
 *r* is the distance between the source and the body the heat is incident upon.
 
 Using the equation above,
-$${\LARGE H_{in} = \pi r^2 (1-a)I}$$
+$${\LARGE H_{in} = \pi r^2 (1-a_)I}$$
 
 
 ---
