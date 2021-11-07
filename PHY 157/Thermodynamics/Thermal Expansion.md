@@ -14,7 +14,7 @@ The expansion of a body in terms of length or volume because of increase in [[Te
 ${\Delta L}$ is directly propertional to ${\Delta T}$.
 ${\Delta L}$ is also directly propertional to ${L_o}$.
 
-${\Delta L = \alpha L_o \Delta T}$
+$${\LARGE \Delta L = \alpha L_o \Delta T}$$
 
 where ${\alpha}$ is the coefficient of linear expansion with the units as ${K^{-1}}$. 
 ${\alpha}$ can depend upon [[Temperature]] but the linear approximation is good over small [[Temperature]] intervals.
@@ -24,11 +24,11 @@ ${\alpha}$ can depend upon [[Temperature]] but the linear approximation is good 
 
 ## Volumetric Thermal Expansion
 
-${\Delta V = \beta V_o \Delta T}$
+$${\LARGE \Delta V = \beta V_o \Delta T}$$
 
 where ${\beta}$ is the coefficient of volume expansion. It has the same units as ${\alpha}$ (${K^{-1}}$). This applies to solids as well as liquids.
 
-${\beta = 3 \times \alpha}$
+$${\beta = 3 \times \alpha}$$
 
 ![[Exceptional case of volumetric expansion of water.png]]
 

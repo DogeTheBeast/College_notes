@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY 157/Thermo final/Thermodynamics.md",
+            "file": "PHY 157/Thermodynamics/Thermal Expansion.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 184.0036334991455
+    "width": 413.0036334991455
   },
   "right": {
     "id": "7ba8a47061505297",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY 157/Thermo final/Thermodynamics.md",
+                "file": "PHY 157/Thermodynamics/Thermal Expansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "05a3735f66a807cc",
   "lastOpenFiles": [
-    "PHY 157/Thermo final/Thermodynamics.md",
-    "PHY 157/Thermo final/Thermal Radiation.md",
-    "PHY 157/Thermo final/Thermal Expansion.md",
+    "PHY 157/Thermodynamics/Thermal Expansion.md",
+    "PHY 157/Thermodynamics/Thermal Radiation.md",
+    "PHY 157/Thermodynamics/Thermodynamics.md",
     "PHY 157/Thermodynamics/Constant Volume gas thermometer.md",
     "PHY 157/Thermodynamics/Ideal Gas.md",
     "PHY 157/Thermodynamics/Thermodynamics Compiled.md",
