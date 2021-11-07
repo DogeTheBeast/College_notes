@@ -77,7 +77,9 @@ $${\LARGE H = (4 \pi r^2) e \sigma T^4}$$
 
 where *r* is the radius of the body.
 
-## Heat incident on a 
+## Heat incident on a spherical body
+
+If heat is being incident onto a 
 
 
 
