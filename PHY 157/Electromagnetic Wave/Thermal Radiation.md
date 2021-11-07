@@ -85,8 +85,9 @@ If heat is being incident onto a spherical body, the area on which the heat is i
 
 ## Intensity
 
-Intensity is defined as the power transferred per unit area,
+Intensity is defined as the power transferred per unit area. The SI units for intensity is ${J/m^2}$.
 
+$${\LARGE I = \frac{}}
 
 ---
 Read also - 
