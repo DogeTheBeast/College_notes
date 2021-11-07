@@ -7,6 +7,8 @@ The thermal radiation from an object is released in a mix of electromagnetic wav
 The area underneath the graph gives the total power emitted by the body. This can be used to calculate the amount of power released for a specific wavelength. 
 As the temperature increases, the intensity of the wavelength increases.
 
+---
+
 ## Emissivity and Black Body
 Emissivity (denoted by *e*) is defined as the ratio of the energy radiated from a material's surface to that radiated from a perfect emitter, known as a blackbody, at the same temperature and wavelength and under the same viewing conditions.
 
@@ -22,6 +24,7 @@ The peak wavelength is the wavelength where the graph has the greatest intensity
 
 $${\LARGE \lambda_{peak} \propto \frac{1}{T}}$$
 
+
 ## Wien's Displacement law
 
 Wien's displacement law states that black-body radiation curve will peak at different wavelengths that are inversely proportional to the temperature, as stated above.
@@ -31,6 +34,8 @@ $${\LARGE \lambda_{peak} = \frac{b}{T}}$$
 where b is the Wien's displacement constant,
 
 $${b = 2.897771955 \times 10^{−3} m \cdot K}$$
+
+---
 
 ## Stefan-Boltzmann's Law
 
@@ -63,6 +68,7 @@ ${T_S}$ is the temperature of the surroundings.
 
 $${\LARGE H_{in} = H_{out}}$$
 
+---
 
 ## Albedo
 
@@ -84,6 +90,8 @@ where *r* is the radius of the source.
 If heat is being incident onto a spherical body, the area on which the heat is incident upon is the cross-sectional area of the sphere. Hence,
 
 ![[cross sectional area of a sphere.gif]]
+
+---
 
 ## Intensity
 
