@@ -6,7 +6,7 @@
 2. The second law of thermodynamics says that the entropy of any isolated system always increases. Isolated systems spontaneously evolve towards [[Thermal Equilibrium]]—the state of maximum entropy of the system.
 3. The third law of thermodynamics states that the entropy of a system approaches a constant value as the [[Temperature]] approaches absolute zero.
 
-## Temperature
+# Temperature
 
 Temperature is the measure of the random average [[kinetic energy]] of the molecules in an object.
 
@@ -23,7 +23,7 @@ $${\LARGE T_{fahrenheit} = \frac{9 \times T_{celsius}}{5} + 32}$$
 
 ---
 
-## Heat
+# Heat
 Heat is the amount of energy that flows between 2 bodies due to difference in [[Temperature]].
 
 ### Specific Heat Capacity (Molar Heat Capacity)
