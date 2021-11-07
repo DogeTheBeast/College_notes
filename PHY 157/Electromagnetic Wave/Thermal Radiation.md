@@ -12,7 +12,7 @@ Emissivity (denoted by *e*) is defined as the ratio of the energy radiated from 
 
 For substances which act as black bodies, the emissivity is 1 and for white bodies (which radiate no energy), the emissivity is 0.
 
-$${\LARGE e = \frac{H}{H_{}}}
+$${\LARGE e = \frac{H}{H_{blackbody}}}$$
 
 ## Peak Wavelength
 
@@ -76,6 +76,8 @@ Heat radiated by a spherical body uses the formula,
 $${\LARGE H = (4 \pi r^2) e \sigma T^4}$$
 
 where *r* is the radius of the body.
+
+## Heat incident on a 
 
 
 
