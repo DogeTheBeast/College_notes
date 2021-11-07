@@ -14,6 +14,8 @@ For substances which act as black bodies, the emissivity is 1 and for white bodi
 
 $${\LARGE e = \frac{H}{H_{blackbody}}}$$
 
+---
+
 ## Peak Wavelength
 
 The peak wavelength is the wavelength where the graph has the greatest intensity. As seen from the graph above, as the temperature increases, the peak wavelength decreases.
