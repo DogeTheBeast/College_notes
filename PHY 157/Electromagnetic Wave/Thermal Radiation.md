@@ -92,7 +92,8 @@ where *I* is the intensity,
 *H* is the heat released from the source, and
 *r* is the distance between the source and the body the heat is incident upon.
 
-
+Using the equation above,
+$${\LARGE H_{in} = \pi }
 
 
 ---
