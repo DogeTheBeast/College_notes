@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY 157/Thermodynamics/Pressure.md",
+            "file": "PHY 157/Thermo final/Thermal Radiation.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY 157/Thermodynamics/Pressure.md",
+                "file": "PHY 157/Thermo final/Thermal Radiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "05a3735f66a807cc",
   "lastOpenFiles": [
+    "PHY 157/Thermo final/Thermal Radiation.md",
+    "PHY 157/Thermo final/Thermodynamics.md",
     "PHY 157/Thermodynamics/Pressure.md",
     "PHY 157/Thermodynamics/Phases of Matter.md",
     "PHY 157/Thermodynamics/Ideal Gas.md",
     "PHY 157/Thermodynamics/Heat.md",
     "PHY 157/Thermodynamics/Constant Volume gas thermometer.md",
-    "PHY 157/Thermo final/Thermodynamics.md",
-    "PHY 157/Thermo final/Thermal Radiation.md",
     "PHY 157/Thermo final/Thermal Expansion.md",
     "PHY 157/Cyclic processes/Untitled.md",
     "PHY 157/Electromagnetic Wave/Electromagnetic wave properties.md"
