@@ -7,8 +7,11 @@
         "id": "05a3735f66a807cc",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "help.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "help.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "05a3735f66a807cc",
   "lastOpenFiles": [
+    "help.md",
+    "PHY 157/Thermodynamics/Thermodynamics.md",
     "CHEM 154/Unit 2/Electronic Configuration.md",
     "CHEM 154/Unit 7/Heat Capacity.md",
-    "help.md",
     "PHY170/Moment/Moment of a Force.md",
     "Extras/Excalidraw/couple moment.png",
     "Extras/Excalidraw/condensation polymer.png",
     "Extras/Excalidraw/Charge-dipole.png",
     "Extras/Excalidraw/changing the phase of matter.png",
-    "Extras/Excalidraw/changing phases 2.png",
-    "Extras/Excalidraw/branching hydrocarbons.png"
+    "Extras/Excalidraw/changing phases 2.png"
   ]
 }
