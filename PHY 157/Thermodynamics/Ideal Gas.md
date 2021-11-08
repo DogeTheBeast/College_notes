@@ -9,17 +9,19 @@ where, *P* is the pressure in *Pa* (Pascal),
 *T* is the temperature of the gas.
 ${R = 8.314 J/mol \cdot K}$
 
-## Charle's Law
-Charle's law states that the volume and temperature of a gas are directly proportional.
-$${\LARGE V \propto T}$$
-## Boyle's Law
-Boyle's law states that the volume and pressure of a gas are inversely proportional.
-$${\LARGE P \propto \frac{1}{V}}$$
-## Avogadro's Law
-Avogadro's law states that the volume and temperature of a gas are directly proportional.
-$${\LARGE V \propto T}$$
 
 
 
 ---
 Read also - 
+
+
+## Charle's Law
+Charle's law states that the volume and temperature of a gas are directly proportional for constant pressure and moles of gas.
+$${\LARGE V \propto T}$$
+## Boyle's Law
+Boyle's law states that the volume and pressure of a gas are inversely proportional for constant moles and temperature.
+$${\LARGE P \propto \frac{1}{V}}$$
+## Avogadro's Law
+Avogadro's law states that the volume and number of moles of a gas are directly proportional for constant pressure and temperature.
+$${\LARGE V \propto n}$$
