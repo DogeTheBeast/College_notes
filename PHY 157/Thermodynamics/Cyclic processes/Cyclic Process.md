@@ -13,8 +13,9 @@ The work done by a gas in a process is the area underneath the graph.
 
 Internal energy is the sum of the kinetic energy, rotational energy and vibrational energy of the molecules of the gas. 
 
-$${\LARGE \Delta U = n}
-
+$${\LARGE \Delta U = nC_v \Delta T}$$
+where, ${\Delta U}$ is the internal energy,
+*n* is the number of the moles 
 
 ---
 Read also - 
