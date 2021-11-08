@@ -1,5 +1,5 @@
 # Ideal Gas
-Ideal gas is a thero
+Ideal gas is a theoretical gas model which can be used to approximate the behaviour of many gases under many conditions, although it has several limitations. The equation used for ideal ga
 
 $${\LARGE PV  = nRT}$$
 where, *P* is the pressure in *Pa* (Pascal),
