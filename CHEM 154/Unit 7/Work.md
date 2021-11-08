@@ -30,10 +30,10 @@ ${\Delta V}$ is the change in the volume of the gas.
 ### In Physics
 
 - If work is **Negative**, it means that work is being done on the system by the surroundings (Compression).
-- If work is **Positive**, it means that the surroundings are doing work on the system (system gains energy).
+- If work is **Positive**, it means that work is being done on the surroundings by the gas (Expansion).
 
 Hence the formula becomes,
-$${\LARGE W = -P\Delta V}$$
+$${\LARGE W = P\Delta V}$$
 where *W* is the work done,
 *P* is the pressure of the system which is constant, and
 ${\Delta V}$ is the change in the volume of the gas.
