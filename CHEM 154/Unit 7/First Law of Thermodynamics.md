@@ -13,7 +13,7 @@ where ${\Delta U}$ is the change in internal energy,
 ## In Physics
 $${\LARGE \Delta U = Q-W}$$
 where ${\Delta U}$ is the change in internal energy,
-*q* is the energy supplied to the system, and 
+*Q* is the energy supplied to the system, and 
 *W* is the work done by the system on its surroundings.
 
 
