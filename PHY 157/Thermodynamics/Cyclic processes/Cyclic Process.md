@@ -15,7 +15,9 @@ Internal energy is the sum of the kinetic energy, rotational energy and vibratio
 
 $${\LARGE \Delta U = nC_v \Delta T}$$
 where, ${\Delta U}$ is the internal energy,
-*n* is the number of the moles 
+*n* is the number of the moles,
+${C_v}$ is the molar specific heat, and
+${\Delta}$ 
 
 ---
 Read also - 
