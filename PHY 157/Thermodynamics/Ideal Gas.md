@@ -11,7 +11,14 @@ ${R = 8.314 J/mol \cdot K}$
 
 ## Charle's Law
 Charle's law states that the volume and temperature of a gas are directly proportional.
-$${\LARGE }
+$${\LARGE V \propto T}$$
+## Boyle's Law
+Boyle's law states that the volume and pressure of a gas are iversely proportional.
+$${\LARGE V \propto T}$$
+## Charle's Law
+Charle's law states that the volume and temperature of a gas are directly proportional.
+$${\LARGE V \propto T}$$
+
 
 
 ---
