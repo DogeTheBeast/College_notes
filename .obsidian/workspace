@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 7/Work.md",
-            "mode": "preview"
+            "file": "help.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 7/Work.md",
+                "file": "help.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "05a3735f66a807cc",
   "lastOpenFiles": [
+    "help.md",
+    "PHY170/Moment/Moment of a Force.md",
+    "PHY170/Moment/Moment of a Couple.md",
     "CHEM 154/Unit 7/Work.md",
     "CHEM 154/Unit 7/Internal Energy.md",
     "CHEM 154/Unit 7/First Law of Thermodynamics.md",
     "CHEM 154/Unit 7/Heat Capacity.md",
     "FREN 101/Numbers (Les Nombres).md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
-    "PHY 157/Thermodynamics/Thermal Radiation.md",
-    "PHY 157/Thermodynamics/Thermal Expansion.md",
-    "PHY 157/Stress and Strain/Relating Stress, Strain and Thermal Expansion.md",
-    "PHY 157/Stress and Strain/Types of deformation.md"
+    "PHY 157/Thermodynamics/Thermal Radiation.md"
   ]
 }
