@@ -11,7 +11,7 @@ The work done by a gas in a process is the area underneath the graph.
 
 # Internal Energy
 
-Internal energy is the sum of the kinetic energy, rotational energy and vibrational energy
+Internal energy is the sum of the kinetic energy, rotational energy and vibrational energy of the molecules of the gas
 
 
 ---
