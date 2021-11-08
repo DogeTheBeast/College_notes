@@ -9,5 +9,10 @@ The work done by a gas in a process is the area underneath the graph.
 
 ![[Work]]
 
+## Work done by a gas while changing pressure
+
+
+
+
 ---
 Read also - 
