@@ -19,7 +19,7 @@ where, ${\Delta U}$ is the internal energy,
 ${C_v}$ is the molar specific heat, and
 ${\Delta T}$ is the change in temperature.
 
-
+$${\LARGE U = \frac{3}{2} nRT}
 
 ---
 Read also - 
