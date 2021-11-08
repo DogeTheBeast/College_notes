@@ -80,8 +80,6 @@ The larger the R value, the better insulation the material provides.
 ![[First Law of Thermodynamics]]
 
 
-
-
 ---
 Read also - 
 
