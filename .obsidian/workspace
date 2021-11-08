@@ -7,11 +7,8 @@
         "id": "05a3735f66a807cc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "help.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "help.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +84,8 @@
   },
   "active": "05a3735f66a807cc",
   "lastOpenFiles": [
+    "CHEM 154/Unit 2/Electronic Configuration.md",
+    "CHEM 154/Unit 7/Heat Capacity.md",
     "help.md",
     "PHY170/Moment/Moment of a Force.md",
     "Extras/Excalidraw/couple moment.png",
@@ -95,8 +93,6 @@
     "Extras/Excalidraw/Charge-dipole.png",
     "Extras/Excalidraw/changing the phase of matter.png",
     "Extras/Excalidraw/changing phases 2.png",
-    "Extras/Excalidraw/branching hydrocarbons.png",
-    "Extras/Excalidraw/Atomic-Radius.png",
-    "Extras/Excalidraw/3d vector angles.png"
+    "Extras/Excalidraw/branching hydrocarbons.png"
   ]
 }
