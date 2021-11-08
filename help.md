@@ -2,7 +2,7 @@
 ## teaching hargun
 
 this is my notes
-$${\lARGE W = P \Delta V}$$
+$${\LARGE W = P \Delta V}$$
 
 ---
 Read also - 
