@@ -3,9 +3,15 @@ The first law of thermodynamics states that the energy in the universe is conser
 
 $${\LARGE Universe = System + Surroundings}$$
 
-This can also be written as 
+## In Chemistry
 
 $${\LARGE \Delta U = q+W}$$
+where ${\Delta U}$ is the change in internal energy,
+*q* is the energy supplied to the system, and 
+*W* is the work done by the system on its surroundings.
+
+## In Physics
+$${\LARGE \Delta U = Q-W}$$
 where ${\Delta U}$ is the change in internal energy,
 *q* is the energy supplied to the system, and 
 *W* is the work done by the system on its surroundings.
