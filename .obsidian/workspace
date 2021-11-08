@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 7/Internal Energy.md",
-            "mode": "preview"
+            "file": "PHY 157/Thermodynamics/Thermodynamics.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 7/Internal Energy.md",
+                "file": "PHY 157/Thermodynamics/Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e9071fdd98a0cb00",
   "lastOpenFiles": [
+    "PHY 157/Thermodynamics/Thermodynamics.md",
+    "Temperature.md",
+    "CHEM 154/Unit 7/First Law of Thermodynamics.md",
     "CHEM 154/Unit 7/Internal Energy.md",
     "CHEM 154/Unit 7/Heat Capacity.md",
-    "PHY 157/Thermodynamics/Thermodynamics.md",
     "PHY 157/Thermodynamics/Thermal Radiation.md",
     "help.md",
     "CHEM 154/Unit 2/Electronic Configuration.md",
     "PHY170/Moment/Moment of a Force.md",
-    "Extras/Excalidraw/couple moment.png",
-    "Extras/Excalidraw/condensation polymer.png",
-    "Extras/Excalidraw/Charge-dipole.png"
+    "Extras/Excalidraw/couple moment.png"
   ]
 }
