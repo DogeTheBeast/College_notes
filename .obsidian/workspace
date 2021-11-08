@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "75bcfdb4a3e1bf90",
+    "id": "0b333fa9d2d68f0a",
     "type": "split",
     "children": [
       {
-        "id": "05a3735f66a807cc",
+        "id": "e9071fdd98a0cb00",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "PHY 157/Thermodynamics/Thermal Radiation.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.0036334991455
+    "width": 223.0036334991455
   },
   "right": {
     "id": "7ba8a47061505297",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHY 157/Thermodynamics/Thermal Radiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05a3735f66a807cc",
+  "active": "e9071fdd98a0cb00",
   "lastOpenFiles": [
-    "help.md",
+    "PHY 157/Thermodynamics/Thermal Radiation.md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
+    "help.md",
     "CHEM 154/Unit 2/Electronic Configuration.md",
     "CHEM 154/Unit 7/Heat Capacity.md",
     "PHY170/Moment/Moment of a Force.md",
     "Extras/Excalidraw/couple moment.png",
     "Extras/Excalidraw/condensation polymer.png",
     "Extras/Excalidraw/Charge-dipole.png",
-    "Extras/Excalidraw/changing the phase of matter.png",
-    "Extras/Excalidraw/changing phases 2.png"
+    "Extras/Excalidraw/changing the phase of matter.png"
   ]
 }
