@@ -17,7 +17,9 @@ $${\LARGE \Delta U = nC_v \Delta T}$$
 where, ${\Delta U}$ is the internal energy,
 *n* is the number of the moles,
 ${C_v}$ is the molar specific heat, and
-${\Delta}$ 
+${\Delta T}$ is the change in temperature.
+
+
 
 ---
 Read also - 
