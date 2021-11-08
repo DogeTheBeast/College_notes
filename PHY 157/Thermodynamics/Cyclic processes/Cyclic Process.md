@@ -11,7 +11,7 @@ The work done by a gas in a process is the area underneath the graph.
 
 # Internal Energy
 
-Internal energy is the sum of the kinetic energy, rotational energy and vibrational energy of the molecules of the gas. Its a state variable
+Internal energy is the sum of the kinetic energy, rotational energy and vibrational energy of the molecules of the gas. Its a state variable, meaning that *U* is independent of the path that it takes to take 
 
 $${\LARGE \Delta U = nC_v \Delta T}$$
 where, ${\Delta U}$ is the internal energy,
