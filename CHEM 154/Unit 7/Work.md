@@ -9,11 +9,7 @@ where *W* is the work done,
 ${\theta}$ is the angle between the moment of the system and the direction of the force applied.
 
 ## Pressure and volume
-The work done at a constant pressure with a change in the volume. The equation is,
-$${\LARGE W = P\Delta V}$$
-where *W* is the work done,
-*P* is the pressure of the system which is constant, and
-${\Delta V}$ is the change in the volume of the gas.
+The work done at a constant pressure with a change in the volume.
 
 The sign is very important as it specifies if the work is done on the system or by the system.
 
