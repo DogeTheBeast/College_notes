@@ -28,7 +28,7 @@ $${\LARGE \Delta V = \beta V_o \Delta T}$$
 
 where ${\beta}$ is the coefficient of volume expansion. It has the same units as ${\alpha}$ (${K^{-1}}$). This applies to solids as well as liquids.
 
-$${\beta = 3 \times \alpha}$$
+$${\LARGE \beta = 3 \times \alpha}$$
 
 ![[Exceptional case of volumetric expansion of water.png]]
 
