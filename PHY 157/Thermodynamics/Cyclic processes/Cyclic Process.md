@@ -11,7 +11,7 @@ The work done by a gas in a process is the area underneath the graph.
 
 # Internal Energy
 
-Internal ene
+Internal energy is the sum of the 
 
 
 ---
