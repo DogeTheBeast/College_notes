@@ -45,7 +45,7 @@ Isothermal processes are processes which occurs with constant temperature.
 
 $${\LARGE \Delta U = 0}$$
 $${\LARGE Q=W}$$
-$${\LARGE }
+$${\LARGE W = nRTln(\frac{V_f}{V_i})}$$
 
 # Adiabatic processes
 Adiabatic processes are processes which occur when there is no change in the value of *Q*.
