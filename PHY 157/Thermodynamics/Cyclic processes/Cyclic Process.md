@@ -31,13 +31,16 @@ Isochoric processes are processes which occur with constant volume.
 Isobaric processes are processes which occur with constant pressure.
 ![[isobaric process.jpg]]
 
+$${\LARGE W = 0}$$
+}}
+
 # Isothermal process
 Isothermal processes are processes which occurs with constant temperature.
 ![[isothermal process.jpg]]
 
 # Adiabatic processes
 Adiabatic processes are processes which occur when there is no change in the value of *Q*.
-
+![[Adiabatic-process.png]]
 
 
 
