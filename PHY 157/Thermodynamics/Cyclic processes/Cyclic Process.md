@@ -43,7 +43,8 @@ $${\LARGE W = P \Delta V = n R \Delta T}$$
 Isothermal processes are processes which occurs with constant temperature.
 ![[isothermal process.jpg]]
 
-
+$${\LARGE \Delta U = 0}$$
+$${}
 
 # Adiabatic processes
 Adiabatic processes are processes which occur when there is no change in the value of *Q*.
