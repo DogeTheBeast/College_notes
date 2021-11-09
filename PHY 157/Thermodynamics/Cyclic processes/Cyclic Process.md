@@ -32,7 +32,10 @@ Isobaric processes are processes which occur with constant pressure.
 ![[isobaric process.jpg]]
 
 # Isothermal process
-Isothermal processes are processes which o
+Isothermal processes are processes which occurs with constant temperature.
+![[isothermal process.jpg]]
+
+# Adiabati
 
 ---
 Read also - 
