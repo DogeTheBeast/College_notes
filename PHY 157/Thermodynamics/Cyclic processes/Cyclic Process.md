@@ -53,7 +53,10 @@ Adiabatic processes are processes which occur when there is no change in the val
 $${\LARGE Q = 0}$$
 $${\LARGE \Delta U = -W}$$
 $${\LARGE P V^{\gamma} = constant}$$
-$${\LARGE T V^{\gamma} = constant}$$
+$${\LARGE T V^{\gamma -1} = constant}$$
+$${\LARG\gamma = \frac{c_p}{c_v}}$$
+
+$${\LARGE}
 
 
 ---
