@@ -28,8 +28,11 @@ Isochoric processes are processes which occur with constant volume.
 ![[isochoric process.jpg]]
 
 # Isobaric process
-Isobaric processes are processes which occue with constant pressure.
-![[isoba]]
+Isobaric processes are processes which occur with constant pressure.
+![[isobaric process.jpg]]
+
+# Isothermal process
+Isothermal processes are processes which o
 
 ---
 Read also - 
