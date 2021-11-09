@@ -65,7 +65,16 @@ $${\LARGE e = \frac{W}{Q_H} = 1-\frac{|Q_C|}{|Q_H|}}$$
 # Internal combustion in an engine
 
 ## Step 1
-![[cycle ]]
+![[engine 1.png]]
+
+## Step 2
+![[cycle 2.png]]
+
+## Step 3
+![[cycle 3.png]]
+
+## Overview
+![[cycle final.png]]
 
 
 
