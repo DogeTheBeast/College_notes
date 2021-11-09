@@ -35,7 +35,8 @@ Isobaric processes are processes which occur with constant pressure.
 Isothermal processes are processes which occurs with constant temperature.
 ![[isothermal process.jpg]]
 
-# Adiabati
+# Adiabatic processes
+Adiabatic processes are processes which occur when there is no change in th
 
 ---
 Read also - 
