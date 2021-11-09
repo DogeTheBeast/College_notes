@@ -57,7 +57,7 @@ $${\LARGE T V^{\gamma -1} = constant}$$
 $${\LARGE \gamma = \frac{c_p}{c_v}}$$
 
 $${ Monatomic ideal gas -> \gamma = \frac{5}{3}}$$
-$${ Diatomic ideal gas -> \gamma = \frac{7}{3}}$$
+$${ Diatomic ideal gas -> \gamma = 1.4}$$
 
 
 
