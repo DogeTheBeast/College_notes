@@ -35,7 +35,9 @@ Isobaric processes are processes which occur with constant pressure.
 ![[isobaric process.jpg]]
 
 $${\LARGE Q = \Delta U + W}$$
-$${}
+$${\LARGE Q = n C_p \Delta T}$$
+$${\LARGE \Delta U = n C_v \Delta T}$$
+$${\LARGE }
 
 # Isothermal process
 Isothermal processes are processes which occurs with constant temperature.
