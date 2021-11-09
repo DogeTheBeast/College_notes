@@ -54,9 +54,11 @@ $${\LARGE Q = 0}$$
 $${\LARGE \Delta U = -W}$$
 $${\LARGE P V^{\gamma} = constant}$$
 $${\LARGE T V^{\gamma -1} = constant}$$
-$${\LARG\gamma = \frac{c_p}{c_v}}$$
+$${\LARGE \gamma = \frac{c_p}{c_v}}$$
 
-$${\LARGE}
+$${ Monatomic ideal gas -> \gamma = \frac{5}{3}}$$
+$${ Diatomic ideal gas -> \gamma = \frac{7}{3}}$$
+
 
 
 ---
