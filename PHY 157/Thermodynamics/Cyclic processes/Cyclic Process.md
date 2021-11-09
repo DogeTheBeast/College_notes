@@ -76,6 +76,7 @@ ${\Delta T}$ is the change in temperature.
 $${\LARGE U = \frac{3}{2} nRT}$$
 
 $${\LARGE C_v = \frac{3}{2}R}$$
+$${\LARGE c_}
 
 ### Isochoric process
 
@@ -93,8 +94,7 @@ $${\LARGE W = P \Delta V = n R \Delta T}$$
 ### Isothermal process
 
 $${\LARGE \Delta U = 0}$$
-$${\LARGE Q=W}$$
-$${\LARGE W = nRTln(\frac{V_f}{V_i})}$$
+$${\LARGE Q=W= nRTln(\frac{V_f}{V_i})}$$
 
 ### Adiabatic processes
 
