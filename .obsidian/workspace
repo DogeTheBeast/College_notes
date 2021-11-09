@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
+            "file": "PHY 157/Electromagnetic Wave/Electromagnetic wave properties.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
+                "file": "PHY 157/Electromagnetic Wave/Electromagnetic wave properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e9071fdd98a0cb00",
   "lastOpenFiles": [
+    "PHY 157/Electromagnetic Wave/Electromagnetic wave properties.md",
     "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
     "PHY 157/Thermodynamics/Thermal Radiation.md",
@@ -96,7 +97,6 @@
     "Untitled.md",
     "CHEM 154/Unit 7/Internal Energy.md",
     "CHEM 154/Unit 7/Work.md",
-    "CHEM 154/Unit 7/Heat Capacity.md",
-    "CHEM 154/Unit 7/First Law of Thermodynamics.md"
+    "CHEM 154/Unit 7/Heat Capacity.md"
   ]
 }
