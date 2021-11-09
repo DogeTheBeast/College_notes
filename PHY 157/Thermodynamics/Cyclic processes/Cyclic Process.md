@@ -24,8 +24,8 @@ $${\LARGE U = \frac{3}{2} nRT}$$
 $${\LARGE C_v = \frac{3}{2}R}$$
 
 # Isochoric process
-
-
+Isochoric processes are processes which occur with constant volume.
+![[isochoric process.jpg]]
 
 ---
 Read also - 
