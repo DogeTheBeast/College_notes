@@ -67,3 +67,43 @@ Read also -
 ---
 
 # Formula sheet
+$${\LARGE \Delta U = nC_v \Delta T}$$
+where, ${\Delta U}$ is the internal energy,
+*n* is the number of the moles,
+${C_v}$ is the molar specific heat, and
+${\Delta T}$ is the change in temperature.
+
+$${\LARGE U = \frac{3}{2} nRT}$$
+
+$${\LARGE C_v = \frac{3}{2}R}$$
+
+### Isochoric process
+
+$${\LARGE W = 0}$$
+$${\LARGE Q = \Delta U}$$
+
+### Isobaric process
+
+$${\LARGE Q = \Delta U + W}$$
+$${\LARGE Q = n C_p \Delta T}$$
+$${\LARGE \Delta U = n C_v \Delta T}$$
+$${\LARGE W = P \Delta V = n R \Delta T}$$
+
+### Isothermal process
+
+$${\LARGE \Delta U = 0}$$
+$${\LARGE Q=W}$$
+$${\LARGE W = nRTln(\frac{V_f}{V_i})}$$
+
+### Adiabatic processes
+
+$${\LARGE Q = 0}$$
+$${\LARGE \Delta U = -W}$$
+$${\LARGE P V^{\gamma} = constant}$$
+$${\LARGE T V^{\gamma -1} = constant}$$
+$${\LARGE \gamma = \frac{c_p}{c_v}}$$
+
+$${ Monatomic ideal gas -> \gamma = \frac{5}{3}}$$
+$${ Diatomic ideal gas -> \gamma = 1.4}$$
+
+
