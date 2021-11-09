@@ -62,6 +62,13 @@ $${ Diatomic-ideal-gas -> \gamma = 1.4}$$
 # Efficiency
 $${\LARGE e = \frac{W}{Q_H} = 1-\frac{|Q_C|}{|Q_H|}}$$
 
+# Internal combustion in an engine
+
+## Step 1
+
+
+
+
 ---
 Read also - 
 
