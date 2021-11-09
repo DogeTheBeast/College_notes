@@ -60,7 +60,7 @@ $${ Monatomic-ideal-gas -> \gamma = \frac{5}{3}}$$
 $${ Diatomic-ideal-gas -> \gamma = 1.4}$$
 
 # Efficiency
-
+$${}
 
 ---
 Read also - 
@@ -94,16 +94,16 @@ $${ W = P \Delta V = n R \Delta T}$$
 
 ### Isothermal process
 
-$${\LARGE \Delta U = 0}$$
-$${\LARGE Q=W= nRTln(\frac{V_f}{V_i})}$$
+$${ \Delta U = 0}$$
+$${ Q=W= nRTln(\frac{V_f}{V_i})}$$
 
 ### Adiabatic processes
 
-$${\LARGE Q = 0}$$
-$${\LARGE \Delta U = -W}$$
-$${\LARGE P V^{\gamma} = constant}$$
-$${\LARGE T V^{\gamma -1} = constant}$$
-$${\LARGE \gamma = \frac{c_p}{c_v}}$$
+$${ Q = 0}$$
+$${ \Delta U = -W}$$
+$${P V^{\gamma} = constant}$$
+$${ T V^{\gamma -1} = constant}$$
+$${ \gamma = \frac{c_p}{c_v}}$$
 
 $${ Monatomic-ideal-gas -> \gamma = \frac{5}{3}}$$
 $${ Diatomic-ideal-gas -> \gamma = 1.4}$$
