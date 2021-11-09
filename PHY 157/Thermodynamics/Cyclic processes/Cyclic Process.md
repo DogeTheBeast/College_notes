@@ -50,8 +50,8 @@ $${\LARGE W = nRTln(\frac{V_f}{V_i})}$$
 # Adiabatic processes
 Adiabatic processes are processes which occur when there is no change in the value of *Q*.
 ![[Adiabatic-process.png]]
-
-
+$${\LARGE Q = 0}$$
+$${\LARGE \Delta U = -W}$$
 
 
 ---
