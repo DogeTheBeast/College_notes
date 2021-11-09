@@ -60,7 +60,7 @@ $${ Monatomic-ideal-gas -> \gamma = \frac{5}{3}}$$
 $${ Diatomic-ideal-gas -> \gamma = 1.4}$$
 
 # Efficiency
-$${}
+$${\LARGE e = \frac{W}{Q_H} = 1-\frac{|Q_C|}{|Q_H|}}$$
 
 ---
 Read also - 
