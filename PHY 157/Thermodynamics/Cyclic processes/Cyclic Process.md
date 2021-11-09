@@ -23,5 +23,9 @@ $${\LARGE U = \frac{3}{2} nRT}$$
 
 $${\LARGE C_v = \frac{3}{2}R}$$
 
+# Isochoric process
+
+
+
 ---
 Read also - 
