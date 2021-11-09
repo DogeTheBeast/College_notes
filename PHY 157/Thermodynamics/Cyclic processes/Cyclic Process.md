@@ -36,7 +36,11 @@ Isothermal processes are processes which occurs with constant temperature.
 ![[isothermal process.jpg]]
 
 # Adiabatic processes
-Adiabatic processes are processes which occur when there is no change in th
+Adiabatic processes are processes which occur when there is no change in the value of *Q*.
+
+
+
+
 
 ---
 Read also - 
