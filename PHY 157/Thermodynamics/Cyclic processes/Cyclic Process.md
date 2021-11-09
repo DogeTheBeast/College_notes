@@ -80,7 +80,8 @@ $${\LARGE C_v = \frac{3}{2}R}$$
 ### Isochoric process
 
 $${\LARGE W = 0}$$
-$${\LARGE Q = \Delta U}$$
+$${\LARGE Q = \Delta U = nC_v \Delta T}$$
+
 
 ### Isobaric process
 
