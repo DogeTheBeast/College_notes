@@ -56,8 +56,8 @@ $${\LARGE P V^{\gamma} = constant}$$
 $${\LARGE T V^{\gamma -1} = constant}$$
 $${\LARGE \gamma = \frac{c_p}{c_v}}$$
 
-$${ Monatomic ideal gas -> \gamma = \frac{5}{3}}$$
-$${ Diatomic ideal gas -> \gamma = 1.4}$$
+$${ Monatomic-ideal-gas -> \gamma = \frac{5}{3}}$$
+$${ Diatomic-ideal-gas -> \gamma = 1.4}$$
 
 
 
@@ -103,7 +103,7 @@ $${\LARGE P V^{\gamma} = constant}$$
 $${\LARGE T V^{\gamma -1} = constant}$$
 $${\LARGE \gamma = \frac{c_p}{c_v}}$$
 
-$${ Monatomic ideal gas -> \gamma = \frac{5}{3}}$$
-$${ Diatomic ideal gas -> \gamma = 1.4}$$
+$${ Monatomic-ideal-gas -> \gamma = \frac{5}{3}}$$
+$${ Diatomic-ideal-gas -> \gamma = 1.4}$$
 
 
