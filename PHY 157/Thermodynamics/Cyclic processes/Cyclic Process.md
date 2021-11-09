@@ -27,12 +27,14 @@ $${\LARGE C_v = \frac{3}{2}R}$$
 Isochoric processes are processes which occur with constant volume.
 ![[isochoric process.jpg]]
 
+$${\LARGE W = 0}$$
+$${\LARGE Q = \Delta U}$$
+
 # Isobaric process
 Isobaric processes are processes which occur with constant pressure.
 ![[isobaric process.jpg]]
 
-$${\LARGE W = 0}$$
-}}
+
 
 # Isothermal process
 Isothermal processes are processes which occurs with constant temperature.
@@ -47,3 +49,7 @@ Adiabatic processes are processes which occur when there is no change in the val
 
 ---
 Read also - 
+
+---
+
+# Formula 
