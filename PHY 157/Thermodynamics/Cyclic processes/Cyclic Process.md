@@ -27,5 +27,9 @@ $${\LARGE C_v = \frac{3}{2}R}$$
 Isochoric processes are processes which occur with constant volume.
 ![[isochoric process.jpg]]
 
+# Isobaric process
+Isobaric processes are processes which occue with constant pressure.
+![[isoba]]
+
 ---
 Read also - 
