@@ -52,6 +52,8 @@ Adiabatic processes are processes which occur when there is no change in the val
 ![[Adiabatic-process.png]]
 $${\LARGE Q = 0}$$
 $${\LARGE \Delta U = -W}$$
+$${\LARGE P V^{\gamma} = constant}$$
+$${\LARGE T V^{\gamma} = constant}$$
 
 
 ---
