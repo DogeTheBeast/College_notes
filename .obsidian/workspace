@@ -13,6 +13,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "a546f6254035a3d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PHY 157/Thermodynamics/Thermodynamics.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
+                "file": "PHY 157/Thermodynamics/Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +97,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9071fdd98a0cb00",
+  "active": "a546f6254035a3d2",
   "lastOpenFiles": [
+    "PHY 157/Thermodynamics/Thermodynamics.md",
     "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
     "PHY 157/Stress and Strain/Relating Stress, Strain and Thermal Expansion.md",
     "PHY 157/Stress and Strain/Types of deformation.md",
     "PHY 157/Stress and Strain/Stress, Strain and Young's Modulus.md",
     "PHY 157/Electromagnetic Wave/Electromagnetic wave properties.md",
-    "PHY 157/Thermodynamics/Thermodynamics.md",
     "PHY 157/Thermodynamics/Thermal Radiation.md",
     "PHY 157/Thermodynamics/Thermal Expansion.md",
     "PHY 157/Thermodynamics/Ideal Gas.md",
