@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "0b333fa9d2d68f0a",
+    "id": "ced8d0b2eb1fbe90",
     "type": "split",
     "children": [
       {
-        "id": "e9071fdd98a0cb00",
+        "id": "d6321b32cf4ef11d",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Excalidraw/Drawing 2021-11-11 11.29.58.excalidraw.md"
+            "file": "Extras/Excalidraw/Drawing 2021-11-11 13.03.00.excalidraw.md"
           }
         }
       }
@@ -67,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Extras/Excalidraw/Drawing 2021-11-11 13.03.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +85,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9071fdd98a0cb00",
+  "active": "d6321b32cf4ef11d",
   "lastOpenFiles": [
+    "Extras/Excalidraw/Drawing 2021-11-11 13.03.00.excalidraw.md",
     "Excalidraw/Drawing 2021-11-11 11.29.58.excalidraw.md",
     "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
@@ -94,7 +96,6 @@
     "PHY 157/Electromagnetic Wave/Electromagnetic wave properties.md",
     "PHY 157/Stress and Strain/Relating Stress, Strain and Thermal Expansion.md",
     "PHY 157/Stress and Strain/Types of deformation.md",
-    "PHY 157/Stress and Strain/Stress, Strain and Young's Modulus.md",
-    "PHY 157/Thermodynamics/Ideal Gas.md"
+    "PHY 157/Stress and Strain/Stress, Strain and Young's Modulus.md"
   ]
 }
