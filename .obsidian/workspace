@@ -7,10 +7,9 @@
         "id": "e9071fdd98a0cb00",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
-            "mode": "preview"
+            "file": "Excalidraw/Drawing 2021-11-11 11.29.58.excalidraw.md"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
+                "file": "Excalidraw/Drawing 2021-11-11 11.29.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +87,7 @@
   },
   "active": "e9071fdd98a0cb00",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2021-11-11 11.29.58.excalidraw.md",
     "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
     "PHY 157/Thermodynamics/Thermal Radiation.md",
@@ -96,7 +96,6 @@
     "PHY 157/Stress and Strain/Relating Stress, Strain and Thermal Expansion.md",
     "PHY 157/Stress and Strain/Types of deformation.md",
     "PHY 157/Stress and Strain/Stress, Strain and Young's Modulus.md",
-    "PHY 157/Thermodynamics/Ideal Gas.md",
-    "Untitled.md"
+    "PHY 157/Thermodynamics/Ideal Gas.md"
   ]
 }
