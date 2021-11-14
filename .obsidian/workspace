@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 1/Atomic Mass Unit.md",
-            "mode": "source"
+            "file": "CHEM 154/Unit 5/Polymers.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 1/Atomic Mass Unit.md",
+                "file": "CHEM 154/Unit 5/Polymers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "f848e1630c26b24b",
   "lastOpenFiles": [
+    "CHEM 154/Unit 5/Polymers.md",
     "CHEM 154/Unit 1/Atomic Mass Unit.md",
     "CHEM 154/Unit 1/Isotopes.md",
     "CHEM 154/Unit 5/Notation for organic molecules.md",
@@ -96,7 +97,6 @@
     "CHEM 154/Unit 5/Functional Groups.md",
     "CHEM 154/Unit 1/Orbitals.md",
     "CHEM 154/Unit 1/Mass Spectroscopy.md",
-    "CHEM 154/Unit 5/Polymers.md",
     "Day Planners/Day Planner-20211114.md"
   ]
 }
