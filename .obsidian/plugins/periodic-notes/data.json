@@ -4,8 +4,8 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "",
-    "folder": "Extras",
+    "template": "extras",
+    "folder": "Extras/Daily Notes",
     "enabled": true
   },
   "weekly": {

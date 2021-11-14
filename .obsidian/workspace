@@ -7,8 +7,11 @@
         "id": "24fe7de1c65be05c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Extras/Templates/Daily Notes Tempelate.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Extras/Templates/Daily Notes Tempelate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,6 +120,8 @@
   },
   "active": "24fe7de1c65be05c",
   "lastOpenFiles": [
+    "Extras/Templates/Daily Notes Tempelate.md",
+    "Extras/Daily Notes/2021-11-14.md",
     "Extras/Daily notes.md",
     "2021-11-14.md",
     "CHEM 154/General Stuff/Carbon.md",
@@ -123,8 +129,6 @@
     "CHEM 154/Unit 5/Polymers.md",
     "CHEM 154/Unit 1/Atomic Mass Unit.md",
     "CHEM 154/Unit 1/Isotopes.md",
-    "CHEM 154/Unit 5/Notation for organic molecules.md",
-    "PHY 157/Thermodynamics/Thermal Radiation.md",
-    "FREN 101/Numbers (Les Nombres).md"
+    "CHEM 154/Unit 5/Notation for organic molecules.md"
   ]
 }
