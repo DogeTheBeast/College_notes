@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 1/Atomic Model.md",
+            "file": "CHEM 154/Unit 1/Isotopes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 162.0036334991455
+    "width": 244.5036334991455
   },
   "right": {
     "id": "7ba8a47061505297",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 1/Atomic Model.md",
+                "file": "CHEM 154/Unit 1/Isotopes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,15 +138,15 @@
   },
   "active": "41859a32e520ba36",
   "lastOpenFiles": [
+    "CHEM 154/Unit 1/Isotopes.md",
+    "CHEM 154/Unit 1/Mass Spectroscopy.md",
     "CHEM 154/Unit 1/Atomic Model.md",
+    "CHEM 154/Unit 1/The Nuclear Atom.md",
+    "CHEM 154/Unit 1/Orbitals.md",
+    "CHEM 154/Unit 1/Atomic Mass Unit.md",
     "Extras/Daily Notes/2021-11-14.md",
     "Extras/Templates/Daily Notes Tempelate.md",
     "Extras/Daily notes.md",
-    "2021-11-14.md",
-    "CHEM 154/General Stuff/Carbon.md",
-    "Day Planners/Day Planner-20211114.md",
-    "CHEM 154/Unit 5/Polymers.md",
-    "CHEM 154/Unit 1/Atomic Mass Unit.md",
-    "CHEM 154/Unit 1/Isotopes.md"
+    "2021-11-14.md"
   ]
 }
