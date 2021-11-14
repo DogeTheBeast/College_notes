@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "CHEM 154/Unit 5/Polymers.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -24,6 +24,7 @@
       {
         "id": "502b605831329a15",
         "type": "tabs",
+        "dimension": 65.5323819978046,
         "children": [
           {
             "id": "c7325059fbdf765e",
@@ -47,7 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1eb160adeb488707",
+        "type": "tabs",
+        "dimension": 34.46761800219539,
+        "children": [
           {
             "id": "b4fdb5affcc0387e",
             "type": "leaf",
@@ -60,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 183.0036334991455
+    "width": 347.0036334991455
   },
   "right": {
     "id": "7ba8a47061505297",
@@ -103,12 +111,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f848e1630c26b24b",
   "lastOpenFiles": [
