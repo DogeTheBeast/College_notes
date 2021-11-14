@@ -1,4 +1,4 @@
-# Atomic Model
+# [Atomic Model](https://chem.libretexts.org/Courses/University_of_British_Columbia/UBC_CHEM_154%3A_Chemistry_for_Engineering/01%3A_High_School_Review/1.2%3A_Chemical_Elements)
 
 # Fundamental Particles
 
