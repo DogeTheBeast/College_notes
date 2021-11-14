@@ -26,13 +26,15 @@ Neutrons are the only particles without any charge present on them and only have
 
 # Atomic Number and Mass Number
 
+![[mass]]
+
 ## Atomic Number (Z)
 Atomic number is the number of protons present inside an atom of an element. It is denoted by *Z* and is useful in understanding the reactivity of the element.
 
 ## Mass Number (A)
 Mass number is the sum of the number of protons and neutrons present inside an atom of an element. It is denoted by *A* and is used in the formula,
 
-$${\LARGE Number of Neutrons = A - Z}$$
+$${\LARGE Number_of_Neutrons = A - Z}$$
 
 ### Nuclide 
 Nuclide refers to the any particular kind of nucleus. For example, a nucleus of atomic number 7 is a nuclide of nitrogen. 
