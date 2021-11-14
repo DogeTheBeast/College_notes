@@ -86,6 +86,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "86d4ababfabaffe6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ]
       }
