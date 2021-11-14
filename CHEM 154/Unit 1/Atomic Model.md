@@ -11,7 +11,10 @@ Electron is the negatively charged particle which surrounds the nucleus by orbit
 # Proton
 To balance out the charge of the electron, there exists a particle called proton which has and equal and opposite charge to the charge of an electron but does not have negligible mass. Protons are located inside the nucleus along with neutrons.
 
-#
+# Neutron
+Neutrons are the only particles without any charge present on them and only have mass as their property. The have the same mass as protons and are located inside the nucleus.
+
+# Properties of Elementary 
 
 
 ---
