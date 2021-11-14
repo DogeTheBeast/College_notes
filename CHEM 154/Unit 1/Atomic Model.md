@@ -34,8 +34,8 @@ Mass number is the sum of the number of protons and neutrons present inside an a
 
 $${\LARGE Number of Neutrons = A - Z}$$
 
-### Neutron Number
-Neutron number is the 
+### Nuclide 
+Nuclide refers to the 
 
 ---
 Read also - 
