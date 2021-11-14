@@ -29,7 +29,8 @@ Neutrons are the only particles without any charge present on them and only have
 ## Atomic Number (Z)
 Atomic number is the number of protons present inside an atom of an element. It is denoted by *Z* and is useful in understanding the reactivity of the element.
 
-## Mass Number ()
+## Mass Number (A)
+Mass number is the sum of the number of protons and neutrons present inside an atom of an element. It is denoted by *A* and is used
 
 
 
