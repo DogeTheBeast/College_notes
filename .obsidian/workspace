@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Extras/Excalidraw/Drawing 2021-11-11 13.03.00.excalidraw.md"
+            "file": "Extras/Excalidraw/Drawing 2021-11-11 16.10.06.excalidraw.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Excalidraw/Drawing 2021-11-11 13.03.00.excalidraw.md",
+                "file": "Extras/Excalidraw/Drawing 2021-11-11 16.10.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "d6321b32cf4ef11d",
   "lastOpenFiles": [
+    "Extras/Excalidraw/Drawing 2021-11-11 16.10.06.excalidraw.md",
     "Extras/Excalidraw/Drawing 2021-11-11 13.03.00.excalidraw.md",
     "Excalidraw/Drawing 2021-11-11 11.29.58.excalidraw.md",
     "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
@@ -95,7 +96,6 @@
     "PHY 157/Thermodynamics/Thermal Expansion.md",
     "PHY 157/Electromagnetic Wave/Electromagnetic wave properties.md",
     "PHY 157/Stress and Strain/Relating Stress, Strain and Thermal Expansion.md",
-    "PHY 157/Stress and Strain/Types of deformation.md",
-    "PHY 157/Stress and Strain/Stress, Strain and Young's Modulus.md"
+    "PHY 157/Stress and Strain/Types of deformation.md"
   ]
 }
