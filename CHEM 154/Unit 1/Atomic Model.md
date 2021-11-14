@@ -35,7 +35,7 @@ Mass number is the sum of the number of protons and neutrons present inside an a
 $${\LARGE Number of Neutrons = A - Z}$$
 
 ### Nuclide 
-Nuclide refers to the 
+Nuclide refers to the any particular kind of nucleus. For example, a nucleus of atomic number 7 is a nuclide of nitrogen. 
 
 ---
 Read also - 
