@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 5/Polymers.md",
+            "file": "Day Planners/Day Planner-20211114.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "770f714a634e4c24"
+      },
+      {
+        "id": "7a21d49ca81e9e58",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20211114.md",
+            "mode": "source"
+          }
+        },
+        "group": "770f714a634e4c24"
       }
     ],
     "direction": "vertical"
@@ -84,9 +97,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 5/Polymers.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Day Planners/Day Planner-20211114.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -116,10 +129,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "f848e1630c26b24b",
+  "active": "7a21d49ca81e9e58",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20211114.md",
     "CHEM 154/Unit 5/Polymers.md",
     "CHEM 154/Unit 1/Atomic Mass Unit.md",
     "CHEM 154/Unit 1/Isotopes.md",
@@ -128,7 +143,6 @@
     "FREN 101/Numbers (Les Nombres).md",
     "CHEM 154/Unit 5/Functional Groups.md",
     "CHEM 154/Unit 1/Orbitals.md",
-    "CHEM 154/Unit 1/Mass Spectroscopy.md",
-    "Day Planners/Day Planner-20211114.md"
+    "CHEM 154/Unit 1/Mass Spectroscopy.md"
   ]
 }
