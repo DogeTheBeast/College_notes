@@ -40,11 +40,19 @@ $${\LARGE Number_of_Neutrons = A - Z}$$
 Nuclide refers to the any particular kind of nucleus. For example, a nucleus of atomic number 7 is a nuclide of nitrogen. 
 
 
+# Atomic Mass Unit
+
+It is 1/12 of the mass of an unbound neutral atom of [[Carbon]]-12 in its nuclear and electronic [ground state] and at rest.
+
+It is denoted by u and is roughly equal to ${1.66053906660(50)×10−27 kg}$.
+
+Therefore the mass of 1 [[Carbon]] atom is 12 times the mass of the amu and the mass of all other elements is with reference to the mass of the [[Carbon]]-12 atom.
+
 # Isotopes
 
 Isotopes are elements with the same atomic Number but different mass number. This means that they have a different number of neutrons but same number of protons.
 
-```markdown
+
 |  Element | Symbol | Atomic Mass (amu) | Isotope Mass Number | Isotope Masses (amu) | Percent Abundances (%) |
 |:--------:|:------:|:-----------------:|:-------------------:|:--------------------:|:----------------------:|
 | hydrogen |    H   |       1.0079      |          1          |       1.007825       |         99.9855        |
@@ -63,7 +71,6 @@ Isotopes are elements with the same atomic Number but different mass number. Thi
 |  uranium |    U   |       238.03      |         234         |      234.040952      |         0.0054         |
 |          |        |                   |         235         |      235.043930      |         0.7204         |
 |          |        |                   |         238         |      238.050788      |         99.274         |
-```
 
 ---
 Read also - 
