@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "335d832c516a733a",
+        "id": "63df1a5a5c891250",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,8 +82,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "335d832c516a733a",
+  "active": "63df1a5a5c891250",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20211114.md",
+    "Day Planners/Day Planner-20211113.md",
     "APSC 100/Complexity of a system.md",
     "CHEM 154/Unit 1/Atomic Mass Unit.md",
     "CHEM 154/Unit 1/Isotopes.md",
@@ -91,8 +93,6 @@
     "CHEM 154/Unit 1/The Nuclear Atom.md",
     "CHEM 154/Unit 1/Mass Spectroscopy.md",
     "CHEM 154/Unit 7/First Law of Thermodynamics.md",
-    "Laws of thermodynamics.md",
-    "PHY 157/Thermodynamics/Thermodynamics.md",
-    "Extras/Excalidraw/Drawing 2021-11-11 16.10.06.excalidraw.md"
+    "Laws of thermodynamics.md"
   ]
 }
