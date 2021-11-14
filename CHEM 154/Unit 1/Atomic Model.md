@@ -14,7 +14,11 @@ To balance out the charge of the electron, there exists a particle called proton
 # Neutron
 Neutrons are the only particles without any charge present on them and only have mass as their property. The have the same mass as protons and are located inside the nucleus.
 
-# Properties of Elementary 
+# Properties of Elementary particles
+
+| Name of particle | Charge | Mass |
+| ---------------- | ------ | ---- |
+|                  |        |      |
 
 
 ---
