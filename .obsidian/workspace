@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1a5008801383dcf6",
+        "id": "24fe7de1c65be05c",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -114,8 +114,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1a5008801383dcf6",
+  "active": "24fe7de1c65be05c",
   "lastOpenFiles": [
+    "Extras/Daily notes.md",
     "2021-11-14.md",
     "CHEM 154/General Stuff/Carbon.md",
     "Day Planners/Day Planner-20211114.md",
@@ -124,7 +125,6 @@
     "CHEM 154/Unit 1/Isotopes.md",
     "CHEM 154/Unit 5/Notation for organic molecules.md",
     "PHY 157/Thermodynamics/Thermal Radiation.md",
-    "FREN 101/Numbers (Les Nombres).md",
-    "CHEM 154/Unit 5/Functional Groups.md"
+    "FREN 101/Numbers (Les Nombres).md"
   ]
 }
