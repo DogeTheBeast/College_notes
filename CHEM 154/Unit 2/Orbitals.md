@@ -25,3 +25,5 @@ There are 4 types of sub orbitals
 So, if N = 1, the total number of electrons it can hold is 2. If N = 2, that shell can hold 2 (in s) and 6 (in p), a total of 8. This goes on for N = 3, 4 and so on.
 
 ![[energy of orbitals.jpg]]
+
+![[photon emission spectrum.jpg]]
