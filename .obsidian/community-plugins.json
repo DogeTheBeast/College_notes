@@ -13,5 +13,7 @@
   "obsidian-checklist-plugin",
   "url-into-selection",
   "obsidian-minimal-settings",
-  "find-unlinked-files"
+  "find-unlinked-files",
+  "obsidian-dictionary-plugin",
+  "recent-files-obsidian"
 ]
