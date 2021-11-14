@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 1/Atomic Model.md",
+            "file": "CHEM 154/Unit 2/Bonding.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 1/Atomic Model.md",
+                "file": "CHEM 154/Unit 2/Bonding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,15 +146,15 @@
   },
   "active": "179b0e0737da4520",
   "lastOpenFiles": [
+    "CHEM 154/Unit 2/Bonding.md",
+    "CHEM 154/Unit 2/Aufbau principle.md",
+    "CHEM 154/Unit 2/Atomic Radius.md",
     "CHEM 154/Unit 1/Atomic Model.md",
     "CHEM 154/Unit 2/Orbitals.md",
     "CHEM 154/Unit 1/Atomic Mass Unit.md",
     "CHEM 154/Unit 1/Mass Spectroscopy.md",
     "CHEM 154/Unit 1/Isotopes.md",
     "CHEM 154/Unit 1/The Nuclear Atom.md",
-    "Extras/Daily Notes/2021-11-14.md",
-    "Extras/Templates/Daily Notes Tempelate.md",
-    "Extras/Daily notes.md",
-    "2021-11-14.md"
+    "Extras/Daily Notes/2021-11-14.md"
   ]
 }
