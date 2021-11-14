@@ -11,5 +11,7 @@
   "obsidian-admonition",
   "nldates-obsidian",
   "obsidian-checklist-plugin",
-  "url-into-selection"
+  "url-into-selection",
+  "obsidian-minimal-settings",
+  "find-unlinked-files"
 ]
