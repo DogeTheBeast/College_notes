@@ -6,7 +6,10 @@ An atom is made up of 3 types of particles.
 - Neutrons
 
 # Electron
-Electron is the negatively charged particle which surrounds the nucleus by orbiting around it in different [[Orbitals]]. 
+Electron is the negatively charged particle which surrounds the nucleus by orbiting around it in different [[Orbitals]]. It is denoted by *e* and has a charge of -1. It has a negligible charge and 
+
+# Proton
+To balance out the charge of the electron, there exists a particle called proton which has
 
 
 ---
