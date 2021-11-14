@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 1/The Nuclear Atom.md",
+            "file": "APSC 100/Complexity of a system.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 1/The Nuclear Atom.md",
+                "file": "APSC 100/Complexity of a system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "be2faad138091d29",
   "lastOpenFiles": [
+    "APSC 100/Complexity of a system.md",
     "CHEM 154/Unit 1/The Nuclear Atom.md",
     "CHEM 154/Unit 1/Orbitals.md",
     "CHEM 154/Unit 1/Mass Spectroscopy.md",
@@ -96,7 +97,6 @@
     "CHEM 154/Unit 7/First Law of Thermodynamics.md",
     "Laws of thermodynamics.md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
-    "Extras/Excalidraw/Drawing 2021-11-11 16.10.06.excalidraw.md",
-    "Extras/Excalidraw/Drawing 2021-11-11 13.03.00.excalidraw.md"
+    "Extras/Excalidraw/Drawing 2021-11-11 16.10.06.excalidraw.md"
   ]
 }
