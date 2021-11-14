@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "ced8d0b2eb1fbe90",
+    "id": "b41e24cad0e9300f",
     "type": "split",
     "children": [
       {
-        "id": "d6321b32cf4ef11d",
+        "id": "be2faad138091d29",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CHEM 154/Unit 7/First Law of Thermodynamics.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "first law",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CHEM 154/Unit 7/First Law of Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,8 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6321b32cf4ef11d",
+  "active": "be2faad138091d29",
   "lastOpenFiles": [
+    "CHEM 154/Unit 7/First Law of Thermodynamics.md",
     "Laws of thermodynamics.md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
     "Extras/Excalidraw/Drawing 2021-11-11 16.10.06.excalidraw.md",
@@ -92,7 +98,6 @@
     "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
     "PHY 157/Thermodynamics/Thermal Radiation.md",
     "PHY 157/Thermodynamics/Thermal Expansion.md",
-    "PHY 157/Electromagnetic Wave/Electromagnetic wave properties.md",
-    "PHY 157/Stress and Strain/Relating Stress, Strain and Thermal Expansion.md"
+    "PHY 157/Electromagnetic Wave/Electromagnetic wave properties.md"
   ]
 }
