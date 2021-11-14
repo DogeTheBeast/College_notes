@@ -2,5 +2,8 @@
   "obsidian-git",
   "obsidian-latex-environments",
   "obsidian-excalidraw-plugin",
-  "obsidian-day-planner"
+  "obsidian-day-planner",
+  "calendar",
+  "table-editor-obsidian",
+  "sliding-panes-obsidian"
 ]
