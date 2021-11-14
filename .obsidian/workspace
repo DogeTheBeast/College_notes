@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c989f07e25e48305",
+        "id": "41859a32e520ba36",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CHEM 154/Unit 1/Atomic Model.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CHEM 154/Unit 1/Atomic Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +133,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.7157287597656
+    "width": 314.7157287597656,
+    "collapsed": true
   },
-  "active": "c989f07e25e48305",
+  "active": "41859a32e520ba36",
   "lastOpenFiles": [
+    "CHEM 154/Unit 1/Atomic Model.md",
     "Extras/Daily Notes/2021-11-14.md",
     "Extras/Templates/Daily Notes Tempelate.md",
     "Extras/Daily notes.md",
@@ -141,7 +147,6 @@
     "Day Planners/Day Planner-20211114.md",
     "CHEM 154/Unit 5/Polymers.md",
     "CHEM 154/Unit 1/Atomic Mass Unit.md",
-    "CHEM 154/Unit 1/Isotopes.md",
-    "CHEM 154/Unit 5/Notation for organic molecules.md"
+    "CHEM 154/Unit 1/Isotopes.md"
   ]
 }
