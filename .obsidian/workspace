@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "69e6c910c824792c",
+        "id": "c989f07e25e48305",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -121,7 +121,7 @@
               "type": "markdown",
               "state": {
                 "file": "Extras/Daily Notes/2021-11-14.md",
-                "mode": "source"
+                "mode": "preview"
               }
             }
           }
@@ -129,9 +129,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 314.7157287597656
   },
-  "active": "69e6c910c824792c",
+  "active": "c989f07e25e48305",
   "lastOpenFiles": [
     "Extras/Daily Notes/2021-11-14.md",
     "Extras/Templates/Daily Notes Tempelate.md",
