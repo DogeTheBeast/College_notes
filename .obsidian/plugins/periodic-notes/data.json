@@ -4,7 +4,7 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "extras",
+    "template": "Extras/Templates/Daily Notes Tempelate.md",
     "folder": "Extras/Daily Notes",
     "enabled": true
   },

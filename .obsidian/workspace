@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "24fe7de1c65be05c",
+        "id": "fae903a9f5551f5f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Extras/Templates/Daily Notes Tempelate.md",
+            "file": "Extras/Daily Notes/2021-11-14.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.0036334991455
+    "width": 284.0036334991455
   },
   "right": {
     "id": "7ba8a47061505297",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Daily Notes Tempelate.md",
+                "file": "Extras/Daily Notes/2021-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,10 +118,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "24fe7de1c65be05c",
+  "active": "fae903a9f5551f5f",
   "lastOpenFiles": [
-    "Extras/Templates/Daily Notes Tempelate.md",
     "Extras/Daily Notes/2021-11-14.md",
+    "Extras/Templates/Daily Notes Tempelate.md",
     "Extras/Daily notes.md",
     "2021-11-14.md",
     "CHEM 154/General Stuff/Carbon.md",
