@@ -1,2 +1,3 @@
 ## Day Planner
-- Make n
+- Make notes for CHEM 154 MID TERM.
+- 
