@@ -110,9 +110,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "412073648354cb85",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "73f87ef3e625f410",
@@ -133,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.7157287597656,
-    "collapsed": true
+    "width": 314.7157287597656
   },
   "active": "ef4ec5edced3a3c1",
   "lastOpenFiles": [
