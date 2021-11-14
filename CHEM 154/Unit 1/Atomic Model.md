@@ -34,7 +34,7 @@ Atomic number is the number of protons present inside an atom of an element. It 
 ## Mass Number (A)
 Mass number is the sum of the number of protons and neutrons present inside an atom of an element. It is denoted by *A* and is used in the formula,
 
-$${\LARGE N= A - Z}$$
+$${\LARGE N = A - Z}$$
 
 where, *N* is the Number of neutrons present.
 
