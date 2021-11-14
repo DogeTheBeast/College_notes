@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fae903a9f5551f5f",
+        "id": "69e6c910c824792c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Extras/Daily Notes/2021-11-14.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Daily Notes/2021-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +109,29 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "73f87ef3e625f410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fae903a9f5551f5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Daily Notes/2021-11-14.md",
+                "mode": "source"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fae903a9f5551f5f",
+  "active": "69e6c910c824792c",
   "lastOpenFiles": [
     "Extras/Daily Notes/2021-11-14.md",
     "Extras/Templates/Daily Notes Tempelate.md",
