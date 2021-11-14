@@ -46,7 +46,9 @@ Nuclide refers to the any particular kind of nucleus. For example, a nucleus of 
 
 It is 1/12 of the mass of an unbound neutral atom of [[Carbon]]-12 in its nuclear and electronic [ground state] and at rest.
 
-It is denoted by u and is roughly equal to ${1.66053906660 \times 10^{−27} kg}$.
+It is denoted by u and is roughly equal to 
+
+${\LARGE 1 amu = 1.66053906660 \times 10^{−27} kg}$.
 
 Therefore the mass of 1 [[Carbon]] atom is 12 times the mass of the amu and the mass of all other elements is with reference to the mass of the [[Carbon]]-12 atom.
 
@@ -74,5 +76,15 @@ Isotopes are elements with the same atomic Number but different mass number. Thi
 |          |        |                   |         235         |      235.043930      |         0.7204         |
 |          |        |                   |         238         |      238.050788      |         99.274         |
 
+# Mass Spectroscopy
+
+It is the process of measuring the mass of an element by accelerating the atoms and them looking at how much they deflect in a magnetic field.
+
+1. First, electrons are removed from or added to atoms or molecules, thus producing charged particles called ions. 
+2. When an electric field is applied, the ions are accelerated into a separate chamber where they are deflected from their initial trajectory by a magnetic field, like the electrons in Thomson’s experiment.
+3.   The extent of the deflection depends on the mass-to-charge ratio of the ion. By measuring the relative deflection of ions that have the same charge, scientists can determine their relative masses.
+
+ ![[schematic-of-mass-spectrometer.jpg]]
+ 
 ---
 Read also - 
