@@ -16,11 +16,11 @@ Neutrons are the only particles without any charge present on them and only have
 
 # Properties of Elementary particles
 
-| Name of particle | Charge                       | Mass                        |     |
-| ---------------- | ---------------------------- | --------------------------- | --- |
-| Electron         | ${-1.60217662 × 10^{-19} C}$ | ${9.10938356 × 10^{-31}kg}$ |     |
-| Proton           | ${1.60217662 × 10^{-19} C}$  | ${1.6726219 × 10^{-27} kg}$ |     |
-| Neutron          | ${0}$                        | ${1.6726219 × 10^{-27} kg}$ |     |
+| Name of particle | Charge                       | Mass                        | 
+| ---------------- | ---------------------------- | --------------------------- | 
+| Electron         | ${-1.60217662 × 10^{-19} C}$ | ${9.10938356 × 10^{-31}kg}$ |
+| Proton           | ${1.60217662 × 10^{-19} C}$  | ${1.6726219 × 10^{-27} kg}$ |
+| Neutron          | ${0}$                        | ${1.6726219 × 10^{-27} kg}$ |
 
 
 ---
