@@ -81,8 +81,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
