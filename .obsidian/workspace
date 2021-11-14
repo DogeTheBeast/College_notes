@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "APSC 100/Complexity of a system.md",
-            "mode": "source"
+            "file": "CHEM 154/Unit 1/Orbitals.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APSC 100/Complexity of a system.md",
+                "file": "CHEM 154/Unit 1/Orbitals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "be2faad138091d29",
   "lastOpenFiles": [
+    "CHEM 154/Unit 1/Orbitals.md",
     "APSC 100/Complexity of a system.md",
     "CHEM 154/Unit 1/The Nuclear Atom.md",
-    "CHEM 154/Unit 1/Orbitals.md",
     "CHEM 154/Unit 1/Mass Spectroscopy.md",
     "CHEM 154/Unit 1/Isotopes.md",
     "CHEM 154/Unit 1/Atomic Mass Unit.md",
