@@ -32,8 +32,12 @@ Initiation is the process of generating a free radical by removing one electron 
 
 Examples of Initiaors includes,
 
+![[initiators.png]]
 
 #### Propogation - Number of radicals remains constant
+
+
+
 
 #### Termination - Number of radicals decreases
 
