@@ -29,7 +29,7 @@ The most stable Lewis structure
 3. Place two electrons in each bond of the skeletal structure.
 4. Place the remaining valence electrons not accounted for in Step 2 as lone paiirs on individual atoms until the octet rule is satisfied.
 5. Form multiple bonds as needed to complete octets and account for all valence electrons.
-6. Label the formal charges
+6. Label the formal charges. (The sum of the formal charges is equal to the overall molecular charge)
 
 
 
@@ -51,6 +51,30 @@ Molecules with an odd number of electrons will have an unpaired electron. These 
 Elements on the third row of the periodic table and below can expand their octet. Terminal atoms are not hypervalent. Example,
 
 ![[PCl5.png]]
+
+
+# Resonance Structures
+
+Resonance structures are structures which can exist for a compound but the actual compound is in a state which is in the middle of the resonance structures. Resonance structures only differ from one another only in the placement of electrons, but all show the same arrangement of atoms themselves.
+
+
+![[resonance structures.png]]
+
+
+## Rules for drawing resonance structures
+- only electrons can be moved - nuclei never move in resonance structures.
+- Total number of electrons in system is constant, total charge in system is constant.
+- All structures should be proper Lweis structures.
+- Look for lone pairs and double-bond electrons. These move in resonance structures.
+
+
+![[resonance structure example.png]]
+
+## Best Resonance Structures
+The same rules as [[Lewis Dot Structure]].
+
+
+
 
 # CHEM 154 Rules
 - If multiple hypervalent resonance structures are possible, only those having positive or zero formal charges on the central atom are considered valid.
