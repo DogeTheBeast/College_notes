@@ -45,6 +45,16 @@ In propogation, a growing chain reacts with a monomeric unit, extending the leng
 
 Termination is when the number of free radicals decreases and the polymer chain stops growing. This happens when 2 polymer chains meet or a polymer chain meets with an initiator.
 
+![[termination.png]]
+
+
+#
+
+
+
+
+
+
 
 ---
 Read also - 
