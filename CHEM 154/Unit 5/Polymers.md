@@ -36,6 +36,8 @@ Examples of Initiaors includes,
 
 #### Propogation - Number of radicals remains constant
 
+In propogation, a growing chain reacts with a monomeric unit, extending the length of the polymer. No overall change in number of radical species.
+
 
 
 
