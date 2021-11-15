@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f895d5094b22e950",
+        "id": "a0c4ce7c3404d78c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CHEM 154/Unit 2/Electronic Structure.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 2/Electronic Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,8 +124,9 @@
     "width": 314.7157287597656,
     "collapsed": true
   },
-  "active": "f895d5094b22e950",
+  "active": "a0c4ce7c3404d78c",
   "lastOpenFiles": [
+    "Untitled.md",
     "CHEM 154/Unit 2/Electronic Structure.md",
     "CHEM 154/Unit 2/Valence Electrons.md",
     "CHEM 154/Unit 2/Electronic Configuration.md",
@@ -138,7 +135,6 @@
     "CHEM 154/Periodic Table/Period.md",
     "CHEM 154/Periodic Table/Periodic Table.md",
     "CHEM 154/Unit 2/Lattice Energy.md",
-    "CHEM 154/Unit 2/Isoelectric.md",
-    "CHEM 154/Unit 2/Ionization energy.md"
+    "CHEM 154/Unit 2/Isoelectric.md"
   ]
 }
