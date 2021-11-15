@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 5/Functional Groups.md",
+            "file": "CHEM 154/Unit 5/Notation for organic molecules.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 5/Functional Groups.md",
+                "file": "CHEM 154/Unit 5/Notation for organic molecules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
   },
   "active": "9f92256f329d9cb5",
   "lastOpenFiles": [
+    "CHEM 154/Unit 5/Notation for organic molecules.md",
     "CHEM 154/Unit 5/Functional Groups.md",
     "CHEM 154/Unit 4/Phases of Matter.md",
     "CHEM 154/Unit 4/Vapor Pressure.md",
@@ -138,7 +139,6 @@
     "CHEM 154/Unit 3/Polarity.md",
     "CHEM 154/Unit 3/VSEPR.md",
     "CHEM 154/Unit 3/Lewis Dot Structure.md",
-    "CHEM 154/Unit 3/Resonance Structures.md",
-    "Extras/Daily Notes/2021-11-14.md"
+    "CHEM 154/Unit 3/Resonance Structures.md"
   ]
 }
