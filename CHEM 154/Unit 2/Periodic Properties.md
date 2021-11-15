@@ -7,7 +7,10 @@ Atomic radius is directly related to the amount of electrons that are present in
 ![[Atomic-Radius.png]]
 
 
-## Effective Nuclear Charge (${})
+## Effective Nuclear Charge (${Z_{eff}}$)
+
+
+
 
 ---
 Read also - 

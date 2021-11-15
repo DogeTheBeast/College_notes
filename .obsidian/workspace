@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 2/Periodic Properties.md",
+            "file": "CHEM 154/Unit 2/Effective Nuclear Charge.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 2/Periodic Properties.md",
+                "file": "CHEM 154/Unit 2/Effective Nuclear Charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
   },
   "active": "a0c4ce7c3404d78c",
   "lastOpenFiles": [
+    "CHEM 154/Unit 2/Effective Nuclear Charge.md",
     "CHEM 154/Unit 2/Periodic Properties.md",
     "CHEM 154/Unit 2/Atomic Radius.md",
     "Untitled.md",
@@ -138,7 +139,6 @@
     "CHEM 154/Unit 2/Electronic Configuration.md",
     "CHEM 154/Unit 2/Orbitals.md",
     "CHEM 154/Periodic Table/Group.md",
-    "CHEM 154/Periodic Table/Period.md",
-    "CHEM 154/Periodic Table/Periodic Table.md"
+    "CHEM 154/Periodic Table/Period.md"
   ]
 }
