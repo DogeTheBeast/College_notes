@@ -9,7 +9,7 @@ Electrons which aren't present in the valence shell are called the [[core electr
 
 ![[Valence electrons.jpeg]]
 
-
+![[electron distribution.png]]
 
 
 ## Orbitals
