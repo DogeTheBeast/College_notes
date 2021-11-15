@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Periodic Table/Periodic Table.md",
+            "file": "CHEM 154/Periodic Table/Group.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Periodic Table/Periodic Table.md",
+                "file": "CHEM 154/Periodic Table/Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,9 +130,9 @@
   },
   "active": "f895d5094b22e950",
   "lastOpenFiles": [
-    "CHEM 154/Periodic Table/Periodic Table.md",
     "CHEM 154/Periodic Table/Group.md",
     "CHEM 154/Periodic Table/Period.md",
+    "CHEM 154/Periodic Table/Periodic Table.md",
     "CHEM 154/Unit 2/Valence Electrons.md",
     "CHEM 154/Unit 2/Orbitals.md",
     "CHEM 154/Unit 2/Lattice Energy.md",
