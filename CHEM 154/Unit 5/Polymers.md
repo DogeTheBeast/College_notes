@@ -28,7 +28,10 @@ The steps can be broken down into 3 major steps.
 
 #### Initiation - Number of radicals increases
 
-Initiation is the process of generating a free radical by removing one electron from a compound.
+Initiation is the process of generating a free radical by removing one electron from a compound. Radicals are generally abbreviated as ${R \cdot}$, where the dot represents the unpaired electron.
+
+Examples of Initiaors includes,
+
 
 #### Propogation - Number of radicals remains constant
 
