@@ -26,13 +26,13 @@ Addition reactions occue when two or more molecules join to form a larger molecu
 
 The steps can be broken down into 3 major steps.
 
-- #### Initiation - Number of radicals increases
+#### Initiation - Number of radicals increases
 
 Initiation is the process of generating a free radical by removing one electron from a compound.
 
-- #### Propogation - Number of radicals remains constant
+#### Propogation - Number of radicals remains constant
 
-- #### Termination - Number of radicals decreases
+#### Termination - Number of radicals decreases
 
 
 
