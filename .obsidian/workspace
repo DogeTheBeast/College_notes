@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 2/Periodic Properties.md",
+            "file": "CHEM 154/Unit 2/Bonding.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 2/Periodic Properties.md",
+                "file": "CHEM 154/Unit 2/Bonding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +130,15 @@
   },
   "active": "a0c4ce7c3404d78c",
   "lastOpenFiles": [
+    "CHEM 154/Unit 2/Bonding.md",
+    "CHEM 154/Unit 2/Electronic Structure.md",
+    "CHEM 154/Unit 2/Ionization energy.md",
+    "CHEM 154/Unit 2/Isoelectric.md",
+    "CHEM 154/Unit 2/Lattice Energy.md",
     "CHEM 154/Unit 2/Periodic Properties.md",
     "CHEM 154/Unit 2/Electronegativity.md",
     "CHEM 154/Unit 2/Electron Affinity.md",
-    "CHEM 154/Unit 2/Ionization energy.md",
     "CHEM 154/Unit 2/Effective Nuclear Charge.md",
-    "CHEM 154/Unit 2/Atomic Radius.md",
-    "Untitled.md",
-    "CHEM 154/Unit 2/Electronic Structure.md",
-    "CHEM 154/Unit 2/Valence Electrons.md",
-    "CHEM 154/Unit 2/Electronic Configuration.md"
+    "CHEM 154/Unit 2/Atomic Radius.md"
   ]
 }
