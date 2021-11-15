@@ -27,6 +27,9 @@ The most stable Lewis structure
 	2. Hydrogen is always a terminal atom.
 	3. Unless told otherwise, do not form rings.
 3. Place two electrons in each bond of the skeletal structure.
+4. Place the remaining valence electrons not accounted for in Step 2 as lone paiirs on individual atoms until the octet rule is satisfied.
+5. Form multiple bonds as needed to complete octets and account for all valence electrons.
+6. Label the formal charges
 
 
 
