@@ -52,8 +52,16 @@ Termination is when the number of free radicals decreases and the polymer chain 
 
 Degree of polymerization (DP) is the number of repeating units in a polymer chain. For example,
 
-| Structure | DP  | 
-| --------- | --- |
+| Structure | DP    |
+| --------- | ----- |
+| Dimer     | 2     |
+| Trimer    | 3     |
+| Tetramer  | 4     |
+| Pentamer  | 5     |
+| Oligomer  | Small |
+| Polymer   | Large |
+
+
 
 
 
