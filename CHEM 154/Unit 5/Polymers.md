@@ -62,6 +62,10 @@ Degree of polymerization (DP) is the number of repeating units in a polymer chai
 | Polymer   | Large |
 
 
+## Molecular Weight Distribution
+
+
+
 
 
 
