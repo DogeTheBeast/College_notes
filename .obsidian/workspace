@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d799bac9e627e409",
+        "id": "53153fc3b54e42c3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 3/Lewis Dot Structure.md",
+            "file": "Extras/Daily Notes/2021-11-14.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 3/Lewis Dot Structure.md",
+                "file": "Extras/Daily Notes/2021-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,11 +125,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.7157287597656,
-    "collapsed": true
+    "width": 314.7157287597656
   },
-  "active": "d799bac9e627e409",
+  "active": "53153fc3b54e42c3",
   "lastOpenFiles": [
+    "Extras/Daily Notes/2021-11-14.md",
+    "Extras/Daily Notes/2021-11-15.md",
     "CHEM 154/Unit 3/Lewis Dot Structure.md",
     "CHEM 154/Unit 3/Polarity.md",
     "CHEM 154/Unit 2/Bonding.md",
@@ -137,8 +138,6 @@
     "CHEM 154/Unit 2/Periodic Properties.md",
     "CHEM 154/Unit 3/Resonance Structures.md",
     "CHEM 154/Unit 2/Electronic Configuration.md",
-    "CHEM 154/Unit 2/Atomic Radius.md",
-    "CHEM 154/Unit 2/Effective Nuclear Charge.md",
-    "CHEM 154/Unit 2/Electronegativity.md"
+    "CHEM 154/Unit 2/Atomic Radius.md"
   ]
 }
