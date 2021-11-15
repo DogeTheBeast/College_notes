@@ -10,6 +10,35 @@ Atomic radius is directly related to the amount of electrons that are present in
 ## Effective Nuclear Charge (${Z_{eff}}$)
 
 
+Effective nuclear charge is the nuclear charge experienced by [[Valence Electrons]]. The effective nuclear charge is less than the actual nuclear charge due to the [[electron shielding]] effect of the core electrons.
+
+It is a theoretical value which is calculated by subtracting the electron shielding effect from the acutal nuclear charge experienced by the valence electrons.
+
+${Z_{eff} = Z-S}$
+
+where,
+${Z_{eff}}$ = effective nuclear charge
+Z = Number of protons in the nucleus (atomic number)
+S = Shielding constant
+
+
+![[effective nulcear charge.png]]
+
+
+## Ionization Energy
+
+
+Ionization energy is the minimum energy required to remove a single electrons from an atom, molecule or ion in its gaseous state.
+
+${X-> X^+ + e^-}$
+														
+Fluorine has the highest ionization energy because it has the greatest [[Effective Nuclear Charge]] meaning that it is difficult to remove electrons from fluorine. Noble gases have the highest ionization energy because they have a stable octet and don't want to lose any electrons. 
+
+
+![[ionization energy.jpg]]
+
+## Electron Affinity
+
 
 
 ---
