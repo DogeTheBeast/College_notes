@@ -38,12 +38,12 @@ Examples of Initiaors includes,
 
 In propogation, a growing chain reacts with a monomeric unit, extending the length of the polymer. No overall change in number of radical species.
 
-
+![[propogation.png]]
 
 
 #### Termination - Number of radicals decreases
 
-
+Termination is when the number of free radicals decreases and the 
 
 
 ---
