@@ -19,6 +19,14 @@ The most stable Lewis structure
 - is the one with the least non-zero formal charges. 
 - is the one with the negative charge on the most electronegative atom and positive charge on the least electronegative atom.
 
+## Steps to draw a Lewis Structure
+
+1. Count the number of Valence electrons in the molecule or ion.
+2. Draw the skeletal strcuture of the molecule
+	1. The least electronegative atom is generally the central atom.
+	2. 
+
+
 
 ## Exceptions to the Octet Rule
 
