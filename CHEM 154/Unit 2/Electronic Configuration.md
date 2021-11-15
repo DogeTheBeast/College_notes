@@ -6,3 +6,5 @@ The [[electrons]] in the atom are arranged in [[Orbitals]] while following a spe
 Maximum of 2 electrons can be assigned to any one orbital and the electrons must have opposite spins.
 # [[Aufbau Principle]] 
 Electrons fill the orbital with the lowest energy first.
+
+![[energy of orbitals.jpg]]
