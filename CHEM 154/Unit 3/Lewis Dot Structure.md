@@ -70,11 +70,6 @@ Resonance structures are structures which can exist for a compound but the actua
 
 ![[resonance structure example.png]]
 
-## Best Resonance Structures
-The same rules as [[Lewis Dot Structure]].
-
-
-
 
 # CHEM 154 Rules
 - If multiple hypervalent resonance structures are possible, only those having positive or zero formal charges on the central atom are considered valid.
