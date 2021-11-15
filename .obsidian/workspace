@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 1/Atomic Model.md",
+            "file": "CHEM 154/Unit 7/First Law of Thermodynamics.md",
             "mode": "preview"
           }
         }
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1eb160adeb488707",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 1/Atomic Model.md",
+                "file": "CHEM 154/Unit 7/First Law of Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +146,7 @@
   },
   "active": "59d431433f4149bc",
   "lastOpenFiles": [
+    "CHEM 154/Unit 7/First Law of Thermodynamics.md",
     "CHEM 154/Unit 1/Atomic Model.md",
     "Extras/Daily Notes/2021-11-15.md",
     "Extras/Daily Notes/2021-11-14.md",
@@ -153,7 +155,6 @@
     "CHEM 154/Unit 2/Aufbau principle.md",
     "CHEM 154/Unit 2/Atomic Radius.md",
     "CHEM 154/Unit 2/Effective Nuclear Charge.md",
-    "CHEM 154/Unit 2/Electron Affinity.md",
-    "CHEM 154/Unit 2/Electronegativity.md"
+    "CHEM 154/Unit 2/Electron Affinity.md"
   ]
 }
