@@ -24,7 +24,9 @@ The most stable Lewis structure
 1. Count the number of Valence electrons in the molecule or ion.
 2. Draw the skeletal strcuture of the molecule
 	1. The least electronegative atom is generally the central atom.
-	2. 
+	2. Hydrogen is always a terminal atom.
+	3. Unless told otherwise, do not form rings.
+3. Place two electrons in each bond of the skeletal structure.
 
 
 
