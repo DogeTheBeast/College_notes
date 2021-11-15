@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 2/Bonding.md",
+            "file": "CHEM 154/Unit 3/Polarity.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 2/Bonding.md",
+                "file": "CHEM 154/Unit 3/Polarity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +130,15 @@
   },
   "active": "16b8f0b26c28bc6c",
   "lastOpenFiles": [
+    "CHEM 154/Unit 3/Polarity.md",
     "CHEM 154/Unit 2/Bonding.md",
+    "CHEM 154/Unit 2/Electronic Configuration.md",
     "CHEM 154/Unit 2/Lattice Energy.md",
     "CHEM 154/Unit 2/Atomic Radius.md",
     "CHEM 154/Unit 2/Effective Nuclear Charge.md",
     "CHEM 154/Unit 2/Electronegativity.md",
     "CHEM 154/Unit 2/Ionization energy.md",
     "CHEM 154/Unit 2/Electronic Structure.md",
-    "CHEM 154/Unit 2/Electronic Configuration.md",
-    "CHEM 154/Unit 2/Isoelectric.md",
-    "CHEM 154/Unit 2/Orbitals.md"
+    "CHEM 154/Unit 2/Isoelectric.md"
   ]
 }
