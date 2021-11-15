@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 7/First Law of Thermodynamics.md",
-            "mode": "preview"
+            "file": "CHEM 154/Unit 2/Electronic Configuration.md",
+            "mode": "source"
           }
         }
       }
@@ -24,7 +24,6 @@
       {
         "id": "502b605831329a15",
         "type": "tabs",
-        "dimension": 65.5323819978046,
         "children": [
           {
             "id": "c7325059fbdf765e",
@@ -49,22 +48,6 @@
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1eb160adeb488707",
-        "type": "tabs",
-        "dimension": 34.46761800219539,
-        "children": [
-          {
-            "id": "b4fdb5affcc0387e",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
         ]
       }
     ],
@@ -85,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 7/First Law of Thermodynamics.md",
+                "file": "CHEM 154/Unit 2/Electronic Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,15 +125,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.7157287597656
+    "width": 314.7157287597656,
+    "collapsed": true
   },
   "active": "59d431433f4149bc",
   "lastOpenFiles": [
+    "CHEM 154/Unit 2/Electronic Configuration.md",
     "CHEM 154/Unit 7/First Law of Thermodynamics.md",
     "CHEM 154/Unit 1/Atomic Model.md",
     "Extras/Daily Notes/2021-11-15.md",
     "Extras/Daily Notes/2021-11-14.md",
-    "CHEM 154/Unit 2/Electronic Configuration.md",
     "CHEM 154/Unit 2/Bonding.md",
     "CHEM 154/Unit 2/Aufbau principle.md",
     "CHEM 154/Unit 2/Atomic Radius.md",
