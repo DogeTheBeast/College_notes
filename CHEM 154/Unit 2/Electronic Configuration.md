@@ -24,4 +24,3 @@ The 3d oribital has less energy than 4s orbital for atomic number less than 30. 
 Chromium - ${[Ar] 4s^1 3d^5}$
 Copper - ${[Ar] 4s^1 3d^{10}}$
 
-# Periodic Table
