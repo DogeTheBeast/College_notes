@@ -12,7 +12,7 @@ Atomic radius is directly related to the amount of electrons that are present in
 Isoelectic atoms are atoms and ions with the same number electrons but different [[Atomic Number]] and mass number. 
 
 ### Atomic radius for Isoelectronic species
-In a set of isoelectronic species, the most negative species has the largest radius because 
+In a set of isoelectronic species, the most negative species has the largest radius because the repulsion from the electrons is more than the effective nulcear charge experienced by the valence electrons.
 
 ## Effective Nuclear Charge (${Z_{eff}}$)
 
