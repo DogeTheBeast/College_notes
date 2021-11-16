@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
+            "file": "CHEM 154/Unit 7/Work.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
+                "file": "CHEM 154/Unit 7/Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "eea05c6bd3f36c74",
   "lastOpenFiles": [
+    "CHEM 154/Unit 7/Work.md",
+    "CHEM 154/Unit 7/Internal Energy.md",
+    "CHEM 154/Unit 7/Heat Capacity.md",
+    "CHEM 154/Unit 7/First Law of Thermodynamics.md",
     "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
     "CHEM 154/Unit 6/Real Gas.md",
     "PHY 157/Thermodynamics/Ideal Gas.md",
     "CHEM 154/Unit 5/Polymers.md",
     "Extras/Daily Notes/2021-11-14.md",
-    "Extras/Excalidraw/Drawing 2021-11-15 22.04.13.excalidraw.md",
-    "Extras/Excalidraw/Drawing 2021-11-11 16.10.06.excalidraw.md",
-    "Extras/Excalidraw/Drawing 2021-11-11 13.03.00.excalidraw.md",
-    "CHEM 154/Unit 3/Lewis Dot Structure.md",
-    "CHEM 154/Unit 2/Periodic Properties.md"
+    "Extras/Excalidraw/Drawing 2021-11-15 22.04.13.excalidraw.md"
   ]
 }
