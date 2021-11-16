@@ -51,7 +51,9 @@ The requirements for the enthalpy change to be standard enthalpy of formation ar
 - Gases are at 1 atm (101325 Pa).
 - Solutions are at 1 Molar concentration.
 
-Standard Enthalpy of formation for elements in standard states is 0.
+Standard Enthalpy of formation for elements in standard states (at room temperature and pressure and only 1 mole) is 0.
+
+$${\Delta H^o}
 
 ---
 Read also - 
