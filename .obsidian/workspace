@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 5/Polymers.md",
+            "file": "CHEM 154/Unit 2/Bonding.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 5/Polymers.md",
+                "file": "CHEM 154/Unit 2/Bonding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +138,8 @@
   },
   "active": "873297de42df25df",
   "lastOpenFiles": [
+    "CHEM 154/Unit 2/Bonding.md",
+    "CHEM 154/Unit 1/Atomic Model.md",
     "CHEM 154/Unit 5/Polymers.md",
     "CHEM 154/General Stuff/Carbon.md",
     "CHEM 154/Unit 5/Notation for organic molecules.md",
@@ -145,8 +147,6 @@
     "CHEM 154/Unit 4/Phases of Matter.md",
     "CHEM 154/Unit 4/Vapor Pressure.md",
     "CHEM 154/Unit 4/Intermolecular Forces.md",
-    "CHEM 154/Unit 4/Hydrocarbons.md",
-    "CHEM 154/Unit 3/Polarity.md",
-    "CHEM 154/Unit 3/VSEPR.md"
+    "CHEM 154/Unit 4/Hydrocarbons.md"
   ]
 }
