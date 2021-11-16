@@ -6,3 +6,6 @@ Moieties (each of two parts into which a thing is or can be divided) in a molecu
 An "R" substituent denotes a part of a molecule that is not relevant to the reactivity being discussed.
 
 ![[functional groups.png]]
+
+---
+Read also - [[Notation for organic molecules]]		[[Polymers]]	[[Hydrocarbons]]

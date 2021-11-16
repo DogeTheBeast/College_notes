@@ -30,4 +30,4 @@ Vapour pressure is defined as the pressure exerted by a vapor in thermodynamic e
 
 
 ---
-Re
+Read also - [[Hydrocarbons]]	[[Intermolecular Forces]]
