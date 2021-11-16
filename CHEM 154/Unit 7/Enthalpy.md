@@ -33,7 +33,7 @@ $${\Delta H<0}$$
 
 ## Hess' Law
 
-As enthalpy isHess' Law states that the sum of ${\Delta H}$ for all steps gives the overall reaction enthalpy.
+As enthalpy is a states function, Hess' Law states that the sum of ${\Delta H}$ for all steps gives the overall reaction enthalpy.
 
 ![[Hess_Law.png]]
 
