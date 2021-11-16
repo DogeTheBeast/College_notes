@@ -107,6 +107,5 @@ Polar polymers such as Polyvinyl alcohol are hydrophilic, meaning that it can be
 
 
 
-
 ---
 Read also - 
