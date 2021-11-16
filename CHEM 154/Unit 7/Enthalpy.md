@@ -33,6 +33,8 @@ $${\Delta H<0}$$
 
 ## Hess' Law
 
+Hess' Law states that the sum of 
+
 ![[Hess_Law.png]]
 
 $${\LARGE \Delta H = \Delta H_1 +\Delta H_2 +\Delta H_3}$$
