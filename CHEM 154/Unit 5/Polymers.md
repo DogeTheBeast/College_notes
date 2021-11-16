@@ -107,4 +107,4 @@ Polar polymers such as Polyvinyl alcohol are hydrophilic, meaning that it can be
 
 
 ---
-Read also - 
+Read also - [[Functional Groups]]	[[Notation for organic molecules]]		[[Hydrocarbons]]
