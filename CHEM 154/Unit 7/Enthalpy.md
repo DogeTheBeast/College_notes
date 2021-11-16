@@ -33,11 +33,16 @@ $${\Delta H<0}$$
 
 ## Hess' Law
 
-Hess' Law states that the sum of 
+Hess' Law states that the sum of ${\Delta H}$ for all steps gives the overall reaction enthalpy.
 
 ![[Hess_Law.png]]
 
 $${\LARGE \Delta H = \Delta H_1 +\Delta H_2 +\Delta H_3}$$
+
+
+## Standard Enthalpy of Formation
+
+Standard enthalpy of f
 
 ---
 Read also - 
