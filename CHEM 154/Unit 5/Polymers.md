@@ -89,7 +89,9 @@ Crosslinks are covalent bonds that connect 2 polymer chains with each other thro
 Crosslinking increases the molecular weight, the strength and the rigidity of the polymer. An example of this is Vulcanization of rubber of tyres.
 
 
-###
+### Hydrophobicity
+
+Hydrophobicity is the behaviour of polymers in 
 
 
 
