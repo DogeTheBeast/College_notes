@@ -9,16 +9,36 @@
       "path": "CHEM 154/Unit 7/First Law of Thermodynamics.md"
     },
     {
+      "basename": "Internal Energy",
+      "path": "CHEM 154/Unit 7/Internal Energy.md"
+    },
+    {
+      "basename": "Periodic Properties",
+      "path": "CHEM 154/Unit 2/Periodic Properties.md"
+    },
+    {
+      "basename": "Electronic Structure",
+      "path": "CHEM 154/Unit 2/Electronic Structure.md"
+    },
+    {
+      "basename": "Electronic Configuration",
+      "path": "CHEM 154/Unit 2/Electronic Configuration.md"
+    },
+    {
+      "basename": "Bonding",
+      "path": "CHEM 154/Unit 2/Bonding.md"
+    },
+    {
+      "basename": "Atomic Model",
+      "path": "CHEM 154/Unit 1/Atomic Model.md"
+    },
+    {
       "basename": "Heat Capacity",
       "path": "CHEM 154/Unit 7/Heat Capacity.md"
     },
     {
       "basename": "Real Gas",
       "path": "CHEM 154/Unit 6/Real Gas.md"
-    },
-    {
-      "basename": "Internal Energy",
-      "path": "CHEM 154/Unit 7/Internal Energy.md"
     },
     {
       "basename": "Ideal Gas Law (Chemistry)",
@@ -65,32 +85,12 @@
       "path": "CHEM 154/Unit 3/VSEPR.md"
     },
     {
-      "basename": "Bonding",
-      "path": "CHEM 154/Unit 2/Bonding.md"
-    },
-    {
       "basename": "Polarity",
       "path": "CHEM 154/Unit 3/Polarity.md"
     },
     {
       "basename": "Lewis Dot Structure",
       "path": "CHEM 154/Unit 3/Lewis Dot Structure.md"
-    },
-    {
-      "basename": "Periodic Properties",
-      "path": "CHEM 154/Unit 2/Periodic Properties.md"
-    },
-    {
-      "basename": "Electronic Structure",
-      "path": "CHEM 154/Unit 2/Electronic Structure.md"
-    },
-    {
-      "basename": "Electronic Configuration",
-      "path": "CHEM 154/Unit 2/Electronic Configuration.md"
-    },
-    {
-      "basename": "Atomic Model",
-      "path": "CHEM 154/Unit 1/Atomic Model.md"
     },
     {
       "basename": "Work",
