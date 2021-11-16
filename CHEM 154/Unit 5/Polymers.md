@@ -97,6 +97,8 @@ Hydrophobicity is the behaviour of polymers when they are dissolved in polar com
 
 Non polar polymers such as Polypropylene are hydrophobic, meaning that it can not be dissolved in water because it is non polar.
 
+![[polypropylene.jpg]]
+
 
 #### Hydrophilic (Water loving)
 
