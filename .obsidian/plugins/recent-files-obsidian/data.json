@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Polymers",
+      "path": "CHEM 154/Unit 5/Polymers.md"
+    },
+    {
       "basename": "First Law of Thermodynamics",
       "path": "CHEM 154/Unit 7/First Law of Thermodynamics.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Daily Notes Tempelate",
       "path": "Extras/Templates/Daily Notes Tempelate.md"
-    },
-    {
-      "basename": "Polymers",
-      "path": "CHEM 154/Unit 5/Polymers.md"
     }
   ],
   "omittedPaths": [],
