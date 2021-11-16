@@ -12,3 +12,7 @@
 
 ![[condensed lewis structure.png]]
 
+
+
+---
+Read also - [[Functional Groups]]	[[Polymers]]	[[Hydrocarbons]]
