@@ -5,8 +5,12 @@
       "path": "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md"
     },
     {
-      "basename": "Enthalpy",
-      "path": "CHEM 154/Unit 7/Enthalpy.md"
+      "basename": "Ideal Gas",
+      "path": "PHY 157/Thermodynamics/Ideal Gas.md"
+    },
+    {
+      "basename": "First Law of Thermodynamics",
+      "path": "CHEM 154/Unit 7/First Law of Thermodynamics.md"
     },
     {
       "basename": "Heat Capacity",
@@ -21,8 +25,8 @@
       "path": "CHEM 154/Unit 7/Work.md"
     },
     {
-      "basename": "First Law of Thermodynamics",
-      "path": "CHEM 154/Unit 7/First Law of Thermodynamics.md"
+      "basename": "Enthalpy",
+      "path": "CHEM 154/Unit 7/Enthalpy.md"
     },
     {
       "basename": "Real Gas",
@@ -87,10 +91,6 @@
     {
       "basename": "Atomic Model",
       "path": "CHEM 154/Unit 1/Atomic Model.md"
-    },
-    {
-      "basename": "Ideal Gas",
-      "path": "PHY 157/Thermodynamics/Ideal Gas.md"
     },
     {
       "basename": "2021-11-14",
