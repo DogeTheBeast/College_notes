@@ -35,3 +35,5 @@ Charge-dipole forces are forces that exist between ions in a sea of polar molecu
 
 ![[Charge-dipole.png]]
 
+--- 
+Read also - [[Hydrocarbons]]	[[Phases of Matter]]
