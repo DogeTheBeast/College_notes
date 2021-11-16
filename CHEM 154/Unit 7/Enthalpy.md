@@ -31,7 +31,9 @@ $${q_p<0}$$
 $${\Delta H<0}$$
 
 
-## Enthalpy of 
+## Hess' Law
+
+
 
 ---
 Read also - 
