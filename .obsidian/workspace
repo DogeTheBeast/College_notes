@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 1/Atomic Model.md",
+            "file": "CHEM 154/Unit 2/Electronic Structure.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 1/Atomic Model.md",
+                "file": "CHEM 154/Unit 2/Electronic Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "eea05c6bd3f36c74",
   "lastOpenFiles": [
+    "CHEM 154/Unit 2/Electronic Structure.md",
+    "CHEM 154/Unit 2/Electronic Configuration.md",
+    "CHEM 154/Unit 2/Bonding.md",
     "CHEM 154/Unit 1/Atomic Model.md",
     "CHEM 154/Unit 7/Work.md",
     "CHEM 154/Unit 7/Internal Energy.md",
     "CHEM 154/Unit 7/Heat Capacity.md",
     "CHEM 154/Unit 7/First Law of Thermodynamics.md",
     "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
-    "CHEM 154/Unit 6/Real Gas.md",
-    "PHY 157/Thermodynamics/Ideal Gas.md",
-    "CHEM 154/Unit 5/Polymers.md",
-    "Extras/Daily Notes/2021-11-14.md"
+    "CHEM 154/Unit 6/Real Gas.md"
   ]
 }
