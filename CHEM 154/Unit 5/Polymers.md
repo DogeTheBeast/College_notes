@@ -76,7 +76,7 @@ A synthetic polymer will have a range of chain lengths of differing molecular ma
 
 ### Architecture of polymers
 
-
+![[Polymer architecture.png]]
 
 
 
