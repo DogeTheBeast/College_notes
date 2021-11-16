@@ -30,5 +30,8 @@ If a reaction is exothermic,
 $${q_p<0}$$
 $${\Delta H<0}$$
 
+
+## Enthalpy of 
+
 ---
 Read also - 
