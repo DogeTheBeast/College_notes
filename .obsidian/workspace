@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "2627c40398e45db5",
+    "id": "b3905045cde3f03c",
     "type": "split",
     "children": [
       {
-        "id": "c8ad4f9cabc58462",
+        "id": "35c3f6439fbde4f2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CHEM 154/Unit 1/Atomic Model.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CHEM 154/Unit 1/Atomic Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +119,9 @@
     "width": 266.7156982421875,
     "collapsed": true
   },
-  "active": "c8ad4f9cabc58462",
+  "active": "35c3f6439fbde4f2",
   "lastOpenFiles": [
+    "CHEM 154/Unit 1/Atomic Model.md",
     "Orbitals.md",
     "CHEM 154/Unit 7/Work.md",
     "CHEM 154/Unit 7/Heat Capacity.md",
@@ -125,7 +130,6 @@
     "PHY 157/Thermodynamics/Thermodynamics.md",
     "CHEM 154/Unit 7/Internal Energy.md",
     "CHEM 154/Unit 2/Periodic Properties.md",
-    "CHEM 154/Unit 2/Electronic Structure.md",
-    "CHEM 154/Unit 2/Electronic Configuration.md"
+    "CHEM 154/Unit 2/Electronic Structure.md"
   ]
 }
