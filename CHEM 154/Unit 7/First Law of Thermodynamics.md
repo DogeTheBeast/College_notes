@@ -20,4 +20,4 @@ where ${\Delta U}$ is the change in internal energy,
 
 
 ---
-Read also - [[Thermodynamics]]		[[cyc]]
+Read also - [[Thermodynamics]]		[[Cyclic Process]]		[[Enthalpy]]		[[Work]]
