@@ -9,6 +9,11 @@ where, *P* is the pressure in *Pa* (Pascal),
 *T* is the temperature of the gas.
 ${R = 8.314 J/mol \cdot K}$
 
+## Postulates of the Ideal gas model
+
+
+
+
 
 
 ![[Work]]
