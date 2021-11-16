@@ -9,3 +9,5 @@ $${\LARGE P_{total} = P_1 + P_2 + P_3 + ...}$$
 
 $${\LARGE P_{total}V = (n_1 + n_2 + n_3 +...) RT}$$
 
+## Mole Fraction
+
