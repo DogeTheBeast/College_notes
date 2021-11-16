@@ -19,7 +19,7 @@ The order the orbitals are filled in is displayed above.
 
 ### Exception
 
-The 3d oribital has less energy than 4s orbital for atomic number less than 30. Hence, when the option is available, chromium and copper
+The 3d oribital has less energy than 4s orbital for atomic number less than 30. Hence, when the option is available, chromium and copper steal an electron from the 4s to complete their 3d orbital.
 
 Chromium - ${[Ar] 4s^1 3d^5}$
 Copper - ${[Ar] 4s^1 3d^{10}}$
