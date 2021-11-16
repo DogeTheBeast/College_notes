@@ -49,7 +49,9 @@ $${\LARGE \Delta H^o_{f,T}}$$
 The requirements for the enthalpy change to be standard enthalpy of formation are,
 
 - Gases are at 1 atm (101325 Pa).
-- Stolutions are at 1
+- Solutions are at 1 Molar concentration.
+
+Standard Enthalpy of formation for elements in standard states is 0.
 
 ---
 Read also - 
