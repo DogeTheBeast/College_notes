@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "783ad8e9f022ead3",
+        "id": "c8ad4f9cabc58462",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -115,8 +115,9 @@
     "width": 266.7156982421875,
     "collapsed": true
   },
-  "active": "783ad8e9f022ead3",
+  "active": "c8ad4f9cabc58462",
   "lastOpenFiles": [
+    "Orbitals.md",
     "CHEM 154/Unit 7/Work.md",
     "CHEM 154/Unit 7/Heat Capacity.md",
     "CHEM 154/Unit 7/First Law of Thermodynamics.md",
@@ -125,7 +126,6 @@
     "CHEM 154/Unit 7/Internal Energy.md",
     "CHEM 154/Unit 2/Periodic Properties.md",
     "CHEM 154/Unit 2/Electronic Structure.md",
-    "CHEM 154/Unit 2/Electronic Configuration.md",
-    "CHEM 154/Unit 2/Bonding.md"
+    "CHEM 154/Unit 2/Electronic Configuration.md"
   ]
 }
