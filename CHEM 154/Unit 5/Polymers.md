@@ -104,7 +104,7 @@ Non polar polymers such as Polypropylene are hydrophobic, meaning that it can no
 
 Polar polymers such as Polyvinyl alcohol are hydrophilic, meaning that it can be dissolved in water because it is polar.
 
-
+![[polyvinyl alcohol.png]]
 
 
 ---
