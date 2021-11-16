@@ -33,7 +33,7 @@ $${\Delta H<0}$$
 
 ## Hess' Law
 
-Hess' Law states that the sum of ${\Delta H}$ for all steps gives the overall reaction enthalpy.
+As enthalpy isHess' Law states that the sum of ${\Delta H}$ for all steps gives the overall reaction enthalpy.
 
 ![[Hess_Law.png]]
 
@@ -53,7 +53,7 @@ The requirements for the enthalpy change to be standard enthalpy of formation ar
 
 Standard Enthalpy of formation for elements in standard states (at room temperature and pressure and only 1 mole) is 0.
 
-$${\Delta H^0_{rxn} = \sum n_p \cdot \Delta H^0_f (Products) - }$$
+$${\Delta H^0_{rxn} = \sum n_p \cdot \Delta H^0_f (Products) - \sum n_r \cdot \Delta H^0_f (Reactants)}$$
 
 ---
 Read also - 
