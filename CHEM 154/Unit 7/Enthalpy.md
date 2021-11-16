@@ -72,4 +72,4 @@ $${\H_{rxn}^o = \sum E_{bond} (bonds broken) - \sum E_{bond} (bonds formed)}$$
 
 
 ---
-Read also - 
+Read also - [[First Law of Thermodynamics]]		[[Heat Capacity]]	[[work]]
