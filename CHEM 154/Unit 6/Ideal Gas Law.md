@@ -15,4 +15,4 @@ The mole fraction (*x*) is the ratio of the number of moles of a given component
 
 $${\LARGE x_1 = \frac{n_1}{n_{total}} = \frac{n_1}{n_{1} + n_{2} +n_{3} +...}}$$
 
-$${\LARGE x_1 = \frac{n_1}{n_{total}} = \frac{P_1}{P_{total}}}$$
+$${\LARGE x_1 = \frac{n_1}{n_{total}} = \frac{P_1}{P_{total}} =  \frac{P_1}{P_{total}}}$$}$$
