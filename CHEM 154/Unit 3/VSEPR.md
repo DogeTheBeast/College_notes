@@ -18,13 +18,15 @@ A perspective diagram is a 3 dimensional representation of a molecule in space. 
 
 Parent shape is the shape of the compound including the lone pairs of electrons whereas the molecular shape is the shape of the compound based on the bonds only.
 
-# VSEPR Cheat Sheet
+## VSEPR Cheat Sheet
 ![[VSEPR.png]]
 
-# Electron Repulsion
+## Electron Repulsion
 
 - LP-LP   Strongest repulsion
 - LP-BP   Normal repulsion
 - BP-BP   Weaker repulsion
 
 "Bad" contacts are angles between bonds and lone pairs that are greater than 120 degrees. You want to minimize the strongest repulsion first and then go down the list.
+
+

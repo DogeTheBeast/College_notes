@@ -75,3 +75,6 @@ Resonance structures are structures which can exist for a compound but the actua
 - If multiple hypervalent resonance structures are possible, only those having positive or zero formal charges on the central atom are considered valid.
 - Do not put a negative formal charge on the central atom unless you absolutely have to.
 - You should never put a double bond on a halogen.
+
+---
+Read also - [[Polarity]]	[[VSEPR]]
