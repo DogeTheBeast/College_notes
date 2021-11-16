@@ -9,7 +9,7 @@ where, *P* is the pressure in *Pa* (Pascal),
 *T* is the temperature of the gas.
 ${R = 8.314 J/mol \cdot K}$
 
-At low densities (low pressure), molecules in the g
+At low densities (low pressure), molecules in the gas spend little time close together so the effect of any interactions is negligible and the ideal gas equation can be quite accurate.
 
 
 ## Postulates of the Ideal gas model
