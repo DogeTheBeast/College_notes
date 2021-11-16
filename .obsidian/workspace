@@ -7,8 +7,11 @@
         "id": "eea05c6bd3f36c74",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CHEM 154/Unit 5/Polymers.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CHEM 154/Unit 5/Polymers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,35 +113,18 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "0e14c3e92f97c8a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fae903a9f5551f5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Daily Notes/2021-11-14.md",
-                "mode": "source"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 361.71575927734375
+    "width": 266.7156982421875
   },
   "active": "eea05c6bd3f36c74",
   "lastOpenFiles": [
+    "CHEM 154/Unit 5/Polymers.md",
     "Extras/Daily Notes/2021-11-14.md",
     "Extras/Excalidraw/Drawing 2021-11-15 22.04.13.excalidraw.md",
     "Extras/Excalidraw/Drawing 2021-11-11 16.10.06.excalidraw.md",
     "Extras/Excalidraw/Drawing 2021-11-11 13.03.00.excalidraw.md",
-    "CHEM 154/Unit 5/Polymers.md",
     "CHEM 154/Unit 3/Lewis Dot Structure.md",
     "CHEM 154/Unit 2/Periodic Properties.md",
     "CHEM 154/Unit 2/Electronic Structure.md",
