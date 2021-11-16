@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 1/Atomic Model.md",
+            "file": "CHEM 154/Unit 2/Bonding.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 1/Atomic Model.md",
+                "file": "CHEM 154/Unit 2/Bonding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "35c3f6439fbde4f2",
   "lastOpenFiles": [
+    "CHEM 154/Unit 2/Bonding.md",
     "CHEM 154/Unit 1/Atomic Model.md",
     "Orbitals.md",
     "CHEM 154/Unit 7/Work.md",
@@ -129,7 +130,6 @@
     "CHEM 154/Unit 7/Enthalpy.md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
     "CHEM 154/Unit 7/Internal Energy.md",
-    "CHEM 154/Unit 2/Periodic Properties.md",
-    "CHEM 154/Unit 2/Electronic Structure.md"
+    "CHEM 154/Unit 2/Periodic Properties.md"
   ]
 }
