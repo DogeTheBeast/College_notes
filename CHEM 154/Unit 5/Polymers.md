@@ -84,7 +84,11 @@ Branching is the deviation of the architecture of a polymer from a linear struct
 
 #### Crosslinks
 
-Covalent bonds that conec
+Covalent bonds that connect 2 polymer chains.
+increases molecular weight, the strngth and rigidity.
+
+vulcanization of rubber
+
 
 
 
