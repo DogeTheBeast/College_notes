@@ -33,7 +33,9 @@ $${\Delta H<0}$$
 
 ## Hess' Law
 
+![[Hess_Law.png]]
 
+$${\LARGE }
 
 ---
 Read also - 
