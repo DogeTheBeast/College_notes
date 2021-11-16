@@ -18,3 +18,8 @@ The mole fraction (*x*) is the ratio of the number of moles of a given component
 $${\LARGE x_1 = \frac{n_1}{n_{total}} = \frac{n_1}{n_{1} + n_{2} +n_{3} +...}}$$
 
 $${\LARGE x_1 = \frac{n_1}{n_{total}} = \frac{P_1}{P_{total}} =  \frac{V_1}{V_{total}}}$$
+
+
+## Kinetic energy and Temperature
+
+As temperature increases, the average speed (hence kinetic energy) increases, according to the Maxwell-Boltzmann distribution.
