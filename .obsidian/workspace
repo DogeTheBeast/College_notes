@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 7/Heat Capacity.md",
+            "file": "CHEM 154/Unit 7/First Law of Thermodynamics.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 7/Heat Capacity.md",
+                "file": "CHEM 154/Unit 7/First Law of Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "783ad8e9f022ead3",
   "lastOpenFiles": [
-    "CHEM 154/Unit 7/Heat Capacity.md",
     "CHEM 154/Unit 7/First Law of Thermodynamics.md",
+    "CHEM 154/Unit 7/Heat Capacity.md",
+    "CHEM 154/Unit 7/Work.md",
     "CHEM 154/Unit 7/Enthalpy.md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
     "CHEM 154/Unit 7/Internal Energy.md",
     "CHEM 154/Unit 2/Periodic Properties.md",
     "CHEM 154/Unit 2/Electronic Structure.md",
     "CHEM 154/Unit 2/Electronic Configuration.md",
-    "CHEM 154/Unit 2/Bonding.md",
-    "CHEM 154/Unit 1/Atomic Model.md"
+    "CHEM 154/Unit 2/Bonding.md"
   ]
 }

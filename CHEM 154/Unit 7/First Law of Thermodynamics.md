@@ -20,4 +20,4 @@ where ${\Delta U}$ is the change in internal energy,
 
 
 ---
-Read also - 
+Read also - [[Thermodynamics]]		[[cyc]]

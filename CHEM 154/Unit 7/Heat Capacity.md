@@ -24,4 +24,4 @@ $${\LARGE q = m \times C_{p} \times \Delta T}$$
 
 
 ---
-Read also - 
+Read also - [[Thermodynamics]]		[[Enthalpy]]		[[First Law of Thermodynamics]]		[[Work]]
