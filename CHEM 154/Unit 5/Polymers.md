@@ -1,5 +1,5 @@
 # Polymers
-A polymer is a macromolecule constructed by a sequential stringing together of smaller molecules called monomers.
+A polymer is a macromolecule constructed by a sequential stringing together of smaller molecules called monomers. ^089ea1
 
 ![[polymer.png]]
 
