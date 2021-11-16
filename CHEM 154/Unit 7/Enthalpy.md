@@ -35,7 +35,7 @@ $${\Delta H<0}$$
 
 ![[Hess_Law.png]]
 
-$${\LARGE }
+$${\LARGE \Delta H = \Delta H_1 +\Delta H_2 +\Delta H_3}$$
 
 ---
 Read also - 
