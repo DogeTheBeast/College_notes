@@ -58,5 +58,12 @@ Standard Enthalpy of formation for elements in standard states (at room temperat
 
 $${\Delta H^0_{rxn} = \sum n_p \cdot \Delta H^0_f (Products) - \sum n_r \cdot \Delta H^0_f (Reactants)}$$
 
+
+## Bond Enthalpy/Energy
+
+Bond enthalpy/energy is 
+
+
+
 ---
 Read also - 
