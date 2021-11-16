@@ -7,7 +7,7 @@ For a mixture of gases in a container of volume *V*, the total pressure is the s
 
 $${\LARGE P_{total} = P_1 + P_2 + P_3 + ...}$$
 
-Because it is an ideal gas, the following can also be concluded about 
+Because it is an ideal gas, the following can also be concluded about Dalton's Law of Partial Pressure,
 
 $${\LARGE P_{total}V = (n_1 + n_2 + n_3 +...) RT}$$
 
