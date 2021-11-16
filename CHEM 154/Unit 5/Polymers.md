@@ -78,6 +78,11 @@ A synthetic polymer will have a range of chain lengths of differing molecular ma
 
 ![[Polymer architecture.png]]
 
+Branching is the deviation of the architecture of a polymer from a linear structure. It is random 
+
+#### Crosslinking
+
+
 
 
 
