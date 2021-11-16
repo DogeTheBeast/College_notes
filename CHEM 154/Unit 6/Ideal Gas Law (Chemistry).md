@@ -26,3 +26,10 @@ As temperature increases, the average speed (hence kinetic energy) increases, ac
 
 ![[molecular speed and temperature.PNG]]
 
+
+### Gas identity
+
+At fixed temperature, the identity of the gas affects the speed of the molecules.
+
+
+
