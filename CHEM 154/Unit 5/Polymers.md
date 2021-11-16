@@ -84,6 +84,8 @@ Branching is the deviation of the architecture of a polymer from a linear struct
 
 #### Crosslinks
 
+Crosslinks are covalent bonds that connect 2 polymer chains with each other through l
+
 Covalent bonds that connect 2 polymer chains.
 increases molecular weight, the strngth and rigidity.
 
