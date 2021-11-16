@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY 157/Thermodynamics/Ideal Gas.md",
+            "file": "CHEM 154/Unit 6/Real Gas.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY 157/Thermodynamics/Ideal Gas.md",
+                "file": "CHEM 154/Unit 6/Real Gas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "eea05c6bd3f36c74",
   "lastOpenFiles": [
+    "CHEM 154/Unit 6/Real Gas.md",
     "PHY 157/Thermodynamics/Ideal Gas.md",
     "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
     "CHEM 154/Unit 5/Polymers.md",
@@ -129,7 +130,6 @@
     "Extras/Excalidraw/Drawing 2021-11-11 16.10.06.excalidraw.md",
     "Extras/Excalidraw/Drawing 2021-11-11 13.03.00.excalidraw.md",
     "CHEM 154/Unit 3/Lewis Dot Structure.md",
-    "CHEM 154/Unit 2/Periodic Properties.md",
-    "CHEM 154/Unit 2/Electronic Structure.md"
+    "CHEM 154/Unit 2/Periodic Properties.md"
   ]
 }
