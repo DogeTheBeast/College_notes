@@ -7,6 +7,10 @@ The real gas model assumes molecules do not interact. In the real gas model, mol
 
 $${\LARGE (P + a (\frac{n}{V})^2 )(V-nb) = nRT}$$
 
+where, *P* is the pressure of the gas,
+*n* is the number of moles,
+*V* is the volum
+
 
 
 
