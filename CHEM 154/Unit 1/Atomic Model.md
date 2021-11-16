@@ -11,7 +11,7 @@ An atom is made up of 3 types of particles.
 Electron is the negatively charged particle which surrounds the nucleus by orbiting around it in different [[Orbitals]]. It is denoted by *e* and has a relative charge of -1. It has negligible mass.
 
 ## Proton
-To balance out the charge of the electron, there exists a particle called proton which has and equal and opposite charge to the charge of an electron but does not have negligible mass. Protons are located inside the nucleus along with neutrons.
+To balance out the charge of the electron, there exists a particle called proton which has an equal and opposite charge to the charge of an electron but does not have negligible mass. Protons are located inside the nucleus along with neutrons.
 
 ## Neutron
 Neutrons are the only particles without any charge present on them and only have mass as their property. The have the same mass as protons and are located inside the nucleus.
