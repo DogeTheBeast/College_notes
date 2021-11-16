@@ -22,5 +22,12 @@ where ${\Delta H}$ is the change in enthalpy.
 
 If a reaction is endothermic, 
 
+$${q_p >0}$$
+$${\Delta H >0}$$
+
+If a reaction is exothermic,
+
+$${q_p}
+
 ---
 Read also - 
