@@ -42,7 +42,9 @@ $${\LARGE \Delta H = \Delta H_1 +\Delta H_2 +\Delta H_3}$$
 
 ## Standard Enthalpy of Formation
 
-Standard enthalpy of f
+Standard enthalpy of formation is the enthalpy change in a reaction where 1 mole of substance is formed from elements in their standard states.
+
+$${\LARGE \Delta H^o_{f,T}}$$
 
 ---
 Read also - 
