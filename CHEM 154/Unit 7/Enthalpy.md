@@ -53,7 +53,7 @@ The requirements for the enthalpy change to be standard enthalpy of formation ar
 
 Standard Enthalpy of formation for elements in standard states (at room temperature and pressure and only 1 mole) is 0.
 
-$${\Delta H^o}
+$${\Delta H^0_{rxn} = \sum n_p \cdot \Delta H^0_f (Products) - }$$
 
 ---
 Read also - 
