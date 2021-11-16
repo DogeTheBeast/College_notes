@@ -62,7 +62,7 @@ Degree of polymerization (DP) is the number of repeating units in a polymer chai
 | Polymer   | Large |
 
 
-## Molecular Weight Distribution
+## Properties of Polymers
 
 A synthetic polymer will have a range of chain lengths of differing molecular mass, or a mass distribution. Differences in molecular weight affects, solubility, strength, viscosity, among other properties.
 

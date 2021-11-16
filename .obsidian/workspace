@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 3/Lewis Dot Structure.md",
-            "mode": "preview"
+            "file": "CHEM 154/Unit 5/Polymers.md",
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5036334991455
+    "width": 141.0036334991455
   },
   "right": {
     "id": "7ba8a47061505297",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 3/Lewis Dot Structure.md",
+                "file": "CHEM 154/Unit 5/Polymers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,13 +138,13 @@
   },
   "active": "873297de42df25df",
   "lastOpenFiles": [
+    "CHEM 154/Unit 5/Polymers.md",
     "CHEM 154/Unit 3/Lewis Dot Structure.md",
     "CHEM 154/Unit 2/Periodic Properties.md",
     "CHEM 154/Unit 2/Electronic Structure.md",
     "CHEM 154/Unit 2/Electronic Configuration.md",
     "CHEM 154/Unit 2/Bonding.md",
     "CHEM 154/Unit 1/Atomic Model.md",
-    "CHEM 154/Unit 5/Polymers.md",
     "CHEM 154/General Stuff/Carbon.md",
     "CHEM 154/Unit 5/Notation for organic molecules.md",
     "CHEM 154/Unit 5/Functional Groups.md"
