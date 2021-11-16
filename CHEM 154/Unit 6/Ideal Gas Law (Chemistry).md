@@ -23,3 +23,6 @@ $${\LARGE x_1 = \frac{n_1}{n_{total}} = \frac{P_1}{P_{total}} =  \frac{V_1}{V_{t
 ## Kinetic energy and Temperature
 
 As temperature increases, the average speed (hence kinetic energy) increases, according to the Maxwell-Boltzmann distribution.
+
+![[molecular speed and temperature.PNG]]
+
