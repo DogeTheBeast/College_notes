@@ -12,7 +12,7 @@ where, *P* is the pressure of the gas,
 *V* is the volume of the gas,
 *R* is the ideal gas constant,
 *T* is the temperature of the gas, and
-*a* and *b*)
+*a* and *b* are experimentally determined constant unique for each gas.
 
 
 
