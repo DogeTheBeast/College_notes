@@ -40,6 +40,9 @@ As enthalpy is a states function, Hess' Law states that the sum of ${\Delta H}$ 
 $${\LARGE \Delta H = \Delta H_1 +\Delta H_2 +\Delta H_3}$$
 
 
+$${\LARGE \Delta H = H_2 - H_1 = \Delta U + \Delta (PV)}$$
+
+
 ## Standard Enthalpy of Formation
 
 Standard enthalpy of formation is the enthalpy change in a reaction where 1 mole of substance is formed from elements in their standard states.
