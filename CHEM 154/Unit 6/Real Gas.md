@@ -5,7 +5,7 @@ The real gas model assumes molecules do not interact. In the real gas model, mol
 
 ## Van Der Waal's Equation
 
-$${(P + \alpha (\frac{n}{V})^2 )}
+$${\LARGE (P + a (\frac{n}{V})^2 )(V-nb) = nRT}$$
 
 
 
