@@ -9,6 +9,9 @@ where, *P* is the pressure in *Pa* (Pascal),
 *T* is the temperature of the gas.
 ${R = 8.314 J/mol \cdot K}$
 
+At low densities (low pressure), molecules in the g
+
+
 ## Postulates of the Ideal gas model
 
 1. A gas is made up of a vast number of particles which are in constant random motion.
