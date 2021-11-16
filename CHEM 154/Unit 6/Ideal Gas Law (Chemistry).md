@@ -1,4 +1,4 @@
-![[Ideal Gas]]
+![[Ideal Gas (Physics)]]
 
 
 ## Dalton's Law of Partial Pressures
@@ -35,4 +35,4 @@ At fixed temperature, the identity of the gas affects the speed of the molecules
 
 
 ---
-Rea
+Read also - [[Real Gas]]	[[Thermodynamics]]		[[Ideal Gas (Physics)]]
