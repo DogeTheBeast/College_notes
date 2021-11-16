@@ -9,7 +9,10 @@ $${\LARGE (P + a (\frac{n}{V})^2 )(V-nb) = nRT}$$
 
 where, *P* is the pressure of the gas,
 *n* is the number of moles,
-*V* is the volum
+*V* is the volume of the gas,
+*R* is the ideal gas constant,
+*T* is the temperature of the gas, and
+*a* and *b*)
 
 
 
