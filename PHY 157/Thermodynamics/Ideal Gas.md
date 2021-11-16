@@ -14,8 +14,6 @@ ${R = 8.314 J/mol \cdot K}$
 ![[Work]]
 ![[First Law of Thermodynamics]]
 
----
-Read also - 
 
 ---
 
@@ -28,3 +26,6 @@ $${\LARGE P \propto \frac{1}{V}}$$
 ## Avogadro's Law
 Avogadro's law states that the volume and number of moles of a gas are directly proportional for constant pressure and temperature.
 $${\LARGE V \propto n}$$
+
+---
+Read also - 
