@@ -100,7 +100,7 @@ Non polar polymers such as Polypropylene are hydrophobic, meaning that it can no
 
 #### Hydrophilic (Water loving)
 
-
+Polar polymers such as Poly
 
 
 
