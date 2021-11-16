@@ -91,7 +91,11 @@ Crosslinking increases the molecular weight, the strength and the rigidity of th
 
 ### Hydrophobicity
 
-Hydrophobicity is the behaviour of polymers in 
+Hydrophobicity is the behaviour of polymers when they are dissolved in polar compounds like water.
+
+#### Hydrophobic (Water fearing)
+
+Non polar polymers such as Polypropylene are hydrophobic
 
 
 
