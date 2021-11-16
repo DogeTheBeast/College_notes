@@ -16,7 +16,8 @@ Isobaric processes are processes which occur with constant pressure.
 
 $${\LARGE q = \Delta U - W}$$
 $${\LARGE W = - P \Delta V}$$
-$${\LARGE }
+$${\LARGE q = \Delta U + P \Delta V = \Delta H}$$
+where ${\Delta H}$ is the change in enthalpy.
 
 ---
 Read also - 
