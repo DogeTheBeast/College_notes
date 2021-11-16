@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Thermodynamics",
-      "path": "PHY 157/Thermodynamics/Thermodynamics.md"
+      "basename": "Real Gas",
+      "path": "CHEM 154/Unit 6/Real Gas.md"
+    },
+    {
+      "basename": "Enthalpy",
+      "path": "CHEM 154/Unit 7/Enthalpy.md"
     },
     {
       "basename": "Ideal Gas Law (Chemistry)",
       "path": "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md"
     },
     {
-      "basename": "Real Gas",
-      "path": "CHEM 154/Unit 6/Real Gas.md"
+      "basename": "Thermodynamics",
+      "path": "PHY 157/Thermodynamics/Thermodynamics.md"
     },
     {
       "basename": "Ideal Gas (Physics)",
@@ -75,10 +79,6 @@
     {
       "basename": "Atomic Model",
       "path": "CHEM 154/Unit 1/Atomic Model.md"
-    },
-    {
-      "basename": "Enthalpy",
-      "path": "CHEM 154/Unit 7/Enthalpy.md"
     },
     {
       "basename": "Work",

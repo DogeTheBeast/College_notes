@@ -20,4 +20,4 @@ where, *P* is the pressure of the gas,
 
 
 ---
-Read also - 
+Read also - [[Ideal Gas (Physics)]]		[[Ideal Gas Law (Chemistry)]]	[[Thermodynamics]]
