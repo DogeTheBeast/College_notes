@@ -11,6 +11,8 @@ $${\LARGE P_{total}V = (n_1 + n_2 + n_3 +...) RT}$$
 
 ## Mole Fraction
 
-The mole fraction (*x*) is the ratio of the number of moles of a given component in a mixture to the total number of moles of the mixture. 
+The mole fraction (*x*) is the ratio of the number of moles of a given component in a mixture to the total number of moles of the mixture. The mole fraction is a value between 0 and 1.
 
 $${\LARGE x_1 = \frac{n_1}{n_{total}} = \frac{n_1}{n_{1} + n_{2} +n_{3} +...}}$$
+
+$${\LARGE x_1 = \frac{n_1}{n_{total}}}
