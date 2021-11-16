@@ -13,4 +13,4 @@ When a bond is formed, energy is released (exothermic process).The bond energy i
 ![[lattice energy.jpg]]
 
 ---
-Read also - [[electron con]]
+Read also - [[Electronic Configuration]]	[[Electronic Structure]]	[[Periodic Properties]]
