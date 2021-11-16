@@ -7,10 +7,9 @@
         "id": "873297de42df25df",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "CHEM 154/Unit 5/Polymers.md",
-            "mode": "source"
+            "file": "Extras/Excalidraw/Drawing 2021-11-15 22.04.13.excalidraw.md"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 5/Polymers.md",
+                "file": "Extras/Excalidraw/Drawing 2021-11-15 22.04.13.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +136,7 @@
   },
   "active": "873297de42df25df",
   "lastOpenFiles": [
+    "Extras/Excalidraw/Drawing 2021-11-15 22.04.13.excalidraw.md",
     "CHEM 154/Unit 5/Polymers.md",
     "CHEM 154/Unit 3/Lewis Dot Structure.md",
     "CHEM 154/Unit 2/Periodic Properties.md",
@@ -145,7 +145,6 @@
     "CHEM 154/Unit 2/Bonding.md",
     "CHEM 154/Unit 1/Atomic Model.md",
     "CHEM 154/General Stuff/Carbon.md",
-    "CHEM 154/Unit 5/Notation for organic molecules.md",
-    "CHEM 154/Unit 5/Functional Groups.md"
+    "CHEM 154/Unit 5/Notation for organic molecules.md"
   ]
 }
