@@ -86,13 +86,10 @@ Branching is the deviation of the architecture of a polymer from a linear struct
 
 Crosslinks are covalent bonds that connect 2 polymer chains with each other through london disperson forces, dipole-dipole interactions or hydrogen bonding.
 
-Covalent bonds that connect 2 polymer chains.
-increases molecular weight, the strngth and rigidity.
-
-vulcanization of rubber
+Crosslinking increases the molecular weight, the strength and the rigidity of the polymer. An example of this is Vulcanization of rubber of tyres.
 
 
-
+###
 
 
 
