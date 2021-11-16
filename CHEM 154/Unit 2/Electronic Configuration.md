@@ -25,4 +25,4 @@ Chromium - ${[Ar] 4s^1 3d^5}$
 Copper - ${[Ar] 4s^1 3d^{10}}$
 
 ---
-Read also - [[Bonding]]	[[Electronic Structure]]	[[Periodic Properties]]
+Read also - [[Bonding]]		[[Electronic Structure]]	[[Periodic Properties]]

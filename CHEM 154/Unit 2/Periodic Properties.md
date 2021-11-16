@@ -73,4 +73,4 @@ It is not an atomic property because it refers to atoms in a bond and it is a ca
 ![[ElectronegativityTrend.png]]
 
 ---
-Read also - 
+Read also - [[Bonding]]		[[Electronic Configuration]]	[[Electronic Structure]]

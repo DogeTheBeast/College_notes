@@ -45,4 +45,4 @@ So, if N = 1, the total number of electrons it can hold is 2. If N = 2, that she
 
 
 ---
-Read also - 
+Read also - [[Bonding]]		[[Electronic Configuration]]	[[Periodic Properties]]
