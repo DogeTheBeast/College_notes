@@ -67,7 +67,8 @@ $${\LARGE H_2 (g)\; -> H (g) + H (g)\;\;\;\;\;\;\;\;\Delta H^0 = 436.4\; kJ\;mol
 
 Using the bond Enthalpies, the enthalpy of a reaction can be calculated using,
 
-$${\H_{rxn}^o = \sum E_}
+$${\H_{rxn}^o = \sum E_{bond} (reactants) - \sum E_{bond} (products)}$$
+$${\H_{rxn}^o = \sum E_{bond} (bonds broken) - \sum E_{bond} (bonds formed)}$$
 
 
 ---
