@@ -13,7 +13,9 @@ ${R = 8.314 J/mol \cdot K}$
 
 1. A gas is made up of a vast number of particles which are in constant random motion.
 2. Gas particles occupy no volume.
-3. Gas molecules move in straight lines except when they collide with other molecules or with the walls of the contrainer. 
+3. Gas molecules move in straight lines except when they collide with other molecules or with the walls of the container. These collisions are elastic.
+4. Gas molecules interact with one another only when collisions occur.
+5. Average kinetic energy (KE) of gas molecules is proportional to the temperature.
 
 
 
