@@ -52,7 +52,7 @@ Electron affinity is the energy change resulting from the addition of a single e
 ${X(g) + e^- -> X^- (g)}$
 
 [[alkali earth metal]] do not form stable anions. 
-[[halogen]] have an electron affinity of zero because they don't want to accept any electrons.
+Noble gases have an electron affinity of zero because they don't want to accept any electrons.
 
 ![[ElectronAffinity.png]]
 
