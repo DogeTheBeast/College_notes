@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 4/Intermolecular Forces.md",
+            "file": "CHEM 154/Unit 4/Phases of Matter.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 4/Intermolecular Forces.md",
+                "file": "CHEM 154/Unit 4/Phases of Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "33e710ae3a125418",
   "lastOpenFiles": [
-    "CHEM 154/Unit 4/Intermolecular Forces.md",
+    "CHEM 154/Unit 4/Phases of Matter.md",
     "CHEM 154/Unit 4/Hydrocarbons.md",
+    "CHEM 154/Unit 4/Intermolecular Forces.md",
     "CHEM 154/Unit 3/VSEPR.md",
     "CHEM 154/Unit 3/Polarity.md",
     "CHEM 154/Unit 3/Lewis Dot Structure.md",
     "CHEM 154/Unit 2/Periodic Properties.md",
     "CHEM 154/Unit 1/Atomic Model.md",
     "CHEM 154/Unit 2/Electronic Structure.md",
-    "CHEM 154/Unit 2/Bonding.md",
-    "CHEM 154/Unit 2/Electronic Configuration.md"
+    "CHEM 154/Unit 2/Bonding.md"
   ]
 }
