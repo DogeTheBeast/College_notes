@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
+            "file": "CHEM 154/Unit 6/Real Gas.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
+                "file": "CHEM 154/Unit 6/Real Gas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "33e710ae3a125418",
   "lastOpenFiles": [
+    "CHEM 154/Unit 6/Real Gas.md",
     "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
     "CHEM 154/Unit 5/Polymers.md",
     "CHEM 154/Unit 5/Notation for organic molecules.md",
@@ -129,7 +130,6 @@
     "CHEM 154/Unit 4/Hydrocarbons.md",
     "CHEM 154/Unit 4/Intermolecular Forces.md",
     "CHEM 154/Unit 3/VSEPR.md",
-    "CHEM 154/Unit 3/Polarity.md",
-    "CHEM 154/Unit 3/Lewis Dot Structure.md"
+    "CHEM 154/Unit 3/Polarity.md"
   ]
 }
