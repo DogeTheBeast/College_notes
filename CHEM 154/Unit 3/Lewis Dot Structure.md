@@ -64,7 +64,7 @@ Resonance structures are structures which can exist for a compound but the actua
 ## Rules for drawing resonance structures
 - Only electrons can be moved - nuclei never move in resonance structures.
 - Total number of electrons in system is constant, total charge in system is constant.
-- All structures should be proper Lweis structures.
+- All structures should be proper Lewis structures.
 - Look for lone pairs and double-bond electrons. These move in resonance structures.
 
 
