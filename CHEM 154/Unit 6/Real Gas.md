@@ -14,6 +14,8 @@ where, *P* is the pressure of the gas,
 *T* is the temperature of the gas, and
 *a* and *b* are experimentally determined constant unique for each gas.
 
+*b* is the volume occupied by 1 mole of the gas, and
+
 
 
 
