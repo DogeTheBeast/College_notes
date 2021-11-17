@@ -9,7 +9,7 @@ $${\LARGE q = n \times C_{p,m} \times \Delta T}$$
  where *q* is the energy required,
  *n* is the number of moles,
  ${C_{p,m}}$ is the molar heat capacity, and 
- ${\Delta}$ is the change in temperature of the substance.
+ ${\Delta T}$ is the change in temperature of the substance.
  
  ## Specific heat capacity
  
@@ -20,7 +20,7 @@ $${\LARGE q = m \times C_{p} \times \Delta T}$$
  where *q* is the energy required,
  *m* is the mass of the substance,
  ${C_{p}}$ is the specific heat capacity, and 
- ${\Delta}$ is the change in temperature of the substance.
+ ${\Delta T}$ is the change in temperature of the substance.
 
 
 ---
