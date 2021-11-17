@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 1/Atomic Model.md",
+            "file": "CHEM 154/Unit 2/Periodic Properties.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 1/Atomic Model.md",
+                "file": "CHEM 154/Unit 2/Periodic Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,11 +121,11 @@
   },
   "active": "33e710ae3a125418",
   "lastOpenFiles": [
+    "CHEM 154/Unit 2/Periodic Properties.md",
     "CHEM 154/Unit 1/Atomic Model.md",
     "CHEM 154/Unit 2/Electronic Structure.md",
-    "CHEM 154/Unit 2/Electronic Configuration.md",
-    "CHEM 154/Unit 2/Periodic Properties.md",
     "CHEM 154/Unit 2/Bonding.md",
+    "CHEM 154/Unit 2/Electronic Configuration.md",
     "CHEM 154/Unit 2/Complied.md",
     "Orbitals.md",
     "CHEM 154/Unit 7/Work.md",
