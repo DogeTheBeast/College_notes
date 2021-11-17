@@ -22,7 +22,7 @@ Two monomers join together to form a polymer and a small molecule byproduct (wat
 ![[condensation polymer ester.png]]
 
 ### Addition polymers
-Addition reactions occue when two or more molecules join to form a larger molecule **without** the loss of any atoms/small molecules.
+Addition reactions occurs when two or more molecules join to form a larger molecule **without** the loss of any atoms/small molecules.
 
 The steps can be broken down into 3 major steps.
 
