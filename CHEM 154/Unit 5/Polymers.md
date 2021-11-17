@@ -76,7 +76,7 @@ A synthetic polymer will have a range of chain lengths of differing molecular ma
 
 ### Architecture of polymers
 
-Branching is the deviation of the architecture of a polymer from a linear structure. It may occur randomly or ractions may be designed so that specific architectures are targetted.
+Branching is the deviation of the architecture of a polymer from a linear structure. It may occur randomly or reactions may be designed so that specific architectures are targetted.
 
 ![[polymer architecture.jpg]]
 
