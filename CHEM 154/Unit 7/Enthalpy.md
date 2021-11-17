@@ -63,12 +63,12 @@ $${\Delta H^0_{rxn} = \sum n_p \cdot \Delta H^0_f (Products) - \sum n_r \cdot \D
 
 Bond enthalpy/energy is the enthalpy required to break and form bonds over the course of a reaction.
 
-$${\LARGE H_2 (g)\; -> H (g) + H (g)\;\;\;\;\;\;\;\;\Delta H^0 = 436.4\; kJ\;mol^{-1}}$$
+$${\LARGE H_2 (g) \; -> H (g) + H (g)\;\;\;\;\;\;\;\;\Delta H^0 = 436.4\; kJ\;mol^{-1}}$$
 
 Using the bond Enthalpies, the enthalpy of a reaction can be calculated using,
 
-$${\H_{rxn}^o = \sum E_{bond} (reactants) - \sum E_{bond} (products)}$$
-$${\H_{rxn}^o = \sum E_{bond} (bonds broken) - \sum E_{bond} (bonds formed)}$$
+$${\LARGE H_{rxn}^o = \sum E_{bond} (reactants) - \sum E_{bond} (products)}$$
+$${\LARGE H_{rxn}^o = \sum E_{bond} (bonds \; broken) - \sum E_{bond} (bonds \; formed)}$$
 
 
 ---
