@@ -1,6 +1,11 @@
 # Entropy
 
-Entropy is the measure of how disorder a system is. For example, heat allows follows towards the surroundings from a coffee cup because as the entropy is higher when the heat is more disper
+Entropy is the measure of how disorder a system is. For example, heat allows follows towards the surroundings from a coffee cup because as the entropy is higher when the heat is more dispersed with the surroundings.
+
+## Second Law of Thermodynamics
+
+
+
 
 $${\LARGE dS = \frac{dq_{rev}{T}}$$
 
