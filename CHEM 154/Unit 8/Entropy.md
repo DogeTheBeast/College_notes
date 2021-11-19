@@ -1,6 +1,6 @@
 # Entropy
 
-Entropy is the 
+Entropy is the measure of the disordering to a system 
 
 $${\LARGE dS = \frac{dq_{rev}{T}}$$
 
