@@ -7,11 +7,16 @@ Entropy is the measure of how disorder a system is. For example, heat allows fol
 
 
 
+
+## For reversible reaction
 $${\LARGE dS = \frac{dq_{rev}{T}}$$
 
 where, *dS* is the change in the Entropy of the System,
 ${dq_{rev}}$ is the change in the heat of the system (Only for reversible reactions), and
 *T* is the temperature of the system.
+
+$${\LARGE S_F = S_I}$$
+where, ${S_F}$ is the final entropy
 
 ### For Isothermal Process
 
