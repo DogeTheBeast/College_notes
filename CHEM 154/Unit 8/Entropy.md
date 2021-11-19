@@ -30,7 +30,7 @@ $${\LARGE S_F > S_I}$$
 where, ${S_F}$ is the final entropy of the system, and
 ${S_I}$ is the initial entropy of the system.
 
-As the reaction is irreversible, the final state is preferred over the initial state and therefore, the reaction can moves towards the final state as the final
+As the reaction is irreversible, the final state has a greater entropy than the initial state. Therefore,  is preferred over the initial state and therefore, the reaction can moves towards the final state.
 
 
 
