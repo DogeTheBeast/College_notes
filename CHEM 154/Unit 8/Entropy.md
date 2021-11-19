@@ -1,6 +1,6 @@
 # Entropy
 
-Entropy is the measure of the disordering to a system 
+Entropy is the measure of how disorder a system is. For example, heat allows follows towards the surroundings from a coffee cup because as the entropy is higher when the heat is more disper
 
 $${\LARGE dS = \frac{dq_{rev}{T}}$$
 
