@@ -16,7 +16,10 @@ ${dq_{rev}}$ is the change in the heat of the system (Only for reversible reacti
 *T* is the temperature of the system.
 
 $${\LARGE S_F = S_I}$$
-where, ${S_F}$ is the final entropy
+where, ${S_F}$ is the final entropy of the system, and
+${S_I}$ is the initial entropy of the system.
+
+As the reaction is reversible, the final state is not preferred over the initial state and therefore, the reaction can go both 
 
 ### For Isothermal Process
 
