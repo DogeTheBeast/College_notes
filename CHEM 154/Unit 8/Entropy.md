@@ -19,7 +19,22 @@ $${\LARGE S_F = S_I}$$
 where, ${S_F}$ is the final entropy of the system, and
 ${S_I}$ is the initial entropy of the system.
 
-As the reaction is reversible, the final state is not preferred over the initial state and therefore, the reaction can go both 
+As the reaction is reversible, the final state is not preferred over the initial state and therefore, the reaction can go both ways.
+
+## For irreversible reaction
+$${\LARGE dS = \frac{dq_{rev}{T}}$$
+
+where, *dS* is the change in the Entropy of the System,
+${dq_{rev}}$ is the change in the heat of the system (Only for reversible reactions), and
+*T* is the temperature of the system.
+
+$${\LARGE S_F > S_I}$$
+where, ${S_F}$ is the final entropy of the system, and
+${S_I}$ is the initial entropy of the system.
+
+As the reaction is reversible, the final state is not preferred over the initial state and therefore, the reaction can go both ways.
+
+
 
 ### For Isothermal Process
 
