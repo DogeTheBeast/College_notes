@@ -70,7 +70,9 @@ Standard Molar Entropy is a state function. It is the entropy of one mole of sub
 
 $${\LARGE \Delta S^o = \sum v_p \cdot S_m^o (products) - \sum v_r \cdot S_m^o (reactants)}$$
 
-where, *v* is the stoichiometric coefficient 
+where, *v* is the stoichiometric coefficient.
+
+Heavier molecules have higher entropies. Hence, Gases > 
 
 
 ---
