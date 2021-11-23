@@ -8,7 +8,11 @@ where, *dS* is the change in the Entropy of the System,
 ${dq}$ is the change in the heat of the system, and
 *T* is the temperature of the system.
 
-## Probabili
+## Probabilistic Interpretation of Entropy
+
+$${\LARGE S = k\; ln(W)}$$
+
+
 
 
 
