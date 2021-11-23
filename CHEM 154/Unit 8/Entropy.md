@@ -23,6 +23,9 @@ There are more states with equivalent dispersion of particles. Hence, those stat
 
 ![[entropy.png]]
 
+## Entropy increases when..
+
+
 
 ## Second Law of Thermodynamics
 
