@@ -23,9 +23,11 @@ There are more states with equivalent dispersion of particles. Hence, those stat
 
 ![[entropy.png]]
 
-## Entropy increases when..
+## Quantities related to increase in Entropy
 
+Entropy increases when :-
 
+- Increasing temperature (adding heat )
 
 ## Second Law of Thermodynamics
 
