@@ -68,7 +68,9 @@ As the reaction is irreversible, the final state has a greater entropy than the 
 
 Standard Molar Entropy is a state function. It is the entropy of one mole of substance under standard state conditions. Its units are  ${J\; K^{-1}\; mol^{-1}}$.
 
-$${\LARGE \Delta S^o = \sum v_p \cdot S_m^o (products) - \sum v_p \cdot S_m^o (products)}
+$${\LARGE \Delta S^o = \sum v_p \cdot S_m^o (products) - \sum v_r \cdot S_m^o (reactants)}$$
+
+where, *v* is the stoichiometric coefficient 
 
 
 ---
