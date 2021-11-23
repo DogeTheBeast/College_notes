@@ -32,7 +32,7 @@ Entropy increases when :-
 - Phase transition to higher entrotpy species
 - Increasing number of products
 - Increasing complexity of products
-- Producing higher entropy species in a reaction ()
+- Producing higher entropy species in a reaction (solid to liquid to gas)
 
 ## Second Law of Thermodynamics
 
