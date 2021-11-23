@@ -27,7 +27,12 @@ There are more states with equivalent dispersion of particles. Hence, those stat
 
 Entropy increases when :-
 
-- Increasing temperature (adding heat )
+- Increasing temperature (adding heat (*Q*))
+- Increasing system volume
+- Phase transition to higher entrotpy species
+- Increasing number of products
+- Increasing complexity of products
+- Producing higher entropy species in a reaction ()
 
 ## Second Law of Thermodynamics
 
