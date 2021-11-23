@@ -14,7 +14,12 @@ $${\LARGE S = k\; ln(W)}$$
 
 where, *S* is the entropy of the system,
 *k* is ${\frac{R}{N_A} = 1.38 \times 10^{-23}\; JK^{-1}}$ which is the Boltzmann constant, and
-*W* is the number of equ
+*W* is the number of equivalent microscopic arrangements of the system. The greater the value of W, the greater the entropy of the system.
+
+
+## Matter Dispersal (Understanding Entropy)
+
+
 
 
 
