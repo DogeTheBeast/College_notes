@@ -19,7 +19,7 @@ where, *S* is the entropy of the system,
 
 ## Matter Dispersal (Understanding Entropy)
 
-
+There are more states with equivalent dispersion of particles. Hence, those states are more likely to exists
 
 
 
