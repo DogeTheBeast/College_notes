@@ -15,6 +15,8 @@ ${dq}$ is the change in the heat of the system, and
 The Second Law of Thermodynamics states that the state of entropy of the entire universe, as an isolated system, will always increase over time.
 
 
+$${\LARGE }
+
 
 ## For reversible reaction
 
