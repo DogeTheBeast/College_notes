@@ -64,7 +64,9 @@ ${S_I}$ is the initial entropy of the system.
 As the reaction is irreversible, the final state has a greater entropy than the initial state. Therefore, the final state is preferred over the initial state and therefore, the reaction can moves towards the final state.
 
 
+## Standard Molar Entropy (${S_m^o}$)
 
+Standard Molar Entropy is a state function
 
 
 ---
