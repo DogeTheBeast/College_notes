@@ -12,7 +12,8 @@ ${dq}$ is the change in the heat of the system, and
 
 $${\LARGE S = k\; ln(W)}$$
 
-
+where, *S* is the entropy of the system,
+*k* is ${\frac{R}{N_A} = 1.38 \times }$
 
 
 
