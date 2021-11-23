@@ -66,7 +66,9 @@ As the reaction is irreversible, the final state has a greater entropy than the 
 
 ## Standard Molar Entropy (${S_m^o}$)
 
-Standard Molar Entropy is a state function. It is the entropy of one mole of substance under standard state conditions. Its units are ${J\; K^{-1}\; mol}
+Standard Molar Entropy is a state function. It is the entropy of one mole of substance under standard state conditions. Its units are  ${J\; K^{-1}\; mol^{-1}}$.
+
+$${\LARGE \Delta S^o = \sum}
 
 
 ---
