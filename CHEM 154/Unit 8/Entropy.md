@@ -15,7 +15,9 @@ ${dq}$ is the change in the heat of the system, and
 The Second Law of Thermodynamics states that the state of entropy of the entire universe, as an isolated system, will always increase over time.
 
 
-$${\LARGE \Delta S_{Universe} = \Delta S_{Surr} + \Delta S_{System} \greaterthanequalto 0}$$
+$${\LARGE \Delta S_{Universe} = \Delta S_{Surr} + \Delta S_{System} \geq 0}$$
+
+${\Delta }
 
 
 ## For reversible reaction
