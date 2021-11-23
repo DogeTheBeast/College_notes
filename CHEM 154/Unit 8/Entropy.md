@@ -17,7 +17,7 @@ The Second Law of Thermodynamics states that the state of entropy of the entire 
 
 $${\LARGE \Delta S_{Universe} = \Delta S_{Surr} + \Delta S_{System} \geq 0}$$
 
-${\Delta }
+${\Delta S}$ can be positive or negative but ${\Delta S_{surr}}$ must compensate so that ${\Delta S_{Universe}}$ is never negative.
 
 
 ## For reversible reaction
