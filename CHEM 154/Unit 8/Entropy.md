@@ -36,7 +36,7 @@ As the reaction is irreversible, the final state has a greater entropy than the 
 
 ### For Isothermal Process
 
-$${\LARGE \Delta S = \frac{q_{rev}{T}}$$
+$${\LARGE \Delta S = \frac{q_{rev}}{T}}$$
 
 
 
