@@ -8,6 +8,8 @@ where, *dS* is the change in the Entropy of the System,
 ${dq}$ is the change in the heat of the system, and
 *T* is the temperature of the system.
 
+## Probabili
+
 
 
 ## Second Law of Thermodynamics
@@ -20,7 +22,7 @@ $${\LARGE \Delta S_{Universe} = \Delta S_{Surr} + \Delta S_{System} \geq 0}$$
 ${\Delta S}$ can be positive or negative but ${\Delta S_{Surr}}$ must compensate so that ${\Delta S_{Universe}}$ is never negative.
 
 
-${\Delta S_{Universe}}}
+${\Delta S_{Universe} = 0}$, only if all processes are reversible.
 
 
 ## For reversible reaction
