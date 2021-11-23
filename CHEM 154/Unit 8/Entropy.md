@@ -66,13 +66,15 @@ As the reaction is irreversible, the final state has a greater entropy than the 
 
 ## Standard Molar Entropy (${S_m^o}$)
 
-Standard Molar Entropy is a state function. It is the entropy of one mole of substance under standard state conditions. Its units are  ${J\; K^{-1}\; mol^{-1}}$.
+Standard Molar Entropy is a state function. It is the entropy of one mole of substance under standard state conditions (1 atm 25 C). Its units are  ${J\; K^{-1}\; mol^{-1}}$.
 
 $${\LARGE \Delta S^o = \sum v_p \cdot S_m^o (products) - \sum v_r \cdot S_m^o (reactants)}$$
 
 where, *v* is the stoichiometric coefficient.
 
-Heavier molecules have higher entropies. Hence, Gases > 
+Heavier molecules have higher entropies. Hence,
+
+$${\LARGE Gases > Liquids > Solids}$$
 
 
 ---
