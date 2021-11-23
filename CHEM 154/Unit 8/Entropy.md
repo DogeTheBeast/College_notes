@@ -8,6 +8,7 @@ where, *dS* is the change in the Entropy of the System,
 ${dq}$ is the change in the heat of the system, and
 *T* is the temperature of the system.
 
+
 ## Probabilistic Interpretation of Entropy
 
 $${\LARGE S = k\; ln(W)}$$
@@ -45,6 +46,15 @@ ${\Delta S}$ can be positive or negative but ${\Delta S_{Surr}}$ must compensate
 
 
 ${\Delta S_{Universe} = 0}$, only if all processes are reversible.
+
+
+#### Eliminating the surrounding 
+
+
+Consider a process at constant T and P where 
+
+
+
 
 
 ## For reversible reaction
