@@ -50,6 +50,16 @@ $${\LARGE Coefficient\;of\;performance\;(K) = \frac{|Q_C|}{|W|} = \frac{|Q_C|}{|
 
 The larger the ratio, the better the refrigerator.
 
-## Re
+## Refrigerator cycle
+
+![[refrigerator 1.png]]
+![[refrigerator 2.png]]
+![[refrigerator 3.png]]
+![[refrigerator 4.png]]
+
+![[refrigerator overview.png]]
+
+
+
 ---
 Read also - 
