@@ -30,7 +30,11 @@ Because there is no fuel in the cylinder during the compression stroke, pre-igni
 
 # Refrigerators
 
-A refrigerator takes heat from a cold place (inside the refrigerator) and gives it 
+A refrigerator takes heat from a cold place (inside the refrigerator) and gives it off to a warmer place (the room). It is essentially a heat engine operating in reverse.
+
+![[refrigerator.png]]
+
+
 
 ---
 Read also - 
