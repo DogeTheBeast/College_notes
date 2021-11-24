@@ -46,7 +46,7 @@ The refrigerator works in the opposite direction of a heat engine.
 
 The coefficient of performance is the measure of the efficiency of a refrigerator calculated by using the following,
 
-$${\LARGE Coefficient\;of\;performance\;(K) = \frac{|Q_C|}{|W|}}$$
+$${\LARGE Coefficient\;of\;performance\;(K) = \frac{|Q_C|}{|W|} = \frac{|Q_C|}{|Q_H| - |Q_C|}}$$
 
 The larger the ratio, the better the refrigerator.
 
