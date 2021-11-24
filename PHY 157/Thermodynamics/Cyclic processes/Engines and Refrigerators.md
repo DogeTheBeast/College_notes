@@ -18,6 +18,8 @@ $${\LARGE e = 1- \frac{1}{r^{\gamma -1}}}$$
 where, *r* is the compression ratio, and
 ${\gamma}$ is the adiabatic exponent.
 
+![[engine.png]]
+
 ### Engine Knocking
 
 The greater the value of the compression ratio (*r*), the greater is the efficiency of the system. **BUT** if *r* is too high, the gasoline will spontaneously ignite. (**Engine Knocking**).
