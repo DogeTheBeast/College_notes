@@ -28,5 +28,8 @@ The greater the value of the compression ratio (*r*), the greater is the efficie
 
 Because there is no fuel in the cylinder during the compression stroke, pre-ignition cannot occur, and the compression ratio *r* can be much higher than for a gasoline engine.
 
+# Refrigerators
+
+
 ---
 Read also - 
