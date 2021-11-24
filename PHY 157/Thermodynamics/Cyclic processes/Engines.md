@@ -20,7 +20,9 @@ ${\gamma}$ is the adiabatic exponent.
 
 ## Diesel Engines
 
+![[diesel engines.png]]
 
+Because there is no fuel in the cylinder during the compression stroke, pre-ignition cannot occur, and the compression ratio r can be much higher than for a gasoline engine
 
 ---
 Read also - 
