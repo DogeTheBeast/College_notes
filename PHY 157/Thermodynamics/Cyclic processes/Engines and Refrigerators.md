@@ -59,7 +59,7 @@ The larger the ratio, the better the refrigerator.
 
 ![[refrigerator overview 2.png]]
 
-
+![[refrigerator real.png]]
 
 ---
 Read also - 
