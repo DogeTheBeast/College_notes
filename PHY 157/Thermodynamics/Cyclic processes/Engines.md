@@ -15,7 +15,10 @@
 ![[cycle final.png]]
 
 $${\LARGE e = 1- \frac{1}{r^{\gamma -1}}}$$
-where, 
+where, *r* is the compression ratio, and
+${\gamma}$ is the adiabatic exponent.
+
+## Diesel Engines
 
 
 
