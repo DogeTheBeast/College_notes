@@ -36,7 +36,11 @@ A refrigerator takes heat from a cold place (inside the refrigerator) and gives 
 
 ![[refrigerator.png]]
 
+## Difference between refrigerator and engine energy cycles
 
+The refrigerator works in the oppo
+
+![[refrigerator and engine difference.png]]
 
 ---
 Read also - 
