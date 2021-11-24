@@ -5,6 +5,10 @@
       "path": "PHY 157/Thermodynamics/Cyclic processes/Engines.md"
     },
     {
+      "basename": "Thermodynamics",
+      "path": "PHY 157/Thermodynamics/Thermodynamics.md"
+    },
+    {
       "basename": "Cyclic Process",
       "path": "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Electronic Configuration",
       "path": "CHEM 154/Unit 2/Electronic Configuration.md"
-    },
-    {
-      "basename": "Thermodynamics",
-      "path": "PHY 157/Thermodynamics/Thermodynamics.md"
     },
     {
       "basename": "Ideal Gas (Physics)",
