@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 8/Entropy.md",
+            "file": "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 8/Entropy.md",
+                "file": "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "33e710ae3a125418",
   "lastOpenFiles": [
+    "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
     "CHEM 154/Unit 8/Entropy.md",
     "CHEM 154/Unit 8/Gibb's Free Energy.md",
     "CHEM 154/Unit 7/Work.md",
@@ -129,7 +130,6 @@
     "CHEM 154/Unit 7/Enthalpy.md",
     "CHEM 154/Unit 5/Polymers.md",
     "CHEM 154/Unit 3/VSEPR.md",
-    "CHEM 154/Unit 6/Real Gas.md",
-    "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md"
+    "CHEM 154/Unit 6/Real Gas.md"
   ]
 }
