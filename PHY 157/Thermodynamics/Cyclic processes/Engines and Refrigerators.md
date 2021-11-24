@@ -58,6 +58,7 @@ The larger the ratio, the better the refrigerator.
 ![[refrigerator 4.png]]
 
 ![[refrigerator overview.png]]
+![[refrigerator overview 2.png]]
 
 
 
