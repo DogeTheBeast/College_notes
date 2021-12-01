@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "APSC 100/Module 4/Untitled.md",
-            "mode": "source"
+            "file": "PHY170/Vectors/Vectors.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APSC 100/Module 4/Untitled.md",
+                "file": "PHY170/Vectors/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "d6fd46cb375a26d9",
   "lastOpenFiles": [
+    "PHY170/Vectors/Vectors.md",
+    "PHY170/Vectors/Vector directed along a line.md",
+    "PHY170/Moment/Moment of a Couple.md",
     "APSC 100/Module 4/Untitled.md",
     "APSC 100/help.md",
     "CHEM 154/Unit 8/Entropy.md",
     "PHY 157/Thermodynamics/Cyclic processes/Engines and Refrigerators.md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
     "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
-    "CHEM 154/Unit 8/Gibb's Free Energy.md",
-    "CHEM 154/Unit 7/Work.md",
-    "CHEM 154/Unit 7/Heat Capacity.md",
-    "CHEM 154/Unit 7/First Law of Thermodynamics.md"
+    "CHEM 154/Unit 8/Gibb's Free Energy.md"
   ]
 }
