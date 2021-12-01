@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHY170/Vectors/Vectors.md",
+            "file": "PHY170/Vectors/Position Vector.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY170/Vectors/Vectors.md",
+                "file": "PHY170/Vectors/Position Vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "d6fd46cb375a26d9",
   "lastOpenFiles": [
+    "PHY170/Vectors/Position Vector.md",
     "PHY170/Vectors/Vectors.md",
     "PHY170/Vectors/Vector directed along a line.md",
     "PHY170/Moment/Moment of a Couple.md",
@@ -129,7 +130,6 @@
     "CHEM 154/Unit 8/Entropy.md",
     "PHY 157/Thermodynamics/Cyclic processes/Engines and Refrigerators.md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
-    "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
-    "CHEM 154/Unit 8/Gibb's Free Energy.md"
+    "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md"
   ]
 }
