@@ -5,7 +5,7 @@ Entropy is the measure of how disorder a system is. For example, heat allows fol
 $${\LARGE dS = \frac{dq}{T}}$$
 
 where, *dS* is the change in the Entropy of the System,
-${dq}$ is the change in the heat of the system, and
+*dq* is the change in the heat of the system, and
 *T* is the temperature of the system.
 
 
