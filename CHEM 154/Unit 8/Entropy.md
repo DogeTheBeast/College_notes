@@ -54,9 +54,13 @@ Consider a process at constant T and P where only pressure-volume work is acting
 
 $${\LARGE q_{surr} = -\Delta H}$$ 
 
+therefore,
+
+$${\LARGE \Delta S_{surr} = - \frac{\Delta H}{T}}$$
+
 and hence,
 
-$${\LARGE \Delta S_{surr} = - \frac{\Delta H}{T}}
+$${\LARGE \Delta S_{Universe} = }
 
 
 
