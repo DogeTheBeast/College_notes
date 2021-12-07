@@ -4,7 +4,8 @@ Gibb's Free Energy is defined as the energy available to the system to do work. 
 
 $${\LARGE G = H - T \Delta S}$$
 
-
+And at constant pressure and temperature,
+$${\LARGE \Delta G = \Delta H}
 
 ---
 Read also - [[Entropy]]
