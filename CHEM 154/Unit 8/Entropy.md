@@ -60,7 +60,7 @@ $${\LARGE \Delta S_{surr} = - \frac{\Delta H}{T}}$$
 
 and hence,
 
-$${\LARGE \Delta S_{Universe} = }
+$${\LARGE \Delta S_{Universe} = - \frac{\Delta H}{T} + \Delta S = - \frac{1}{T} [\Delta H - T \Delta S]}$$
 
 
 
