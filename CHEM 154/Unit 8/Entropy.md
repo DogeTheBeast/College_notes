@@ -63,7 +63,8 @@ and hence,
 $${\LARGE \Delta S_{Universe} = - \frac{\Delta H}{T} + \Delta S = - \frac{1}{T} [\Delta H - T \Delta S]}$$
 
 The expression,
-$${\LARGE }
+$${\LARGE [\Delta H - T \Delta S]}$$
+is regarded as [[Gibb's Free Energy]].
 
 
 

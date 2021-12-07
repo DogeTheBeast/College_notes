@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 8/Entropy.md",
+            "file": "CHEM 154/Unit 8/Gibb's Free Energy.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 8/Entropy.md",
+            "file": "CHEM 154/Unit 8/Gibb's Free Energy.md",
             "mode": "preview"
           }
         },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 8/Entropy.md",
+                "file": "CHEM 154/Unit 8/Gibb's Free Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +136,8 @@
   },
   "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
-    "CHEM 154/Unit 8/Entropy.md",
     "CHEM 154/Unit 8/Gibb's Free Energy.md",
+    "CHEM 154/Unit 8/Entropy.md",
     "PHY170/Moment/Moment of a Couple.md",
     "PHY170/Moment/Moment of a Force.md",
     "PHY170/Vectors/Dot Product.md",
