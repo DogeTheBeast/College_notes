@@ -50,7 +50,9 @@ ${\Delta S_{Universe} = 0}$, only if all processes are reversible.
 
 #### Eliminating the surrounding 
 
-Consider a process at constant T and P where 
+Consider a process at constant T and P where only pressure-volume work is acting,
+
+$${\LARGE q_{surr} = -\Delta H}
 
 
 
