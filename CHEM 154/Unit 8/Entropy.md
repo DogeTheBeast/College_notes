@@ -52,7 +52,11 @@ ${\Delta S_{Universe} = 0}$, only if all processes are reversible.
 
 Consider a process at constant T and P where only pressure-volume work is acting,
 
-$${\LARGE q_{surr} = -\Delta H}
+$${\LARGE q_{surr} = -\Delta H}$$ 
+
+and hence,
+
+$${\LARGE \Delta S_{surr} = - \frac{\Delta H}{T}}
 
 
 
