@@ -93,7 +93,7 @@ where, *v* is the stoichiometric coefficient.
 
 - Heavier molecules have higher entropies. Therefore, more complex products have higher entropies.
 
-- Molecules in states which 
+- Molecules in states which occupy more space or volume have a higher entropy. Hence,
 
 $${\LARGE Gases > Liquids > Solids}$$
 
