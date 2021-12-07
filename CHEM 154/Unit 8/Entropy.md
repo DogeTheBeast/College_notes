@@ -91,7 +91,7 @@ $${\LARGE \Delta S^o = \sum v_p \cdot S_m^o (products) - \sum v_r \cdot S_m^o (r
 
 where, *v* is the stoichiometric coefficient.
 
-Heavier molecules have higher entropies. Hence,
+Heavier molecules have higher entropies. Therefore, more complex products are 
 
 $${\LARGE Gases > Liquids > Solids}$$
 
