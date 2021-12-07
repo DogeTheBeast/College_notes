@@ -15,5 +15,13 @@
       ],
       "key": "T"
     }
+  ],
+  "sliding-panes-obsidian:toggle-sliding-panes-stacking": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
   ]
 }

@@ -7,9 +7,37 @@
         "id": "6b8e59b647cbd96c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "CHEM 154/Unit 8/Entropy.md",
+            "mode": "source"
+          }
+        },
+        "group": "542e88c0563a5a41"
+      },
+      {
+        "id": "02af06cfb4ca833a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CHEM 154/Unit 8/Entropy.md",
+            "mode": "preview"
+          }
+        },
+        "group": "542e88c0563a5a41"
+      },
+      {
+        "id": "d4c00e30ee182c28",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CHEM 154/Unit 8/Entropy.md",
+            "mode": "preview"
+          }
+        },
+        "group": "542e88c0563a5a41"
       }
     ],
     "direction": "vertical"
@@ -73,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CHEM 154/Unit 8/Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +144,7 @@
     "width": 266.7156982421875,
     "collapsed": true
   },
-  "active": "6b8e59b647cbd96c",
+  "active": "02af06cfb4ca833a",
   "lastOpenFiles": [
     "CHEM 154/Unit 8/Entropy.md",
     "PHY170/Moment/Moment of a Couple.md",
