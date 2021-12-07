@@ -62,6 +62,8 @@ and hence,
 
 $${\LARGE \Delta S_{Universe} = - \frac{\Delta H}{T} + \Delta S = - \frac{1}{T} [\Delta H - T \Delta S]}$$
 
+The expression,
+$${\LARGE }
 
 
 
