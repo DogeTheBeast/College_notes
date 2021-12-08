@@ -47,7 +47,7 @@ The standard Gibbs free energy of formation (${G_f°}$) of a compound is the cha
 
 The Standard Gibb's Free Energy of formation for elements in reference form (the stablest form (physical state and allotrope) of the element under standard thermodynamic conditions) is 0.
 
-$${\LARGE \Delta G^0 = }
+$${\LARGE \Delta G^0 = \sum v_p \cdot \Delta G_f^0 (pro)}
 
 ---
 Read also - [[Entropy]]
