@@ -45,7 +45,7 @@ Below is a table that relates the sign of the entropy and the enthalpy of a reac
 
 The standard Gibbs free energy of formation (${G_f°}$) of a compound is the change of Gibbs free energy that accompanies the formation of 1 mole of a substance in its standard state from its constituent elements in their standard states (the most stable form of the element at 1 bar of pressure and the specified temperature, usually 298.15 K or 25 °C).
 
-The stanard Gibb's Free Energy of formation for 
+The stanard Gibb's Free Energy of formation for elements in reference form
 
 ---
 Read also - [[Entropy]]
