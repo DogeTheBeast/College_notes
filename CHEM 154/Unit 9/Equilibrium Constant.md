@@ -10,7 +10,9 @@ The value of the equilibrium constant (*K*) tells us about the extent of the rea
 
 - Small value of *K*; negligible product formation,
 - Larger value of *K*; reaction practically goes to completion, no reactants left.
-- Intermediate 
+- Intermediate value of *K*; significant [Products] and [Reactants].
+
+
 
 
 
