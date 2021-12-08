@@ -22,5 +22,13 @@ Reactions can be
 - 'driven by enthalpy' (where a very exothermic reaction (negative ΔH) overcomes a decrease in entropy) or,
 - 'driven by entropy' where an endothermic reaction occurs because of a highly positive ΔS.
 
+### Example
+The formation of NaCl(s) from its elements is spontaneous and releases a great deal of heat.
+
+$${\LARGE Na(s) + }
+Na(s) + Cl2(g) → 2NaCl(s)
+
+-This process involves a gas molecule becoming a solid, and therefore must involve a decrease in entropy. Therefore, ΔS is negative. It is an exothermic reaction, releasing heat, therefore ΔH must also be negative. This reaction is 'driven by enthalpy', because the large negative ΔH is more negative than the -TΔS term is positive, resulting in a negative overall ΔG and a spontaneous reaction.
+
 ---
 Read also - [[Entropy]]
