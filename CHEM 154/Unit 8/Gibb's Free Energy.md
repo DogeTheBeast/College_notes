@@ -41,7 +41,7 @@ Below is a table that relates the sign of the entropy and the enthalpy of a reac
 | -            | -            | Spontaneous at low *T*, Non-Spontaneous at High *T* |
 | +            | +            | Non-Spontaneous at low *T*, Spontaneous at high *T* |
 
-
+## Standard Gibb's Free Energy
 
 ---
 Read also - [[Entropy]]
