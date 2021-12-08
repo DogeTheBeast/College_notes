@@ -28,5 +28,8 @@ The concentration can be replaced by the partial pressure ([[Ideal Gas Law (Chem
 
 
 
+
+
+
 ---
 Read also - 
