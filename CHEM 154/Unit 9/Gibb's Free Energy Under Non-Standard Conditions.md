@@ -20,6 +20,10 @@ When the system is at equilibrium,
 
 $${\LARGE  \Delta G^0 = -RT\;ln(K)}$$
 
+This equation can be used to simplify ${\Delta G_{rxn}}$ ,
+
+$${\LARGE \Delta G_{rxn} = RT\;ln()}
+
 
 ---
 Read also - [[Gibb's Free Energy]]
