@@ -5,7 +5,7 @@ Entropy is the measure of how disorder a system is. For example, heat allows fol
 $${\LARGE dS = \frac{dq}{T}}$$
 
 where, *dS* is the change in the Entropy of the System,
-${dq}$ is the change in the heat of the system, and
+*dq* is the change in the heat of the system ([[Enthalpy]]), and
 *T* is the temperature of the system.
 
 
@@ -50,8 +50,21 @@ ${\Delta S_{Universe} = 0}$, only if all processes are reversible.
 
 #### Eliminating the surrounding 
 
-Consider a process at constant T and P where 
+Consider a process at constant T and P where only pressure-volume work is acting,
 
+$${\LARGE q_{surr} = -\Delta H}$$ 
+
+therefore,
+
+$${\LARGE \Delta S_{surr} = - \frac{\Delta H}{T}}$$
+
+and hence,
+
+$${\LARGE \Delta S_{Universe} = - \frac{\Delta H}{T} + \Delta S = - \frac{1}{T} [\Delta H - T \Delta S]}$$
+
+The expression,
+$${\LARGE [\Delta H - T \Delta S]}$$
+is regarded as [[Gibb's Free Energy]].
 
 
 
@@ -81,10 +94,12 @@ $${\LARGE \Delta S^o = \sum v_p \cdot S_m^o (products) - \sum v_r \cdot S_m^o (r
 
 where, *v* is the stoichiometric coefficient.
 
-Heavier molecules have higher entropies. Hence,
+- Heavier molecules have higher entropies. Therefore, more complex products have higher entropies.
+
+- Molecules in states which occupy more space or volume have a higher entropy. Hence,
 
 $${\LARGE Gases > Liquids > Solids}$$
 
 
 ---
-Read also - 
+Read also - [[Gibb's Free Energy]]
