@@ -34,9 +34,12 @@ $${\LARGE Na(s) + Cl_2 (g) \rightarrow 2NaCl(s)}$$
 
 Below is a table that relates the sign of the entropy and the enthalpy of a reaction to Gibb's Free Energy,
 
-| ${\Delta H}$ | ${\Delta S}$ |  | 
-| ------------ | ------------ | --- |
-|              |              |     |
+| ${\Delta H}$ | ${\Delta S}$ | ${\Delta G}$           |
+| ------------ | ------------ | ---------------------- |
+| -            | +            | Spontaneous            |
+| +            | -            | Non-Spontaneous        |
+| -            | -            | Spontaneous at low *T* |
+| +            | +            |                        |
 
 
 
