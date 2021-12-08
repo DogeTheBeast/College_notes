@@ -9,6 +9,7 @@ $${\LARGE \Delta G = \Delta H - T \Delta S}$$
 
 Gibb's Free Energy can be used to determine the spontaneity of a process. Hence, the spontaneity of a process is determined by the entropy and the enthalpy of the reaction.
 
+$${\LARGE \Delta G = -T \Delta }
 
 ---
 Read also - [[Entropy]]
