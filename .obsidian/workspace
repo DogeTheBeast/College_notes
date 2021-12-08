@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 9/Equilibrium Constant.md",
+            "file": "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 9/Equilibrium Constant.md",
+            "file": "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "first law",
+                "query": "partial pressure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 9/Equilibrium Constant.md",
+                "file": "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +137,8 @@
   },
   "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
+    "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
+    "PHY 157/Thermodynamics/Thermal Expansion.md",
     "CHEM 154/Unit 9/Equilibrium Constant.md",
     "CHEM 154/Unit 9/Gibb's Free Energy Under Non-Standard Conditions.md",
     "PHY 157/Thermodynamics/Cyclic processes/Engines and Refrigerators.md",
@@ -143,8 +146,6 @@
     "CHEM 154/Unit 7/Heat Capacity.md",
     "CHEM 154/Unit 7/First Law of Thermodynamics.md",
     "CHEM 154/Unit 7/Enthalpy.md",
-    "CHEM 154/Unit 8/Gibb's Free Energy.md",
-    "CHEM 154/Unit 8/Entropy.md",
-    "PHY170/Moment/Moment of a Couple.md"
+    "CHEM 154/Unit 8/Gibb's Free Energy.md"
   ]
 }
