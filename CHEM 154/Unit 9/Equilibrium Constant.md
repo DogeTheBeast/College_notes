@@ -20,11 +20,10 @@ The Equilibrium Constant can be calculated by doing,
 
 $${\LARGE K = \frac{[A]^a \; [B]^b}{[C]^c \; [D]^d}}$$
 
-The concentration can be replaced by the **partial pressure([[Ideal Gas Law (Chemistry)#^52a692]])**as well as 
+The concentration can be replaced by the partial pressure ([[Ideal Gas Law (Chemistry)#^52a692]])as well as Activity.
 
 
 
-The **[2016 Sleaford and North Hykeham by-election](https://en.wikipedia.org/wiki/2016_Sleaford_and_North_Hykeham_by-election "2016 Sleaford and North Hykeham by-election")** took p
 
 
 
