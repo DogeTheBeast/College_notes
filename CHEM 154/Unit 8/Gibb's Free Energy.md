@@ -51,7 +51,9 @@ $${\LARGE \Delta G^0 = \sum v_p \cdot \Delta G_f^0 (products) - \sum v_r \cdot \
 
 meaning,
 
-$${\LARGE \Delta G^0 = }
+$${\LARGE \Delta G^0 = \Delta H^0 - T \Delta S^0}$$
+
+
 
 ---
 Read also - [[Entropy]]
