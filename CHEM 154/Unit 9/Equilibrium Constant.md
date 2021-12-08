@@ -1,0 +1,7 @@
+# Equilibrium Constant
+
+
+
+
+---
+Read also - 
