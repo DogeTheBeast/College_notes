@@ -6,7 +6,9 @@ $${\LARGE \Delta G_{rxn} = \Delta G^0 + RT
 ; ln(Q)}$$
 
 Where *Q* is the Reaction Quotient ([[Equilibrium Constant and Reaction Quotient]]), and
-${\Delta G^0}$ is the [[Gibb's Free Energy]] under standard conditions ()
+${\Delta G^0}$ is the [[Gibb's Free Energy]] under standard conditions (1 M, 1 atm, etc.).
+
+
 
 
 ---
