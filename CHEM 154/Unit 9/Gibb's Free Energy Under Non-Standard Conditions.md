@@ -8,7 +8,7 @@ $${\LARGE \Delta G_{rxn} = \Delta G^0 + RT
 Where *Q* is the Reaction Quotient ([[Equilibrium Constant and Reaction Quotient]]), and
 ${\Delta G^0}$ is the Standard [[Gibb's Free Energy]] for the reaction under standard conditions (1 M, 1 atm, etc.).
 
-| ${\Delta G^0}$ | Direction of reaction            |
+| ${\Delta G_{rxn}}$ | Direction of reaction            |
 | -------------- | -------------------------------- |
 | Less than 0    | Spontaneous in forward direction |
 | Equal to 0     | at Equilibrium                   |
@@ -22,7 +22,9 @@ $${\LARGE  \Delta G^0 = -RT\;ln(K)}$$
 
 This equation can be used to simplify ${\Delta G_{rxn}}$ ,
 
-$${\LARGE \Delta G_{rxn} = RT\;ln()}
+$${\LARGE \Delta G_{rxn} = RT\;ln(\frac{Q}{K})}$$
+
+
 
 
 ---
