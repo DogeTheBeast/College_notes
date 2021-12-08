@@ -32,9 +32,11 @@ $${\LARGE Na(s) + Cl_2 (g) \rightarrow 2NaCl(s)}$$
 -  It is an exothermic reaction, releasing heat, therefore ΔH must also be negative.
 -   This reaction is 'driven by enthalpy', because the large negative ΔH is more negative than the -TΔS term is positive, resulting in a negative overall ΔG and a spontaneous reaction.
 
-Below is a table that relates the sign of the entropy and the enthalpy of a reaction to Gibb's Free Energy,,
+Below is a table that relates the sign of the entropy and the enthalpy of a reaction to Gibb's Free Energy,
 
-
+| ${\Delta H}$ | ${\Delta S}$ |  | 
+| ------------ | ------------ | --- |
+|              |              |     |
 
 
 
