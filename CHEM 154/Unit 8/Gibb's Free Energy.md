@@ -18,7 +18,9 @@ which leads us to the conclusion,
 
 ## Driving force of a reaction
 
-
+Reactions can be
+- 'driven by enthalpy' (where a very exothermic reaction (negative ΔH) overcomes a decrease in entropy) or,
+- 'driven by entropy' where an endothermic reaction occurs because of a highly positive ΔS.
 
 ---
 Read also - [[Entropy]]
