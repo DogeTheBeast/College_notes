@@ -18,7 +18,7 @@ $${\LARGE aA + bB \rightarrow cC + dD}$$
 
 The Equilibrium Constant can be calculated by doing,
 
-$${\LARGE K = \frac{}}
+$${\LARGE K = \frac{[A]^a \}}
 
 
 
