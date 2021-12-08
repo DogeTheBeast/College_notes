@@ -14,7 +14,11 @@ $${\LARGE \Delta G = -T \Delta S_{Universe}}$$
 which leads us to the conclusion,
 - if ${\Delta G <0}$, the reaction is spontaneous,
 - if ${\Delta G = 0}$, the reaction is at equilibrium,
-- if ${\Delta G > 0}$, the reaction is non-sponta
+- if ${\Delta G > 0}$, the reaction is non-spontaneous.
+
+## Driving force of a reaction
+
+
 
 ---
 Read also - [[Entropy]]
