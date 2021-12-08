@@ -49,5 +49,9 @@ The Standard Gibb's Free Energy of formation for elements in reference form (the
 
 $${\LARGE \Delta G^0 = \sum v_p \cdot \Delta G_f^0 (products) - \sum v_r \cdot \Delta G_f^0 (reactants)}$$
 
+meaning,
+
+$${\LARGE \Delta G^0 = }
+
 ---
 Read also - [[Entropy]]
