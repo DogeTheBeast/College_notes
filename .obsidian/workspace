@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 9/Equilibrium Constant.md",
+            "file": "CHEM 154/Unit 9/Gibb's Free Energy Under Non-Standard Conditions.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 9/Equilibrium Constant.md",
+            "file": "CHEM 154/Unit 9/Gibb's Free Energy Under Non-Standard Conditions.md",
             "mode": "preview"
           }
         },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 9/Equilibrium Constant.md",
+                "file": "CHEM 154/Unit 9/Gibb's Free Energy Under Non-Standard Conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
+    "CHEM 154/Unit 9/Gibb's Free Energy Under Non-Standard Conditions.md",
     "CHEM 154/Unit 9/Equilibrium Constant.md",
     "CHEM 154/Unit 8/Gibb's Free Energy.md",
     "CHEM 154/Unit 8/Entropy.md",
@@ -144,7 +145,6 @@
     "PHY170/Vectors/Dot Product.md",
     "PHY170/Vectors/Cross Product.md",
     "PHY170/Vectors/3D Vectors.md",
-    "PHY170/Vectors/Position Vector.md",
-    "PHY170/Vectors/Vectors.md"
+    "PHY170/Vectors/Position Vector.md"
   ]
 }
