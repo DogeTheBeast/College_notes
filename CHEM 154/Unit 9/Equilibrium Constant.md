@@ -12,6 +12,10 @@ The value of the equilibrium constant (*K*) tells us about the extent of the rea
 - Larger value of *K*; reaction practically goes to completion, no reactants left.
 - Intermediate value of *K*; significant [Products] and [Reactants].
 
+Consider the following reaction at equilibrium,
+
+$${\LARGE aA + bB \rightarrow cC + dD}$$
+
 
 
 
