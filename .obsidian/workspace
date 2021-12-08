@@ -6,28 +6,11 @@
       {
         "id": "6b8e59b647cbd96c",
         "type": "leaf",
-        "dimension": 43.619791666666664,
+        "dimension": 99.99999999999999,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CHEM 154/Unit 8/Gibb's Free Energy.md",
-            "mode": "source"
-          }
-        },
-        "group": "542e88c0563a5a41"
-      },
-      {
-        "id": "02af06cfb4ca833a",
-        "type": "leaf",
-        "dimension": 56.38020833333333,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CHEM 154/Unit 8/Gibb's Free Energy.md",
-            "mode": "preview"
-          }
-        },
-        "group": "542e88c0563a5a41"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -91,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 8/Gibb's Free Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +118,8 @@
   },
   "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
-    "CHEM 154/Unit 8/Gibb's Free Energy.md",
     "CHEM 154/Unit 8/Entropy.md",
+    "CHEM 154/Unit 8/Gibb's Free Energy.md",
     "PHY170/Moment/Moment of a Couple.md",
     "PHY170/Moment/Moment of a Force.md",
     "PHY170/Vectors/Dot Product.md",
