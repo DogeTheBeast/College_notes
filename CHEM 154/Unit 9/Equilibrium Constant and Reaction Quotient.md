@@ -22,10 +22,11 @@ $${\LARGE K = \frac{[A]^a \; [B]^b}{[C]^c \; [D]^d}}$$
 
 The concentration can be replaced by the partial pressure ([[Ideal Gas Law (Chemistry)#^52a692]])as well as Activity.
 
+---
+# Reaction Quotient
 
 
-
-
+The reaction quotient is similar to the equilibrium constant but it is calculated for non standard conditions.
 
 
 
