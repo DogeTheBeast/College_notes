@@ -12,7 +12,9 @@ Gibb's Free Energy can be used to determine the spontaneity of a process. Hence,
 $${\LARGE \Delta G = -T \Delta S_{Universe}}$$
 
 which leads us to the conclusion,
-- if ${\Delta G <0}$ the reaction is 
+- if ${\Delta G <0}$, the reaction is spontaneous,
+- if ${\Delta G = 0}$, the reaction is at equilibrium,
+- if ${\Delta G > 0}$, the reaction is non-sponta
 
 ---
 Read also - [[Entropy]]
