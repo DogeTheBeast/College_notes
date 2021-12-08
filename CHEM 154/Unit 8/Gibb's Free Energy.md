@@ -41,9 +41,9 @@ Below is a table that relates the sign of the entropy and the enthalpy of a reac
 | -            | -            | Spontaneous at low *T*, Non-Spontaneous at High *T* |
 | +            | +            | Non-Spontaneous at low *T*, Spontaneous at high *T* |
 
-## Standard Gibb's Free Energy of formation
+## Standard Gibb's Free Energy of formation (${G_f°}$)
 
-The standard Gibbs free energy of formation (${G_f^°}$) of a compound is the change of Gibbs free energy that accompanies the formation of 1 mole of a substance in its standard state from its constituent elements in their standard states (the most stable form of the element at 1 bar of pressure and the specified temperature, usually 298.15 K or 25 °C).
+The standard Gibbs free energy of formation (${G_f°}$) of a compound is the change of Gibbs free energy that accompanies the formation of 1 mole of a substance in its standard state from its constituent elements in their standard states (the most stable form of the element at 1 bar of pressure and the specified temperature, usually 298.15 K or 25 °C).
 
 ---
 Read also - [[Entropy]]
