@@ -11,9 +11,10 @@ ${\Delta G^0}$ is the Standard [[Gibb's Free Energy]] for the reaction under sta
 | ${\Delta G^0}$ | Direction of reaction            |
 | -------------- | -------------------------------- |
 | Less than 0    | Spontaneous in forward direction |
-| Equal to                |                                  |
+| Equal to 0     | at Equilibrium                   |
+| Greater than 0 | Spontaneous in reverse direction                                 |
 
-
+## Relati
 
 
 ---
