@@ -16,6 +16,8 @@ which leads us to the conclusion,
 - if ${\Delta G = 0}$, the reaction is at equilibrium,
 - if ${\Delta G > 0}$, the reaction is non-spontaneous.
 
+Also, ${\Delta G}$ is equal to zero during phase change.
+
 ## Driving force of a reaction
 
 Reactions can be
