@@ -18,7 +18,7 @@ $${\LARGE aA + bB \rightarrow cC + dD}$$
 
 The Equilibrium Constant can be calculated by doing,
 
-$${\LARGE K = \frac{[C]^c \; [D]^d}}$$
+$${\LARGE K = \frac{[C]^c \; [D]^d}{[A]^a \; [B]^b}}$$
 
 The concentration can be replaced by the partial pressure ([[Ideal Gas Law (Chemistry)#^52a692]])as well as Activity.
 
@@ -28,7 +28,7 @@ The concentration can be replaced by the partial pressure ([[Ideal Gas Law (Chem
 
 The reaction quotient is similar to the equilibrium constant but it is calculated for non standard conditions. It uses the same equation,
 
-$${\LARGE Q = \frac{[A]^a \; [B]^b}{[C]^c \; [D]^d}}$$
+$${\LARGE Q = \frac{[C]^c \; [D]^d}{[A]^a \; [B]^b}}$$
 
 but the concentrations are for reactiants under non standard conditions.
 
