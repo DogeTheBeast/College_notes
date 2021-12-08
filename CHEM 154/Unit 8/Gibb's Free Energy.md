@@ -25,10 +25,12 @@ Reactions can be
 ### Example
 The formation of NaCl(s) from its elements is spontaneous and releases a great deal of heat.
 
-$${\LARGE Na(s) + Cl_2 (g) \rarr}
-Na(s) + Cl2(g) → 2NaCl(s)
+$${\LARGE Na(s) + Cl_2 (g) \rightarrow 2NaCl(s)}$$
 
--This process involves a gas molecule becoming a solid, and therefore must involve a decrease in entropy. Therefore, ΔS is negative. It is an exothermic reaction, releasing heat, therefore ΔH must also be negative. This reaction is 'driven by enthalpy', because the large negative ΔH is more negative than the -TΔS term is positive, resulting in a negative overall ΔG and a spontaneous reaction.
+- This process involves a gas molecule becoming a solid, and therefore must involve a decrease in entropy. Therefore, ΔS is negative.
+-  It is an exothermic reaction, releasing heat, therefore ΔH must also be negative. This reaction is 'driven by enthalpy', because the large negative ΔH is more negative than the -TΔS term is positive, resulting in a negative overall ΔG and a spontaneous reaction.
+
+
 
 ---
 Read also - [[Entropy]]
