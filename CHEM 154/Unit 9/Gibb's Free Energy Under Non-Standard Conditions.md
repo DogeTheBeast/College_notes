@@ -26,6 +26,12 @@ $${\LARGE \Delta G_{rxn} = RT\;ln(\frac{Q}{K})}$$
 
 
 
+## Comparing the value of *K* and *Q*
+
+T
+
+![[reaction quotient and equilibrium constant.JPG]]
+
 
 ---
 Read also - [[Gibb's Free Energy]]
