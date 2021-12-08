@@ -26,7 +26,11 @@ The concentration can be replaced by the partial pressure ([[Ideal Gas Law (Chem
 # Reaction Quotient
 
 
-The reaction quotient is similar to the equilibrium constant but it is calculated for non standard conditions.
+The reaction quotient is similar to the equilibrium constant but it is calculated for non standard conditions. It uses the same equation,
+
+$${\LARGE Q = \frac{[A]^a \; [B]^b}{[C]^c \; [D]^d}}$$
+
+but the concentrations are for reactiants under non standard conditions.
 
 
 

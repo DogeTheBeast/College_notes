@@ -5,7 +5,7 @@ The Gibb's Free Energy can be calculated for reactions which are not under stand
 $${\LARGE \Delta G_{rxn} = \Delta G^0 + RT
 ; ln(Q)}$$
 
-Where *Q* is the reaction quotient for non standard conditions..
+Where *Q* is the Reaction Quotient
 
 
 ---
