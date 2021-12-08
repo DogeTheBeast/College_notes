@@ -28,7 +28,9 @@ $${\LARGE \Delta G_{rxn} = RT\;ln(\frac{Q}{K})}$$
 
 ## Comparing the value of *K* and *Q*
 
-T
+The ratio of the value of *K* and *Q* can be used to determine the direction of the reaction.
+
+
 
 ![[reaction quotient and equilibrium constant.JPG]]
 

@@ -18,7 +18,7 @@ $${\LARGE aA + bB \rightarrow cC + dD}$$
 
 The Equilibrium Constant can be calculated by doing,
 
-$${\LARGE K = \frac{[A]^a \; [B]^b}{[C]^c \; [D]^d}}$$
+$${\LARGE K = \frac{[C]^c \; [D]^d}}$$
 
 The concentration can be replaced by the partial pressure ([[Ideal Gas Law (Chemistry)#^52a692]])as well as Activity.
 
