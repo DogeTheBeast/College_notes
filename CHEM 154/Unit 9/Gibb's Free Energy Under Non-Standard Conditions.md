@@ -14,7 +14,11 @@ ${\Delta G^0}$ is the Standard [[Gibb's Free Energy]] for the reaction under sta
 | Equal to 0     | at Equilibrium                   |
 | Greater than 0 | Spontaneous in reverse direction                                 |
 
-## Relati
+## Relationship between *K* and ${\Delta G^0}$
+
+When the system is at equilibrium,
+
+$${\LARGE  \Delta G^0 = -RT\;ln(K)}$$
 
 
 ---
