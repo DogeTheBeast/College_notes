@@ -73,7 +73,12 @@ which can be simplified into,
 
 $${\LARGE [A]_t = [A]_0\;e^{-kt}}$$
 
-So, the concentrati
+So, the concentration decays *exponentially* with time from the initial concentration to 0.
+
+
+### Second Order Reaction
+
+
 
 
 
