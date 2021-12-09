@@ -7,6 +7,8 @@ Chemical Reactions only occur when molecules and atoms interact with one another
 As *temperature increases*, *more collisions* occur between reactants with enough energy for the reaction to occur.
 
 
-![]
+![[rate of reac]]
+
+
 ---
 Read also - 
