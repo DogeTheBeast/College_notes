@@ -20,7 +20,7 @@ The Equilibrium Constant can be calculated by doing,
 
 $${\LARGE K = \frac{[C]^c \; [D]^d}{[A]^a \; [B]^b}}$$
 
-The concentration can be replaced by the partial pressure ([[Ideal Gas Law (Chemistry)#^52a692]])as well as Activity.
+The concentration can be replaced by the partial pressure ([[Ideal Gas Law (Chemistry)]])as well as [[Activity]].
 
 ---
 # Reaction Quotient
