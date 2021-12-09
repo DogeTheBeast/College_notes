@@ -21,7 +21,11 @@ $${\LARGE t_{1/2} = \frac{0.693}{k}}$$
 
 ## Second Order Reaction
 
-$${\LARGE t_{1/2} = }
+$${\LARGE t_{1/2} = \frac{1}{k[A]_0}}$$
+
+Only applicable if the concentration of all 
+
+![[second order reaction half life.JPG]]
 
 ---
 Read also - 
