@@ -19,7 +19,7 @@
       {
         "id": "b9f15d186ca071f4",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 25,
         "state": {
           "type": "markdown",
           "state": {
@@ -28,6 +28,18 @@
           }
         },
         "group": "84ff98b0c0114039"
+      },
+      {
+        "id": "4c81f98196e0da8e",
+        "type": "leaf",
+        "dimension": 25,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +146,9 @@
     "width": 266.7156982421875,
     "collapsed": true
   },
-  "active": "b9f15d186ca071f4",
+  "active": "4c81f98196e0da8e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
     "CHEM 154/Unit 9/Equilibrium Constant.md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
@@ -144,7 +157,6 @@
     "PHY 157/Thermodynamics/Ideal Gas (Physics).md",
     "PHY 157/Thermodynamics/Cyclic processes/Engines and Refrigerators.md",
     "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
-    "CHEM 154/Unit 5/Functional Groups.md",
-    "CHEM 154/Unit 5/Notation for organic molecules.md"
+    "CHEM 154/Unit 5/Functional Groups.md"
   ]
 }
