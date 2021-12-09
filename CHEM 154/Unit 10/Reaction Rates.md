@@ -81,7 +81,9 @@ So, the concentration decays *exponentially* with time from the initial concentr
 
 
 
-##
+### Summary of the Integrated Rate Law
+
+![[integrated rate law.jpg]]
 
 
 
