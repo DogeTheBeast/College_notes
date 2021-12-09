@@ -23,7 +23,9 @@ Then, make an ICE Table for the reaction (considering that the products have an 
 
 Using the value of *K*,
 
-$${\LARGE K = \frac{(1+ax)(1+ax)}{}}
+$${\LARGE K = \frac{(1+ax)(1+ax)}{(1-ax)(1-ax)}}$$
+
+The equation above can be solved to determine the value of *x* and 
 
 ---
 Read also - 
