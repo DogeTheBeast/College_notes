@@ -25,9 +25,12 @@ Chemical reactions are also dependent on the way the molecules collide. For exam
 
 # Reaction Mechanisms
 
-A reaction mechanism is a collection of one or more elementary steps that account for the way reactants become products. For example, consider the reaction,
+A reaction mechanism is a collection of one or more elementary steps that account for the way reactants become products. The sum of elementary steps in a mechanism gives the overall reaction. For example, consider the reaction,
+
+$$\ce{NO2 (g) + CO (g) -> NO (g) = CO2 (g)}$$
 
 
+The rate law fo
 
 
 # Arrhenius Behaviour
