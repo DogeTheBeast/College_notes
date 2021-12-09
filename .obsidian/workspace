@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 10/Reaction Rates.md",
+            "file": "CHEM 154/Unit 10/Half Life.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 10/Reaction Rates.md",
+            "file": "CHEM 154/Unit 10/Half Life.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 10/Reaction Rates.md",
+                "file": "CHEM 154/Unit 10/Half Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +134,7 @@
   },
   "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
+    "CHEM 154/Unit 10/Half Life.md",
     "CHEM 154/Unit 10/Reaction Rates.md",
     "CHEM 154/Unit 9/Van't Hoff Equation.md",
     "CHEM 154/Unit 9/ICE Tables.md",
@@ -142,7 +143,6 @@
     "CHEM 154/Unit 9/Equilibrium Constant.md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
     "PHY 157/Thermodynamics/Thermal Radiation.md",
-    "PHY 157/Thermodynamics/Thermal Expansion.md",
-    "PHY 157/Thermodynamics/Ideal Gas (Physics).md"
+    "PHY 157/Thermodynamics/Thermal Expansion.md"
   ]
 }

@@ -88,9 +88,9 @@ which can be simplified into,
 $${\LARGE [A]_t = \frac{[A]_0}{1+ [A]_0\; kt}}$$
 
 
-So, the concentration decays inversely with time from the initial concentration 
+So, the concentration decays inversely with time from the initial concentration of *A* to zero.
 
-### Summary of the Integrated Rate Law
+## Summary of the Integrated Rate Law
 
 ![[integrated rate law.jpg]]
 
