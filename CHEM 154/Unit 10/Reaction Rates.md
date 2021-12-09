@@ -4,7 +4,9 @@ The rate of reaction is the measure of the rate of *decrease in the concentratio
 
 $${\LARGE Rate = \frac{change\;in\;concentration}{elapsed\;time}}$$
 
-The Concentra
+The concentration chanes depend on stoichiometry,
+
+$${\LARGE Rate = \frac{\Delta [product]}{v_{prod}\; \Delta }}
 
 
 
