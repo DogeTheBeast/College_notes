@@ -78,7 +78,7 @@ So, the concentration decays *exponentially* with time from the initial concentr
 
 ### Second Order Reaction
 
-
+$${\LARGE Rate = k[A]}
 
 
 ### Summary of the Integrated Rate Law
