@@ -15,7 +15,9 @@ $${\LARGE t_{1/2} = \frac{[A]_0}{2k}}$$
 
 ## First Order Reaction
 
-$${}
+$${\LARGE t_{1/2} = \frac{0.693}{k}}$$
+
+
 
 ---
 Read also - 
