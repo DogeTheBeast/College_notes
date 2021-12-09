@@ -24,7 +24,9 @@ Chemical reactions are also dependent on the way the molecules collide. For exam
 
 
 
-##
+# Arrhenius Behaviour
+
+The **Arrhenius**
 
 
 
