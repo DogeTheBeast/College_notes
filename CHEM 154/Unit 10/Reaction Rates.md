@@ -54,7 +54,8 @@ As the order of the reaction is 0,  the rate of the reaction is *independent of 
 $${\LARGE [A]_t = [A]_0 \; - kt}$$
 
 where,
-- ${[A]_t}$ is the concentration of *A* at time *t*
+- ${[A]_t}$ is the concentration of the reactant *A* at time *t*.
+- ${}
 
 
 
