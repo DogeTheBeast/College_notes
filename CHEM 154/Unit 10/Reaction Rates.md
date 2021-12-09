@@ -69,6 +69,7 @@ As the order of the reaction is 1, the rate of the reaction is *directly proport
 
 $${\LARGE ln([A]_t) = ln([A]_0) - kt}$$
 
+which can be simplified into,
 
 
 
