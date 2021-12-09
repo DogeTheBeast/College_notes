@@ -12,11 +12,12 @@ From the equation of the reaction, the *Equilibrium Constant* ([[Equilibrium Con
 
 $${\LARGE K = \frac{[C]^c \; [D]^d}{[A]^a \; [B]^b}}$$
 
-Then, make an ICE Table for the reaction (considering that ,
+Then, make an ICE Table for the reaction (considering that the products have an initial concentration of 1 M for the example),
 
-| Reaction           | *aA* | *bB* | *cC* | *dD* |
-| ------------------ | ---- | ---- | ---- | ---- |
-| **Initial Amount** |      |      |      |      |
+| Reaction             | *aA* | *bB* | *cC* | *dD* |
+| -------------------- | ---- | ---- | ---- | ---- |
+| **Initial Amount**   | 1    | 1    | 1    | 1    |
+| **Change in Amount** | -ax     |      |      |      |
 
 
 ---
