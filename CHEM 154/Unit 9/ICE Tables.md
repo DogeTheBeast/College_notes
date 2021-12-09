@@ -14,10 +14,11 @@ $${\LARGE K = \frac{[C]^c \; [D]^d}{[A]^a \; [B]^b}}$$
 
 Then, make an ICE Table for the reaction (considering that the products have an initial concentration of 1 M for the example),
 
-| Reaction             | *aA* | *bB* | *cC* | *dD* |
-| -------------------- | ---- | ---- | ---- | ---- |
-| **Initial Amount**   | 1    | 1    | 1    | 1    |
-| **Change in Amount** | -ax     |      |      |      |
+| Reaction               | *aA*   | *bB*   | *cC*  | *dD* |
+| ---------------------- | ------ | ------ | ----- | ---- |
+| **Initial Amount**     | 1      | 1      | 1     | 1    |
+| **Change in Amount**   | *-ax*  | *-ax*  | *+ax* | *ax* |
+| **Equilibrium Amount** | *1-ax* | *1-ax* |       |      |
 
 
 ---
