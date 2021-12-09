@@ -65,7 +65,7 @@ where,
 
 $${\LARGE Rate = k[A]}$$
 
-As the order of the reaction is 1, the 
+As the order of the reaction is 1, the rate of the reaction is *directly proportional* to the 
 
 
 
