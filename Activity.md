@@ -11,7 +11,9 @@ $${\LARGE Solids: a_X = 1}$$
 $${\LARGE Liquids: a_X = 1}$$
 
 Where, ${\gamma}$ is the **activity coefficient**, and
-${P^0}$ and ${M^0}$ are **Standard Pressure 
+${P^0}$ and ${M^0}$ are **Standard Pressure** and **Standard Concentration**.
+
+For CHEM 154, ${\gamma = 1}$ for all gases and solutions*.
 
 
 ---
