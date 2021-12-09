@@ -30,7 +30,11 @@ A reaction mechanism is a collection of one or more elementary steps that accoun
 $$\ce{NO2 (g) + CO (g) -> NO (g) = CO2 (g)}$$
 
 
-The rate law fo
+The rate law for the reaction is,
+$${ Rate  = k[NO_2]^2}$$
+
+This reaction can be broken down into 2 steps,
+
 
 
 # Arrhenius Behaviour
