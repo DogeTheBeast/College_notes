@@ -26,7 +26,7 @@ Chemical reactions are also dependent on the way the molecules collide. For exam
 
 # Arrhenius Behaviour
 
-The **Arrhenius Equation** describes the relationship between the *rate constant (k)* and *temperature*
+The **Arrhenius Equation** describes the relationship between the *rate constant (k)* and *temperature (T)*.
 
 
 
