@@ -24,8 +24,6 @@ The concentration can be replaced by the **partial pressure([[Ideal Gas Law (Che
 
 
 
-The **[2016 Sleaford and North Hykeham by-election](https://en.wikipedia.org/wiki/2016_Sleaford_and_North_Hykeham_by-election "2016 Sleaford and North Hykeham by-election")** took p
-
 
 
 
