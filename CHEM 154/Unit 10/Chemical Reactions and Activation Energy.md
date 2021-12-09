@@ -67,6 +67,11 @@ A **Catalyst** is a substance that *increases the rate of reaction* but is *neit
 
 ![[catalyst.png]]
 
+There are 2 types of catalysts,
+- *Homogeneous Catalyst* - Present in the same phase as the reactants.
+- *Hetero*
+
+
 
 ---
 Read also - 
