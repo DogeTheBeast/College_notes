@@ -47,7 +47,9 @@ where,
 
 ### Zeroth Order Reaction
 
-$${\LARGE Rate = k[A]}
+$${\LARGE Rate = k[A]^0}$$
+
+As the order of the reaction is 0,  the rate of the reaction is independent of the initial concentration of the reactant and only dependent upon the 
 
 
 
