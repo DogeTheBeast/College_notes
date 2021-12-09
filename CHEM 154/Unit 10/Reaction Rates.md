@@ -82,7 +82,8 @@ $${\LARGE Rate = k[A]^2}$$
 
 As the order of the reaction is 2, the rate of the reaction is *directly propertional to the square of the concentration of the reactant A*. Therefore, by integrating the rate law, we get,
 
-$${\LARGE \frac{1}{[A]_t}}
+$${\LARGE \frac{1}{[A]_t} = \frac{1}{[A]_0} + kt}$$
+
 
 
 ### Summary of the Integrated Rate Law
