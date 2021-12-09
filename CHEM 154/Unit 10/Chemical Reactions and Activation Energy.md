@@ -63,7 +63,9 @@ where,
 
 # Catalysis
 
-A 
+A **Catalyst** is a substance that *increases the rate of reaction* but is *neither created nor destroyed* in the process.
+
+![[catalyst.png]]
 
 
 ---
