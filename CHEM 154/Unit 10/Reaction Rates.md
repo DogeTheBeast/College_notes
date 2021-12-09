@@ -6,10 +6,10 @@ $${\LARGE Rate = \frac{change\;in\;concentration}{elapsed\;time}}$$
 
 The concentration chanes depend on stoichiometry,
 
-$${\LARGE Rate = \frac{\Delta [product]}{v_{prod}\; \Delta }}
+$${\LARGE Rate = \frac{\Delta [product]}{v_{prod}\; \Delta t} = - \frac{\Delta [reactant]}{v_{react}\; \Delta t}}$$
 
 
-
+Positive rate corresponds with formation of products and negative for depletion of reactants.
 
 
 ---
