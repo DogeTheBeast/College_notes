@@ -10,7 +10,11 @@ $$\LARGE\ce{aA + bB <=> cC + dD}$$
 
 From the equation of the reaction, the *Equilibrium Constant* ([[Equilibrium Constant and Reaction Quotient]]) can be determined by using the equation,
 
-$${\LARGE }
+$${\LARGE K = \frac{[C]^c \; [D]^d}{[A]^a \; [B]^b}}$$
+
+Then, make an ICE Table for the reaction,
+
+
 
 
 ---
