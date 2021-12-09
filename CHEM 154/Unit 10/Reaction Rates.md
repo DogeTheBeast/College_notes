@@ -63,8 +63,9 @@ where,
 
 ### First Order Reaction
 
-$${\LARGE Rate = k[A]^1}
+$${\LARGE Rate = k[A]}$$
 
+As the order of the reaction is 1,
 
 
 
