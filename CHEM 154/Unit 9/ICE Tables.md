@@ -25,7 +25,8 @@ Using the value of *K*,
 
 $${\LARGE K = \frac{(1+ax)(1+ax)}{(1-ax)(1-ax)}}$$
 
-The equation above can be solved to determine the value of *x* and 
+The equation above can be solved to determine the value of *x* and finally the *ICE Table* can be completed to determine the amount of the reactants and products at equilibrium.
+
 
 ---
 Read also - 
