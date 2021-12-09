@@ -19,7 +19,7 @@ $${ Rate = -\frac{1}{a} \frac{\Delta [A]}{\Delta t} = -\frac{1}{b} \frac{\Delta 
 
 ## Average rates and instantaneous rates
 
-
+![[average and instaneous rates.png]]
 
 
 ---
