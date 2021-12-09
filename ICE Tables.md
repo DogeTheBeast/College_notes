@@ -8,6 +8,8 @@ An ICE (Initial, Change, Equilibrium) table is a simple matrix formalism that is
 Consider the following reaction,
 $$\LARGE\ce{aA + bB <=> cC + dD}$$
 
+From the equation of the reaction, the *Equilibrium Constant* can be determined. 
+
 
 ---
 Read also - 
