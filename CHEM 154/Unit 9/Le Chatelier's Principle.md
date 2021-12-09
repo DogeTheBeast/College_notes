@@ -9,7 +9,11 @@ The 3 common means of introducing such stresses are :-
 
 ## Change in Concentration
 
-If the concentration of the reactants is increased, then the concentration of the prod
+Consider the reaction,
+
+$${\LARGE A + 2B \rightarrow }
+
+According to Le Chatelier, the position of equilibrium will move in such a way as to counteract the change. That means that the position of equilibrium will move so that the concentration of A decreases again - by reacting it with B and turning it into C + D. The position of equilibrium moves to the right.
 
 
 ---
