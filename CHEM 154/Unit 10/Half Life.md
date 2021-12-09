@@ -4,7 +4,12 @@ Half life is the amount of time that it takes for the concentration of a reactan
 
 -  **Order of Reaction**,
 -  **Rate Consant**,
--  **Initial Concentration** of the reactant,
+-  **Initial Concentration** of the reactant.
+
+
+## Zeroth Order Reaction
+
+$${\LARGE t_{1/2} = \frac{[A]_0}
 
 ---
 Read also - 
