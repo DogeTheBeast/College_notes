@@ -18,6 +18,8 @@ As *temperature increases*, *more collisions* occur between reactants with enoug
 
 ## Collision Geometry
 
+Chemical reactions are also dependent on the way the molecules collide. For example,
+
 
 
 
