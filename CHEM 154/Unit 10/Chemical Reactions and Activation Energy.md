@@ -4,7 +4,9 @@ Chemical Reactions only occur when molecules and atoms interact with one another
 - Appropriate orientation, and
 - Enough energy to break bonds
 
-As *temperature increases*, more collisions occur between reactants with enough energy for the reaction to occur.
+As *temperature increases*, *more collisions* occur between reactants with enough energy for the reaction to occur.
 
+
+![]
 ---
 Read also - 
