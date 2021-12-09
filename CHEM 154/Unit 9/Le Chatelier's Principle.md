@@ -10,9 +10,7 @@ The 3 common means of introducing such stresses are :-
 ## Change in Concentration
 
 Consider the reaction,
-\begin{align}
-\ce{A+2B <=> C+D}
-\end{align}
+$$\LARGE \ce{A + 2B <=> C + D}$$
 According to Le Chatelier, the position of equilibrium will move in such a way as to counteract the change. That means that the position of equilibrium will move so that the concentration of A decreases again - by reacting it with B and turning it into C + D. The position of equilibrium moves to the right.
 
 
