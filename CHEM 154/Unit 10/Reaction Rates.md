@@ -4,7 +4,7 @@ The rate of reaction is the measure of the rate of *decrease in the concentratio
 
 $${\LARGE Rate = \frac{change\;in\;concentration}{elapsed\;time}}$$
 
-The 
+The Concentra
 
 
 
