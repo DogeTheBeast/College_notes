@@ -65,7 +65,9 @@ where,
 
 $${\LARGE Rate = k[A]}$$
 
-As the order of the reaction is 1, the rate of the reaction is *directly proportional* to the concentration of the reactant *A*.
+As the order of the reaction is 1, the rate of the reaction is *directly proportional* to the concentration of the reactant *A*. Therefore, by integrating the rate law, we get,
+
+$${\LARGE }
 
 
 
