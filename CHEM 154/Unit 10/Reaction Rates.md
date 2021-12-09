@@ -11,6 +11,8 @@ $${\LARGE Rate = \frac{\Delta [product]}{v_{prod}\; \Delta t} = - \frac{\Delta [
 
 Positive rate corresponds with formation of products and negative for depletion of reactants.
 
+The rate of reaction 
+
 
 ---
 Read also - 
