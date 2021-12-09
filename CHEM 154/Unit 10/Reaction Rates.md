@@ -13,8 +13,9 @@ Positive rate corresponds with formation of products and negative for depletion 
 
 The rate of reaction can be determined from the change of any of the chemical species:
 
-$\ce{aA + }
+$$\ce{aA + bB -> cC + dD}$$
 
+$${\LARGE Rate = -\frac{1}{a} \frac{\Delta [A]}{\Delta t} = -\frac{1}{a} \frac{\Delta [A]}{\Delta t}}
 
 ---
 Read also - 
