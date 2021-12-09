@@ -1,4 +1,4 @@
-# Chemical Reactions and Activation Energy
+# Chemical Reactions
 
 Chemical Reactions only occur when molecules and atoms interact with one another through collisions. For the collisions to be successful, 2 criterias have to be fulfilled:-
 - Appropriate orientation, and
@@ -7,8 +7,10 @@ Chemical Reactions only occur when molecules and atoms interact with one another
 As *temperature increases*, *more collisions* occur between reactants with enough energy for the reaction to occur.
 
 
-![[rate of reac]]
+![[temperature and rate of reaction.png]]
 
+
+# Activation Energy (${E_a})
 
 ---
 Read also - 
