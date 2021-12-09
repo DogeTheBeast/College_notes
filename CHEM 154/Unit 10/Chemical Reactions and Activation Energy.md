@@ -37,6 +37,11 @@ This reaction can be broken down into 2 steps,
 
 $$\ce{NO2 (g) + NO2 (g) -> NO3 (g) + NO (g)}$$
 $$\ce{NO3 (g) + CO (g) -> NO2 (g) + CO2 (g)}$$
+which results in the net overall reaction,
+
+$$\ce{NO2 (g) + CO (g) -> NO (g) + CO2 (g)}$$
+
+$\ce{NO3}$ is an intermediate, An intermediate is a species that is not present in the reactants or proudcts but that is formed and 
 
 
 # Arrhenius Behaviour
