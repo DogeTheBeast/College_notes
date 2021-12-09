@@ -33,7 +33,9 @@ $${\LARGE ln(k) = \frac{-E_a}{R} \left (\frac{1}{T}\right) + ln(A)}$$
 where,
 - *k* is the rate constant,
 - ${E_a}$ is the Activation Energy, and
-- *A* is the frequen
+- *A* is the frequency factor.
+
+
 
 
 ---
