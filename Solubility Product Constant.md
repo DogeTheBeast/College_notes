@@ -13,5 +13,7 @@ https://chem.libretexts.org/Courses/University_of_British_Columbia/UBC_CHEM_154%
 and
 
 https://chem.libretexts.org/Courses/University_of_British_Columbia/UBC_CHEM_154%3A_Chemistry_for_Engineering/09%3A_Chemical_Equilibrium/9.8%3A_Relationship_Between_Solubility_and_Ksp
+
+
 ---
 Read also - 
