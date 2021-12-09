@@ -46,7 +46,7 @@ $$\ce{NO2 (g) + CO (g) -> NO (g) + CO2 (g)}$$
 $\ce{NO3}$ is an intermediate, An intermediate is a species that is not present in the reactants or proudcts but that is formed and consumed during the reaction.
 
 
-Using Molecularity ([[Reaction Rates#^ff6cc2]]), the order of the reaction can be determni
+Using Molecularity ([[Reaction Rates#^ff6cc2]]), the order of the reaction can be determined to be 2 because there are 2 reactants in the elementary steps.
 
 
 
@@ -61,7 +61,9 @@ where,
 - ${E_a}$ is the Activation Energy, and
 - *A* is the frequency factor.
 
+# Catalysis
 
+A 
 
 
 ---
