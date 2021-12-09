@@ -35,7 +35,9 @@ The **Rate Law** is the equation that relates the *concentration of the reactant
 $${\LARGE Rate = k[A]^n [B]^m}$$
 
 where, *n* and *m* are referred to as the order of the reaction, and
-*k* is the rate constant 
+*k* is the rate constant which differes from reaction to reaction and for forward and reverse directions.
+
+*k*, *n* and *m* are experimentally determined.
 
 
 
