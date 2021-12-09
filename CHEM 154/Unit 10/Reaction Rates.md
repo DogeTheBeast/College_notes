@@ -22,5 +22,13 @@ $${ Rate = -\frac{1}{a} \frac{\Delta [A]}{\Delta t} = -\frac{1}{b} \frac{\Delta 
 ![[average and instaneous rates.png]]
 
 
+
+
+# Rate Law
+
+The reaction rate depends on the concentration of reactants
+
+
+
 ---
 Read also - 
