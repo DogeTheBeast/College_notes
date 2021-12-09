@@ -21,5 +21,9 @@ Then, make an ICE Table for the reaction (considering that the products have an 
 | **Equilibrium Amount** | *1-ax* | *1-ax* | *1+ax* | *1+ax*     |
 
 
+Using the value of *K*,
+
+$${\LARGE K = \frac{(1+ax)(1+ax)}{}}
+
 ---
 Read also - 
