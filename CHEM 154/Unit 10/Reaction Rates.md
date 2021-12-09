@@ -71,7 +71,9 @@ $${\LARGE ln([A]_t) = ln([A]_0) - kt}$$
 
 which can be simplified into,
 
-$${\LARGE [A]_t = [A]_0 e^{-kt}}$$
+$${\LARGE [A]_t = [A]_0\;e^{-kt}}$$
+
+So, the concentrati
 
 
 
