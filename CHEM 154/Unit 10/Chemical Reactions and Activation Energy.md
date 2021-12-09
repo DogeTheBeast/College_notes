@@ -23,7 +23,9 @@ Chemical reactions are also dependent on the way the molecules collide. For exam
 ![[collision geometry.png]]
 
 
-# Reaction Mecha
+# Reaction Mechanisms
+
+
 
 
 # Arrhenius Behaviour
