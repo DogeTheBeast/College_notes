@@ -25,6 +25,8 @@ Chemical reactions are also dependent on the way the molecules collide. For exam
 
 # Reaction Mechanisms
 
+A reaction mechanism is a collection of one or more elementary steps that account for the way reactants become products. For example, consider the reaction,
+
 
 
 
