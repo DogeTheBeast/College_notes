@@ -56,7 +56,12 @@ $${\LARGE [A]_t = [A]_0 \; - kt}$$
 where,
 - ${[A]_t}$ is the concentration of the reactant *A* at time *t*.
 - ${[A]_0}$ is the initial concentration of the reactant *A*.
-- *k* is the rate constan
+- *k* is the rate constant.
+- *t* is the point in time for which we are trying to find the concentration.
+
+
+
+### First Order Reaction
 
 
 
