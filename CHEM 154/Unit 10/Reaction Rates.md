@@ -41,6 +41,13 @@ where,
 *k*, *n* and *m* are experimentally determined.
 
 
+## Integrated Rate Law
+
+**Integrated Rate Law** is used to determine the rate of formation of product at any point during the reaction.
+
+
+
+
 
 ---
 Read also - 
