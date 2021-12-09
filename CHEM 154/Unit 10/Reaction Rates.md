@@ -32,7 +32,10 @@ $$\ce{A + B -> C}$$
 
 The **Rate Law** is the equation that relates the *concentration of the reactants* and the *Rate constant (k)*. The rate law for the equation above is,
 
-$${|}
+$${\LARGE Rate = k[A]^n [B]^m}$$
+
+where, *n* and *m* are referred to as the order of the reaction, and
+*k* is the rate constant 
 
 
 
