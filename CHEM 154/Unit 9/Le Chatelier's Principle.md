@@ -15,8 +15,9 @@ $$\LARGE \ce{A + 2B <=> C + D}$$
 
 According to Le Chatelier, the position of equilibrium will move in such a way as to **counteract the change**. That means that the position of equilibrium will move so that the concentration of A decreases again - by reacting it with B and turning it into C + D. The position of equilibrium moves to the right.
 
-F
+From this information, the following can be concluded,
 
+`If t`
 
 ---
 Read also - 
