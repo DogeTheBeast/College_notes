@@ -10,7 +10,12 @@ As *temperature increases*, *more collisions* occur between reactants with enoug
 ![[temperature and rate of reaction.png]]
 
 
-# Activation Energy (${E_a})
+# Activation Energy (${E_a}$)
+
+**Activation Energy** is the *minimum energy* that reactant molecules must possess to u
+
+
+
 
 ---
 Read also - 
