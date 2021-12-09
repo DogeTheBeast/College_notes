@@ -17,5 +17,10 @@ $$\ce{aA + bB -> cC + dD}$$
 
 $${ Rate = -\frac{1}{a} \frac{\Delta [A]}{\Delta t} = -\frac{1}{b} \frac{\Delta [B]}{\Delta t} = \frac{1}{c} \frac{\Delta [C]}{\Delta t} = \frac{1}{d} \frac{\Delta [D]}{\Delta t}}$$
 
+## Average rates and instantaneous rates
+
+
+
+
 ---
 Read also - 
