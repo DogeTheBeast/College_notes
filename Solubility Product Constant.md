@@ -3,7 +3,7 @@
 
 When a slightly soluble ionic compound is added to water, some of it dissolves to form a solution, establishing an equilibrium between the pure solid and a solution of its ions. The *Equilibrium Constant* for the dissolving ionic compound is known as *Solubility Product Constant*.
 
-$${\LARGE K_{sp} = [Ions]^{Stociome}}
+$${\LARGE K_{sp} = [Ions]^{Stociometric Coefficient}}$$
 
 Refer to the following page to learn more about ${K_{sp}}$,
 
