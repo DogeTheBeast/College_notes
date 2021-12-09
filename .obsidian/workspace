@@ -6,37 +6,10 @@
       {
         "id": "6b8e59b647cbd96c",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
-            "mode": "source"
-          }
-        },
-        "group": "84ff98b0c0114039"
-      },
-      {
-        "id": "b9f15d186ca071f4",
-        "type": "leaf",
-        "dimension": 25,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
-            "mode": "preview"
-          }
-        },
-        "group": "84ff98b0c0114039"
-      },
-      {
-        "id": "4c81f98196e0da8e",
-        "type": "leaf",
-        "dimension": 25,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "CHEM 154/Unit 10/Reaction Rates.md",
             "mode": "source"
           }
         }
@@ -103,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "CHEM 154/Unit 10/Reaction Rates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +119,17 @@
     "width": 266.7156982421875,
     "collapsed": true
   },
-  "active": "4c81f98196e0da8e",
+  "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "CHEM 154/Unit 10/Reaction Rates.md",
+    "CHEM 154/Unit 9/ICE Tables.md",
     "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
+    "conflict-files-obsidian-git.md",
     "CHEM 154/Unit 9/Equilibrium Constant.md",
     "PHY 157/Thermodynamics/Thermodynamics.md",
     "PHY 157/Thermodynamics/Thermal Radiation.md",
     "PHY 157/Thermodynamics/Thermal Expansion.md",
     "PHY 157/Thermodynamics/Ideal Gas (Physics).md",
-    "PHY 157/Thermodynamics/Cyclic processes/Engines and Refrigerators.md",
-    "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
-    "CHEM 154/Unit 5/Functional Groups.md"
+    "PHY 157/Thermodynamics/Cyclic processes/Engines and Refrigerators.md"
   ]
 }
