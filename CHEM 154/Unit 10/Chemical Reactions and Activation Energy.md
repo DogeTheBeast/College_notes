@@ -16,6 +16,8 @@ As *temperature increases*, *more collisions* occur between reactants with enoug
 
 ![[activation energy.png]]
 
+## Collision Geometry
+
 
 
 
