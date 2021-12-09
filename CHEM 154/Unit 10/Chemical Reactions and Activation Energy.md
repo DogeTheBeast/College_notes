@@ -1,8 +1,8 @@
 # Chemical Reactions
 
 Chemical Reactions only occur when molecules and atoms interact with one another through collisions. For the collisions to be successful, 2 criterias have to be fulfilled:-
-- Appropriate orientation, and
-- Enough energy to break bonds
+- Appropriate orientation (Collision Geometry), and
+- Enough energy to break bonds (Activation Energy)
 
 As *temperature increases*, *more collisions* occur between reactants with enough energy for the reaction to occur.
 
@@ -10,9 +10,11 @@ As *temperature increases*, *more collisions* occur between reactants with enoug
 ![[temperature and rate of reaction.png]]
 
 
-# Activation Energy (${E_a}$)
+## Activation Energy (${E_a}$)
 
-**Activation Energy** is the *minimum energy* that reactant molecules must possess to u
+**Activation Energy** is the *minimum energy* that reactant molecules must possess to undergo a particular chemical reaction.
+
+![[activation energy.png]]
 
 
 
