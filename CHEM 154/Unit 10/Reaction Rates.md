@@ -98,7 +98,7 @@ So, the concentration decays inversely with time from the initial concentration 
 The *order of the reaction* can be determined from the *Stoichiometric Coefficients* for the reactants in an elementary step ([[Chemical Reactions and Activation Energy#^dadf9f]]).
 
 
-
+![[molecularity.png]]
 
 
 ---
