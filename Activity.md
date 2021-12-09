@@ -10,7 +10,9 @@ $${\LARGE Solutions : \; a_X = \gamma_X \;[X] / M^0}$$
 $${\LARGE Solids: a_X = 1}$$
 $${\LARGE Liquids: a_X = 1}$$
 
-Where, ${\gamma_X}$ is the **activity coefficient**,
+Where, ${\gamma}$ is the **activity coefficient**, and
+${P^0}$ and ${M^0}$ are **Standard Pressure 
+
 
 ---
 Read also - 
