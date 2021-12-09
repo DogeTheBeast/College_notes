@@ -49,7 +49,9 @@ where,
 
 $${\LARGE Rate = k[A]^0}$$
 
-As the order of the reaction is 0,  the rate of the reaction is *independent of the initial concentration of the reactant* and only dependent upon the *rate constant*.
+As the order of the reaction is 0,  the rate of the reaction is *independent of the initial concentration of the reactant* and only dependent upon the *rate constant*. Therefore, by integrating the rate law, we get,
+
+$${\LARGE [A]_t = [A]_0 \; - kt }
 
 
 
