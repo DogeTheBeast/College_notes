@@ -78,7 +78,9 @@ So, the concentration decays *exponentially* with time from the initial concentr
 
 ### Second Order Reaction
 
-$${\LARGE Rate = k[A]}
+$${\LARGE Rate = k[A]^2}$$
+
+As the order of the reaction is 2, the rate of the reaction is *directly propertional to the square of the concentration of the reactant A*.
 
 
 ### Summary of the Integrated Rate Law
