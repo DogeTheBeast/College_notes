@@ -65,7 +65,7 @@ where,
 
 $${\LARGE Rate = k[A]}$$
 
-As the order of the reaction is 1,
+As the order of the reaction is 1, the 
 
 
 
