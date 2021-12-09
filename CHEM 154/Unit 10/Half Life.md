@@ -17,7 +17,11 @@ $${\LARGE t_{1/2} = \frac{[A]_0}{2k}}$$
 
 $${\LARGE t_{1/2} = \frac{0.693}{k}}$$
 
+![[first order reaction half life.JPG]]
 
+## Second Order Reaction
+
+$${\LARGE t_{1/2} = }
 
 ---
 Read also - 
