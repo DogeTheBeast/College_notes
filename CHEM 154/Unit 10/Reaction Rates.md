@@ -63,7 +63,7 @@ where,
 
 ### First Order Reaction
 
-
+$${\LARGE Rate = k[A]^1}
 
 
 
