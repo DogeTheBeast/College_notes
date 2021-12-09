@@ -8,7 +8,9 @@ That is not always the case with them because they are raised to the power of th
 $${\LARGE Gases: \; a_X = \gamma_X \;P_X / P^0}$$
 $${\LARGE Solutions : \; a_X = \gamma_X \;[X] / M^0}$$
 $${\LARGE Solids: a_X = 1}$$
-$${\LARGE}$$
+$${\LARGE Liquids: a_X = 1}$$
+
+Where, ${\gamma_X}$ is the **activity coefficient**,
 
 ---
 Read also - 
