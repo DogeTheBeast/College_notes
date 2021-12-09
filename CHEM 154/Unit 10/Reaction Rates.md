@@ -43,7 +43,7 @@ where,
 
 ## Integrated Rate Law
 
-**Integrated Rate Law** is used to determine the rate of formation of product at any point during the reaction.
+**Integrated Rate Law** is used to determine the rate of formation of product at any point during the reaction. The integrated rate law depends on the order of the reaction and there are different equations for each order of reaction.
 
 
 
