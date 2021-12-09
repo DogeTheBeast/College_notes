@@ -23,7 +23,8 @@ $${\LARGE t_{1/2} = \frac{0.693}{k}}$$
 
 $${\LARGE t_{1/2} = \frac{1}{k[A]_0}}$$
 
-Only applicable if the concentration of all 
+Only applicable if the concentration of all the reactants is the same as *A* and the rate law is,
+$${Rate = k[A]^2}$$
 
 ![[second order reaction half life.JPG]]
 
