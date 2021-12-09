@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 10/Chemical Reactions and Activation Energy.md",
+            "file": "CHEM 154/Unit 11/Untitled.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 10/Chemical Reactions and Activation Energy.md",
+                "file": "CHEM 154/Unit 11/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
+    "CHEM 154/Unit 11/Untitled.md",
     "CHEM 154/Unit 10/Chemical Reactions and Activation Energy.md",
     "CHEM 154/Unit 10/Half Life.md",
     "CHEM 154/Unit 10/Reaction Rates.md",
@@ -129,7 +130,6 @@
     "CHEM 154/Unit 9/ICE Tables.md",
     "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
     "conflict-files-obsidian-git.md",
-    "CHEM 154/Unit 9/Equilibrium Constant.md",
-    "PHY 157/Thermodynamics/Thermodynamics.md"
+    "CHEM 154/Unit 9/Equilibrium Constant.md"
   ]
 }
