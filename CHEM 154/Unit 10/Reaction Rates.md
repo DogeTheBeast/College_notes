@@ -30,7 +30,9 @@ The reaction rate depends on the concentration of reactants and a rate constant.
 
 $$\ce{A + B -> C}$$
 
-The **Rate Law** is the equation that relates the 
+The **Rate Law** is the equation that relates the *concentration of the reactants* and the *Rate constant (k)*. The rate law for the equation above is,
+
+$${|}
 
 
 
