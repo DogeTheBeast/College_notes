@@ -9,7 +9,7 @@ The 3 common means of introducing such stresses are :-
 
 ## Change in Concentration
 
-If the concentration of the reactants is increased, then th
+If the concentration of the reactants is increased, then the concentration of the prod
 
 
 ---
