@@ -84,6 +84,8 @@ As the order of the reaction is 2, the rate of the reaction is *directly propert
 
 $${\LARGE \frac{1}{[A]_t} = \frac{1}{[A]_0} + kt}$$
 
+which can be simplified into,
+$${\LARGE [A]_t = \frac{}}
 
 
 ### Summary of the Integrated Rate Law
