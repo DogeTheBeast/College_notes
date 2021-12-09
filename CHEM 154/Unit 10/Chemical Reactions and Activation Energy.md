@@ -41,7 +41,9 @@ which results in the net overall reaction,
 
 $$\ce{NO2 (g) + CO (g) -> NO (g) + CO2 (g)}$$
 
-$\ce{NO3}$ is an intermediate, An intermediate is a species that is not present in the reactants or proudcts but that is formed and 
+$\ce{NO3}$ is an intermediate, An intermediate is a species that is not present in the reactants or proudcts but that is formed and consumed during the reaction.
+
+
 
 
 # Arrhenius Behaviour
