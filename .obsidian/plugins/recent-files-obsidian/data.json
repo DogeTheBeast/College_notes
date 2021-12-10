@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Polarity",
+      "path": "CHEM 154/Unit 3/Polarity.md"
+    },
+    {
+      "basename": "Lewis Dot Structure",
+      "path": "CHEM 154/Unit 3/Lewis Dot Structure.md"
+    },
+    {
+      "basename": "Periodic Properties",
+      "path": "CHEM 154/Unit 2/Periodic Properties.md"
+    },
+    {
+      "basename": "Electronic Structure",
+      "path": "CHEM 154/Unit 2/Electronic Structure.md"
+    },
+    {
+      "basename": "Electronic Configuration",
+      "path": "CHEM 154/Unit 2/Electronic Configuration.md"
+    },
+    {
+      "basename": "Bonding",
+      "path": "CHEM 154/Unit 2/Bonding.md"
+    },
+    {
       "basename": "Atomic Model",
       "path": "CHEM 154/Unit 1/Atomic Model.md"
     },
@@ -141,22 +165,6 @@
       "path": "CHEM 154/Unit 6/Real Gas.md"
     },
     {
-      "basename": "Electronic Structure",
-      "path": "CHEM 154/Unit 2/Electronic Structure.md"
-    },
-    {
-      "basename": "Bonding",
-      "path": "CHEM 154/Unit 2/Bonding.md"
-    },
-    {
-      "basename": "Periodic Properties",
-      "path": "CHEM 154/Unit 2/Periodic Properties.md"
-    },
-    {
-      "basename": "Lewis Dot Structure",
-      "path": "CHEM 154/Unit 3/Lewis Dot Structure.md"
-    },
-    {
       "basename": "Phases of Matter",
       "path": "CHEM 154/Unit 4/Phases of Matter.md"
     },
@@ -167,14 +175,6 @@
     {
       "basename": "Intermolecular Forces",
       "path": "CHEM 154/Unit 4/Intermolecular Forces.md"
-    },
-    {
-      "basename": "Polarity",
-      "path": "CHEM 154/Unit 3/Polarity.md"
-    },
-    {
-      "basename": "Electronic Configuration",
-      "path": "CHEM 154/Unit 2/Electronic Configuration.md"
     },
     {
       "basename": "2021-11-14",
