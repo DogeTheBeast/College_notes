@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 8/Entropy.md",
+            "file": "CHEM 154/Unit 8/Gibb's Free Energy.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 8/Entropy.md",
+                "file": "CHEM 154/Unit 8/Gibb's Free Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
+    "CHEM 154/Unit 8/Gibb's Free Energy.md",
     "CHEM 154/Unit 8/Entropy.md",
     "CHEM 154/Unit 7/Work.md",
     "CHEM 154/Unit 7/Heat Capacity.md",
@@ -129,7 +130,6 @@
     "CHEM 154/Unit 6/Real Gas.md",
     "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
     "CHEM 154/Unit 5/Polymers.md",
-    "CHEM 154/Unit 5/Functional Groups.md",
-    "CHEM 154/Unit 5/Notation for organic molecules.md"
+    "CHEM 154/Unit 5/Functional Groups.md"
   ]
 }
