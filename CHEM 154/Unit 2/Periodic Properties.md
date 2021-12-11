@@ -37,7 +37,7 @@ S = Shielding constant
 
 Ionization energy is the minimum energy required to remove a single electrons from an atom, molecule or ion in its gaseous state.
 
-${X-> X^+ + e^-}$
+$\ce{X-> X+ + e-}$
 														
 Fluorine has the highest ionization energy because it has the greatest [[Effective Nuclear Charge]] meaning that it is difficult to remove electrons from fluorine. Noble gases have the highest ionization energy because they have a stable octet and don't want to lose any electrons. 
 
@@ -49,7 +49,7 @@ Fluorine has the highest ionization energy because it has the greatest [[Effecti
 
 Electron affinity is the energy change resulting from the addition of a single electron to an atom or molecule in its gaseous state.
 
-${X(g) + e^- -> X^- (g)}$
+$\ce{X(g) + e- -> X- (g)}$
 
 [[alkali earth metal]] do not form stable anions. 
 Noble gases have an electron affinity of zero because they don't want to accept any electrons.
