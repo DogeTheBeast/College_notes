@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 1/Atomic Model.md",
+            "file": "CHEM 154/Unit 2/Electronic Configuration.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 1/Atomic Model.md",
+                "file": "CHEM 154/Unit 2/Electronic Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,14 +121,14 @@
   },
   "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
+    "CHEM 154/Unit 2/Electronic Configuration.md",
+    "CHEM 154/Unit 2/Bonding.md",
     "CHEM 154/Unit 1/Atomic Model.md",
     "CHEM 154/Unit 3/VSEPR.md",
     "CHEM 154/Unit 3/Polarity.md",
     "CHEM 154/Unit 3/Lewis Dot Structure.md",
     "CHEM 154/Unit 2/Periodic Properties.md",
     "CHEM 154/Unit 2/Electronic Structure.md",
-    "CHEM 154/Unit 2/Electronic Configuration.md",
-    "CHEM 154/Unit 2/Bonding.md",
     "CHEM 154/Unit 10/Reaction Rates.md",
     "CHEM 154/Unit 10/Half Life.md"
   ]
