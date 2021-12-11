@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 7/Enthalpy.md",
+            "file": "CHEM 154/Unit 2/Electronic Structure.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 7/Enthalpy.md",
+                "file": "CHEM 154/Unit 2/Electronic Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
+    "CHEM 154/Unit 2/Electronic Structure.md",
     "CHEM 154/Unit 7/Enthalpy.md",
     "CHEM 154/Unit 8/Entropy.md",
     "CHEM 154/Unit 7/Work.md",
@@ -129,7 +130,6 @@
     "CHEM 154/Unit 4/Intermolecular Forces.md",
     "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
     "CHEM 154/Unit 9/ICE Tables.md",
-    "CHEM 154/Unit 9/Le Chatelier's Principle.md",
-    "CHEM 154/Unit 9/Activity.md"
+    "CHEM 154/Unit 9/Le Chatelier's Principle.md"
   ]
 }
