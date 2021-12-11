@@ -13,7 +13,7 @@ Elements gain, lose or share electrons to achieve a configuration in which they 
 ### Formal Charge
 Formal charge is the difference between the number of valence electrons and the number of electrons surrounding an atom in a particular Lewis structure.
 
-$${\LARGE FC = VE - LPE - (BE)/2}$$
+$${\LARGE FC = VE - LPE - \frac{BE}{2}}$$
 
 The most stable Lewis structure
 - is the one with the least non-zero formal charges. 
@@ -22,7 +22,7 @@ The most stable Lewis structure
 ## Steps to draw a Lewis Structure
 
 1. Count the number of Valence electrons in the molecule or ion.
-2. Draw the skeletal strcuture of the molecule
+2. Draw the skeletal structure of the molecule
 	1. The least electronegative atom is generally the central atom.
 	2. Hydrogen is always a terminal atom.
 	3. Unless told otherwise, do not form rings.
