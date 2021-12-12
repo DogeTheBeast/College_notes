@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 2/Bonding.md",
+            "file": "CHEM 154/Unit 10/Half Life.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 2/Bonding.md",
+                "file": "CHEM 154/Unit 10/Half Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
+    "CHEM 154/Unit 10/Half Life.md",
+    "CHEM 154/Unit 10/Chemical Reactions and Activation Energy.md",
+    "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md",
     "CHEM 154/Unit 2/Bonding.md",
     "CHEM 154/Unit 1/Atomic Model.md",
     "APSC 100/Module 4/Untitled.md",
     "APSC 100/Complexity of a system.md",
     "APSC 100/Module 3/Prototyping.md",
     "APSC 100/Module 3/Benefits and problems with CAD.md",
-    "FREN 101/Numbers (Les Nombres).md",
-    "CHEM 154/Unit 9/ICE Tables.md",
-    "CHEM 154/Unit 9/Activity.md",
-    "CHEM 154/Unit 9/Equilibrium Constant and Reaction Quotient.md"
+    "FREN 101/Numbers (Les Nombres).md"
   ]
 }
