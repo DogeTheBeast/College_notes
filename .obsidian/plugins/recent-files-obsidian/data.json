@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "APSC 100/Module 4/Untitled.md"
+    },
+    {
+      "basename": "Complexity of a system",
+      "path": "APSC 100/Complexity of a system.md"
+    },
+    {
+      "basename": "Prototyping",
+      "path": "APSC 100/Module 3/Prototyping.md"
+    },
+    {
+      "basename": "Benefits and problems with CAD",
+      "path": "APSC 100/Module 3/Benefits and problems with CAD.md"
+    },
+    {
+      "basename": "Numbers (Les Nombres)",
+      "path": "FREN 101/Numbers (Les Nombres).md"
+    },
+    {
+      "basename": "ICE Tables",
+      "path": "CHEM 154/Unit 9/ICE Tables.md"
+    },
+    {
       "basename": "Activity",
       "path": "CHEM 154/Unit 9/Activity.md"
     },
@@ -51,10 +75,6 @@
     {
       "basename": "Ideal Gas Law (Chemistry)",
       "path": "CHEM 154/Unit 6/Ideal Gas Law (Chemistry).md"
-    },
-    {
-      "basename": "ICE Tables",
-      "path": "CHEM 154/Unit 9/ICE Tables.md"
     },
     {
       "basename": "Le Chatelier's Principle",
@@ -179,26 +199,6 @@
     {
       "basename": "Position Vector",
       "path": "PHY170/Vectors/Position Vector.md"
-    },
-    {
-      "basename": "Vectors",
-      "path": "PHY170/Vectors/Vectors.md"
-    },
-    {
-      "basename": "Vector directed along a line",
-      "path": "PHY170/Vectors/Vector directed along a line.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "APSC 100/Module 4/Untitled.md"
-    },
-    {
-      "basename": "2021-11-14",
-      "path": "Extras/Daily Notes/2021-11-14.md"
-    },
-    {
-      "basename": "2021-11-15",
-      "path": "Extras/Daily Notes/2021-11-15.md"
     }
   ],
   "omittedPaths": [],
