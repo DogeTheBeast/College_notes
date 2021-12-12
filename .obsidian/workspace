@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHEM 154/Unit 10/Reaction Rates.md",
+            "file": "CHEM 154/Unit 9/Activity.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 154/Unit 10/Reaction Rates.md",
+                "file": "CHEM 154/Unit 9/Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,8 @@
   },
   "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
+    "CHEM 154/Unit 9/Activity.md",
+    "CHEM 154/Unit 9/Equilibrium Constant and Reaction Quotient.md",
     "CHEM 154/Unit 10/Reaction Rates.md",
     "CHEM 154/Unit 7/Enthalpy.md",
     "CHEM 154/Unit 7/First Law of Thermodynamics.md",
@@ -128,8 +130,6 @@
     "CHEM 154/Unit 7/Heat Capacity.md",
     "CHEM 154/Unit 2/Periodic Properties.md",
     "CHEM 154/Unit 2/Electronic Configuration.md",
-    "CHEM 154/Unit 2/Electronic Structure.md",
-    "CHEM 154/Unit 8/Entropy.md",
-    "CHEM 154/Unit 4/Intermolecular Forces.md"
+    "CHEM 154/Unit 2/Electronic Structure.md"
   ]
 }
