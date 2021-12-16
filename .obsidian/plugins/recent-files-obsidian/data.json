@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Vector directed along a line",
+      "path": "PHY170/Vectors/Vector directed along a line.md"
+    },
+    {
+      "basename": "Position Vector",
+      "path": "PHY170/Vectors/Position Vector.md"
+    },
+    {
+      "basename": "Dot Product",
+      "path": "PHY170/Vectors/Dot Product.md"
+    },
+    {
+      "basename": "3D Vectors",
+      "path": "PHY170/Vectors/3D Vectors.md"
+    },
+    {
+      "basename": "Moment of a Force",
+      "path": "PHY170/Moment/Moment of a Force.md"
+    },
+    {
+      "basename": "Moment of a Couple",
+      "path": "PHY170/Moment/Moment of a Couple.md"
+    },
+    {
       "basename": "Reaction Rates",
       "path": "CHEM 154/Unit 10/Reaction Rates.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Cyclic Process",
       "path": "PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md"
-    },
-    {
-      "basename": "Moment of a Couple",
-      "path": "PHY170/Moment/Moment of a Couple.md"
-    },
-    {
-      "basename": "Moment of a Force",
-      "path": "PHY170/Moment/Moment of a Force.md"
-    },
-    {
-      "basename": "Dot Product",
-      "path": "PHY170/Vectors/Dot Product.md"
-    },
-    {
-      "basename": "Cross Product",
-      "path": "PHY170/Vectors/Cross Product.md"
-    },
-    {
-      "basename": "3D Vectors",
-      "path": "PHY170/Vectors/3D Vectors.md"
-    },
-    {
-      "basename": "Position Vector",
-      "path": "PHY170/Vectors/Position Vector.md"
     }
   ],
   "omittedPaths": [],
