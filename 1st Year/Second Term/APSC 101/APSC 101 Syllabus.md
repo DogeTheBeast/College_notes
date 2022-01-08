@@ -5,7 +5,10 @@
 
 ## Course Topics Covered
 
+3 Modules will be covered
 
+| Module Name | Module Content | Module St
+| ----------- | -------------- |
 
 
 ## Course homework Schedule
