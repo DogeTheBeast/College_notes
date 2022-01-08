@@ -1,2 +1,2 @@
-| Day | Time | 
+| Day | Time | Content
 | --- | ---- |
