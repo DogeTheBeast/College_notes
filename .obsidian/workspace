@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1st Year/First Term/PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
-            "mode": "preview"
+            "file": "Extras/Templates/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Year/First Term/PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
+                "file": "Extras/Templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
+    "Extras/Templates/Untitled.md",
     "1st Year/First Term/PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
     "1st Year/First Term/PHY 157/Thermodynamics/Cyclic processes/Engines and Refrigerators.md",
     "1st Year/First Term/PHY 157/Thermodynamics/Thermodynamics.md",
@@ -129,7 +130,6 @@
     "1st Year/First Term/PHY 157/Thermodynamics/Ideal Gas (Physics).md",
     "1st Year/First Term/PHY170/Vectors/Dot Product.md",
     "1st Year/First Term/PHY170/Vectors/Position Vector.md",
-    "1st Year/First Term/PHY170/Vectors/Vector directed along a line.md",
-    "1st Year/First Term/PHY170/Vectors/3D Vectors.md"
+    "1st Year/First Term/PHY170/Vectors/Vector directed along a line.md"
   ]
 }
