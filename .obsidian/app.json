@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "alphabetical",
+  "fileSortOrder": "byCreatedTimeReverse",
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
