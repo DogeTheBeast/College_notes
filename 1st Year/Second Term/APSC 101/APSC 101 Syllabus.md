@@ -5,10 +5,13 @@
 
 ## Course Topics Covered
 
+
+
+
 ## Course homework Schedule
 
 
 ### Contact Info
 
-Mimi Tse (Email - apsc101@a
+Mimi Tse (Email - apsc101@apsc.ubc.ca)
 
