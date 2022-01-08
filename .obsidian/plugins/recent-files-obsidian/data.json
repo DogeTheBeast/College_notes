@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Extras/Templates/Untitled.md"
+      "basename": "Syllabus Outline Tempelate",
+      "path": "Extras/Templates/Syllabus Outline Tempelate.md"
+    },
+    {
+      "basename": "Notes template",
+      "path": "Extras/Templates/Notes template.md"
     },
     {
       "basename": "Cyclic Process",
@@ -195,10 +199,6 @@
     {
       "basename": "Phases of Matter",
       "path": "1st Year/First Term/CHEM 154/Unit 4/Phases of Matter.md"
-    },
-    {
-      "basename": "Hydrocarbons",
-      "path": "1st Year/First Term/CHEM 154/Unit 4/Hydrocarbons.md"
     }
   ],
   "omittedPaths": [],

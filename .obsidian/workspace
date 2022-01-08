@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Extras/Templates/Untitled.md",
+            "file": "Extras/Templates/Syllabus Outline Tempelate.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Untitled.md",
+                "file": "Extras/Templates/Syllabus Outline Tempelate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,8 @@
   },
   "active": "6b8e59b647cbd96c",
   "lastOpenFiles": [
-    "Extras/Templates/Untitled.md",
+    "Extras/Templates/Syllabus Outline Tempelate.md",
+    "Extras/Templates/Notes template.md",
     "1st Year/First Term/PHY 157/Thermodynamics/Cyclic processes/Cyclic Process.md",
     "1st Year/First Term/PHY 157/Thermodynamics/Cyclic processes/Engines and Refrigerators.md",
     "1st Year/First Term/PHY 157/Thermodynamics/Thermodynamics.md",
@@ -129,7 +130,6 @@
     "1st Year/First Term/PHY 157/Thermodynamics/Thermal Expansion.md",
     "1st Year/First Term/PHY 157/Thermodynamics/Ideal Gas (Physics).md",
     "1st Year/First Term/PHY170/Vectors/Dot Product.md",
-    "1st Year/First Term/PHY170/Vectors/Position Vector.md",
-    "1st Year/First Term/PHY170/Vectors/Vector directed along a line.md"
+    "1st Year/First Term/PHY170/Vectors/Position Vector.md"
   ]
 }
