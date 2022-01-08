@@ -7,7 +7,7 @@ $${\LARGE G = H - T S}$$
 And at constant pressure and temperature,
 $${\LARGE \Delta G = \Delta H - T \Delta S}$$
 
-Gibb's Free Energy can be used to determine the spontaneity of a process. Hence, the spontaneity of a process is determined by the [[entropy]] and the [[enthalpy]] of the reaction.
+Gibb's Free Energy can be used to determine the spontaneity of a process. Hence, the spontaneity of a process is determined by the [[Entropy]] and the [[Enthalpy]] of the reaction.
 
 $${\LARGE \Delta G = -T \Delta S_{Universe}}$$
 
