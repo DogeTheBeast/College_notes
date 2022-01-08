@@ -7,8 +7,10 @@
 
 3 Modules will be covered
 
-| Module Name | Module Content | Module St
-| ----------- | -------------- |
+| Module Name                          | Module Content                   | Module Start Date | Module End Date |
+| ------------------------------------ | -------------------------------- | ----------------- | --------------- |
+| Module 5 - Technical Skill in Design | Arduino and Physical Prototyping | 10th Jan 2022     | 4th Feb 2022    |
+| Module 6 -                                      |                                  |                   |                 |
 
 
 ## Course homework Schedule
