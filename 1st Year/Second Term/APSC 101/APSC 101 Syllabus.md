@@ -7,14 +7,14 @@
 
 3 Modules will be covered
 
-| Module Name                          | Module Content                       | Module Start Date | Module End Date |
-| ------------------------------------ | ------------------------------------ | ----------------- | --------------- |
-| Module 5 - Technical Skill in Design | Arduino and Physical Prototyping     | 10th Jan 2022     | 4th Feb 2022    |
-| Module 6 - Sustanability             | Drinking Water System Recommendation | 7th Feb 2022      | 11th March 2022 |
-| Module 7 -                                      |                                      |                   |                 |
+| Module Name                           | Module Content                       | Module Start Date | Module End Date |
+| ------------------------------------- | ------------------------------------ | ----------------- | --------------- |
+| Module 5 - Technical Skill in Design  | Arduino and Physical Prototyping     | 10th Jan 2022     | 4th Feb 2022    |
+| Module 6 - Sustanability              | Drinking Water System Recommendation | 7th Feb 2022      | 11th March 2022 |
+| Module 7 - Cornerstone Design Project | Rainwater Treatment System           | 14th March 2022   | 8th April 2022                |
 
 
-## Course homework Schedule
+## Course Homework Schedule
 
 
 ### Contact Info
