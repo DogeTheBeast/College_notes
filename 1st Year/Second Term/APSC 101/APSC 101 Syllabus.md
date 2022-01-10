@@ -16,15 +16,15 @@
 
 ## Course Homework Schedule
 
-| Day       | Time | Content to Submit |
-| --------- | ---- | ----------------- |
-| Monday    |      |                   |
-| Tuesday   |      |                   |
-| Wednesday |      |                   |
-| Thurday   |      |                   |
-| Friday    |      |                   |
-| Saturday  |      |                   |
-| Sunday    |      |                   |
+| Day       | Time    | Content to Submit |
+| --------- | ------- | ----------------- |
+| Monday    | 8:00 am |                   |
+| Tuesday   |         |                   |
+| Wednesday |         |                   |
+| Thurday   |         |                   |
+| Friday    |         |                   |
+| Saturday  |         |                   |
+| Sunday    |         |                   |
 
 
 
