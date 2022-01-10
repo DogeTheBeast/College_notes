@@ -3,4 +3,7 @@
 | Monday    |      |                   |
 | Tuesday   |      |                   |
 | Wednesday |      |                   |
-| Thu          |      |                   |
+| Thurday   |      |                   |
+| Friday    |      |                   |
+| Saturday  |      |                   |
+| Sunday          |      |                   |
