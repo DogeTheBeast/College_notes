@@ -5,7 +5,8 @@
 | ------------- | ------ | ------------ | ----- |
 | Midterm Essay | 1      | 35 %         |       |
 | Final Essay   | 1      | 35 %         |       |
-| Final Exam    | 1      | 35%             |       |
+| Final Exam    | 1      | 35 %         |       |
+|               |        |              |       |
 
 ## Course Topics Covered
 
