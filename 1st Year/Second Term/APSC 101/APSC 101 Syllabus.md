@@ -8,7 +8,9 @@
 | Team Quizzes                                              | 10     | 5 %          | Done as a team in class based on online material                                                                |
 | Studio Worksheets                                         | 7      | 5 %          | Completed during weekly studio                                                                                  |
 | Professional development reflections, memos and critiques | 2-3    | 5 %          | Selfassessments of professional development, peer-assessment of other individuals/team work and in-class memos. |
-|                                                           |        |              |                                                                                                                 |
+| Project deliverables                                      | 6      | 30 %         | Two deliverables per project                                                                                    |
+| Midterm exam                                              | 1      | 15 %         |                                                                                                                 |
+| Final exam                                                | 1      | 30 %         |                                                                                                                 |
 
 
 
