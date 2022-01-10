@@ -2,10 +2,10 @@
 
 ## Course grade breakup
 
-| Item                     | Number | Total Weight | Notes                                               |
-| ------------------------ | ------ | ------------ | --------------------------------------------------- |
-| Online Individual Quizes | 18     | 10 %         | Done as part of weekly online preparatory material. |
-|                          |        |              |                                                     |
+| Item                      | Number | Total Weight | Notes                                               |
+| ------------------------- | ------ | ------------ | --------------------------------------------------- |
+| Online Individual Quizzes | 18     | 10 %         | Done as part of weekly online preparatory material. |
+| Team Quizzes              | 10     | 5 %          | Done as a team in class based pn                                                    |
 
 
 
