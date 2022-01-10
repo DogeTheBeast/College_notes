@@ -3,7 +3,7 @@
 ## Course grade breakup
 | Item                                  | Number | Total Weight | Notes |
 | ------------------------------------- | ------ | ------------ | ----- |
-| Midterm Essay                         | 1      | 0 %          |       |
+| Midterm Essay                         | 1      | 20 %         |       |
 | Final Essay                           | 1      | 35 %         |       |
 | Final Exam                            | 1      | 35 %         |       |
 | Attendance and In-class participation | 1      | 10 %             |       |
