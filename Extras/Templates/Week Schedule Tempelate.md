@@ -6,4 +6,4 @@
 | Thurday   |      |                   |
 | Friday    |      |                   |
 | Saturday  |      |                   |
-| Sunday          |      |                   |
+| Sunday    |      |                   |
