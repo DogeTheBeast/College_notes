@@ -2,12 +2,13 @@
 
 ## Course grade breakup
 
-| Item                      | Number | Total Weight | Notes                                               |
-| ------------------------- | ------ | ------------ | --------------------------------------------------- |
-| Online Individual Quizzes | 18     | 10 %         | Done as part of weekly online preparatory material. |
-| Team Quizzes              | 10     | 5 %          | Done as a team in class based on online material    |
-| Studio Worksheets         | 7      | 5 %          | Completed during weekly studio                      |
-| Professional development reflections, memos and critiques                          |        |              |                                                     |
+| Item                                                      | Number | Total Weight | Notes                                                                                                           |
+| --------------------------------------------------------- | ------ | ------------ | --------------------------------------------------------------------------------------------------------------- |
+| Online Individual Quizzes                                 | 18     | 10 %         | Done as part of weekly online preparatory material.                                                             |
+| Team Quizzes                                              | 10     | 5 %          | Done as a team in class based on online material                                                                |
+| Studio Worksheets                                         | 7      | 5 %          | Completed during weekly studio                                                                                  |
+| Professional development reflections, memos and critiques | 2-3    | 5 %          | Selfassessments of professional development, peer-assessment of other individuals/team work and in-class memos. |
+|                                                           |        |              |                                                                                                                 |
 
 
 
