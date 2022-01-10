@@ -19,5 +19,5 @@
 
 ### Contact Info
 
-Professor - Nick Hudson (Email - )
+Professor - Nick Hudson (Email - nick.hudson@ubc.ca)
 
