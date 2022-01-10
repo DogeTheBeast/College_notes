@@ -14,7 +14,7 @@
 | Thurday   |      |                   |
 | Friday    |      |                   |
 | Saturday  |      |                   |
-| Sunday          |      |                   |
+| Sunday    |      |                   |
 
 
 ### Contact Info
