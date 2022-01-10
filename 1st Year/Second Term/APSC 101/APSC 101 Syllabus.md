@@ -18,7 +18,7 @@
 
 | Day       | Time    | Content to Submit |
 | --------- | ------- | ----------------- |
-| Monday    | 8:00 am |                   |
+| Monday    | 8:00 am | Screencasts       |
 | Tuesday   |         |                   |
 | Wednesday |         |                   |
 | Thurday   |         |                   |
