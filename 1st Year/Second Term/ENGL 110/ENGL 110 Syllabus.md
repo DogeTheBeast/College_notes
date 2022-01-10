@@ -4,7 +4,7 @@
 | Item                                  | Number | Total Weight | Notes                          |
 | ------------------------------------- | ------ | ------------ | ------------------------------ |
 | Midterm Essay                         | 1      | 20 %         | 1500 words    28th Feb 2:00 pm |
-| Final Essay                           | 1      | 35 %         | 2500                                |
+| Final Essay                           | 1      | 35 %         | 2500 words    13th Apr 4:00 pm |
 | Final Exam                            | 1      | 35 %         |                                |
 | Attendance and In-class participation | 1      | 10 %         |                                |
 
