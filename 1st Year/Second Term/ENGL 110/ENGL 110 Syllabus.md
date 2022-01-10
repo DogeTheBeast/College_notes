@@ -1,12 +1,12 @@
 # ENGL 110 Syllabus
 
 ## Course grade breakup
-| Item          | Number | Total Weight | Notes |
-| ------------- | ------ | ------------ | ----- |
-| Midterm Essay | 1      | 35 %         |       |
-| Final Essay   | 1      | 35 %         |       |
-| Final Exam    | 1      | 35 %         |       |
-|               |        |              |       |
+| Item                                  | Number | Total Weight | Notes |
+| ------------------------------------- | ------ | ------------ | ----- |
+| Midterm Essay                         | 1      | 0 %          |       |
+| Final Essay                           | 1      | 35 %         |       |
+| Final Exam                            | 1      | 35 %         |       |
+| Attendance and In-class participation | 1      | 10 %             |       |
 
 ## Course Topics Covered
 
