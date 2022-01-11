@@ -5,7 +5,7 @@
 | Item                                           | Number | Total Weight | Notes |
 | ---------------------------------------------- | ------ | ------------ | ----- |
 | Worksheets                                     |        | 15 %         |       |
-| iClicker Questions & good Piazza participation |        | Flex Points             | Flex point a      |
+| iClicker Questions & good Piazza participation |        | Flex Points             | Flex point can be used to increase the weightage of your highest scoring       |
 
 
 ## Course Topics Covered
