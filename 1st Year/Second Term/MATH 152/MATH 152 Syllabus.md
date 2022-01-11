@@ -15,7 +15,8 @@
 | Unit Number   | Unit Starting Date | Unit Ending Date | Unit Content                                                                   |
 | ------------- | ------------------ | ---------------- | ------------------------------------------------------------------------------ |
 | 2.1, 2.2, 2.3 | 10 Jan             | 14 Jan           | Vectors and coordinate representation; Vector length, dot product, projection. |
-| 2.4, 2.5      | 17 Jan             | 21 Jan           | Determinants; Cross                                                                               |
+| 2.4, 2.5      | 17 Jan             | 21 Jan           | Determinants; Cross product; Lines in 2D, lines and planes in 3D               |
+| 2.6, 3.1      | 24 Jan             | 28 Jan           | Geometry of solutions of linear systems; linear dependence and independen                                                                               |
 
 
 ## Course homework Schedule
