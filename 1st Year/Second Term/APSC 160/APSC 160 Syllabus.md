@@ -13,9 +13,9 @@
 | ------------ | ------------------ | ---------------- | ------------------------------------------------------------------------------------------------------------------- |
 |              | 10 Jan             | 14 Jan           | Introduction, Computer Systems, Compilers                                                                           |
 |              | 17 Jan             | 21 Jan           | Variables, Assignment, Primitive Data Types, Expressions, Precedence, Associativity, I/O, Libraries, Function Calls |
-|              | 24 Jan             | 28 Jan           |                                                                                                                     |
-|              | 31 Jan             | 4 Feb            |                                                                                                                     |
-|              | 7 Feb              | 11 Feb           |                                                                                                                     |
+|              | 24 Jan             | 28 Jan           | Flow Charts, Boolean Expressions, Branching                                                                         |
+|              | 31 Jan             | 4 Feb            | Looping, Testing, Debugging                                                                                         |
+|              | 7 Feb              | 11 Feb           | File I/O, Modularity,                                                                                                                     |
 |              | 14 Feb             | 18 Feb           |                                                                                                                     |
 | Spring break |                    |                  |                                                                                                                     |
 |              | 28 Feb             | 4 March          |                                                                                                                     |
