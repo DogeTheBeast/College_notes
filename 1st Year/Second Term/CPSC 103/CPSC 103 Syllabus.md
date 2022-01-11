@@ -2,11 +2,15 @@
 
 ## Course grade breakup
 
-| Item        | Number | Total Weight | Notes |
-| ----------- | ------ | ------------ | ----- |
-| Pre-Lecture |        | 5 %          |       |
-| Tutorials   |        | 15 %         |       |
-| Worksheets  |        | 5 %          | 5 %   |
+| Item         | Number | Total Weight | Notes                                                     |
+| ------------ | ------ | ------------ | --------------------------------------------------------- |
+| Pre-Lecture  |        | 5 %          |                                                           |
+| Tutorials    |        | 15 %         |                                                           |
+| Worksheets   |        | 5 %          |                                                           |
+| Code Reviews |        | 5 %          |                                                           |
+| Project      |        | 25 %         | Meant to done in pairs with someone from the same section |
+| Midterm      |        | 15 %         | 10 March                                                  |
+| Final        |        | 30 %         |                                                           |
 
 
 ## Course Topics Covered
