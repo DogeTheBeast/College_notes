@@ -12,9 +12,9 @@
 
 
 ## Course Topics Covered
-|     |
-| --- |
-|     |
+| Unit Number | Unit Starting Date | Unit Ending Date | Unit Content |
+| ----------- | ------------------ | ---------------- | ------------ |
+| 2.1,         | 10 Jan             | 14 Jan                 |              |
 
 
 ## Course homework Schedule
