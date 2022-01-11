@@ -2,9 +2,10 @@
 
 ## Course grade breakup
 
-| Item | Number | Total Weight | Notes |
-| ---- | ------ | ------------ | ----- |
-|      |        |              |       |
+| Item       | Number | Total Weight | Notes |
+| ---------- | ------ | ------------ | ----- |
+| Worksheets |        | 15 %         |       |
+| iClicker Questions & good Piazza participation           |        |              |       |
 
 
 ## Course Topics Covered
