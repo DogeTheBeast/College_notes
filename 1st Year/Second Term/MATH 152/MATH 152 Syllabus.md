@@ -36,7 +36,7 @@
 | Monday    | 10:00 PM | MATLAB (Every Second Monday) |
 | Tuesday   |          |                              |
 | Wednesday |          |                              |
-| Thurday   |          |                              |
+| Thursday  |          |                              |
 | Friday    | 10:00 PM | WebWork                      |
 | Saturday  |          |                              |
 | Sunday    |          |                              |

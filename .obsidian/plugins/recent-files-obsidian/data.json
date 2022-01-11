@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "APSC 160 Syllabus",
-      "path": "1st Year/Second Term/APSC 160/APSC 160 Syllabus.md"
+      "basename": "Syllabus Outline Tempelate",
+      "path": "Extras/Templates/Syllabus Outline Tempelate.md"
+    },
+    {
+      "basename": "PHY 159 Syllabus",
+      "path": "1st Year/Second Term/PHY 159/PHY 159 Syllabus.md"
+    },
+    {
+      "basename": "PHY 158 Syllabus",
+      "path": "1st Year/Second Term/PHY 158/PHY 158 Syllabus.md"
+    },
+    {
+      "basename": "MATH 152 Syllabus",
+      "path": "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md"
+    },
+    {
+      "basename": "ENGL 110 Syllabus",
+      "path": "1st Year/Second Term/ENGL 110/ENGL 110 Syllabus.md"
     },
     {
       "basename": "CPSC 103 Syllabus",
       "path": "1st Year/Second Term/CPSC 103/CPSC 103 Syllabus.md"
     },
     {
-      "basename": "APSC 101 Syllabus",
-      "path": "1st Year/Second Term/APSC 101/APSC 101 Syllabus.md"
+      "basename": "APSC 160 Syllabus",
+      "path": "1st Year/Second Term/APSC 160/APSC 160 Syllabus.md"
     },
     {
-      "basename": "MATH 152 Syllabus",
-      "path": "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md"
+      "basename": "APSC 101 Syllabus",
+      "path": "1st Year/Second Term/APSC 101/APSC 101 Syllabus.md"
     },
     {
       "basename": "Daily Notes Tempelate",
@@ -25,16 +41,8 @@
       "path": "Extras/Templates/Notes template.md"
     },
     {
-      "basename": "Syllabus Outline Tempelate",
-      "path": "Extras/Templates/Syllabus Outline Tempelate.md"
-    },
-    {
       "basename": "Week Schedule Tempelate",
       "path": "Extras/Templates/Week Schedule Tempelate.md"
-    },
-    {
-      "basename": "ENGL 110 Syllabus",
-      "path": "1st Year/Second Term/ENGL 110/ENGL 110 Syllabus.md"
     },
     {
       "basename": "Atomic Model",
@@ -191,14 +199,6 @@
     {
       "basename": "VSEPR",
       "path": "1st Year/First Term/CHEM 154/Unit 3/VSEPR.md"
-    },
-    {
-      "basename": "Polarity",
-      "path": "1st Year/First Term/CHEM 154/Unit 3/Polarity.md"
-    },
-    {
-      "basename": "Lewis Dot Structure",
-      "path": "1st Year/First Term/CHEM 154/Unit 3/Lewis Dot Structure.md"
     }
   ],
   "omittedPaths": [],
