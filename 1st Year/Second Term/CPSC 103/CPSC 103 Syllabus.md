@@ -48,5 +48,7 @@
 
 ### Contact Info
 
+Professor - Jessica Wong (Email - jhmwong@cs.ubc.ca)
+Course Coordinator - Kate Wang (Email - )
 
 
