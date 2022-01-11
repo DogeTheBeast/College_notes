@@ -18,10 +18,10 @@
 |              | 7 Feb              | 11 Feb           | File I/O, Modularity, Programmer Defined Functions, Parameters, Scope, Lifetime                                     |
 |              | 14 Feb             | 18 Feb           | Programmer Defined Functions                                                                                        |
 | Spring break |                    |                  |                                                                                                                     |
-|              | 28 Feb             | 4 March          |                                                                                                                     |
-|              | 7 March            | 11 March         |                                                                                                                     |
-|              | 14 March           | 18 March         |                                                                                                                     |
-|              | 21 March           | 25 March         |                                                                                                                     |
+|              | 28 Feb             | 4 March          | Programming with Arrays, Functions that Process Arrays                                                              |
+|              | 7 March            | 11 March         | Programming with Two-Dimensional Arrays                                                                             |
+|              | 14 March           | 18 March         | Introduction to Data Analysis with Excel                                                                            |
+|              | 21 March           | 25 March         | Introduction to                                                                                                                     |
 |              | 28 March           | 1 April          |                                                                                                                     |
 |              | 4 April            | 8 April          |                                                                                                                     |
 
