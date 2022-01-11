@@ -9,21 +9,21 @@
 
 ## Course Topics Covered
 
-| Unit Number  | Unit Starting Date | Unit Ending Date | Unit Content                                                                                                        |
+| Week Number  | Unit Starting Date | Unit Ending Date | Unit Content                                                                                                        |
 | ------------ | ------------------ | ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-|              | 10 Jan             | 14 Jan           | Introduction, Computer Systems, Compilers                                                                           |
-|              | 17 Jan             | 21 Jan           | Variables, Assignment, Primitive Data Types, Expressions, Precedence, Associativity, I/O, Libraries, Function Calls |
-|              | 24 Jan             | 28 Jan           | Flow Charts, Boolean Expressions, Branching                                                                         |
-|              | 31 Jan             | 4 Feb            | Looping, Testing, Debugging                                                                                         |
-|              | 7 Feb              | 11 Feb           | File I/O, Modularity, Programmer Defined Functions, Parameters, Scope, Lifetime                                     |
-|              | 14 Feb             | 18 Feb           | Programmer Defined Functions                                                                                        |
+| 1            | 10 Jan             | 14 Jan           | Introduction, Computer Systems, Compilers                                                                           |
+| 2            | 17 Jan             | 21 Jan           | Variables, Assignment, Primitive Data Types, Expressions, Precedence, Associativity, I/O, Libraries, Function Calls |
+| 3            | 24 Jan             | 28 Jan           | Flow Charts, Boolean Expressions, Branching                                                                         |
+| 4            | 31 Jan             | 4 Feb            | Looping, Testing, Debugging                                                                                         |
+| 5            | 7 Feb              | 11 Feb           | File I/O, Modularity, Programmer Defined Functions, Parameters, Scope, Lifetime                                     |
+| 6            | 14 Feb             | 18 Feb           | Programmer Defined Functions                                                                                        |
 | Spring break |                    |                  |                                                                                                                     |
-|              | 28 Feb             | 4 March          | Programming with Arrays, Functions that Process Arrays                                                              |
-|              | 7 March            | 11 March         | Programming with Two-Dimensional Arrays                                                                             |
-|              | 14 March           | 18 March         | Introduction to Data Analysis with Excel                                                                            |
-|              | 21 March           | 25 March         | Introduction to Arduino                                                                                             |
-|              | 28 March           | 1 April          | Simple Digital (Binary) I/O; Reading switches, writing to LEDs, writing to Display                                  |
-|              | 4 April            | 8 April          | Data Acquisition                                                                                                                    |
+| 7            | 28 Feb             | 4 March          | Programming with Arrays, Functions that Process Arrays                                                              |
+| 8            | 7 March            | 11 March         | Programming with Two-Dimensional Arrays                                                                             |
+| 9            | 14 March           | 18 March         | Introduction to Data Analysis with Excel                                                                            |
+| 10           | 21 March           | 25 March         | Introduction to Arduino                                                                                             |
+| 11           | 28 March           | 1 April          | Simple Digital (Binary) I/O; Reading switches, writing to LEDs, writing to Display                                  |
+| 12           | 4 April            | 8 April          | Data Acquisition: Reading Analog Inputs                                                                             |
 
 
 
