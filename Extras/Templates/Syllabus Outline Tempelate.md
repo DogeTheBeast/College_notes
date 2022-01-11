@@ -2,6 +2,10 @@
 
 ## Course grade breakup
 
+| Item | Number | Total Weight | Notes |
+| ---- | ------ | ------------ | ----- |
+|      |        |              |       |
+
 
 ## Course Topics Covered
 
