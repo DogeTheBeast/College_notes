@@ -17,7 +17,9 @@
 | 2.1, 2.2, 2.3 | 10 Jan             | 14 Jan           | Vectors and coordinate representation; Vector length, dot product, projection.                      |
 | 2.4, 2.5      | 17 Jan             | 21 Jan           | Determinants; Cross product; Lines in 2D, lines and planes in 3D                                    |
 | 2.6, 3.1      | 24 Jan             | 28 Jan           | Geometry of solutions of linear systems; linear dependence and independence; solving linear systems |
-| 3.2, 3.3      | 31 Jan             | 4 Feb            | Echelon form, reduced echelon form,                                                                                                    |
+| 3.2, 3.3      | 31 Jan             | 4 Feb            | Echelon form, reduced echelon form, rank; homogeneous equations                                     |
+| 3.4, 3.5      | 7 Feb              | 11 Feb           | Geometric applications; resistor networks                                                           |
+| 4.1, 4.2              |                    |                  |                                                                                                     |
 
 
 ## Course homework Schedule
