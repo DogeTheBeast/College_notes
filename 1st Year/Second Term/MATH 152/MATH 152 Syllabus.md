@@ -6,7 +6,7 @@
 | Item    | Number | Total Weight | Notes                                                     |
 | ------- | ------ | ------------ | --------------------------------------------------------- |
 | Webwork | 11     | 10 %         | The lowest score is dropped                               |
-| MatLab  | 1      | 10 %         |                                                           |
+| MATLAB  | 6      | 10 %         |                                                           |
 | Midterm | 2      | 30 %         | First Midterm - 15/16 Feb    Second Midterm - 23/24 March |
 | Final   | 1      | 50 %         |                                                           |
 
@@ -19,7 +19,7 @@
 
 | Day       | Time     | Content to Submit |
 | --------- | -------- | ----------------- |
-| Monday    |          |                   |
+| Monday    | 10:00 P         |                   |
 | Tuesday   |          |                   |
 | Wednesday |          |                   |
 | Thurday   |          |                   |
