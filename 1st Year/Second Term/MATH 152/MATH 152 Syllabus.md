@@ -25,7 +25,8 @@
 | 4.3, 4.4, 4.5, 4.6 | 7 March            | 11 March         | Random walks, matrix transpose; Matrix inverse, determinants                                                  |
 | 5.1, 5.2, 5.3, 5.4 | 14 March           | 18 March         | Complex Numbers; complex exponential and polar form                                                           |
 | 6.1                | 21 March           | 25 March         | Eigenvalues and eigenvectors                                                                                  |
-| 6.2                | 28 March           | 1 April          |                                                                                                               |
+| 6.2                | 28 March           | 1 April          | Power of a matrix; applications of eigen-analysis to random walks                                             |
+| 6.3, 6.4           | 4 April            | 8 April          | Vector differential equations; LCR circuits                                                                                                              |
 
 
 ## Course homework Schedule
