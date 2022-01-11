@@ -7,7 +7,8 @@
 | Worksheets                                     |        | 15 %         |                                                                                                                                                |
 | iClicker Questions & good Piazza participation |        | Flex Points  | Flex point can be used to increase the weightage of your highest scoring component and decrease the weightage of your lowest scoring component |
 | Labs                                           | 9      | 25 %         | Lowest Lab is dropped                                                                                                                          |
-| Midterm exams                                  | 2      | 30 %         | F                                                                                                                                               |
+| Midterm exams                                  | 2      | 30 %         | First Midterm - 4 Feb, Second Midterm - 11 March                                                                                               |
+| Final Exam                                     | 1      | 30 %         |                                                                                                                                                |
 
 
 ## Course Topics Covered
