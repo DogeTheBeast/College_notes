@@ -23,7 +23,9 @@
 | Spring break       |                    |                  |                                                                                                               |
 | 4.2, 4.3           | 28 Feb             | 4 March          | Rotations, projections and reflections in 2D; matrix representation and composition of linear transformations |
 | 4.3, 4.4, 4.5, 4.6 | 7 March            | 11 March         | Random walks, matrix transpose; Matrix inverse, determinants                                                  |
-| 5.1, 5.2, 5.3, 5.4 | 14 March           | 18 March         | Complex Numbers; complex expo                                                                                                              |
+| 5.1, 5.2, 5.3, 5.4 | 14 March           | 18 March         | Complex Numbers; complex exponential and polar form                                                           |
+| 6.1                | 21 March           | 25 March         | Eigenvalues and eigenvectors                                                                                  |
+| 6.2                | 28 March           | 1 April          |                                                                                                               |
 
 
 ## Course homework Schedule
