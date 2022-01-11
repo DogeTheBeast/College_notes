@@ -3,11 +3,12 @@
 ## Course grade breakup
 
 
-| Item    | Number | Total Weight | Notes                       |
-| ------- | ------ | ------------ | --------------------------- |
-| Webwork | 11     | 10 %         | The lowest score is dropped |
-| MatLab  | 1      | 10%          |                             |
-| Midterm | 2      | 30%          | First Midterm - 15/16 Feb    
+| Item    | Number | Total Weight | Notes                                                     |
+| ------- | ------ | ------------ | --------------------------------------------------------- |
+| Webwork | 11     | 10 %         | The lowest score is dropped                               |
+| MatLab  | 1      | 10 %         |                                                           |
+| Midterm | 2      | 30 %         | First Midterm - 15/16 Feb    Second Midterm - 23/24 March |
+| Final   | 1      | 50 %         |                                                           |
 
 
 ## Course Topics Covered
