@@ -21,9 +21,9 @@
 |              | 28 Feb             | 4 March          | Programming with Arrays, Functions that Process Arrays                                                              |
 |              | 7 March            | 11 March         | Programming with Two-Dimensional Arrays                                                                             |
 |              | 14 March           | 18 March         | Introduction to Data Analysis with Excel                                                                            |
-|              | 21 March           | 25 March         | Introduction to                                                                                                                     |
-|              | 28 March           | 1 April          |                                                                                                                     |
-|              | 4 April            | 8 April          |                                                                                                                     |
+|              | 21 March           | 25 March         | Introduction to Arduino                                                                                             |
+|              | 28 March           | 1 April          | Simple Digital (Binary) I/O; Reading switches, writing to LEDs, writing to Display                                  |
+|              | 4 April            | 8 April          | Data Acquisition                                                                                                                    |
 
 
 
