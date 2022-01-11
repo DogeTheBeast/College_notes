@@ -12,20 +12,22 @@
 
 
 ## Course Topics Covered
-
+|     |
+| --- |
+|     |
 
 
 ## Course homework Schedule
 
-| Day       | Time     | Content to Submit |
-| --------- | -------- | ----------------- |
-| Monday    | 10:00 P         |                   |
-| Tuesday   |          |                   |
-| Wednesday |          |                   |
-| Thurday   |          |                   |
-| Friday    | 10:00 PM | WebWork           |
-| Saturday  |          |                   |
-| Sunday    |          |                   |
+| Day       | Time     | Content to Submit            |
+| --------- | -------- | ---------------------------- |
+| Monday    | 10:00 PM | MATLAB (Every Second Monday) |
+| Tuesday   |          |                              |
+| Wednesday |          |                              |
+| Thurday   |          |                              |
+| Friday    | 10:00 PM | WebWork                      |
+| Saturday  |          |                              |
+| Sunday    |          |                              |
 
 
 
