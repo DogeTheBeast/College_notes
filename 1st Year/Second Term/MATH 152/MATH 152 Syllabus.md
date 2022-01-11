@@ -19,7 +19,9 @@
 | 2.6, 3.1      | 24 Jan             | 28 Jan           | Geometry of solutions of linear systems; linear dependence and independence; solving linear systems |
 | 3.2, 3.3      | 31 Jan             | 4 Feb            | Echelon form, reduced echelon form, rank; homogeneous equations                                     |
 | 3.4, 3.5      | 7 Feb              | 11 Feb           | Geometric applications; resistor networks                                                           |
-| 4.1, 4.2              |                    |                  |                                                                                                     |
+| 4.1, 4.2      | 14 Feb             | 18 Feb           | Matrix multiplication; linear transformations                                                       |
+| Spring break  |                    |                  |                                                                                                     |
+| 4.2, 4.3      |                    |                  |                                                                                                     |
 
 
 ## Course homework Schedule
