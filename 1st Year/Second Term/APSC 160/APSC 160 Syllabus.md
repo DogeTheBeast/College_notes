@@ -2,10 +2,10 @@
 
 ## Course grade breakup
 
-| Item       | Number | Total Weight | Notes |
-| ---------- | ------ | ------------ | ----- |
-| Worksheets |        | 15 %         |       |
-| iClicker Questions & good Piazza participation           |        |              |       |
+| Item                                           | Number | Total Weight | Notes |
+| ---------------------------------------------- | ------ | ------------ | ----- |
+| Worksheets                                     |        | 15 %         |       |
+| iClicker Questions & good Piazza participation |        | Flex Points             |       |
 
 
 ## Course Topics Covered
