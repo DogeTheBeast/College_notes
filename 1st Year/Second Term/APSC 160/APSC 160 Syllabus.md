@@ -15,8 +15,8 @@
 |              | 17 Jan             | 21 Jan           | Variables, Assignment, Primitive Data Types, Expressions, Precedence, Associativity, I/O, Libraries, Function Calls |
 |              | 24 Jan             | 28 Jan           | Flow Charts, Boolean Expressions, Branching                                                                         |
 |              | 31 Jan             | 4 Feb            | Looping, Testing, Debugging                                                                                         |
-|              | 7 Feb              | 11 Feb           | File I/O, Modularity,                                                                                                                     |
-|              | 14 Feb             | 18 Feb           |                                                                                                                     |
+|              | 7 Feb              | 11 Feb           | File I/O, Modularity, Programmer Defined Functions, Parameters, Scope, Lifetime                                     |
+|              | 14 Feb             | 18 Feb           | Programmer Defined Functions                                                                                        |
 | Spring break |                    |                  |                                                                                                                     |
 |              | 28 Feb             | 4 March          |                                                                                                                     |
 |              | 7 March            | 11 March         |                                                                                                                     |
