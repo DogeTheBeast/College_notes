@@ -2,10 +2,11 @@
 
 ## Course grade breakup
 
-| Item                                           | Number | Total Weight | Notes |
-| ---------------------------------------------- | ------ | ------------ | ----- |
-| Worksheets                                     |        | 15 %         |       |
-| iClicker Questions & good Piazza participation |        | Flex Points             | Flex point can be used to increase the weightage of your highest scoring       |
+| Item                                           | Number | Total Weight | Notes                                                                                                                                          |
+| ---------------------------------------------- | ------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Worksheets                                     |        | 15 %         |                                                                                                                                                |
+| iClicker Questions & good Piazza participation |        | Flex Points  | Flex point can be used to increase the weightage of your highest scoring component and decrease the weightage of your lowest scoring component |
+| Labs                                           |        |              |                                                                                                                                                |
 
 
 ## Course Topics Covered
