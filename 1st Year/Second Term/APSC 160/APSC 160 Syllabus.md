@@ -5,7 +5,7 @@
 | Item                                           | Number | Total Weight | Notes |
 | ---------------------------------------------- | ------ | ------------ | ----- |
 | Worksheets                                     |        | 15 %         |       |
-| iClicker Questions & good Piazza participation |        | Flex Points             |       |
+| iClicker Questions & good Piazza participation |        | Flex Points             | Flex point a      |
 
 
 ## Course Topics Covered
