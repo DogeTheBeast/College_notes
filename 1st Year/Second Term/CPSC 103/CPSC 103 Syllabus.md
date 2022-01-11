@@ -39,7 +39,7 @@
 | --------- | -------- | ------------------------------------ |
 | Monday    | 10:00 PM | Worksheets and Pre-class assignments |
 | Tuesday   |          |                                      |
-| Wednesday |          |                                      |
+| Wednesday | 10:00 PM | Tutorial and Code Review             |
 | Thursday  |          |                                      |
 | Friday    |          |                                      |
 | Saturday  |          |                                      |
