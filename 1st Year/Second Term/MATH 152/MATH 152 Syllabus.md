@@ -12,9 +12,10 @@
 
 
 ## Course Topics Covered
-| Unit Number | Unit Starting Date | Unit Ending Date | Unit Content |
-| ----------- | ------------------ | ---------------- | ------------ |
-| 2.1,         | 10 Jan             | 14 Jan                 |              |
+| Unit Number   | Unit Starting Date | Unit Ending Date | Unit Content                                                                   |
+| ------------- | ------------------ | ---------------- | ------------------------------------------------------------------------------ |
+| 2.1, 2.2, 2.3 | 10 Jan             | 14 Jan           | Vectors and coordinate representation; Vector length, dot product, projection. |
+| 2.4, 2.5      | 17 Jan             | 21 Jan           | Determinants; Cross                                                                               |
 
 
 ## Course homework Schedule
