@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6b8e59b647cbd96c",
+        "id": "4c7046b8b078953c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Extras/Daily Notes/2022-01-12.md",
-            "mode": "preview"
+            "file": "1st Year/Second Term/APSC 101/APSC 101 Syllabus.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Daily Notes/2022-01-12.md",
+                "file": "1st Year/Second Term/APSC 101/APSC 101 Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,29 +114,16 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "04bc2833caed7aeb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "61ab44035b6218d8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 266.7156982421875
+    "width": 266.7156982421875,
+    "collapsed": true
   },
-  "active": "6b8e59b647cbd96c",
+  "active": "4c7046b8b078953c",
   "lastOpenFiles": [
-    "Extras/Daily Notes/2022-01-12.md",
     "1st Year/Second Term/APSC 101/APSC 101 Syllabus.md",
+    "Extras/Daily Notes/2022-01-12.md",
     "1st Year/Second Term/APSC 160/APSC 160 Syllabus.md",
     "1st Year/Second Term/CPSC 103/CPSC 103 Syllabus.md",
     "Extras/Templates/Syllabus Outline Tempelate.md",
