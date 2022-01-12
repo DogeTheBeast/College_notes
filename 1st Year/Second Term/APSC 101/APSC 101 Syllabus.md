@@ -34,8 +34,8 @@
 | Tuesday   |          |                   |
 | Wednesday |          |                   |
 | Thursday  |          |                   |
-| Friday    |  | Studio            |
-| Saturday  | 10:         |                   |
+| Friday    |          |                   |
+| Saturday  | 10:00 AM | Studio            |
 | Sunday    |          |                   |
 
 
