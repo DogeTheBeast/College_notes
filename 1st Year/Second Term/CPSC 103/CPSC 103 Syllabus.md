@@ -52,3 +52,9 @@ Professor - Jessica Wong (Email - jhmwong@cs.ubc.ca)
 Course Coordinator - Kate Wang (Email - cpsc103-admin@cs.ubc.ca)
 
 
+
+
+
+| Hargun | Ratiq | Yes |
+| ------ | ----- | --- |
+|        |       |     |
