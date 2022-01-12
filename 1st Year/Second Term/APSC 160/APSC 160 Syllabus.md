@@ -33,15 +33,15 @@
 
 
 ## Course homework Schedule
-| Day       | Time | Content to Submit |
-| --------- | ---- | ----------------- |
-| Monday    |      |                   |
-| Tuesday   |      |                   |
-| Wednesday |      |                   |
-| Thursday  |      |                   |
-| Friday    |      |                   |
-| Saturday  |      |                   |
-| Sunday    |      |                   |
+| Day       | Time    | Content to Submit |
+| --------- | ------- | ----------------- |
+| Monday    | 8:00 AM | LAB and Pre-Lab   |
+| Tuesday   |         |                   |
+| Wednesday |         |                   |
+| Thursday  |         |                   |
+| Friday    |         |                   |
+| Saturday  |         |                   |
+| Sunday    |         |                   |
 
 
 ### Contact Info
