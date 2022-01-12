@@ -35,12 +35,12 @@
 ## Course homework Schedule
 | Day       | Time    | Content to Submit |
 | --------- | ------- | ----------------- |
-| Monday    | 8:00 AM | LAB and Pre-Lab   |
+| Monday    | 8:00 AM | LAB               |
 | Tuesday   |         |                   |
 | Wednesday |         |                   |
 | Thursday  |         |                   |
 | Friday    |         |                   |
-| Saturday  |         |                   |
+| Saturday  | 8:00 AM | Pre-Lab           | 
 | Sunday    |         |                   |
 
 
