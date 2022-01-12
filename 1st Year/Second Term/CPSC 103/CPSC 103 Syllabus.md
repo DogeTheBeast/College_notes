@@ -8,7 +8,7 @@
 | Tutorials    |        | 15 %         |                                                           |
 | Worksheets   |        | 5 %          |                                                           |
 | Code Reviews |        | 5 %          |                                                           |
-| Project      |        | 25 %         | Meant to done in pairs with someone from the same section |
+| Project      |        | 25 %         | Meant to done in pairs with someone from the same section  |
 | Midterm      |        | 15 %         | 10 March                                                  |
 | Final        |        | 30 %         |                                                           |
 
@@ -25,11 +25,11 @@
 |              | 14 Feb             | 18 Feb           | Arbitrary-Sized        |
 | Spring break |                    |                  |                        |
 |              | 28 Feb             | 4 March          | Arbitrary-Sized        |
-|              | 7 March            | 11 March         |                        |
-|              | 14 March           | 18 March         |                        |
-|              | 21 March           | 25 March         |                        |
-|              | 28 March           | 1 April          |                        |
-|              | 4 April            | 8 April          |                        |
+|              | 7 March            | 11 March         | One Task Per Function  |
+|              | 14 March           | 18 March         | Analysis Programs      |
+|              | 21 March           | 25 March         | Analysis Programs      |
+|              | 28 March           | 1 April          | Visualization          |
+|              | 4 April            | 8 April          | Project                | 
 
 
 
