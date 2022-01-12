@@ -28,15 +28,15 @@
 
 ## Course Homework Schedule
 
-| Day       | Time    | Content to Submit |
-| --------- | ------- | ----------------- |
-| Monday    | 8:00 am | Screencasts       |
-| Tuesday   |         |                   |
-| Wednesday |         |                   |
-| Thursday  |         |                   |
-| Friday    |         |                   |
-| Saturday  |         |                   |
-| Sunday    |         |                   |
+| Day       | Time     | Content to Submit |
+| --------- | -------- | ----------------- |
+| Monday    | 8:00 AM  | Screencasts       |
+| Tuesday   |          |                   |
+| Wednesday |          |                   |
+| Thursday  |          |                   |
+| Friday    | 10:00 AM | Studio            |
+| Saturday  |          |                   |
+| Sunday    |          |                   |
 
 
 
