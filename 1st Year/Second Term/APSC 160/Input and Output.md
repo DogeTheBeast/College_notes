@@ -28,7 +28,9 @@ These are the arguments that can go inside the double quotes in the printf state
 | %x       | Hexadecimal integer                |
 | \n       | New line                                   |
 
+## Special Cases of octal and hexadecimal integers
 
+To define a octal in 
 
 
 
