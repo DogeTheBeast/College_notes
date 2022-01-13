@@ -2,11 +2,15 @@
 
 ## Course grade breakup
 
-| Item                | Number | Total Weight | Notes                                                   |
-| ------------------- | ------ | ------------ | ------------------------------------------------------- |
-| Class Participation |        | 2 %          | Answering iClicker Questions (And getting them correct) |
-| Tutorials           |        | 2 %          | Answering iClicker Questions                            |
-| Activity Book       |        | 1 %          |                                                         |
+| Item                | Number | Total Weight | Notes                                                                   |
+| ------------------- | ------ | ------------ | ----------------------------------------------------------------------- |
+| Class Participation |        | 2 %          | Answering iClicker Questions (And getting them correct)                 |
+| Tutorials           |        | 2 %          | Answering iClicker Questions                                            |
+| Activity Book       |        | 1 %          | Activity Workbook contains the questions that are done during the class |
+| Reading Quiz        |        | 2 %          |                                                                         |
+| Mastering Physics   |        | 6 %          |                                                                         |
+| Written Homework    |        | 8 %          |                                                                         |
+| Midt                    |        |              |                                                                         |
 
 
 ## Course Topics Covered
