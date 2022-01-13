@@ -20,7 +20,7 @@
 | Project Proposal   | 1 %        | 18 Feb 10:00 PM   |
 | Project Milestone  | 10 %       | 25 March 10:00 PM |
 | Project Final      | 12 %       | 8 April 10:00 PM  |
-| Video Presentation | 2 %        |                   |
+| Video Presentation | 2 %        | 8 April 10:00 PM  | 
 
 
 ## Course Topics Covered
