@@ -8,9 +8,16 @@
 | Tutorials    |        | 15 %         |                                                           |
 | Worksheets   |        | 5 %          |                                                           |
 | Code Reviews |        | 5 %          |                                                           |
-| Project      |        | 25 %         | Meant to done in pairs with someone from the same section  |
+| Project      |        | 25 %         | Meant to done in pairs with someone from the same section |
 | Midterm      |        | 15 %         | 10 March                                                  |
 | Final        |        | 30 %         |                                                           |
+
+
+## Project Deadlines
+
+| Item             | Percentage | Date Due |
+| ---------------- | ---------- | -------- |
+| Project Proposal | 1 %        |          |
 
 
 ## Course Topics Covered
