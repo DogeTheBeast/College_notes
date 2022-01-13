@@ -19,10 +19,14 @@ The term inside the double quotes is the placeholder and it replaces its value w
 
 These are the arguments that can go inside the double quotes in the printf statement.
 
-| Argument | Datatype  |
-| -------- | --------- |
-| %c       | Character |
-|          |           |
+| Argument | Datatype                           |
+| -------- | ---------------------------------- |
+| %c       | Character                          |
+| %d       | Integer                            |
+| %e       | Scientific Notation                |
+| %f       | Float                              |
+| %g       | Chooses the best between %e and %f |
+|          |                                    |
 
 
 
