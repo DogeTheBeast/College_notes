@@ -2,10 +2,11 @@
 
 ## Course grade breakup
 
-| Item                | Number | Total Weight | Notes                        |
-| ------------------- | ------ | ------------ | ---------------------------- |
-| Class Participation |        | 2 %          | Answering iClicker Questions |
-|                     |        |              |                              |
+| Item                | Number | Total Weight | Notes                                                   |
+| ------------------- | ------ | ------------ | ------------------------------------------------------- |
+| Class Participation |        | 2 %          | Answering iClicker Questions (And getting them correct) |
+| Tutorials           |        | 2 %          | Answering iClicker Questions                            |
+| Activity Book       |        | 1 %          |                                                         |
 
 
 ## Course Topics Covered
