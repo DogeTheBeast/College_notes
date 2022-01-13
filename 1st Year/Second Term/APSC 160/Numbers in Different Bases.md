@@ -16,7 +16,11 @@ This method will give you the number in decimal from any number system.
 
 ## Converting from decimal to any base
 
-To convert from decimal to any number system, the following can be us
+To convert from decimal to any number system, the following can be used.
+
+![[Decimal to binary conversion.jpg]]
+
+The example above is for binary to decimal but this can be applied for any base by replace 2 with the desired number system.
 
 
 
