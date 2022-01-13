@@ -6,7 +6,9 @@ $${ (10110)_2 = 1(2^4) + 0(2^3) + 1 (2^2) + 1(2^1_)  + 0(2^0) = (22)_{10}}$$
 
 This can be generalized for any base. Consider the base of the system to be *x* for a a set of digits *abcd*, therefore
 
-$${(abcd)_x = a()}
+$${(abcd)_x = a(x^3) +b(x^2)+c(x^1)+d(x^0)}$$
+
+Here, *abcd* can be of any length and the value of the power of x will change accordingly
 
 
 
