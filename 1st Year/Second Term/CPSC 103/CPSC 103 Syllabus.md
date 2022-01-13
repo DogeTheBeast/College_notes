@@ -25,21 +25,21 @@
 
 ## Course Topics Covered
 
-| Unit Number  | Unit Starting Date | Unit Ending Date | Unit Content           |
+| Week Number  | Unit Starting Date | Unit Ending Date | Unit Content           |
 | ------------ | ------------------ | ---------------- | ---------------------- |
-|              | 10 Jan             | 14 Jan           | Introduction           |
-|              | 17 Jan             | 21 Jan           | Introduction to Python |
-|              | 24 Jan             | 28 Jan           | Functions              |
-|              | 31 Jan             | 4 Feb            | Designing Data         |
-|              | 7 Feb              | 11 Feb           | Compound               |
-|              | 14 Feb             | 18 Feb           | Arbitrary-Sized        |
+| 1            | 10 Jan             | 14 Jan           | Introduction           |
+| 2            | 17 Jan             | 21 Jan           | Introduction to Python |
+| 3            | 24 Jan             | 28 Jan           | Functions              |
+| 4            | 31 Jan             | 4 Feb            | Designing Data         |
+| 5            | 7 Feb              | 11 Feb           | Compound               |
+| 6            | 14 Feb             | 18 Feb           | Arbitrary-Sized        |
 | Spring break |                    |                  |                        |
-|              | 28 Feb             | 4 March          | Arbitrary-Sized        |
-|              | 7 March            | 11 March         | One Task Per Function  |
-|              | 14 March           | 18 March         | Analysis Programs      |
-|              | 21 March           | 25 March         | Analysis Programs      |
-|              | 28 March           | 1 April          | Visualization          |
-|              | 4 April            | 8 April          | Project                | 
+| 8            | 28 Feb             | 4 March          | Arbitrary-Sized        |
+| 9            | 7 March            | 11 March         | One Task Per Function  |
+| 10           | 14 March           | 18 March         | Analysis Programs      |
+| 11           | 21 March           | 25 March         | Analysis Programs      |
+| 12           | 28 March           | 1 April          | Visualization          |
+| 13           | 4 April            | 8 April          | Project                |
 
 
 

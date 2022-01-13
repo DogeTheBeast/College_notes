@@ -10,12 +10,12 @@
 
 ## Course Topics Covered
 
-| Unit Number  | Unit Starting Date | Unit Ending Date | Unit Content                                                          |
+| Week Number  | Unit Starting Date | Unit Ending Date | Unit Content                                                          |
 | ------------ | ------------------ | ---------------- | --------------------------------------------------------------------- |
-|              | 10 Jan             | 14 Jan           | Introduction to Gothic                                                |
-|              | 17 Jan             | 21 Jan           | Euripides, *Medea*                                                    |
-|              | 24 Jan             | 28 Jan           | Euripides, *Medea*                                                    |
-|              | 31 Jan             | 4 Feb            | Shakespeare, *Macbeth*                                                |
+| 1             | 10 Jan             | 14 Jan           | Introduction to Gothic                                                |
+|  2            | 17 Jan             | 21 Jan           | Euripides, *Medea*                                                    |
+|   3           | 24 Jan             | 28 Jan           | Euripides, *Medea*                                                    |
+|    4          | 31 Jan             | 4 Feb            | Shakespeare, *Macbeth*                                                |
 |              | 7 Feb              | 11 Feb           | Shakespeare, *Macbeth*                                                |
 |              | 14 Feb             | 18 Feb           | Coleridge, *Rime of the Ancient Mariner*                              |
 | Spring break |                    |                  |                                                                       |
