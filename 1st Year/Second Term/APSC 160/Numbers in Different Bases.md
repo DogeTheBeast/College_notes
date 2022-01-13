@@ -1,7 +1,7 @@
 # Numbers in Different Bases
 
 
-## Convertings 
+## Converting form any base to decimal
 
 A number always has a base that it has been written down in. For example,
 
@@ -11,9 +11,11 @@ This can be generalized for any base. Consider the base of the system to be *x* 
 
 $${(abcd)_x = a(x^3) +b(x^2)+c(x^1)+d(x^0) = (efgh)_{10}}$$
 
-Here, *abcd* can be of any length and the value of the power of x will change accordingly.
+Here, *abcd* can be of any length and the value of the power of x will change accordingly. This method will give you the number in decimal from any number system.
 
-So, to convert a number from any base to decimal, the method above is used
+
+## Converting 
+
 
 
 
