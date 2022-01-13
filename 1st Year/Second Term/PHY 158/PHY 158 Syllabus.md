@@ -25,11 +25,11 @@
 |              | 7 Feb              | 11 Feb           | Inductors, LRC circuits                                          |
 |              | 14 Feb             | 18 Feb           | AC Circuits, Multiple branch RLC Circuits                        |
 | Spring break |                    |                  |                                                                  |
-|              | 28 Feb             | 4 March          | Coulo                                                                 |
-|              | 7 March            | 11 March         |                                                                  |
-|              | 14 March           | 18 March         |                                                                  |
-|              | 21 March           | 25 March         |                                                                  |
-|              | 28 March           | 1 April          |                                                                  |
+|              | 28 Feb             | 4 March          | Coulomb's Law and Electric Fields                                |
+|              | 7 March            | 11 March         | Gauss's Law                                                      |
+|              | 14 March           | 18 March         | Electric Potential                                               |
+|              | 21 March           | 25 March         | Sources of Magnetic Fields, Biot-Savart Law                      |
+|              | 28 March           | 1 April          | Ampere's Law                                                     |
 |              | 4 April            | 8 April          |                                                                  |
 
 
