@@ -15,9 +15,9 @@
 |              | 10 Jan             | 14 Jan           | Introduction to Gothic |
 |              | 17 Jan             | 21 Jan           | Euripides, *Medea*     |
 |              | 24 Jan             | 28 Jan           | Euripides, *Medea*     |
-|              | 31 Jan             | 4 Feb            | M                       |
-|              | 7 Feb              | 11 Feb           |                        |
-|              | 14 Feb             | 18 Feb           |                        |
+|              | 31 Jan             | 4 Feb            | Shakespeare, *Macbeth* |
+|              | 7 Feb              | 11 Feb           | Shakespeare, *Macbeth* |
+|              | 14 Feb             | 18 Feb           | Coleridge, *Rime of the Ancient Mariner*                       |
 | Spring break |                    |                  |                        |
 |              | 28 Feb             | 4 March          |                        |
 |              | 7 March            | 11 March         |                        |
