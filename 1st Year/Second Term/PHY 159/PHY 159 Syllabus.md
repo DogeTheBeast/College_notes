@@ -2,9 +2,11 @@
 
 ## Course grade breakup
 
-| Item | Number | Total Weight | Notes |
-| ---- | ------ | ------------ | ----- |
-| Pre-L     |        |              |       |
+| Item                                | Number | Total Weight | Notes |
+| ----------------------------------- | ------ | ------------ | ----- |
+| Pre-Lab exercises and participation |        | 5 %          |       |
+| Lab Books base Labs                 |        | 30 %         |       |
+| Lab books experiments               |        | 45 %         | Week 4 to wee      |
 
 
 ## Course Topics Covered
