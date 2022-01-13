@@ -25,8 +25,9 @@ These are the arguments that can go inside the double quotes in the printf state
 | %g       | Chooses the best between %e and %f |
 | %o       | Octal integer                      |
 | %s       | String                             |
-| %x       | Hexadecimal integer without (0x)                |
-| \n       | New line                                   |
+| %x       | Hexadecimal integer without 0x     |
+| %#x      | Hexadecimal integer with 0x        |
+| \n       | New line                           |
 
 ## Special Cases of octal and hexadecimal integers
 
