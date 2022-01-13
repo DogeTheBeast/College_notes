@@ -33,7 +33,10 @@ These are the arguments that can go inside the double quotes in the printf state
 To assign a octal integer to a variable and clarify that it is in the base of 8, we place a 0 before the value of the integer. For example,
 
 ```c
-int a = 
+int a = 067;
+int b = 67;
+```
+Integers a and b are different because a has a 0 before the 67. This means that 
 
 
 
