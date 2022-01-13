@@ -2,7 +2,14 @@
 
 ## printf and its variations
 
-*printf* is a function used to output text. When using *printf*, the variable that is going to be printed has the 
+*printf* is a function used to output text. When using *printf*, the variable that is going to be printed is represented by a placeholder. For example
+
+```c
+
+
+
+
+```
 
 
 
