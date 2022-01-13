@@ -25,7 +25,7 @@ These are the arguments that can go inside the double quotes in the printf state
 | %g       | Chooses the best between %e and %f |
 | %o       | Octal integer                      |
 | %s       | String                             |
-| %x       | Hexadecimal integer                |
+| %x       | Hexadecimal integer without (0x)                |
 | \n       | New line                                   |
 
 ## Special Cases of octal and hexadecimal integers
@@ -38,7 +38,12 @@ int b = 67;
 ```
 Integers a and b are different because a has a 0 before the 67. This means that a is actually 55 in base 10.
 
-Something similar is valid for Hexadecimal integers as well. Instead of a 0, we place a 0x i
+Something similar is valid for Hexadecimal integers as well. Instead of a 0, we place a 0x in front of the hexadecimal.
+```c
+int a = 0xEEFF0D;
+```
+
+
 
 
 
