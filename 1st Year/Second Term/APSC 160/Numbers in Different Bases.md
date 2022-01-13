@@ -11,7 +11,7 @@ This can be generalized for any base. Consider the base of the system to be *x* 
 
 $${\LARGE (y_{(n-1)},y_{(n-2)},...,y_1,y_0)_x = y_{(n-1)}(x^{n-1}) +y_{(n-2)}(x^{n-2})+...+y_1(x^{1}) + y_0(x^0)}$$
 
-Here, *abcd* can be of any length and the value of the power of x will change accordingly. This method will give you the number in decimal from any number system.
+This method will give you the number in decimal from any number system.
 
 
 ## Converting from decimal to any base
