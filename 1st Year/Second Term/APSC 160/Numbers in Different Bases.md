@@ -16,7 +16,7 @@ This method will give you the number in decimal from any number system.
 
 ## Converting from decimal to any base
 
-To convert from
+To convert from decimal to any number system, the following can be us
 
 
 
