@@ -38,7 +38,7 @@ int b = 67;
 ```
 Integers a and b are different because a has a 0 before the 67. This means that a is actually 55 in base 10.
 
-Something similar is valid for 
+Something similar is valid for Hexadecimal integers as well. Instead of a 0, we place a 0x i
 
 
 
