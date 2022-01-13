@@ -36,7 +36,9 @@ To assign a octal integer to a variable and clarify that it is in the base of 8,
 int a = 067;
 int b = 67;
 ```
-Integers a and b are different because a has a 0 before the 67. This means that 
+Integers a and b are different because a has a 0 before the 67. This means that a is actually 55 in base 10.
+
+Something similar is valid for 
 
 
 
