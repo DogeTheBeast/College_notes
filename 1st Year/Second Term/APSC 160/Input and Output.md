@@ -13,7 +13,7 @@ printf("%o", a);
 
 ```
 
-The term inside the double quotes is the placeholder and it replaces its value with 
+The term inside the double quotes is the placeholder and it replaces its value with the variable present after the comma. The *%o* gives the type of output it presents 
 
 
 
