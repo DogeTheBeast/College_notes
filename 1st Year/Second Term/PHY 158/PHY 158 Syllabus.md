@@ -16,21 +16,21 @@
 
 ## Course Topics Covered
 
-| Unit Number  | Unit Starting Date | Unit Ending Date | Unit Content                                 |
-| ------------ | ------------------ | ---------------- | -------------------------------------------- |
-|              | 10 Jan             | 14 Jan           | Beats, Standing Waves                        |
-|              | 17 Jan             | 21 Jan           | Interference, Thin Film                      |
-|              | 24 Jan             | 28 Jan           | DC Circuits, Real Batteries, Kirchoff's Laws |
-|              | 31 Jan             | 4 Feb            | Capacitors, RC Circuits,                                             |
-|              | 7 Feb              | 11 Feb           |                                              |
-|              | 14 Feb             | 18 Feb           |                                              |
-| Spring break |                    |                  |                                              |
-|              | 28 Feb             | 4 March          |                                              |
-|              | 7 March            | 11 March         |                                              |
-|              | 14 March           | 18 March         |                                              |
-|              | 21 March           | 25 March         |                                              |
-|              | 28 March           | 1 April          |                                              |
-|              | 4 April            | 8 April          |                                              |
+| Unit Number  | Unit Starting Date | Unit Ending Date | Unit Content                                                     |
+| ------------ | ------------------ | ---------------- | ---------------------------------------------------------------- |
+|              | 10 Jan             | 14 Jan           | Beats, Standing Waves                                            |
+|              | 17 Jan             | 21 Jan           | Interference, Thin Film                                          |
+|              | 24 Jan             | 28 Jan           | DC Circuits, Real Batteries, Kirchoff's Laws                     |
+|              | 31 Jan             | 4 Feb            | Capacitors, RC Circuits, RC Time Constant with multiple branches |
+|              | 7 Feb              | 11 Feb           | Inductors, LRC circuits                                          |
+|              | 14 Feb             | 18 Feb           | AC Circuits, Multiple branch RLC Circuits                        |
+| Spring break |                    |                  |                                                                  |
+|              | 28 Feb             | 4 March          | Coulo                                                                 |
+|              | 7 March            | 11 March         |                                                                  |
+|              | 14 March           | 18 March         |                                                                  |
+|              | 21 March           | 25 March         |                                                                  |
+|              | 28 March           | 1 April          |                                                                  |
+|              | 4 April            | 8 April          |                                                                  |
 
 
 
