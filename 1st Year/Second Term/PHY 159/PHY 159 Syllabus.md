@@ -4,7 +4,7 @@
 
 | Item | Number | Total Weight | Notes |
 | ---- | ------ | ------------ | ----- |
-|      |        |              |       |
+| Pre-L     |        |              |       |
 
 
 ## Course Topics Covered
@@ -42,5 +42,5 @@
 
 ### Contact Info
 
-
+Course Coordinator - Sarah Burke (Email - saburke@phas.ubc.ca)
 
