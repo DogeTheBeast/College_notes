@@ -12,6 +12,7 @@
   "spellcheck": true,
   "readableLineLength": false,
   "spellcheckDictionary": [
-    "iClicker"
+    "iClicker",
+    "printf"
   ]
 }
