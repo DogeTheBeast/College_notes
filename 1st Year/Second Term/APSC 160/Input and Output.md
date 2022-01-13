@@ -30,7 +30,10 @@ These are the arguments that can go inside the double quotes in the printf state
 
 ## Special Cases of octal and hexadecimal integers
 
-To assign a octal integer to a variable, 
+To assign a octal integer to a variable and clarify that it is in the base of 8, we place a 0 before the value of the integer. For example,
+
+```c
+int a = 
 
 
 
