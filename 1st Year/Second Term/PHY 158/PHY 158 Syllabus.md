@@ -49,5 +49,5 @@
 
 ### Contact Info
 
-Professor - Vesna Sossi (Email - )
+Professor - Vesna Sossi (Email - vesna@phas.ubc.ca)
 
