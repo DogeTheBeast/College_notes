@@ -30,7 +30,7 @@ These are the arguments that can go inside the double quotes in the printf state
 
 ## Special Cases of octal and hexadecimal integers
 
-To define a octal in 
+To assign a octal integer to a variable, 
 
 
 
