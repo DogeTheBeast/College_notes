@@ -17,7 +17,7 @@ The term inside the double quotes is the placeholder and it replaces its value w
 
 ### The Variations
 
-
+These are the ar
 
 
 
