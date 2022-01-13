@@ -10,7 +10,7 @@
 | Reading Quiz        |        | 2 %          |                                                                         |
 | Mastering Physics   |        | 6 %          |                                                                         |
 | Written Homework    |        | 8 %          |                                                                         |
-| Midterm             | 2      | 34 %         |                                                                         |
+| Midterm             | 2      | 34 %         | First Midterm - 1 March / Second Midterm - 29 March                     |
 | Final Exam          | 1      | 45 %         |                                                                         |
 
 
