@@ -19,12 +19,12 @@
 |              | 7 Feb              | 11 Feb           | Shakespeare, *Macbeth*                                                |
 |              | 14 Feb             | 18 Feb           | Coleridge, *Rime of the Ancient Mariner*                              |
 | Spring break |                    |                  |                                                                       |
-|              | 28 Feb             | 4 March          | Tennyson, *Mariana* , Roseetti, *Goblin Market*                       |
-|              | 7 March            | 11 March         | Poe, *The Raven* , Poe, *The Fall of the House of Usher*              |
+|              | 28 Feb             | 4 March          | Tennyson, *Mariana* / Roseetti, *Goblin Market*                       |
+|              | 7 March            | 11 March         | Poe, *The Raven* / Poe, *The Fall of the House of Usher*              |
 |              | 14 March           | 18 March         | Gilman, *The Yellow Wall Paper*                                       |
-|              | 21 March           | 25 March         | Conan Doyle, *The Adventure of the Speckled Band* , Stoker, *Dracule* |
+|              | 21 March           | 25 March         | Conan Doyle, *The Adventure of the Speckled Band* / Stoker, *Dracule* |
 |              | 28 March           | 1 April          | Stoker, *Dracula*                                                     |
-|              | 4 April            | 8 April          | Stoker, *Dracula* , Carter, *The Lady of the House of Love*                                                                      |
+|              | 4 April            | 8 April          | Stoker, *Dracula* / Carter, *The Lady of the House of Love*                                                                      |
 
 
 
