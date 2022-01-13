@@ -10,7 +10,8 @@
 | Reading Quiz        |        | 2 %          |                                                                         |
 | Mastering Physics   |        | 6 %          |                                                                         |
 | Written Homework    |        | 8 %          |                                                                         |
-| Midt                    |        |              |                                                                         |
+| Midterm             | 2      | 34 %         |                                                                         |
+| Final Exam          | 1      | 45 %         |                                                                         |
 
 
 ## Course Topics Covered
@@ -48,5 +49,5 @@
 
 ### Contact Info
 
-
+Professor - Vesna Sossi (Email - )
 

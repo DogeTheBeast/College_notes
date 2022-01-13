@@ -10,5 +10,8 @@
   },
   "showLineNumber": true,
   "spellcheck": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "spellcheckDictionary": [
+    "iClicker"
+  ]
 }
