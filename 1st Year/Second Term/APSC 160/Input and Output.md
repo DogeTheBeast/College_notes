@@ -26,7 +26,7 @@ These are the arguments that can go inside the double quotes in the printf state
 | %e       | Scientific Notation                |
 | %f       | Float                              |
 | %g       | Chooses the best between %e and %f |
-|          |                                    |
+| %o       |                                    |
 
 
 
