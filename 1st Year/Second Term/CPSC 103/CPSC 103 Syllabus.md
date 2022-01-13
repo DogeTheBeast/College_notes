@@ -15,9 +15,12 @@
 
 ## Project Deadlines
 
-| Item             | Percentage | Date Due |
-| ---------------- | ---------- | -------- |
-| Project Proposal | 1 %        |          |
+| Item               | Percentage | Date Due          |
+| ------------------ | ---------- | ----------------- |
+| Project Proposal   | 1 %        | 18 Feb 10:00 PM   |
+| Project Milestone  | 10 %       | 25 March 10:00 PM |
+| Project Final      | 12 %       | 8 April 10:00 PM  |
+| Video Presentation | 2 %        |                   |
 
 
 ## Course Topics Covered
