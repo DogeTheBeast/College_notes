@@ -4,6 +4,9 @@
 
 Psychoanalytic literary analysis is a form of literary criticism which is related to the human psyche regardless of the form the literature is presented in.
 
+> Literature is fundamentally entwined with the psyche
+- Sigmund Freud
+
 
 
 
