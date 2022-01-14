@@ -2,7 +2,7 @@
 
 ## Connection between Literature and the Human Psyche
 
-Psychoanalytic 
+Psychoanalytic literary analysis is a form of literary criticism which is based around the relationship that exist 
 
 
 
