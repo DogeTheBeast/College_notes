@@ -19,7 +19,8 @@ Psychoanalytic literary analysis is a form of literary criticism which is relate
 - Males are depicted as more threatening and dominant males and often sexualized forms.
 - Breaking the societal norms and animalisitic desires (often depicted by untamed animalised humans).
 - Religious troupes.
-- Forces beyond our control called sublime. (Intriguing and)
+- Forces beyond our control called sublime. (Intriguing and fascinating)
+- 
 
 Settings matter - underground dungeons and crypts (even underwater)
 The settings being underground feels more secretive and is symbolic of the underlying desires.
