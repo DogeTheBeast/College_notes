@@ -7,5 +7,7 @@ The settings being underground feels more secretive and is symbolic of the under
 Underground places often hide guilty secrets
 
 
+What makes gothic culture which is based around the 
+
 ---
 Read also - 
