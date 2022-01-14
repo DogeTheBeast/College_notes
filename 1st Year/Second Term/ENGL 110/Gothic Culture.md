@@ -7,6 +7,7 @@ Psychoanalytic literary analysis is a form of literary criticism which is relate
 
 
 
+
 ### What makes Gothic culture which is based around things that we do not want to experience ourselves, intriguing and inviting to many readers ?
 
 -
