@@ -1,5 +1,5 @@
 # Gothic Culture
-##O
+## Origin of the word "Gothic"
 
 
 ## Connection between Literature and the Human Psyche
