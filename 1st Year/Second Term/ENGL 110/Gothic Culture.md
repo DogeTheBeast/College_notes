@@ -20,7 +20,7 @@ Psychoanalytic literary analysis is a form of literary criticism which is relate
 - Breaking the societal norms and animalisitic desires (often depicted by untamed animalised humans).
 - Religious troupes.
 - Forces beyond our control called sublime. (Intriguing and fascinating)
-- 
+- Gothic themes evolve over time (Advanced of science and more devotion towards religion)
 
 Settings matter - underground dungeons and crypts (even underwater)
 The settings being underground feels more secretive and is symbolic of the underlying desires.
