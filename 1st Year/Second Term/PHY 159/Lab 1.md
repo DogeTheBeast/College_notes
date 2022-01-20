@@ -32,8 +32,8 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 - \delta m_1
 | Object       | Mass (along with spring) (m) | Weight ${F = m \Delta x}$ | Extension ${\Delta x}$ |
 | ------------ | ---------------------------- | ------------------------- | ---------------------- |
 | Dot          | 42                           |                           |                        |
-| Blue Block   |                              |                           |                        |
-| Green Block  |                              |                           |                        |
+| Blue Block   | 142                             |                           |                        |
+| Green Block  | 292                             |                           |                        |
 | Purple Block |                              |                           |                        |
 
 
