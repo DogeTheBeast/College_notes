@@ -42,7 +42,10 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 - \delta m_1
 2. Using the ruler to measure the length of the spring.
 3. Add the mass on the spring and wait for it to stop oscillating. When the spring stop moving measure the mass of the setup.
 4. With the mass on the spring, measure the length of the spring.
-5. Use the following equation to measure the value of spring constant.
+5. Use the following equation to measure the value of spring constant,
+$${\LARGE k = - \frac{(m_2 - m_1)\times g}{(x_2 - x_1)}}$$
+6. And, use the following equation to measure the uncertainty of the value of the spring constant.
+
 
 
 
