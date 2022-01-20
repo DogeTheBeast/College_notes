@@ -16,7 +16,10 @@ The objective of the experiment is to measure the spring constant of a spring us
 
 #### Static method
 
-Relate the force experienced by the spring and the extension of the 
+Relate the force experienced by the spring and the extension of the spring
+
+$${\LARGE F = -k \Delta x}$$
+$${\LARGE (m_2 - m_1)g = -k (x_)}
 
 
 
