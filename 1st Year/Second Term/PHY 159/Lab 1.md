@@ -19,7 +19,9 @@ The objective of the experiment is to measure the spring constant of a spring us
 Relate the force experienced by the spring and the extension of the spring
 
 $${\LARGE F = -k \Delta x}$$
-$${\LARGE (m_2 - m_1)g = -k (x_)}
+$${\LARGE (m_2 - m_1)g = -k (x_2 - x_1)}$$
+$${\LARGE k = - \frac{(m_2 - m_1)}{(x_2 - x_1)}}$$
+
 
 
 
