@@ -58,7 +58,7 @@ By using the values in the table under the heading of testing, we can determine 
 | ---------- | ---------------- | --------------------- |
 | Blue       | 479.71           |                       |
 | Green      | 600.37           |                       |
-| Purple     |                  |                       |
+| Purple     | 600.37           |                       |
 
 
 
