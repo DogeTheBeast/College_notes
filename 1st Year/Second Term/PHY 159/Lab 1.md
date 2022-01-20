@@ -12,6 +12,8 @@ The objective of the experiment is to measure the spring constant of a spring us
 | Stopwatch | Time                | 0.01 s     | 0 to infinity | Used to measure the period of oscillation of the spring | 0.01 s      |
 | Scale     | Mass                | 0.01 g     | 0 to infinity | Used to measure the mass of the spring and the masses   | 0.01 g            |
 
+### Relate Quantities and forming relationship
+
 
 
 
