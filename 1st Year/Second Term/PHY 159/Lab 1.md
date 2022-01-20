@@ -29,12 +29,12 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 - \delta m_1
 
 ### Testing
 
-| Object       | Mass (along with spring) (m) | Weight ${F = m \Delta x}$ | Extension ${\Delta x}$ |
-| ------------ | ---------------------------- | ------------------------- | ---------------------- |
-| Dot          | 42                           |                           |                        |
-| Blue Block   | 142                             |                           |                        |
-| Green Block  | 292                             |                           |                        |
-| Purple Block |                              |                           |                        |
+| Object       | Mass (along with spring) (m in kilograms) | Weight ${F = m \Delta x}$ | Extension ${\Delta x}$ |
+| ------------ | ------------------------------------- | ------------------------- | ---------------------- |
+| Dot          | 42                                    | 0.412                     |                        |
+| Blue Block   | 142                                   | 1.39                      |                        |
+| Green Block  | 292                                   |                           |                        |
+| Purple Block | 542                                   |                           |                        |
 
 
 
