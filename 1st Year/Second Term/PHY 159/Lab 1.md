@@ -62,4 +62,4 @@ By using the values in the table under the heading of testing, we can determine 
 
 ## Revaluation
 
-The produce described above is very inaccurate 
+The produce described above is very inaccurate because the uncertainty of the values of k is around a quarter of the actual value. Therefore, the method stated above is not preferred. Comparatively, a better method would be to measure the period of osciallation of the 
