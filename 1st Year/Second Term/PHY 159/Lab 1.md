@@ -22,9 +22,9 @@ $${\LARGE F = -k \Delta x}$$
 $${\LARGE (m_2 - m_1)g = -k (x_2 - x_1)}$$
 $${\LARGE k = - \frac{(m_2 - m_1)}{(x_2 - x_1)}}$$
 
-Uncertainty of k
+#### Uncertainty of k
 
-
+$${\LARGE \delta k = }
 
 
 
