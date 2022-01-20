@@ -29,7 +29,9 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 - \delta m_1
 
 ### Testing
 
-|
+| Object | Mass (m) | Weight ${} | Extension |
+| ------ | -------- | ------ | --------- |
+|        |          |        |           |
 
 
 
