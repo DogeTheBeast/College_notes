@@ -10,7 +10,7 @@ The objective of the experiment is to measure the spring constant of a spring us
 | --------- | ------------------- | ---------- | ------------- | ------------------------------------------------------- | ----------- |
 | Ruler     | Distance            | 1 cm       | 0 to 100 cm   | Used to measure the extension of the spring             | 0.5 cm      |
 | Stopwatch | Time                | 0.01 s     | 0 to infinity | Used to measure the period of oscillation of the spring | 0.01 s      |
-| Scale     | Mass                | 0.01 g     | 0 to infinity | Used to measure the mass of the spring and the masses   | 0.01 g            |
+| Scale     | Mass                | 1 g        | 0 to infinity | Used to measure the mass of the spring and the masses   | 0.01 g      |
 
 ### Relate Quantities and forming relationship
 
@@ -29,12 +29,12 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 - \delta m_1
 
 ### Testing
 
-| Object      | Mass (m) | Weight ${F = m \Delta x}$ | Extension ${\Delta x}$ |
-| ----------- | -------- | ------------------------- | ---------------------- |
-| Dot         |          |                           |                        |
-| Blue Block  |          |                           |                        |
-| Green Block |          |                           |                        |
-|             |          |                           |                        |
+| Object       | Mass (along with spring) (m) | Weight ${F = m \Delta x}$ | Extension ${\Delta x}$ |
+| ------------ | ---------------------------- | ------------------------- | ---------------------- |
+| Dot          | 42                           |                           |                        |
+| Blue Block   |                              |                           |                        |
+| Green Block  |                              |                           |                        |
+| Purple Block |                              |                           |                        |
 
 
 
