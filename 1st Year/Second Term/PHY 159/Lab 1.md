@@ -6,11 +6,11 @@ The objective of the experiment is to measure the spring constant of a spring us
 
 ### Explore Tools
 
-| Tools           | Physical Parameters | Resolution | Range         | Usage                                                   | Uncertainty |
-| --------------- | ------------------- | ---------- | ------------- | ------------------------------------------------------- | ----------- |
-| Ruler           | Distance            | 1 cm       | 0 to 100 cm   | Used to measure the extension of the spring             | 0.5 cm      |
-| Stopwatch       | Time                | 0.01 s     | 0 to infinity | Used to measure the period of oscillation of the spring | 0.01 s      |
-| Weighting Scale | Weight              |            |               |                                                         |             |
+| Tools     | Physical Parameters | Resolution | Range         | Usage                                                   | Uncertainty |
+| --------- | ------------------- | ---------- | ------------- | ------------------------------------------------------- | ----------- |
+| Ruler     | Distance            | 1 cm       | 0 to 100 cm   | Used to measure the extension of the spring             | 0.5 cm      |
+| Stopwatch | Time                | 0.01 s     | 0 to infinity | Used to measure the period of oscillation of the spring | 0.01 s      |
+| Scale     | Mass                | 0.01 g     | 0 to infinity | Used to measure the mass of the spring and the masses   | 0.01 g            |
 
 
 
