@@ -46,6 +46,11 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 - \delta m_1
 $${\LARGE k = - \frac{(m_2 - m_1)\times g}{(x_2 - x_1)}}$$
 6. And, use the following equation to measure the uncertainty of the value of the spring constant.
 
+$${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 - \delta m_1^2}}{(m_2 - m_1)}\right)^2 + \left(\frac{\sqrt{\delta x_2^2 - \delta x_1^2}}{(x_2 - x_1)}\right)^2}}$$
+
+
+#### Using the value taken earlier with the procedure
+
 
 
 
