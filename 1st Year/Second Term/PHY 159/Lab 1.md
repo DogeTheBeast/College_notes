@@ -24,7 +24,7 @@ $${\LARGE k = - \frac{(m_2 - m_1)}{(x_2 - x_1)}}$$
 
 #### Uncertainty of k
 
-$${\LARGE \delta k = }
+$${\LARGE \delta k = sqrt(\delta m_2^2 - \delta m_1^2)}
 
 
 
