@@ -16,7 +16,7 @@ The objective of the experiment is to measure the spring constant of a spring us
 
 #### Static method
 
-Relate the mass of the 
+Relate the force experienced by the spring and the extension of the 
 
 
 
