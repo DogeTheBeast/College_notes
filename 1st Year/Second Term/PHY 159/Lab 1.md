@@ -56,7 +56,7 @@ By using the values in the table under the heading of testing, we can determine 
 
 | Block used | Value of k (N/m) | Value of ${\delta k}$ |
 | ---------- | ---------------- | --------------------- |
-| Blue       |                  |                       |
+| Blue       | 479.71           |                       |
 | Green      |                  |                       |
 | Purple     |                  |                       |
 
