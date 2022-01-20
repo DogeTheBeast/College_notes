@@ -8,7 +8,7 @@ The objective of the experiment is to measure the spring constant of a spring us
 
 | Tools | Physical Parameters | Resolution | Range | Usage |
 | ----- | ------------------- | ---------- | ----- | ----- |
-| Ruler | D                    |            |       |       |
+| Ruler | Distance            | 1 cm       |       |       |
 
 
 
