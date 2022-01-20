@@ -14,7 +14,9 @@ The objective of the experiment is to measure the spring constant of a spring us
 
 ### Relate Quantities and forming relationship
 
-The m
+#### Static method
+
+Relate the mass of the 
 
 
 
