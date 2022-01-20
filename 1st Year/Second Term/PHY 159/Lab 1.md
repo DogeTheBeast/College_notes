@@ -20,11 +20,12 @@ Relate the force experienced by the spring and the extension of the spring
 
 $${\LARGE F = -k \Delta x}$$
 $${\LARGE (m_2 - m_1)g = -k (x_2 - x_1)}$$
-$${\LARGE k = - \frac{(m_2 - m_1)}{(x_2 - x_1)}}$$
+$${\LARGE k = - \frac{(m_2 - m_1)\times g}{(x_2 - x_1)}}$$
 
 #### Uncertainty of k
 
 $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 - \delta m_1^2}}{(m_2 - m_1)}\right)^2 + \left(\frac{\sqrt{\delta x_2^2 - \delta x_1^2}}{(x_2 - x_1)}\right)^2}}$$
+
 
 
 
