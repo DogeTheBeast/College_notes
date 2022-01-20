@@ -39,7 +39,7 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 - \delta m_1
 ### Procedure
 
 1. Measure the mass of the spring before placing any mass on it.
-2. Add the weight of the 
+2. Add the mass on the spring and wait for it to stop oscillating. When the spring stop 
 
 
 
