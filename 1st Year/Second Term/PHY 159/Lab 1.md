@@ -39,8 +39,10 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 - \delta m_1
 ### Procedure
 
 1. Measure the mass of the spring before placing any mass on it.
-2. Add the mass on the spring and wait for it to stop oscillating. When the spring stop moving measure the mass of the setup.
-3. 
+2. Using the ruler to measure the length of the spring.
+3. Add the mass on the spring and wait for it to stop oscillating. When the spring stop moving measure the mass of the setup.
+4. With the mass on the spring, measure the length of the spring.
+5. Use the equatio
 
 
 
