@@ -29,12 +29,12 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 - \delta m_1
 
 ### Testing
 
-| Object       | Mass (along with spring) (m in kilograms) | Weight (${F = mg}$) (N) | Length  (x in m) | Extension (${\delta x}$) (m) | 
-| ------------ | ----------------------------------------- | ----------------------- | ----------------- | -------------------------------- |
-| Dot          | 0.042                                     | 0.412                   | 0.46                | 0                                |
-| Blue Block   | 0.142                                     | 1.39                    | 0.48                | 2                                |
-| Green Block  | 0.292                                     | 2.86                    | 0.50                | 4                                |
-| Purple Block | 0.542                                     | 5.32                    | 0.52                | 6                                |
+| Object       | Mass (along with spring) (m in kilograms) | Weight (${F = mg}$) (N) | Length  (x in m) | Extension (${\delta x}$) (m) |
+| ------------ | ----------------------------------------- | ----------------------- | ---------------- | ---------------------------- |
+| Dot          | 0.042                                     | 0.412                   | 0.46             | 0.00                         |
+| Blue Block   | 0.142                                     | 1.390                   | 0.48             | 0.02                         |
+| Green Block  | 0.292                                     | 2.860                   | 0.50             | 0.04                         |
+| Purple Block | 0.542                                     | 5.320                   | 0.52             | 0.06                         |
 
 ### Procedure
 
@@ -51,7 +51,7 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 - \delta m_1
 
 #### Using the value taken earlier with the procedure
 
-
+By using the values in the table under the heading of 
 
 
 #### Hooke's Law
