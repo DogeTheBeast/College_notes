@@ -54,8 +54,11 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 - \delta m_1
 
 By using the values in the table under the heading of testing, we can determine the value of k and the uncertainty associated with it for the static method.
 
-| Block used | Value of k | Value of ${\Delta k}
-| ---------- | ---------- |
+| Block used | Value of k (N/m) | Value of ${\delta k}$ |
+| ---------- | ---------------- | --------------------- |
+| Blue       |                  |                       |
+| Green      |                  |                       |
+| Purple     |                  |                       |
 
 
 
