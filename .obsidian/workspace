@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source"
+            "file": "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "c8c431c2d94e9592",
   "lastOpenFiles": [
+    "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
     "Untitled.md",
     "1st Year/Second Term/PHY 159/Lab 1.md",
     "1st Year/Second Term/ENGL 110/Gothic Culture.md",
@@ -129,7 +130,6 @@
     "1st Year/Second Term/APSC 160/APSC 160 Syllabus.md",
     "1st Year/Second Term/APSC 160/Data Types for C.md",
     "1st Year/Second Term/APSC 160/Input and Output.md",
-    "1st Year/Second Term/APSC 160/Numbers in Different Bases.md",
-    "1st Year/Second Term/CPSC 103/CPSC 103 Syllabus.md"
+    "1st Year/Second Term/APSC 160/Numbers in Different Bases.md"
   ]
 }
