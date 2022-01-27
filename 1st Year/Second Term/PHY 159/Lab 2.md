@@ -43,7 +43,9 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 
 | Trial | Mass | Length |
 | ----- | ---- | ------ |
-|       |      |        |
+| 1     | 0.042     |        |
+| 2     | 0.048     |        |
+| 3     | 0.038     |        |
 
 
 
