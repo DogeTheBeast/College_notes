@@ -62,9 +62,9 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 
 | Trial | Mass (in g) | Length (in cm) |
 | ----- | ----------- | -------------- |
-| 1     | 41.88       | 46             |
-| 2     | 42.08       | 47             |
-| 3     | 42.19       | 46             |  
+| 1     | 293.07       | 49             |
+| 2     | 291.95       | 49             |
+| 3     | 292.69       | 50             |  
 
 #### For Purple block
 
