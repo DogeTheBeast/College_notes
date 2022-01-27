@@ -122,7 +122,7 @@ By using the values in the table under the heading of testing, we can determine 
 | Blue       | 98.1             | 69.4                  |
 | Green      | 81.8             | 19.3                  |
 | Purple     | 90.7             | 11.9                  |
-| Average    | 90.2             |                       |
+| Average    | 90.2             | 33.3                  |
 
 
 #### Graphing Method
