@@ -132,7 +132,7 @@ By using the values in the table under the heading of testing, we can determine 
 4. With the mass on the spring, measure the length of the spring.
 5. Repeat the steps above as many times as the different weights are available.
 6. Multiply the value of the mass with *g* to find the weight of the blocks.
-7. 
+7. Plot the graph of the weight of the blocks against the extension that was observed.
 
 
 
