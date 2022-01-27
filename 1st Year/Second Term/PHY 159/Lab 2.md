@@ -38,6 +38,15 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 
 ### Testing
 
+#### Raw Data
+
+|
+
+
+
+
+#### Processed Data
+
 | Object       | Mass (along with spring) (m in kilograms) | Weight (${F = mg}$) (N) | Length  (x in m) | Extension (${\delta x}$) (m) |
 | ------------ | ----------------------------------------- | ----------------------- | ---------------- | ---------------------------- |
 | Dot          | 0.042                                     | 0.412                   | 0.46             | 0.00                         |
