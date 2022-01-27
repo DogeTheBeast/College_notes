@@ -126,7 +126,7 @@ By using the values in the table under the heading of testing, we can determine 
 
 #### Graphing Method
 
-
+1. 
 
 
 
