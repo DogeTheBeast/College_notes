@@ -142,7 +142,9 @@ By using the values in the table under the heading of testing, we can determine 
 
 ![[phy159_lab2.png]]
 
-
+| Value of slope | Value of *k* | uncertainty in the value of *k* |
+| -------------- | ------------ | ------------------------------- |
+|                |              |                                 |
 
 
 ## Revaluation
