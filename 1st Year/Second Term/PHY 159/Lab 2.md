@@ -89,6 +89,8 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 
 ### Procedure
 
+#### Static Method
+
 1. Measure the mass of the spring before placing any mass on it.
 2. Using the ruler to measure the length of the spring.
 3. Add the mass on the spring and wait for it to stop oscillating. When the spring stop moving measure the mass of the setup.
@@ -110,6 +112,12 @@ By using the values in the table under the heading of testing, we can determine 
 | Blue       | 479.71           | 169.61                |
 | Green      | 600.37           | 106.13                |
 | Purple     | 600.37           | 103.32                |
+
+
+#### Graphing Method
+
+
+
 
 ## Revaluation
 
