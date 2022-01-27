@@ -66,15 +66,16 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 | 1       | 293.07      | 49             |
 | 2       | 291.95      | 49             |
 | 3       | 292.69      | 50             |
-| Average |             |                |
+| Average | 292.57      | 49.3           |
 
 #### For Purple block
 
-| Trial | Mass (in g) | Length (in cm) |
-| ----- | ----------- | -------------- |
-| 1     | 543.34      | 52             |
-| 2     | 542.93      | 51             |
-| 3     | 541.14      | 52             |
+| Trial   | Mass (in g) | Length (in cm) |
+| ------- | ----------- | -------------- |
+| 1       | 543.34      | 52             |
+| 2       | 542.93      | 51             |
+| 3       | 541.14      | 52             |
+| Average | 542.47            |                |
 
 
 
