@@ -80,12 +80,12 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 
 ### Processed Data
 
-| Object       | Average Mass (along with spring) (m in gram) | Mass (along with spring) (m in kilograms) | Weight (${F = mg}$) (N) | Average Length (in cm)    | Length  (x in m) | Extension (${\delta x}$) (m) |
-| ------------ | -------------------------------------------- | ----------------------------------------- | ----------------------- | --- | ---------------- | ---------------------------- |
-| Dot          | 42.05                                        | 0.042                                     | 0.412                   |     | 0.46             | 0.00                         |
-| Blue Block   | 142.29                                       | 0.142                                     | 1.390                   |     | 0.48             | 0.02                         |
-| Green Block  | 292.57                                       | 0.292                                     | 2.860                   |     | 0.50             | 0.04                         |
-| Purple Block | 542.47                                       | 0.542                                     | 5.320                   |     | 0.54             | 0.08                         |
+| Object       | Average Mass (along with spring) (m in gram) | Mass (along with spring) (m in kilograms) | Weight (${F = mg}$) (N) | Average Length (in cm) | Length  (x in m) | Extension (${\delta x}$) (m) |
+| ------------ | -------------------------------------------- | ----------------------------------------- | ----------------------- | ---------------------- | ---------------- | ---------------------------- |
+| Dot          | 42.05                                        | 0.042                                     | 0.412                   | 46.3                   | 0.463             | 0.00                         |
+| Blue Block   | 142.29                                       | 0.142                                     | 1.390                   | 47.3                   | 0.473             | 0.02                         |
+| Green Block  | 292.57                                       | 0.292                                     | 2.860                   | 49.3                   | 0.49             | 0.04                         |
+| Purple Block | 542.47                                       | 0.542                                     | 5.320                   | 51.7                   | 0.54             | 0.08                         |
 
 ### Procedure
 
