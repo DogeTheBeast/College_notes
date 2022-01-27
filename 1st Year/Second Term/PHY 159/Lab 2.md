@@ -1,10 +1,10 @@
 # Lab 2
 
-### Clarify Objective
+## Clarify Objective
 
 The objective of the experiment is to measure the spring constant of a spring using the tools provided. Spring constant is the amount of force required to extend a spring by a unit length.
 
-### Explore Tools
+## Explore Tools
 
 | Tools     | Physical Parameters | Resolution | Range         | Usage                                                   | Uncertainty |
 | --------- | ------------------- | ---------- | ------------- | ------------------------------------------------------- | ----------- |
@@ -12,7 +12,7 @@ The objective of the experiment is to measure the spring constant of a spring us
 | Stopwatch | Time                | 0.01 s     | 0 to infinity | Used to measure the period of oscillation of the spring | 0.01 s      |
 | Scale     | Mass                | 1 g        | 0 to infinity | Used to measure the mass of the spring and the masses   | 0.00001 kg      |
 
-### Relate Quantities and forming relationship
+## Relate Quantities and forming relationship
 
 #### Static method
 
@@ -39,14 +39,16 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 ## Testing
 
 ### Raw Data
+#### For dot object
 
-| Object | Mass    | 
-| ------ | --- |
+| Trial | Mass | Length |
+| ----- | ---- | ------ |
+|       |      |        |
 
 
 
 
-#### Processed Data
+### Processed Data
 
 | Object       | Mass (along with spring) (m in kilograms) | Weight (${F = mg}$) (N) | Length  (x in m) | Extension (${\delta x}$) (m) |
 | ------------ | ----------------------------------------- | ----------------------- | ---------------- | ---------------------------- |
