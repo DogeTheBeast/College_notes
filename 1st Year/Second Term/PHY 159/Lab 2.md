@@ -41,11 +41,11 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 ### Raw Data
 #### For dot object
 
-| Trial | Mass | Length |
-| ----- | ---- | ------ |
-| 1     | 0.042     |        |
-| 2     | 0.048     |        |
-| 3     | 0.038     |        |
+| Trial | Mass (in g) | Length |
+| ----- | ----------- | ------ |
+| 1     | 41.88       |        |
+| 2     | 42.08       |        |
+| 3     | 42.19       |        |
 
 
 
