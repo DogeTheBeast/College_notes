@@ -149,4 +149,4 @@ By using the values in the table under the heading of testing, we can determine 
 
 ## Revaluation
 
-The 2 procedures that are described above use different ways to calculate the value of the spring constant with different uncertainty. The graphing method resulted in better results as the uncertainty was lower. The values for the spring constant for both the methods was similar which implies that both the methods are quite accurate. To improve the experiment, more weights can be used which will give more data points to plot and the uncertainty in the 
+The 2 procedures that are described above use different ways to calculate the value of the spring constant with different uncertainty. The graphing method resulted in better results as the uncertainty was lower. The values for the spring constant for both the methods was similar which implies that both the methods are quite accurate. To improve the experiment, more weights can be used which will give more data points to plot and the uncertainty in the slope will be less.
