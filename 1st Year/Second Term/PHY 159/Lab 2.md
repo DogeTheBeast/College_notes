@@ -75,10 +75,7 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 | 1       | 543.34      | 52             |
 | 2       | 542.93      | 51             |
 | 3       | 541.14      | 52             |
-| Average | 542.47            |                |
-
-
-
+| Average | 542.47      | 51.7           |
 
 
 ### Processed Data
