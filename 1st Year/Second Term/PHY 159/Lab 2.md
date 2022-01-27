@@ -135,7 +135,7 @@ By using the values in the table under the heading of testing, we can determine 
 6. Multiply the value of the mass with *g* to find the weight of the blocks.
 7. Plot the graph of the weight of the blocks against the extension that was observed.
 8. Plot the error bars for the weight for each point and use MatLab of any other graphing software to plot the best fit line along with the uncertainty in the slope of the line.
-9. The value of the slope is the reciprocal of  the value of *k* divided by g. So, to find the value of k, multiply the reciprocal of the slope with g. The uncertainty in the value of the slope is the uncertainty in the value of *k*.
+9. The value of the slope is the reciprocal of  the value of *k*. The uncertainty in the value of the slope is the uncertainty in the value of *k*.
 
 
 #### Using the value taken earlier with the graphing procedure
