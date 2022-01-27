@@ -101,7 +101,7 @@ it is evident that ${\Delta x}$ and F are proportional and the slope of the stra
 
 1. Measure the mass of the spring before placing any mass on it.
 2. Using the ruler to measure the length of the spring.
-3. Add the mass on the spring and wait for it to stop oscillating. When the spring stop moving measure the mass of the setup.
+3. Add the mass on the spring and wait for it to stop oscillating. When the spring stops moving, measure the mass of the setup.
 4. With the mass on the spring, measure the length of the spring.
 5. Use the following equation to measure the value of spring constant,
 $${\LARGE k = - \frac{(m_2 - m_1)\times g}{(x_2 - x_1)}}$$
@@ -123,6 +123,9 @@ By using the values in the table under the heading of testing, we can determine 
 
 
 #### Graphing Method
+
+
+
 
 
 
