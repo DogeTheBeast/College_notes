@@ -39,6 +39,7 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 ## Testing
 
 ### Raw Data
+
 #### For dot object
 
 | Trial | Mass (in g) | Length (in cm) |
@@ -46,6 +47,32 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 | 1     | 41.88       | 46             |
 | 2     | 42.08       | 47             |
 | 3     | 42.19       | 46             | 
+
+#### For Blue block
+
+| Trial | Mass (in g) | Length (in cm) |
+| ----- | ----------- | -------------- |
+| 1     | 41.88       | 46             |
+| 2     | 42.08       | 47             |
+| 3     | 42.19       | 46             |
+
+
+#### For Green block
+
+| Trial | Mass (in g) | Length (in cm) |
+| ----- | ----------- | -------------- |
+| 1     | 41.88       | 46             |
+| 2     | 42.08       | 47             |
+| 3     | 42.19       | 46             |  
+
+#### For Purple block
+
+| Trial | Mass (in g) | Length (in cm) |
+| ----- | ----------- | -------------- |
+| 1     | 41.88       | 46             |
+| 2     | 42.08       | 47             |
+| 3     | 42.19       | 46             | 
+
 
 
 
