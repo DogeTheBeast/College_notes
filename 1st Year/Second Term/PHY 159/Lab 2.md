@@ -42,19 +42,20 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 
 #### For dot object
 
-| Trial | Mass (in g) | Length (in cm) |
-| ----- | ----------- | -------------- |
-| 1     | 41.88       | 46             |
-| 2     | 42.08       | 47             |
-| 3     | 42.19       | 46             | 
+| Trial   | Mass (in g) | Length (in cm) |
+| ------- | ----------- | -------------- |
+| 1       | 41.88       | 46             |
+| 2       | 42.08       | 47             |
+| 3       | 42.19       | 46             |
+| Average |             |                |
 
 #### For Blue block
 
 | Trial | Mass (in g) | Length (in cm) |
 | ----- | ----------- | -------------- |
-| 1     | 142.26       | 46             |
-| 2     | 142.17       | 47             |
-| 3     | 42       | 46             |
+| 1     | 142.26       | 47             |
+| 2     | 142.17       | 48             |
+| 3     | 142.44       | 47             |
 
 
 #### For Green block
