@@ -131,7 +131,8 @@ By using the values in the table under the heading of testing, we can determine 
 3. Add the mass on the spring and wait for it to stop oscillating. When the spring stops moving, measure the mass of the setup.
 4. With the mass on the spring, measure the length of the spring.
 5. Repeat the steps above as many times as the different weights are available.
-6. 
+6. Multiply the value of the mass with *g* to find the weight of the blocks.
+7. 
 
 
 
