@@ -133,7 +133,7 @@ By using the values in the table under the heading of testing, we can determine 
 5. Repeat the steps above as many times as the different weights are available.
 6. Multiply the value of the mass with *g* to find the weight of the blocks.
 7. Plot the graph of the weight of the blocks against the extension that was observed.
-8. Plot the error bars for the 
+8. Plot the error bars for the weight for each point and
 9. Use MatLab of any other graphing software the 
 
 
