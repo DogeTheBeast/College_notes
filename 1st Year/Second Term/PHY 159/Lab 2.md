@@ -126,7 +126,12 @@ By using the values in the table under the heading of testing, we can determine 
 
 #### Graphing Method
 
-1. 
+1. Measure the mass of the spring before placing any mass on it.
+2. Using the ruler to measure the length of the spring.
+3. Add the mass on the spring and wait for it to stop oscillating. When the spring stops moving, measure the mass of the setup.
+4. With the mass on the spring, measure the length of the spring.
+5. Repeat the steps above as many times as the different weights are available.
+6. 
 
 
 
