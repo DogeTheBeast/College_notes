@@ -149,5 +149,4 @@ By using the values in the table under the heading of testing, we can determine 
 
 ## Revaluation
 
-The produce described above is very inaccurate because the uncertainty of the values of k is around a quarter of the actual value. Therefore, the method stated above is not preferred. Comparatively, a better method would be to measure the period of osciallation of the spring and use the formula,
-$${\LARGE T = 2 PI \sqrt{\frac{m}{k}}}$$
+The 2 procedures that are described above use different ways to calculate the value of the spring constant with different uncertainty. 
