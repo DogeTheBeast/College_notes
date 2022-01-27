@@ -41,7 +41,7 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 
 From the equation,
 $${\LARGE F = -k \Delta x}$$
-
+it is evident that ${\Delta x}$ and F are proportional and the slope of the straight line is negative 
 
 
 ## Testing
