@@ -80,12 +80,12 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 
 ### Processed Data
 
-| Object       | Mass (along with spring) (m in kilograms) | Weight (${F = mg}$) (N) | Length  (x in m) | Extension (${\delta x}$) (m) |
-| ------------ | ----------------------------------------- | ----------------------- | ---------------- | ---------------------------- |
-| Dot          | 0.042                                     | 0.412                   | 0.46             | 0.00                         |
-| Blue Block   | 0.142                                     | 1.390                   | 0.48             | 0.02                         |
-| Green Block  | 0.292                                     | 2.860                   | 0.50             | 0.04                         |
-| Purple Block | 0.542                                     | 5.320                   | 0.54             | 0.08                         |
+| Object       | Average Mass (along with spring) (m in)    | Mass (along with spring) (m in kilograms) | Weight (${F = mg}$) (N) | Length  (x in m) | Extension (${\delta x}$) (m) |
+| ------------ | --- | ----------------------------------------- | ----------------------- | ---------------- | ---------------------------- |
+| Dot          |     | 0.042                                     | 0.412                   | 0.46             | 0.00                         |
+| Blue Block   |     | 0.142                                     | 1.390                   | 0.48             | 0.02                         |
+| Green Block  |     | 0.292                                     | 2.860                   | 0.50             | 0.04                         |
+| Purple Block |     | 0.542                                     | 5.320                   | 0.54             | 0.08                         |
 
 ### Procedure
 
