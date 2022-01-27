@@ -140,7 +140,7 @@ By using the values in the table under the heading of testing, we can determine 
 
 #### Using the value taken earlier with the graphing procedure
 
-
+![[phy159_lab2.png]]
 
 
 
