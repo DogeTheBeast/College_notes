@@ -88,12 +88,12 @@ it is evident that ${\Delta x}$ and F are proportional and the slope of the stra
 
 ### Processed Data
 
-| Object       | Average Mass (along with spring) (m in gram) | Mass (along with spring) (m in kilograms) | Weight (${F = mg}$) (N) | Average Length (in cm) | Length  (x in m) | Extension (${\delta x}$) (m) |
+| Object       | Average Mass (along with spring) (m in gram) | Mass (without spring) (m in kilograms) | Weight (${F = mg}$) (N) | Average Length (in cm) | Length  (x in m) | Extension (${\delta x}$) (m) |
 | ------------ | -------------------------------------------- | ----------------------------------------- | ----------------------- | ---------------------- | ---------------- | ---------------------------- |
-| Dot          | 42.05                                        | 0.042                                     | 0.412                   | 46.3                   | 0.463            | 0.000                        |
-| Blue Block   | 142.29                                       | 0.142                                     | 1.390                   | 47.3                   | 0.473            | 0.010                        |
-| Green Block  | 292.57                                       | 0.292                                     | 2.860                   | 49.3                   | 0.493            | 0.030                        |
-| Purple Block | 542.47                                       | 0.542                                     | 5.320                   | 51.7                   | 0.517            | 0.054                        |
+| Dot          | 42.05                                        | 0.000                                     | 0.000                   | 46.3                   | 0.463            | 0.000                        |
+| Blue Block   | 142.29                                       | 0.100                                     | 1.390                   | 47.3                   | 0.473            | 0.010                        |
+| Green Block  | 292.57                                       | 0.150                                     | 2.860                   | 49.3                   | 0.493            | 0.030                        |
+| Purple Block | 542.47                                       | 0.500                                     | 5.320                   | 51.7                   | 0.517            | 0.054                        |
 
 ### Procedure
 
