@@ -113,7 +113,7 @@ $${\LARGE \delta k =  k \times \sqrt{\left(\frac{\sqrt{\delta m_2^2 + \delta m_1
 
 7. Repeat the calculations with all 3 different masses and record the values of *k*. Average out the values to find the most accurate value.
 
-#### Using the value taken earlier with the procedure
+#### Using the value taken earlier with the static procedure
 
 By using the values in the table under the heading of testing, we can determine the value of k and the uncertainty associated with it for the static method.
 
@@ -134,7 +134,11 @@ By using the values in the table under the heading of testing, we can determine 
 6. Multiply the value of the mass with *g* to find the weight of the blocks.
 7. Plot the graph of the weight of the blocks against the extension that was observed.
 8. Plot the error bars for the weight for each point and use MatLab of any other graphing software to plot the best fit line along with the uncertainty in the slope of the line.
-9. The value of the slope is the negative value of *k* and the uncertainty in the value of the slope is the 
+9. The value of the slope is the negative value of *k* and the uncertainty in the value of the slope is the uncertainty in the value of *k*.
+
+
+#### Using the value taken earlier with the graphing procedure
+
 
 
 
