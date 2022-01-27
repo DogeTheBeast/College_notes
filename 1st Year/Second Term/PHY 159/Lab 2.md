@@ -101,7 +101,7 @@ it is evident that ${\Delta x}$ and F are proportional and the slope of the stra
 
 1. Measure the mass of the spring before placing any mass on it.
 2. Using the ruler to measure the length of the spring.
-3. Add the mass on the spring and wait for it to stop oscillating. When the spring stops moving, measure the mass of the setup.
+3. Add the mass on the spring and wait for it to stop oscillating. When the spring stops moving, measure the mass of the setup. Subtract the mass of the spring from the mass measured.
 4. With the mass on the spring, measure the length of the spring.
 5. Repeat the steps above as many times as the different weights are available.
 6. Use the following equation to measure the value of spring constant (using 2 of the values measured),
@@ -133,6 +133,8 @@ By using the values in the table under the heading of testing, we can determine 
 5. Repeat the steps above as many times as the different weights are available.
 6. Multiply the value of the mass with *g* to find the weight of the blocks.
 7. Plot the graph of the weight of the blocks against the extension that was observed.
+8. Plot the error bars for the 
+9. Use MatLab of any other graphing software the 
 
 
 
