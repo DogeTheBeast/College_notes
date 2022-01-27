@@ -144,7 +144,7 @@ By using the values in the table under the heading of testing, we can determine 
 
 | Value of slope | Value of *k* | uncertainty in the value of *k* |
 | -------------- | ------------ | ------------------------------- |
-| 0.011          | 90.091       |                                 |
+| 0.011          | 90.091       | 25.949                          |
 
 
 ## Revaluation
