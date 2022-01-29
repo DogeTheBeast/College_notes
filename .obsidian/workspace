@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bd8b35901756bc40",
+        "id": "c8c431c2d94e9592",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1st Year/Second Term/PHY 159/Lab 2.md",
-            "mode": "preview"
+            "file": "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "work",
+                "query": "partial pressure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.0036334991455,
-    "collapsed": true
+    "width": 338.0036334991455
   },
   "right": {
     "id": "7ba8a47061505297",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Year/Second Term/PHY 159/Lab 2.md",
+                "file": "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,24 +112,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 266.7156982421875,
     "collapsed": true
   },
-  "active": "bd8b35901756bc40",
+  "active": "c8c431c2d94e9592",
   "lastOpenFiles": [
-    "1st Year/Second Term/PHY 159/Lab 2.md",
-    "1st Year/Second Term/PHY 159/Lab 1.md",
-    "conflict-files-obsidian-git.md",
-    "1st Year/First Term/CHEM 154/Unit 7/Work.md",
     "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
-    "1st Year/First Term/CHEM 154/Unit 7/First Law of Thermodynamics.md",
+    "1st Year/Second Term/CPSC 103/CPSC 103 Syllabus.md",
     "Untitled.md",
+    "1st Year/Second Term/PHY 159/Lab 1.md",
     "1st Year/Second Term/ENGL 110/Gothic Culture.md",
     "1st Year/Second Term/ENGL 110/Untitled.md",
-    "1st Year/Second Term/ENGL 110/ENGL 110 Syllabus.md"
+    "1st Year/Second Term/ENGL 110/ENGL 110 Syllabus.md",
+    "1st Year/Second Term/APSC 160/APSC 160 Syllabus.md",
+    "1st Year/Second Term/APSC 160/Data Types for C.md",
+    "1st Year/Second Term/APSC 160/Input and Output.md"
   ]
 }
