@@ -36,7 +36,7 @@ Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
 
 # Circuit 2
 
-## Provided 
+## Provided Circuit
 
 ## Expected Behavior
 
@@ -61,6 +61,8 @@ Connected both the terminals of the battery to the components of the circuits.
 
 ---
 # Circuit 3
+
+## Provided Circuit
 
 ## Expected Behavior
 
