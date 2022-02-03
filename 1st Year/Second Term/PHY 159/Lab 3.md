@@ -179,7 +179,7 @@ Wiring issues, the scale of the graph of the voltmeter, incorrect value of resis
 Check wiring and connectivity, check the resistance of the resistors, check the graph scale for the graph of the voltmeter, check that the voltmeter is in parallel and the ammeter is in series.
 
 ## Repair and Evaluate
-Change the diode for a resistor and ha
+Change the diode for a resistor and change the resistance of the new resistor to 4 kilo ohms and the old resistor to 1 kilo ohm 
 ## Corrected Circuits
 ![[Circuit 6 post ts.jpg]]
 
