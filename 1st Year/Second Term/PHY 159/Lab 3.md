@@ -49,4 +49,24 @@ Check wiring and connectivity, CHeck the resistance of the resistors.
 Connected both the terminals of the battery to the components of the circuits.
 
 
+# Circuit 3
+
+## Expected Behavior
+
+Match the circuits 
+## Observed Behavior
+
+The voltmeter shows 0 Volts for the resistance of the resistor instead of 1.5 Volts.
+
+
+## Generate Causes
+Wiring issues, 
+
+## Testing
+
+Check wiring and connectivity, CHeck the resistance of the resistors.
+
+## Repair and Evaluate
+Connected both the terminals of the battery to the components of the circuits.
+
 
