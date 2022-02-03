@@ -3,6 +3,11 @@
 Date - 2022-02-02
 
 
+
+# Circuit 1
+
+![[PHY159_lab1.PNG]]
+
 ## Expected Behavior
 
 Expected voltage divider of the ratio of 1/2.
@@ -21,3 +26,5 @@ Check wiring and connectivity, CHeck the resistance of the resistors.
 
 ## Repair and Evaluate
 Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
+
+# Circuit 2
