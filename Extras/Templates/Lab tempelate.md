@@ -1,4 +1,4 @@
-# {Title}
+# {{title}}
 #### Ratiq Narwal (10289395)
 
 ### Clarify Objective
