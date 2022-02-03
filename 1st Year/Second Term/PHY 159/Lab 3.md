@@ -114,7 +114,7 @@ The readings show the current as 6 Amperes and the voltage as 0 Volts.
 
 
 ## Generate Causes
-Wiring issues, the scale of the graph of the voltmeter, incorrect value of resistors, connectivity of the voltmeter, the way volt.
+Wiring issues, the scale of the graph of the voltmeter, incorrect value of resistors, connectivity of the voltmeter, the way voltmeter and the ammeter are connected to the circuit.
 
 ## Testing
 
@@ -136,14 +136,14 @@ Change the ammeter from parallel to series.
 
 ## Expected Behavior
 
-Match the circuit in the diagram
+Match the circuit in the diagram.
 
 ## Observed Behavior
 
-The voltmeter shows 1/1000th of the voltage of the battery.
+The voltmeter shows 0 Volts for the resistor.
 
 ## Generate Causes
-Wiring issues, 
+Wiring issues, the scale of the graph of the voltmeter, incorrect value of resistors, connectivity of the voltmeter, the way voltmeter and the ammeter are connected to the circuit.
 
 ## Testing
 
