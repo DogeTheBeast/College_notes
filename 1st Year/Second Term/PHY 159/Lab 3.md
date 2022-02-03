@@ -181,5 +181,5 @@ Check wiring and connectivity, CHeck the resistance of the resistors.
 Connect the voltmeter in parallel and the ammeter was in the ammeter setting.
 
 ## Corrected Circuits
-![[ci]]
+![[Circuit 6 post ts.jpg]]
 
