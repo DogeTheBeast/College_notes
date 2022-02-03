@@ -11,7 +11,8 @@ Date - 2022-02-02
 
 ## Expected Behavior
 
-A reading of 1/2 of the voltage of the battery on the resistor.
+Using the voltmeter, a reading of 4.5 Volts on the resistor.
+
 ## Observed Behavior
 
 The voltmeter shows 1/1000th of the voltage of the battery.
