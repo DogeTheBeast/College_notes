@@ -3,4 +3,6 @@
 Date - 2022-02-02
 
 
-## Expecte
+## Expected Behavior
+
+Expected voltage divider of the ratio of 1/2.
