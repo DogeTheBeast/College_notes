@@ -30,6 +30,8 @@ Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
 
 ## Corrected Circuit
 
+
+
 ---
 
 # Circuit 2
@@ -54,6 +56,8 @@ Check wiring and connectivity, CHeck the resistance of the resistors.
 Connected both the terminals of the battery to the components of the circuits.
 
 
+
+---
 # Circuit 3
 
 ## Expected Behavior
