@@ -100,7 +100,9 @@ Change the resistance of the resistors and change the Time per Division to  mili
 
 # Circuit 4
 
+## Provided Circuit
 
+![[circuit 4 pre ts.jpg]]
 
 ## Expected Behavior
 
@@ -121,7 +123,7 @@ Check wiring and connectivity, CHeck the resistance of the resistors.
 Change the ammeter from parallel to series.
 
 ## Corrected Circuit
-
+![[Circuit 4 post ts.jpg]]
 
 
 ---
@@ -129,7 +131,7 @@ Change the ammeter from parallel to series.
 # Circuit 5
 
 ## Provided Circuit
-
+![[circuit 5 pre ts.jpg]]
 
 ## Expected Behavior
 
@@ -151,13 +153,14 @@ Connect the voltmeter in parallel and the ammeter was in the ammeter setting.
 
 ## Corrected Circuits
 
+![[Circuit 5 post ts.jpg]]
 
 ---
 
 # Circuit 6
 
 ## Provided Circuit
-Voltage divider with a ratio of 1/5
+![[Circuit 6 pre ts.jpg]]
 
 ## Expected Behavior
 
@@ -178,5 +181,5 @@ Check wiring and connectivity, CHeck the resistance of the resistors.
 Connect the voltmeter in parallel and the ammeter was in the ammeter setting.
 
 ## Corrected Circuits
-
+![[ci]]
 
