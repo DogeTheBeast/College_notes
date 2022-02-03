@@ -6,6 +6,7 @@ Date - 2022-02-02
 
 # Circuit 1
 
+## Provided Circuit
 ![[PHY159_lab1.PNG]]
 
 ## Expected Behavior
