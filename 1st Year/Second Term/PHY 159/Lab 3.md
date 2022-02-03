@@ -150,7 +150,7 @@ Wiring issues, the scale of the graph of the voltmeter, incorrect value of resis
 Check wiring and connectivity, check the resistance of the resistors, check the graph scale for the graph of the voltmeter, check that the voltmeter is in parallel and the ammeter is in series.
 
 ## Repair and Evaluate
-Connect the voltmeter in parallel and change the voltmeter connected in series to am.
+Connect the voltmeter in parallel and change the voltmeter connected in series to ammeter.
 
 ## Corrected Circuits
 
@@ -165,11 +165,11 @@ Connect the voltmeter in parallel and change the voltmeter connected in series t
 
 ## Expected Behavior
 
-Match the circuit in the diagram
+Voltmeter shows 1/5th of the value of the battery.
 
 ## Observed Behavior
 
-The voltmeter shows 1/1000th of the voltage of the battery.
+The voltmeter shows 2 Volts f.
 
 ## Generate Causes
 Wiring issues, 
