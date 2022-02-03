@@ -55,12 +55,15 @@ Wiring issues, incorrect value of resistors, connectivity of the voltmeter.
 
 ## Testing
 
-Check wiring and connectivity, check the resistance of the resistors.
+Check wiring and connectivity, check the resistance of the resistors, check if all the components are connected to the battery.
 
 ## Repair and Evaluate
 Connected both the terminals of the battery to the components of the circuits.
 
 ## Corrected Circuit
+
+
+
 
 ---
 # Circuit 3
