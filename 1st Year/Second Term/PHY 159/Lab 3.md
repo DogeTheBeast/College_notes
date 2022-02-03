@@ -74,7 +74,7 @@ Connected both the terminals of the battery to the components of the circuits.
 
 ## Expected Behavior
 
-Match the circuit with the diagram provided
+Match the circuit with the diagram provided.
 
 ## Observed Behavior
 
@@ -106,7 +106,8 @@ Change the resistance of the resistors and change the Time per Division to  mili
 
 ## Expected Behavior
 
-Record the resistance of the 15 ohm resistor
+Record the resistance of the 15 ohm resistor.
+
 ## Observed Behavior
 
 The readings show the current and the voltage of the resistor.
