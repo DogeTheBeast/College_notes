@@ -28,6 +28,12 @@ Check wiring and connectivity, CHeck the resistance of the resistors.
 ## Repair and Evaluate
 Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
 
+## Corrected Circuit
+
+
+
+---
+
 # Circuit 2
 
 ## Expected Behavior
