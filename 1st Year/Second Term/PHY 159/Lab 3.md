@@ -68,5 +68,6 @@ Wiring issues,
 Check wiring and connectivity, CHeck the resistance of the resistors.
 
 ## Repair and Evaluate
-Change the resistance of the resistors and change the Time per Divis
+Change the resistance of the resistors and change the Time per Division to seconds from kilo seconds.
+
 
