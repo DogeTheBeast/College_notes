@@ -114,11 +114,11 @@ The readings show the current as 6 Amperes and the voltage as 0 Volts.
 
 
 ## Generate Causes
-Wiring issues, 
+Wiring issues, the scale of the graph of the voltmeter, incorrect value of resistors, connectivity of the voltmeter, the way volt.
 
 ## Testing
 
-Check wiring and connectivity, CHeck the resistance of the resistors.
+Check wiring and connectivity, check the resistance of the resistors, check the graph scale for the graph of the voltmeter, check that the voltmeter is in parallel and the ammeter is in series.
 
 ## Repair and Evaluate
 Change the ammeter from parallel to series.
