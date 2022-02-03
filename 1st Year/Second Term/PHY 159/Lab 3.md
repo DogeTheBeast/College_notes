@@ -82,11 +82,11 @@ The voltmeter shows 0 Volts for the resistor.
 
 
 ## Generate Causes
-Wiring issues, the scale of the graph of the voltmeter.
+Wiring issues, the scale of the graph of the voltmeter, incorrect value of resistors, connectivity of the voltmeter.
 
 ## Testing
 
-Check wiring and connectivity, CHeck the resistance of the resistors.
+Check wiring and connectivity, check the resistance of the resistors, check the graph scale for the graph of the voltmeter.
 
 ## Repair and Evaluate
 Change the resistance of the resistors and change the Time per Division to  mili seconds from kilo seconds.
