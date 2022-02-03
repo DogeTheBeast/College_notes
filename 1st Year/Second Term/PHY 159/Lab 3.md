@@ -38,6 +38,9 @@ Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
 
 ## Provided Circuit
 
+
+
+
 ## Expected Behavior
 
 Expected voltage divider of the ratio of 1/2.
