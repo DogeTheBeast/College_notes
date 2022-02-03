@@ -30,7 +30,7 @@ Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
 
 ## Corrected Circuit
 
-
+![[PHY_159_lab3_circuit1_corrected.PNG]]
 
 ---
 
