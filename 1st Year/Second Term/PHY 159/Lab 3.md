@@ -109,13 +109,44 @@ Check wiring and connectivity, CHeck the resistance of the resistors.
 ## Repair and Evaluate
 Change the ammeter from parallel to series.
 
+## Corrected Circuit
+
 
 
 ---
+
 # Circuit 5
 
 ## Provided Circuit
 
+
+## Expected Behavior
+
+Match the circuit in the diagram
+
+## Observed Behavior
+
+The voltmeter shows 1/1000th of the voltage of the battery.
+
+## Generate Causes
+Wiring issues, 
+
+## Testing
+
+Check wiring and connectivity, CHeck the resistance of the resistors.
+
+## Repair and Evaluate
+Connect the voltmeter in parallel and the ammeter was in the ammeter setting.
+
+## Corrected Circuits
+
+
+---
+
+# Circuit 6
+
+## Provided Circuit
+Voltage divider with a ratio of 1/5
 
 ## Expected Behavior
 
