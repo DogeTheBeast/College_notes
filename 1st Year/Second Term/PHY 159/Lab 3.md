@@ -20,4 +20,4 @@ Wiring issues,
 Check wiring and connectivity, CHeck the resistance of the resistors.
 
 ## Repair and Evaluate
-Change the resista
+Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
