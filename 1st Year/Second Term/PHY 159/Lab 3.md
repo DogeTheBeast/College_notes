@@ -51,7 +51,7 @@ The voltmeter shows 0 Volts for the resistance of the resistor instead of 1.5 Vo
 
 
 ## Generate Causes
-Wiring issues, 
+Wiring issues, incorrect value of resistors, connectivity of the voltmeter.
 
 ## Testing
 
