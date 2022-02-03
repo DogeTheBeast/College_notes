@@ -89,7 +89,7 @@ Wiring issues, the scale of the graph of the voltmeter, incorrect value of resis
 Check wiring and connectivity, check the resistance of the resistors, check the graph scale for the graph of the voltmeter.
 
 ## Repair and Evaluate
-Change the resistance of the resistors and change the Time per Division to  mili seconds from kilo seconds.
+Change the resistance of the resistors and change the Time per Division to  milli seconds from kilo seconds.
 
 ## Corrected Circuit
 
@@ -110,7 +110,7 @@ Record the resistance of the 15 ohm resistor.
 
 ## Observed Behavior
 
-The readings show the current and the voltage of the resistor.
+The readings show the current as 6 Amperes and the voltage as 0 Volts.
 
 
 ## Generate Causes
