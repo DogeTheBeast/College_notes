@@ -38,7 +38,7 @@ Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
 
 ## Provided Circuit
 
-
+![[PHY_159_lab3_circuit2_given.PNG]]
 
 
 ## Expected Behavior
