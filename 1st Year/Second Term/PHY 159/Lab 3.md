@@ -83,6 +83,11 @@ Check wiring and connectivity, CHeck the resistance of the resistors.
 ## Repair and Evaluate
 Change the resistance of the resistors and change the Time per Division to  mili seconds from kilo seconds.
 
+## Corrected Circuit
+
+
+---
+
 
 # Circuit 4
 
