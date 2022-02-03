@@ -78,11 +78,11 @@ Match the circuit with the diagram provided.
 
 ## Observed Behavior
 
-The voltmeter shows 0 Volts for the resistance of the resistor instead of 1.5 Volts.
+The voltmeter shows 0 Volts for the resistor.
 
 
 ## Generate Causes
-Wiring issues, 
+Wiring issues, the scale of the graph of the voltmeter.
 
 ## Testing
 
