@@ -47,3 +47,6 @@ Check wiring and connectivity, CHeck the resistance of the resistors.
 
 ## Repair and Evaluate
 Connected both the terminals of the battery to the components of the circuits.
+
+
+
