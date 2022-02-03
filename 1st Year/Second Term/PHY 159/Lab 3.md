@@ -107,8 +107,11 @@ Wiring issues,
 Check wiring and connectivity, CHeck the resistance of the resistors.
 
 ## Repair and Evaluate
-Disconnect the battery from the circuit and change the mode on the voltmeter to resistance from voltage.
+Change the ammeter from parallel to series.
 
+
+
+---
 # Circuit 5
 
 ## Provided Circuit
@@ -131,3 +134,7 @@ Check wiring and connectivity, CHeck the resistance of the resistors.
 
 ## Repair and Evaluate
 Connect the voltmeter in parallel and the ammeter was in the ammeter setting.
+
+## Corrected Circuits
+
+
