@@ -7,7 +7,7 @@ Date - 2022-02-02
 # Circuit 1
 
 ## Provided Circuit
-![[PHY_159_lab3_circuit1_given.PNG]]
+![[circuit 1 pre ts.jpg]]
 
 ## Expected Behavior
 
@@ -30,7 +30,7 @@ Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
 
 ## Corrected Circuit
 
-![[PHY_159_lab3_circuit1_corrected.PNG]]
+![[circu
 
 ---
 
