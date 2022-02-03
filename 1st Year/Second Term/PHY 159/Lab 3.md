@@ -147,10 +147,10 @@ Wiring issues, the scale of the graph of the voltmeter, incorrect value of resis
 
 ## Testing
 
-Check wiring and connectivity, CHeck the resistance of the resistors.
+Check wiring and connectivity, check the resistance of the resistors, check the graph scale for the graph of the voltmeter, check that the voltmeter is in parallel and the ammeter is in series.
 
 ## Repair and Evaluate
-Connect the voltmeter in parallel and the ammeter was in the ammeter setting.
+Connect the voltmeter in parallel and change the voltmeter connected in series to am.
 
 ## Corrected Circuits
 
