@@ -11,19 +11,18 @@ Date - 2022-02-02
 
 ## Expected Behavior
 
-Expected voltage divider of the ratio of 1/2.
-
+A reading of 1/2 of the voltage of the battery on the resistor.
 ## Observed Behavior
 
 The voltmeter shows 1/1000th of the voltage of the battery.
 
 
 ## Generate Causes
-Wiring issues, 
+Wiring issues, incorrect value of resistors, connectivity of the voltmeter.
 
 ## Testing
 
-Check wiring and connectivity, CHeck the resistance of the resistors.
+Check wiring and connectivity, check the resistance of the resistors.
 
 ## Repair and Evaluate
 Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
