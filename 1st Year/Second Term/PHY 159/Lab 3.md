@@ -14,3 +14,7 @@ The voltmeter shows 2.57 for the resistance of the resistor instead of 4.5 Volts
 
 ## Generate Causes
 Wiring issues, 
+
+## Testing
+
+Check wiring and connectivity, CHeck the resistance of the resistors.
