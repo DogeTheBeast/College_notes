@@ -109,3 +109,26 @@ Check wiring and connectivity, CHeck the resistance of the resistors.
 ## Repair and Evaluate
 Disconnect the battery from the circuit and change the mode on the voltmeter to resistance from voltage.
 
+# Circuit 5
+
+## Provided Circuit
+
+
+
+## Expected Behavior
+
+Expected voltage divider of the ratio of 1/2.
+
+## Observed Behavior
+
+The voltmeter shows 1/1000th of the voltage of the battery.
+
+## Generate Causes
+Wiring issues, 
+
+## Testing
+
+Check wiring and connectivity, CHeck the resistance of the resistors.
+
+## Repair and Evaluate
+Disconnect the battery from the circuit and change the mode on the voltmeter to resistance from voltage.
