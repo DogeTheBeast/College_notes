@@ -114,10 +114,9 @@ Disconnect the battery from the circuit and change the mode on the voltmeter to 
 ## Provided Circuit
 
 
-
 ## Expected Behavior
 
-Expected voltage divider of the ratio of 1/2.
+Match the circuit in the diagram
 
 ## Observed Behavior
 
