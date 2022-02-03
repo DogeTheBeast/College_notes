@@ -78,7 +78,7 @@ Change the resistance of the resistors and change the Time per Division to  mili
 Record the resistance of the 15 ohm resistor
 ## Observed Behavior
 
-The voltmeter shows 0 Volts for the resistance of the resistor instead of 1.5 Volts.
+The readings show the current and the voltage of the resistor.
 
 
 ## Generate Causes
