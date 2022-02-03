@@ -130,4 +130,4 @@ Wiring issues,
 Check wiring and connectivity, CHeck the resistance of the resistors.
 
 ## Repair and Evaluate
-Disconnect the battery from the circuit and change the mode on the voltmeter to resistance from voltage.
+Connect the voltmeter in parallel and the ammeter was in the ammeter setting.
