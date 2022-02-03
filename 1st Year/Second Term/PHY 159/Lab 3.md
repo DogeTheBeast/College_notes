@@ -169,18 +169,17 @@ Voltmeter shows 1/5th of the value of the battery.
 
 ## Observed Behavior
 
-The voltmeter shows 2 Volts f.
+The voltmeter shows 2 Volts for the input of 5 Volts.
 
 ## Generate Causes
-Wiring issues, 
+Wiring issues, the scale of the graph of the voltmeter, incorrect value of resistors, connectivity of the voltmeter, the way voltmeter and the ammeter are connected to the circuit.
 
 ## Testing
 
-Check wiring and connectivity, CHeck the resistance of the resistors.
+Check wiring and connectivity, check the resistance of the resistors, check the graph scale for the graph of the voltmeter, check that the voltmeter is in parallel and the ammeter is in series.
 
 ## Repair and Evaluate
-Connect the voltmeter in parallel and the ammeter was in the ammeter setting.
-
+Change the diode for a resistor and ha
 ## Corrected Circuits
 ![[Circuit 6 post ts.jpg]]
 
