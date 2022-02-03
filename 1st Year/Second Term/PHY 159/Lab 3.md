@@ -68,6 +68,26 @@ Wiring issues,
 Check wiring and connectivity, CHeck the resistance of the resistors.
 
 ## Repair and Evaluate
-Change the resistance of the resistors and change the Time per Division to seconds from kilo seconds.
+Change the resistance of the resistors and change the Time per Division to  mili seconds from kilo seconds.
 
+
+# Circuit 4
+
+## Expected Behavior
+
+Record the resistance of the 15 ohm resistor
+## Observed Behavior
+
+The voltmeter shows 0 Volts for the resistance of the resistor instead of 1.5 Volts.
+
+
+## Generate Causes
+Wiring issues, 
+
+## Testing
+
+Check wiring and connectivity, CHeck the resistance of the resistors.
+
+## Repair and Evaluate
+Connected both the terminals of the battery to the components of the circuits.
 
