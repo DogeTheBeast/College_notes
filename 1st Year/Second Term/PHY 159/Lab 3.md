@@ -43,7 +43,7 @@ Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
 
 ## Expected Behavior
 
-Expected voltage divider of the ratio of 1/2.
+Using the voltmeter, a reading of 1.5 Volts on the resistor.
 
 ## Observed Behavior
 
