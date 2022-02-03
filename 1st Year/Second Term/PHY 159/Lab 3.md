@@ -36,6 +36,8 @@ Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
 
 # Circuit 2
 
+## Provided 
+
 ## Expected Behavior
 
 Expected voltage divider of the ratio of 1/2.
@@ -55,7 +57,7 @@ Check wiring and connectivity, CHeck the resistance of the resistors.
 ## Repair and Evaluate
 Connected both the terminals of the battery to the components of the circuits.
 
-
+## Corrected Circuit
 
 ---
 # Circuit 3
