@@ -30,7 +30,7 @@ Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
 
 ## Corrected Circuit
 
-![[circu
+![[circiut 1.jpg]]
 
 ---
 
@@ -38,7 +38,7 @@ Change the resistance of the resistor from 1 ohm to 1 kilo ohm.
 
 ## Provided Circuit
 
-![[PHY_159_lab3_circuit2_given.PNG]]
+![[circuit 2 pre ts.jpg]]
 
 
 ## Expected Behavior
@@ -62,13 +62,15 @@ Connected both the terminals of the battery to the components of the circuits.
 
 ## Corrected Circuit
 
-
+![[Circuit 2.jpg]]
 
 
 ---
 # Circuit 3
 
 ## Provided Circuit
+
+![[circuit 3 pre ts.jpg]]
 
 ## Expected Behavior
 
@@ -91,11 +93,14 @@ Change the resistance of the resistors and change the Time per Division to  mili
 
 ## Corrected Circuit
 
+![[Circuit 3 post ts.jpg]]
 
 ---
 
 
 # Circuit 4
+
+
 
 ## Expected Behavior
 
