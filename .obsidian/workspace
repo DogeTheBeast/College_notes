@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c8c431c2d94e9592",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Extras/Templates/Lab tempelate.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "7f606e61baeb1872",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1st Year/Second Term/PHY 159/Lab 1.md",
+            "file": "1st Year/Second Term/PHY 159/Lab 3.md",
             "mode": "source"
           }
         }
@@ -71,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.0036334991455,
-    "collapsed": true
+    "width": 338.0036334991455
   },
   "right": {
     "id": "7ba8a47061505297",
@@ -88,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Lab tempelate.md",
+                "file": "1st Year/Second Term/PHY 159/Lab 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,12 +119,12 @@
     "width": 266.7156982421875,
     "collapsed": true
   },
-  "active": "c8c431c2d94e9592",
+  "active": "7f606e61baeb1872",
   "lastOpenFiles": [
-    "Extras/Templates/Lab tempelate.md",
-    "1st Year/Second Term/PHY 159/Lab 1.md",
-    "1st Year/Second Term/PHY 159/Lab 2.md",
     "1st Year/Second Term/PHY 159/Lab 3.md",
+    "1st Year/Second Term/PHY 159/Lab 1.md",
+    "Extras/Templates/Lab tempelate.md",
+    "1st Year/Second Term/PHY 159/Lab 2.md",
     "1st Year/Second Term/PHY 158/PHY 158 Syllabus.md",
     "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
     "1st Year/Second Term/CPSC 103/CPSC 103 Syllabus.md",

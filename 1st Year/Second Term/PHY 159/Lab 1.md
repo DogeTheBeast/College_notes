@@ -60,7 +60,7 @@ By using the values in the table under the heading of testing, we can determine 
 | Green      | 600.37           | 106.13                |
 | Purple     | 600.37           | 103.32                |
 
-## Revaluation
+## Evaluation
 
 The produce described above is very inaccurate because the uncertainty of the values of k is around a quarter of the actual value. Therefore, the method stated above is not preferred. Comparatively, a better method would be to measure the period of osciallation of the spring and use the formula,
 $${\LARGE T = 2 PI \sqrt{\frac{m}{k}}}$$
