@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1st Year/Second Term/PHY 159/Lab 3.md",
-            "mode": "source"
+            "file": "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.0036334991455
+    "width": 338.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "7ba8a47061505297",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Year/Second Term/PHY 159/Lab 3.md",
+                "file": "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +122,7 @@
   },
   "active": "7f606e61baeb1872",
   "lastOpenFiles": [
+    "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
     "1st Year/Second Term/PHY 159/Lab 3.md",
     "1st Year/Second Term/PHY 159/Lab 3 (Checklist).md",
     "Extras/Templates/Lab tempelate.md",
@@ -129,7 +131,6 @@
     "1st Year/Second Term/PHY 159/Lab 1.md",
     "1st Year/Second Term/PHY 159/Lab 2.md",
     "1st Year/Second Term/PHY 158/PHY 158 Syllabus.md",
-    "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
     "1st Year/Second Term/CPSC 103/CPSC 103 Syllabus.md"
   ]
 }
