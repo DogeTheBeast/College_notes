@@ -13,8 +13,12 @@ To measure the ${V_{out}/V_{in}}$ for a voltage divider.
 | DMM   |                     |            |       |       |             |
 |       |                     |            |       |       |             |
 
-|     | DMM | Oscilli
-| --- | --- |
+|                                | DMM | Oscilloscope |
+| ------------------------------ | --- | ------------ |
+| DC supply, V                   |     |              |
+| Resistors, R                   |     |              |
+| Function Generator, ${V_{pp}}$ |     |              |
+| Function Generator, f                               |     |              |
 
 
 ### Relate Quantities and forming relationships
