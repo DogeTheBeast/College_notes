@@ -8,17 +8,13 @@ To measure the ${V_{out}/V_{in}}$ for a voltage divider.
 
 
 ### Explore tools
-| Tools | Physical Parameters | Resolution | Range | Usage | Uncertainty |
-| ----- | ------------------- | ---------- | ----- | ----- | ----------- |
-| DMM   |                     |            |       |       |             |
-|       |                     |            |       |       |             |
 
 |                                | DMM | Oscilloscope |
 | ------------------------------ | --- | ------------ |
 | DC supply, V                   |     |              |
 | Resistors, R                   |     |              |
 | Function Generator, ${V_{pp}}$ |     |              |
-| Function Generator, f                               |     |              |
+| Function Generator, f          |     |              |
 
 
 ### Relate Quantities and forming relationships
