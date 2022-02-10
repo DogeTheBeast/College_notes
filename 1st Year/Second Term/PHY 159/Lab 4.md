@@ -41,8 +41,13 @@ We measured the voltage produced by the Function Generator using the oscilloscop
 
 ### Relate Quantities and forming relationships
 It is 
-${\LARGE r = \frac{V_{out}}{V_{in}}}$
-${\LARGE r = \frac{R_2}{R_1 + R_2}}$
+$${\LARGE r = \frac{V_{out}}{V_{in}}}$$
+
+Using the Kirchoff's Loop Law,
+$${\LARGE V_{in} - IR_1 - IR_2 = 0}$$
+
+$${\LARGE r = \frac{R_2}{R_1 + R_2}}$$
+
 
 
 ### Testing
