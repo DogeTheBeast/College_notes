@@ -18,7 +18,7 @@ Voltage is the difference in charge between 2 points on a circuit.
 
 |                                | DMM           | Oscilloscope |
 | ------------------------------ | ------------- | ------------ |
-| DC supply, V                   | 5.079 *V*     | 5.04 *V*     |
+| DC supply, V                   | 5.079 *V*     | 5.16 *V*     |
 | Resistors, R                   | 9.88 ${\ohm}$ |              |
 | Function Generator, ${V_{pp}}$ |               |              |
 | Function Generator, f          |               |              |
