@@ -41,7 +41,7 @@ We measured the voltage produced by the Function Generator using the oscilloscop
 
 ### Relate Quantities and forming relationships
 
-
+${\LARGE V_{out} = }
 
 
 ### Testing
