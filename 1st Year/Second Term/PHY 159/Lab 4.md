@@ -25,7 +25,7 @@ Voltage is the difference in charge between 2 points on a circuit.
 
 
 DC Supply 
-We connected the DC supply to the breadboard with the negative and the positive terminals connected to the power rails.
+We connected the DC supply to the breadboard with the negative and the positive terminals connected to the power rails. Using the multimeter, we measured the voltage supplied by connecting the terminals of the 
 
 ### Relate Quantities and forming relationships
 
