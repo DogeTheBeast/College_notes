@@ -40,15 +40,20 @@ Function Generator using the oscilloscope
 We measured the voltage produced by the Function Generator using the oscilloscope. We set the function generator to produce a wave of 1 kilohertz and the output level to be 2 and we measured the voltage to be 3.04 Volts and 928.4 hertz.
 
 ### Relate Quantities and forming relationships
-It is 
+The ratio of the voltage out and voltage in is,
 $${\LARGE r = \frac{V_{out}}{V_{in}}}$$
 
 Using the Kirchoff's Loop Law,
 ${ V_{in} - IR_1 - IR_2 = 0}$
+
 ${ V_{in} = I(R_1 + R_2)}$
+
 ${ V_{out} = IR_2}$
+
 ${ \frac{V_{out}}{V_{in}} = \frac{IR_2}{I(R_1 + R_2)}}$
-Therefore, it can be simplifi
+
+Therefore, it can be simplified into,
+
 $${\LARGE r = \frac{R_2}{R_1 + R_2}}$$
 
 ### Testing
