@@ -9,9 +9,9 @@ Voltage is the difference in charge between 2 points on a circuit.
 
 
 ### Explore tools
-| Tools      | Physical Parameters | Resolution | Range | Usage | Uncertainty |
-| ---------- | ------------------- | ---------- | ----- | ----- | ----------- |
-| Multimeter | Voltage and Current |            |       |       |             |
+| Tools      | Physical Parameters | Resolution    | Range             | Usage | Uncertainty |
+| ---------- | ------------------- | ------------- | ----------------- | ----- | ----------- |
+| Multimeter | Voltage and Current | 0.001 V and C | 0.000 to infinity |       |             |
 
 
 |                                | DMM | Oscilloscope |
