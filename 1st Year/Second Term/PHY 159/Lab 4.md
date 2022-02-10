@@ -81,7 +81,7 @@ By using the method 1, we determined the value of voltage out to be between 5.07
 
 | ${V_{in}}$      | ${V_{out}}$    | *r*             |
 | --------------- | -------------- | --------------- |
-| 5.079 ± 0.001 V | 3.045 ± 0.001V | 1.667 ± 0.00087 | 
+| 5.079 ± 0.001 V | 3.045 ± 0.001V | 0 ± 0.00087 | 
 
 
 #### Using method 2
@@ -89,7 +89,7 @@ By using the method 2, we determined the value of the resistance of each of the 
 
 | ${R_1}$              | ${R_2}$               | ${R_{total}}$        | *r* |
 | -------------------- | --------------------- | -------------------- | --- |
-| 9.88 ± 0.01 ${\ohm}$ | 14.96 ± 0.01 ${\ohm}$ | 24.84 ± 0.02 ${\ohm}$ |     |
+| 9.88 ± 0.01 ${\ohm}$ | 14.96 ± 0.01 ${\ohm}$ | 24.84 ± 0.02 ${\ohm}$ | 0.602 ±    |
 
 
 
