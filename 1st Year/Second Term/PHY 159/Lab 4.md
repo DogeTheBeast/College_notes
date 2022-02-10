@@ -56,6 +56,11 @@ Therefore, it can be simplified into,
 
 $${\LARGE r = \frac{R_2}{R_1 + R_2}}$$
 
+
+Uncertainty
+
+
+
 ### Testing
 
 ### Procedure
