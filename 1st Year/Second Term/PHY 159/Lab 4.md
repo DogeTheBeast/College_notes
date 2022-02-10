@@ -15,12 +15,12 @@ Voltage is the difference in charge between 2 points on a circuit.
 | Oscilloscope       |                     |               |                               |                                                                                                               |             |
 
 
-|                                | DMM     | Oscilloscope |
-| ------------------------------ | ------- | ------------ |
-| DC supply, V                   | 5.017 V |              |
-| Resistors, R                   | 9.88 ${\omega}$        |              |
-| Function Generator, ${V_{pp}}$ |         |              |
-| Function Generator, f          |         |              |
+|                                | DMM           | Oscilloscope |
+| ------------------------------ | ------------- | ------------ |
+| DC supply, V                   | 5.017 V       |              |
+| Resistors, R                   | 9.88 ${\ohm}$ |              |
+| Function Generator, ${V_{pp}}$ |               |              |
+| Function Generator, f          |               |              |
 
 
 
