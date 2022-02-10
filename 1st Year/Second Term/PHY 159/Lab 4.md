@@ -17,13 +17,13 @@ Voltage is the difference in charge between 2 points on a circuit.
 | Resistor 2         | Resistance          | 15 ${k\ohm}$  |                               | Provides a source of resistance                                                                               | 0.01            |
 
 
-|                                | DMM             | Oscilloscope |
-| ------------------------------ | --------------- | ------------ |
-| DC supply, V                   | 5.079 *V*       | 5.16 *V*     |
-| Resistor 1, R                  | 9.88 ${k \ohm}$ |              |
-| Function Generator, ${V_{pp}}$ |                 | 3.04 *V*     |
-| Function Generator, f          |                 | 928.3 *Hz*   |
-| Resistor 2, R                  | 14.                |              |
+|                                | DMM              | Oscilloscope |
+| ------------------------------ | ---------------- | ------------ |
+| DC supply, V                   | 5.079 *V*        | 5.16 *V*     |
+| Resistor 1, R                  | 9.88 ${k \ohm}$  |              |
+| Function Generator, ${V_{pp}}$ |                  | 3.04 *V*     |
+| Function Generator, f          |                  | 928.3 *Hz*   |
+| Resistor 2, R                  | 14.96 ${k \ohm}$ |              |
 
 
 DC Supply using multimeter
