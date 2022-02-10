@@ -19,8 +19,15 @@ Voltage is the difference in charge between 2 points on a circuit.
 
 
 ## Relate Quantities and forming relationships
+
+#### Method 1
 The ratio of the voltage out and voltage in is,
 $${\LARGE r = \frac{V_{out}}{V_{in}}}$$
+
+The uncertainty for this method can be calculated by doing the following,
+
+$${\LARGE \frac{\delta r}{r_0} = \frac{\delta V_{out}}{V_{out}} + \frac{\delta V_{in}}{V_{in}} }$$
+
 
 Using the Kirchoff's Loop Law to derive the equation for the procedure,
 ${ V_{in} - IR_1 - IR_2 = 0}$
@@ -35,11 +42,6 @@ Therefore, it can be simplified into,
 
 $${\LARGE r = \frac{R_2}{R_1 + R_2}}$$
 
-#### Uncertainty
-
-The uncertainty can be calculated by doing the following,
-
-$${\LARGE \frac{\delta r}{r_0} = \frac{\delta V_{out}}{V_{out}} + \frac{\delta V_{in}}{V_{in}} }$$
 
 
 
