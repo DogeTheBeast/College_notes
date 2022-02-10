@@ -28,6 +28,7 @@ The uncertainty for this method can be calculated by doing the following,
 
 $${\LARGE \frac{\delta r}{r_0} = \frac{\delta V_{out}}{V_{out}} + \frac{\delta V_{in}}{V_{in}} }$$
 
+#### Method 2
 
 Using the Kirchoff's Loop Law to derive the equation for the procedure,
 ${ V_{in} - IR_1 - IR_2 = 0}$
@@ -41,6 +42,8 @@ ${ \frac{V_{out}}{V_{in}} = \frac{IR_2}{I(R_1 + R_2)}}$
 Therefore, it can be simplified into,
 
 $${\LARGE r = \frac{R_2}{R_1 + R_2}}$$
+
+The uncertainty can be calculated 
 
 
 
