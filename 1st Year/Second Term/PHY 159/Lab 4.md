@@ -7,7 +7,7 @@ Lab members - Tim Ke, Bruno Eliseo, Ratiq Narwal
 To measure the ${V_{out}/V_{in}}$ for a voltage divider.
 Voltage is the difference in charge between 2 points on a circuit.
 
-
+![[voltage divider.webp]]
 ## Explore tools
 | Tools              | Physical Parameters   | Resolution    | Range                                                           | Usage                                                                                                         | Uncertainty |
 | ------------------ | --------------------- | ------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------- |
@@ -61,17 +61,16 @@ $${\LARGE \frac{\delta r}{r_0} = \frac{\delta R_2}{R_2} + \frac{\delta R_1 + \de
 | Resistor 2, R                  | 14.96 ${k \ohm}$ |              |
 
 
-DC Supply using multimeter
+**DC Supply using multimeter**
 We connected the DC supply to the breadboard with the negative and the positive terminals connected to the power rails. Using the multimeter, we measured the voltage supplied by connecting the terminals of the multimeter with the power rail.
 
-DC Supply using Oscilloscope
+**DC Supply using Oscilloscope**
 We connected the oscilloscope through channel 2 to the circuit and measured with the graph of the voltage.
 
-Resistor using multimeter
+**Resistor using multimeter**
 We measured the resistance of the resistor using the multimeter and changing the settings to resistance from voltage. We connected the alligator clips from the multimeter to the 2 ends of the resistor and measured the resistance of the resistor.
 
-Function Generator using the oscilloscope
-
+**Function Generator using the oscilloscope**
 We measured the voltage produced by the Function Generator using the oscilloscope. We set the function generator to produce a wave of 1 kilohertz and the output level to be 2 and we measured the voltage to be 3.04 Volts and 928.4 hertz.
 
 #### Using method 1
