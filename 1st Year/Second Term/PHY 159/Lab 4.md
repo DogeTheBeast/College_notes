@@ -111,4 +111,4 @@ $${\LARGE \frac{\delta r}{r_0} = \frac{\delta V_{out}}{V_{out}} + \frac{\delta V
 
 
 ## Evaluation
-After comparing both the methods, it was determined that the first method is better as it leads to a more accurate value with a lesser uncertainty as compared to the second method. The theoretical value is 0.6 and from the testing of both the methods, the values calculated are very accurate compared to the theoretical value. But the method 2 is much easier 
+After comparing both the methods, it was determined that the first method is better as it leads to a more accurate value with a lesser uncertainty as compared to the second method. The theoretical value is 0.6 and from the testing of both the methods, the values calculated are very accurate compared to the theoretical value. But the method 2 is much easier because it doesn't require the user to complete a circuit
