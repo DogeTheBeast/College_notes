@@ -45,7 +45,8 @@ $${\LARGE r = \frac{R_2}{R_1 + R_2}}$$
 
 The uncertainty can be calculated by doing the following,
 ${\delta R_{total} = \delta R_1 + \delta R_2}$
-${\frac{\delta r}{r_0} = \frac{\delta R_2}{R_2} + \frac{\delta R_2}}
+${\frac{\delta r}{r_0} = \frac{\delta R_2}{R_2} + \frac{\delta R_{total}}{R_{total}}}$
+${\frac{\delta r}{r_0} = \frac{\delta R_2}{R_2} + \frac{\delta R_1 + \delta R_2}{R_}$
 
 
 
