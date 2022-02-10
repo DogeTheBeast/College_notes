@@ -31,7 +31,9 @@ DC Supply using Oscilloscope
 We connected the oscilloscope through channel 2 to the circuit and measured with the graph of the voltage.
 
 Resistor using multimeter
-We measured the resistance of the resistor using the multimeter and changing the settings to res
+We measured the resistance of the resistor using the multimeter and changing the settings to resistance from voltage. We connected the alligator clips from the multimeter to the 2 ends of the resistor and measured the resistance of the resistor.
+
+Function Generator using the osci
 
 ### Relate Quantities and forming relationships
 
