@@ -9,13 +9,13 @@ Voltage is the difference in charge between 2 points on a circuit.
 
 
 ### Explore tools
-| Tools              | Physical Parameters | Resolution    | Range                         | Usage                                                                                                         | Uncertainty |
-| ------------------ | ------------------- | ------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------- |
-| Digital Multimeter | Voltage and Current | 0.001 V and C | Negative infinity to infinity | Connect the two ends of the multimeter to the circuit to measure the voltage or the current of the component. | 0.001       |
-| Oscilloscope       |                     |               |                               |                                                                                                               |             |
-| Resistor 1         | Resistance          | 10 ${k\ohm}$  |                               | Provides a source of resistance                                                                               | 0.01        |
-| Resistor 2         | Resistance          | 15 ${k\ohm}$  |                               | Provides a source of resistance                                                                               | 0.01        |
-| Function Generator |                     |               |                               |                                                                                                               |             |
+| Tools              | Physical Parameters   | Resolution    | Range                         | Usage                                                                                                         | Uncertainty |
+| ------------------ | --------------------- | ------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------- |
+| Digital Multimeter | Voltage and Current   | 0.001 V and C | Negative infinity to infinity | Connect the two ends of the multimeter to the circuit to measure the voltage or the current of the component. | 0.001       |
+| Oscilloscope       |                       |               |                               |                                                                                                               |             |
+| Resistor 1         | Resistance            | 10 ${k\ohm}$  |                               | Provides a source of resistance                                                                               | 0.01        |
+| Resistor 2         | Resistance            | 15 ${k\ohm}$  |                               | Provides a source of resistance                                                                               | 0.01        |
+| Function Generator | Voltage and Frequency |               |                               | Provides a                                                                                                               |             |
 
 
 |                                | DMM              | Oscilloscope |
@@ -56,6 +56,13 @@ ${ \frac{V_{out}}{V_{in}} = \frac{IR_2}{I(R_1 + R_2)}}$
 Therefore, it can be simplified into,
 
 $${\LARGE r = \frac{R_2}{R_1 + R_2}}$$
+
+Uncertainty
+
+The uncertainty can be calculated by doing the following,
+
+$${\LARGE \frac{\delta r}{r_0} = \frac{\delta V_{out}}{V_{out}} + \frac{\delta V_{in}}{V_{in}} }$$
+
 
 
 ### Testing
