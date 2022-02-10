@@ -13,7 +13,7 @@ Voltage is the difference in charge between 2 points on a circuit.
 | ------------------ | ------------------- | ------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------- |
 | Digital Multimeter | Voltage and Current | 0.001 V and C | negative infinity to infinity | Connect the two ends of the multimeter to the circuit to measure the voltage or the current of the component. | 0.001       |
 | Oscilloscope       |                     |               |                               |                                                                                                               |             |
-| Resistor           | Resistance          |               |                               |                                                                                                               |             |
+| Resistor           | Resistance          | 10 ${k\ohm}$  |                               | Provides                                                                                                               |             |
 
 
 |                                | DMM           | Oscilloscope |
