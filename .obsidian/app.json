@@ -6,7 +6,7 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 71
+    "downscalePercent": 50
   },
   "showLineNumber": true,
   "spellcheck": true,
@@ -17,6 +17,11 @@
     "datatypes",
     "sexualized",
     "animalisitic",
-    "animalised"
-  ]
+    "animalised",
+    "Multimeter",
+    "Ratiq",
+    "Narwal"
+  ],
+  "foldHeading": true,
+  "foldIndent": true
 }
