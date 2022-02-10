@@ -9,13 +9,13 @@ Voltage is the difference in charge between 2 points on a circuit.
 
 
 ### Explore tools
-| Tools              | Physical Parameters   | Resolution    | Range                         | Usage                                                                                                         | Uncertainty |
-| ------------------ | --------------------- | ------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------- |
-| Digital Multimeter | Voltage and Current   | 0.001 V and C | Negative infinity to infinity | Connect the two ends of the multimeter to the circuit to measure the voltage or the current of the component. | 0.001       |
-| Oscilloscope       |                       |               |                               |                                                                                                               |             |
-| Resistor 1         | Resistance            | 10 ${k\ohm}$  |                               | Provides a source of resistance                                                                               | 0.01        |
-| Resistor 2         | Resistance            | 15 ${k\ohm}$  |                               | Provides a source of resistance                                                                               | 0.01        |
-| Function Generator | Voltage and Frequency |               | For voltage: 0 to 15 Volts and for Frequency: 0 to     | Provides a source of voltage along with a frequency                                                           |             |
+| Tools              | Physical Parameters   | Resolution    | Range                                                           | Usage                                                                                                         | Uncertainty |
+| ------------------ | --------------------- | ------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------- |
+| Digital Multimeter | Voltage and Current   | 0.001 V and C | Negative infinity to infinity                                   | Connect the two ends of the multimeter to the circuit to measure the voltage or the current of the component. | 0.001       |
+| Oscilloscope       | Voltage and Current   |               |                                                                 |                                                                                                               |             |
+| Resistor 1         | Resistance            | 10 ${k\ohm}$  |                                                                 | Provides a source of resistance                                                                               | 0.01        |
+| Resistor 2         | Resistance            | 15 ${k\ohm}$  |                                                                 | Provides a source of resistance                                                                               | 0.01        |
+| Function Generator | Voltage and Frequency |               | For voltage: 0 to 15 Volts and for Frequency: 0 to 3 Mega hertz | Provides a source of voltage along with a frequency                                                           |             |
 
 
 |                                | DMM              | Oscilloscope |
