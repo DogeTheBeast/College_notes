@@ -69,6 +69,7 @@ We connected the oscilloscope through channel 2 to the circuit and measured with
 
 **Resistor using multimeter**
 We measured the resistance of the resistor using the multimeter and changing the settings to resistance from voltage. We connected the alligator clips from the multimeter to the 2 ends of the resistor and measured the resistance of the resistor.
+![[IMG_4376.jpg]]  ![[IMG_4368.jpg]]
 
 **Function Generator using the oscilloscope**
 We measured the voltage produced by the Function Generator using the oscilloscope. We set the function generator to produce a wave of 1 kilohertz and the output level to be 2 and we measured the voltage to be 3.04 Volts and 928.4 hertz.
