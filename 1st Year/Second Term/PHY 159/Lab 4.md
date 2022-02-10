@@ -99,7 +99,15 @@ Method 1 yields a better result compared to method 2 as the uncertainty is less.
 2. Use the multimeter and connect the positive terminal to the positive power rail and the negative terminal to the negative power rail.
 3. Set the multimeter to read voltage and measure the voltage of the voltage in.
 4. Disconnect the multimeter and complete the circuit as shown in the diagram. 
-5. Connect the multimeter to the resistor as shown int
+5. Connect the multimeter to the resistor as shown in the image below.
+6. Measure the voltage out.
+7. Use the following formula to measure the value of *r* along with the uncertainty.
+
+$${\LARGE r = \frac{V_{out}}{V_{in}}}$$
+
+The uncertainty for this method can be calculated by doing the following,
+
+$${\LARGE \frac{\delta r}{r_0} = \frac{\delta V_{out}}{V_{out}} + \frac{\delta V_{in}}{V_{in}} }$$
 
 
 ## Evaluation
