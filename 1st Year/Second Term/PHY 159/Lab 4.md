@@ -46,8 +46,8 @@ $${\LARGE r = \frac{V_{out}}{V_{in}}}$$
 Using the Kirchoff's Loop Law,
 $${\LARGE V_{in} - IR_1 - IR_2 = 0}$$
 $${\LARGE V_{in} = I(R_1 + R_2)}$$
-$${\LARGE }
-$${\LARGE r = \frac{R_2}{R_1 + R_2}}$$
+$${\LARGE V_{out} = IR_2}$$
+$${\LARGE \frac{V_{out}}{V_{in}}} = \frac{R_2}{R_1 + R_2}}$$
 
 
 
