@@ -74,6 +74,11 @@ Function Generator using the oscilloscope
 
 We measured the voltage produced by the Function Generator using the oscilloscope. We set the function generator to produce a wave of 1 kilohertz and the output level to be 2 and we measured the voltage to be 3.04 Volts and 928.4 hertz.
 
+#### Using method 1
+
+
+
+
 ## Procedure
 
 
