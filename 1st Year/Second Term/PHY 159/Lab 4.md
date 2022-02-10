@@ -105,9 +105,10 @@ Method 1 yields a better result compared to method 2 as the uncertainty is less.
 
 $${\LARGE r = \frac{V_{out}}{V_{in}}}$$
 
-The uncertainty for this method can be calculated by doing the following,
+The uncertainty, 
 
 $${\LARGE \frac{\delta r}{r_0} = \frac{\delta V_{out}}{V_{out}} + \frac{\delta V_{in}}{V_{in}} }$$
 
 
 ## Evaluation
+After comparing both the methods, it was determined that the first method is better as it leads to a more accurate value with a lesser uncertai
