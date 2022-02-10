@@ -21,7 +21,7 @@ Voltage is the difference in charge between 2 points on a circuit.
 | DC supply, V                   | 5.079 *V*       | 5.16 *V*     |
 | Resistors, R                   | 9.88 ${k \ohm}$ |              |
 | Function Generator, ${V_{pp}}$ |                 | 3.04 *V*     |
-| Function Generator, f          |                 | 1             |
+| Function Generator, f          |                 | 928.3 *Hz*   |
 
 
 DC Supply using multimeter
@@ -35,9 +35,12 @@ We measured the resistance of the resistor using the multimeter and changing the
 
 Function Generator using the oscilloscope
 
-We measured the voltage produced by the Function Generator using the oscilloscope. We set the function generator to produce a wave of 1 kilohertz and the output level to be 2 and we measured the voltage to be 3 Volts and 1 kilohertz.
+We measured the voltage produced by the Function Generator using the oscilloscope. We set the function generator to produce a wave of 1 kilohertz and the output level to be 2 and we measured the voltage to be 3.04 Volts and 928.4 hertz.
 
 ### Relate Quantities and forming relationships
+
+
+
 
 ### Testing
 
