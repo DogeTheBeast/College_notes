@@ -98,7 +98,8 @@ Method 1 yields a better result compared to method 2 as the uncertainty is less.
 1. Connect the DC power supply to the breadboard through the power rails.
 2. Use the multimeter and connect the positive terminal to the positive power rail and the negative terminal to the negative power rail.
 3. Set the multimeter to read voltage and measure the voltage of the voltage in.
-4. Disconnect the multimeter and 
+4. Disconnect the multimeter and complete the circuit as shown in the diagram. 
+5. Connect the multimeter to the resistor as shown int
 
 
 ## Evaluation
