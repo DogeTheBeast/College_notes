@@ -65,7 +65,7 @@ Uncertainty
 
 The uncertainty can be calculated by doing the following,
 
-
+${\frac{\deltar}{r_0} = \frac{\delta}}
 
 
 ## Evaluation
