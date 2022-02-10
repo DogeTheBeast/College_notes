@@ -22,7 +22,7 @@ Voltage is the difference in charge between 2 points on a circuit.
 The ratio of the voltage out and voltage in is,
 $${\LARGE r = \frac{V_{out}}{V_{in}}}$$
 
-Using the Kirchoff's Loop Law,
+Using the Kirchoff's Loop Law to derive the equation for the ,
 ${ V_{in} - IR_1 - IR_2 = 0}$
 
 ${ V_{in} = I(R_1 + R_2)}$
