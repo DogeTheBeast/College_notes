@@ -23,9 +23,6 @@ Voltage is the difference in charge between 2 points on a circuit.
 | Function Generator, f          |               |              |
 
 
-
-Voltage supplied by the 5 volt power supply.
-
 ### Relate Quantities and forming relationships
 
 ### Testing
