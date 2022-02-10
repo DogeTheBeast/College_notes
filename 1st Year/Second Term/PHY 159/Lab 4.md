@@ -31,21 +31,21 @@ $${\LARGE \frac{\delta r}{r_0} = \frac{\delta V_{out}}{V_{out}} + \frac{\delta V
 #### Method 2
 
 Using the Kirchoff's Loop Law to derive the equation for the procedure,
-${ V_{in} - IR_1 - IR_2 = 0}$
+$${ V_{in} - IR_1 - IR_2 = 0}$$
 
-${ V_{in} = I(R_1 + R_2)}$
+$${ V_{in} = I(R_1 + R_2)}$$
 
-${ V_{out} = IR_2}$
+$${ V_{out} = IR_2}$$
 
-${ \frac{V_{out}}{V_{in}} = \frac{IR_2}{I(R_1 + R_2)}}$
+$${ \frac{V_{out}}{V_{in}} = \frac{IR_2}{I(R_1 + R_2)}}$$
 
 Therefore, it can be simplified into,
 
 $${\LARGE r = \frac{R_2}{R_1 + R_2}}$$
 
 The uncertainty can be calculated by doing the following,
-${\delta R_{total} = \delta R_1 + \delta R_2}$
-${\frac{\delta r}{r_0} = \frac{\delta R_2}{R_2} + \frac{\delta R_{total}}{R_{total}}}$
+$${\delta R_{total} = \delta R_1 + \delta R_2}$$
+$${\frac{\delta r}{r_0} = \frac{\delta R_2}{R_2} + \frac{\delta R_{total}}{R_{total}}}$$
 $${\LARGE \frac{\delta r}{r_0} = \frac{\delta R_2}{R_2} + \frac{\delta R_1 + \delta R_2}{R_1 + R_2}}$$
 
 
