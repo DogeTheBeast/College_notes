@@ -100,8 +100,10 @@ Method 1 yields a better result compared to method 2 as the uncertainty is less.
 3. Set the multimeter to read voltage and measure the voltage of the voltage in.
 4. Disconnect the multimeter and complete the circuit as shown in the diagram. 
 5. Connect the multimeter to the resistor as shown in the image below.
-6. Measure the voltage out.
-7. Use the following formula to measure the value of *r* along with the uncertainty.
+
+![[voltage divider.webp]]
+7. Measure the voltage out.
+8. Use the following formula to measure the value of *r* along with the uncertainty.
 
 $${\LARGE r = \frac{V_{out}}{V_{in}}}$$
 
