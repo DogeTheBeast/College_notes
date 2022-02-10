@@ -41,7 +41,8 @@ We measured the voltage produced by the Function Generator using the oscilloscop
 
 ### Relate Quantities and forming relationships
 
-${\LARGE V_{out} = }
+${\LARGE r = \frac{R_2}{R_1 + R_2}}$
+${\LARGE r = \frac{V_{out}}{V_{in}}}$
 
 
 ### Testing
