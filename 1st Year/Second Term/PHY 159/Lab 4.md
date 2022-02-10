@@ -87,9 +87,9 @@ By using the method 1, we determined the value of voltage out to be between 5.07
 #### Using method 2
 By using the method 2, we determined the value of the resistance of each of the resistors using the multimeter and by using the formulas listed in relating quantities, the ratio can be determined.
 
-| ${R_1}$         | ${R_2}$        | ${R_{total}}$   | *r* |
-| --------------- | -------------- | --------------- | --- |
-| 9.88 ± 0.01 ${\ohm}$  | 14.96 ± 0.01 ${\ohm} | 1.667 ± 0.00087 |     |
+| ${R_1}$              | ${R_2}$               | ${R_{total}}$        | *r* |
+| -------------------- | --------------------- | -------------------- | --- |
+| 9.88 ± 0.01 ${\ohm}$ | 14.96 ± 0.01 ${\ohm}$ | 24.84 ± 0.02 ${\ohm}$ |     |
 
 
 
