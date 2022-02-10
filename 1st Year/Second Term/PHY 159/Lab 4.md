@@ -9,18 +9,18 @@ Voltage is the difference in charge between 2 points on a circuit.
 
 
 ### Explore tools
-| Tools        | Physical Parameters | Resolution    | Range                         | Usage                                                                                                         | Uncertainty |
-| ------------ | ------------------- | ------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------- |
-| Multimeter   | Voltage and Current | 0.001 V and C | negative infinity to infinity | Connect the two ends of the multimeter to the circuit to measure the voltage or the current of the component. | 0.001       |
-| Oscilloscope |                     |               |                               |                                                                                                               |             |
+| Tools              | Physical Parameters | Resolution    | Range                         | Usage                                                                                                         | Uncertainty |
+| ------------------ | ------------------- | ------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------- |
+| Digital Multimeter | Voltage and Current | 0.001 V and C | negative infinity to infinity | Connect the two ends of the multimeter to the circuit to measure the voltage or the current of the component. | 0.001       |
+| Oscilloscope       |                     |               |                               |                                                                                                               |             |
 
 
-|                                | DMM | Oscilloscope |
-| ------------------------------ | --- | ------------ |
-| DC supply, V                   |     |              |
-| Resistors, R                   |     |              |
-| Function Generator, ${V_{pp}}$ |     |              |
-| Function Generator, f          |     |              |
+|                                | DMM     | Oscilloscope |
+| ------------------------------ | ------- | ------------ |
+| DC supply, V                   | 5.017 V |              |
+| Resistors, R                   |         |              |
+| Function Generator, ${V_{pp}}$ |         |              |
+| Function Generator, f          |         |              |
 
 
 
