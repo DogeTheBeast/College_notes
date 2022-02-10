@@ -33,7 +33,9 @@ We connected the oscilloscope through channel 2 to the circuit and measured with
 Resistor using multimeter
 We measured the resistance of the resistor using the multimeter and changing the settings to resistance from voltage. We connected the alligator clips from the multimeter to the 2 ends of the resistor and measured the resistance of the resistor.
 
-Function Generator using the osci
+Function Generator using the oscilloscope
+
+We measured the voltage produced by the Function Generator using the oscilloscope. We set the function generator to 
 
 ### Relate Quantities and forming relationships
 
