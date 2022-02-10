@@ -76,13 +76,12 @@ We measured the voltage produced by the Function Generator using the oscilloscop
 
 #### Using method 1
 
-By using the method 1, we determined the value of voltage out to be between 5.079 Volts using the multimeter  and by using the multimeter, the value of the voltage out for resistor 2 is determined to be 3.045.
+By using the method 1, we determined the value of voltage out to be between 5.079 Volts using the multimeter  and by using the multimeter, the value of the voltage out for resistor 2 is determined to be 3.045. And by using the formula stated in relating quantities, the value of the ratio is determined.
+
 
 | ${V_{in}}$      | ${V_{out}}$    |
 | --------------- | -------------- |
 | 5.079 ± 0.001 V | 3.045 ± 0.001V |
-
-And by using the formula stated in relating quantities, the value of the ratio is determined to be 
 
 
 ## Procedure
