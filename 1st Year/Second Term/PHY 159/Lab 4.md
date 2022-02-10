@@ -24,6 +24,9 @@ Voltage is the difference in charge between 2 points on a circuit.
 | Function Generator, f          |               |              |
 
 
+DC Supply 
+We connected the 
+
 ### Relate Quantities and forming relationships
 
 ### Testing
