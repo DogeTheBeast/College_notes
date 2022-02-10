@@ -91,11 +91,11 @@ By using the method 2, we determined the value of the resistance of each of the 
 | -------------------- | --------------------- | -------------------- | --- |
 | 9.88 ± 0.01 ${\ohm}$ | 14.96 ± 0.01 ${\ohm}$ | 24.84 ± 0.02 ${\ohm}$ | 0.60297 ± 0.00088   |
 
-
+Method 1 yields a better result compared to method 2 ca
 
 ## Procedure
 
-
+1. 
 
 
 ## Evaluation
