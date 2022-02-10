@@ -44,7 +44,8 @@ Therefore, it can be simplified into,
 $${\LARGE r = \frac{R_2}{R_1 + R_2}}$$
 
 The uncertainty can be calculated by doing the following,
-${\L}
+${\delta R_{total} = \delta R_1 + \delta R_2}$
+${\frac{}}
 
 
 
