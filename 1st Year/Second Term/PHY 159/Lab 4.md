@@ -14,7 +14,8 @@ Voltage is the difference in charge between 2 points on a circuit.
 | Digital Multimeter | Voltage and Current | 0.001 V and C | Negative infinity to infinity | Connect the two ends of the multimeter to the circuit to measure the voltage or the current of the component. | 0.001       |
 | Oscilloscope       |                     |               |                               |                                                                                                               |             |
 | Resistor 1         | Resistance          | 10 ${k\ohm}$  |                               | Provides a source of resistance                                                                               | 0.01        |
-| Resistor 2         | Resistance          | 15 ${k\ohm}$  |                               | Provides a source of resistance                                                                               | 0.01            |
+| Resistor 2         | Resistance          | 15 ${k\ohm}$  |                               | Provides a source of resistance                                                                               | 0.01        |
+| Function Generator |                     |               |                               |                                                                                                               |             |
 
 
 |                                | DMM              | Oscilloscope |
@@ -65,7 +66,7 @@ Uncertainty
 
 The uncertainty can be calculated by doing the following,
 
-${\frac{\deltar}{r_0} = \frac{\delta}}
+${\frac{\deltar}{r_0} = \frac{\delta V_{out}}{V_{out{}}}}
 
 
 ## Evaluation
