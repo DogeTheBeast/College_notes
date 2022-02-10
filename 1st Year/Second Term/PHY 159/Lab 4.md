@@ -9,6 +9,7 @@ To measure the ${V_{out}/V_{in}}$ for a voltage divider.
 ### Explore tools
 | Tools | Physical Parameters | Resolution | Range | Usage | Uncertainty |
 | ----- | ------------------- | ---------- | ----- | ----- | ----------- |
+| DMM   |                     |            |       |       |             |
 |       |                     |            |       |       |             |
 
 ### Relate Quantities and forming relationships
