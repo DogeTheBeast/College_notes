@@ -66,7 +66,7 @@ Uncertainty
 
 The uncertainty can be calculated by doing the following,
 
-${\frac{\deltar}{r_0} = \frac{\delta V_{out}}{V_{out{}}}}
+$${\LARGE \frac{\delta r}{r_0} = \frac{\delta V_{out}}{V_{out}} + \frac{\delta V_{in}}{V_{in}} }$$
 
 
 ## Evaluation
