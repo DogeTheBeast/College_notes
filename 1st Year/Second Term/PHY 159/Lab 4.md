@@ -28,7 +28,10 @@ DC Supply using multimeter
 We connected the DC supply to the breadboard with the negative and the positive terminals connected to the power rails. Using the multimeter, we measured the voltage supplied by connecting the terminals of the multimeter with the power rail.
 
 DC Supply using Oscilloscope
-We connected the oscilloscope through channel 2 to the circuit and measured with the voltage 
+We connected the oscilloscope through channel 2 to the circuit and measured with the graph of the voltage.
+
+Resistor using multimeter
+We measured the resistance of the resistor using the multimeter and changing the settings to res
 
 ### Relate Quantities and forming relationships
 
