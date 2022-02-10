@@ -18,28 +18,6 @@ Voltage is the difference in charge between 2 points on a circuit.
 | Function Generator | Voltage and Frequency |               | For voltage: 0 to 15 Volts and for Frequency: 0 to 3 Mega hertz | Provides a source of voltage along with a frequency                                                           |             |
 
 
-|                                | DMM              | Oscilloscope |
-| ------------------------------ | ---------------- | ------------ |
-| DC supply, V                   | 5.079 *V*        | 5.16 *V*     |
-| Resistor 1, R                  | 9.88 ${k \ohm}$  |              |
-| Function Generator, ${V_{pp}}$ |                  | 3.04 *V*     |
-| Function Generator, f          |                  | 928.3 *Hz*   |
-| Resistor 2, R                  | 14.96 ${k \ohm}$ |              |
-
-
-DC Supply using multimeter
-We connected the DC supply to the breadboard with the negative and the positive terminals connected to the power rails. Using the multimeter, we measured the voltage supplied by connecting the terminals of the multimeter with the power rail.
-
-DC Supply using Oscilloscope
-We connected the oscilloscope through channel 2 to the circuit and measured with the graph of the voltage.
-
-Resistor using multimeter
-We measured the resistance of the resistor using the multimeter and changing the settings to resistance from voltage. We connected the alligator clips from the multimeter to the 2 ends of the resistor and measured the resistance of the resistor.
-
-Function Generator using the oscilloscope
-
-We measured the voltage produced by the Function Generator using the oscilloscope. We set the function generator to produce a wave of 1 kilohertz and the output level to be 2 and we measured the voltage to be 3.04 Volts and 928.4 hertz.
-
 ### Relate Quantities and forming relationships
 The ratio of the voltage out and voltage in is,
 $${\LARGE r = \frac{V_{out}}{V_{in}}}$$
@@ -66,6 +44,27 @@ $${\LARGE \frac{\delta r}{r_0} = \frac{\delta V_{out}}{V_{out}} + \frac{\delta V
 
 
 ### Testing
+|                                | DMM              | Oscilloscope |
+| ------------------------------ | ---------------- | ------------ |
+| DC supply, V                   | 5.079 *V*        | 5.16 *V*     |
+| Resistor 1, R                  | 9.88 ${k \ohm}$  |              |
+| Function Generator, ${V_{pp}}$ |                  | 3.04 *V*     |
+| Function Generator, f          |                  | 928.3 *Hz*   |
+| Resistor 2, R                  | 14.96 ${k \ohm}$ |              |
+
+
+DC Supply using multimeter
+We connected the DC supply to the breadboard with the negative and the positive terminals connected to the power rails. Using the multimeter, we measured the voltage supplied by connecting the terminals of the multimeter with the power rail.
+
+DC Supply using Oscilloscope
+We connected the oscilloscope through channel 2 to the circuit and measured with the graph of the voltage.
+
+Resistor using multimeter
+We measured the resistance of the resistor using the multimeter and changing the settings to resistance from voltage. We connected the alligator clips from the multimeter to the 2 ends of the resistor and measured the resistance of the resistor.
+
+Function Generator using the oscilloscope
+
+We measured the voltage produced by the Function Generator using the oscilloscope. We set the function generator to produce a wave of 1 kilohertz and the output level to be 2 and we measured the voltage to be 3.04 Volts and 928.4 hertz.
 
 ### Procedure
 
