@@ -24,7 +24,7 @@ $${\LARGE \lambda_n = \frac{2L}{n}}$$
 $${c = \lambda f}$$
 $${f_n = \frac{nv}{2L}}$$
 $${v = \frac{2f_n L}{n}}$$
-$${\frac{\delta v}{v} = }
+$${\frac{\delta v}{v} = \sqrt{\left(\frac{\delta f_n}}{}}
 
 
 ### Testing
