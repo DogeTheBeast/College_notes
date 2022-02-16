@@ -6,10 +6,13 @@ Date - 2022-02-16
 
 
 ### Clarify Objective
-We will measure the speed of sound inside an open pipe using the frequency of different waves
+We will measure the speed of sound inside an open pipe using the frequency of different waves.
 
 
 ### Explore tools
+
+
+
 
 ### Relate Quantities and forming relationships
 
