@@ -21,7 +21,8 @@ Microphone: It measures the air pressure and displays it through the
 
 ### Relate Quantities and forming relationships
 $${\LARGE \lambda_n = \frac{2L}{n}}$$
-$${c = }
+$${c = \lambda f}$$
+$${f_n = \frac}
 
 
 ### Testing
