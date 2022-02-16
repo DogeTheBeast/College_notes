@@ -13,7 +13,7 @@ We will measure the speed of sound inside an open pipe using the frequency of di
 | Tools        | Physical Parameters | Resolution | Range              | Usage                                                 | Uncertainty |
 | ------------ | ------------------- | ---------- | ------------------ | ----------------------------------------------------- | ----------- |
 | Oscilloscope | Voltage             | 0.1 *V*    | 500 *uV* to 10 *V* | Used to measure the potential difference in a circuit | 0.1 *V*     |
-|              |                     |            |                    |                                                       |             |
+| Ruler        | Distance            | 0.5 *cm*   |                    |                                                       |             |
 
 
 
