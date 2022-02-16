@@ -6,6 +6,8 @@ Date - 2022-02-16
 
 
 ### Clarify Objective
+We will measure the speed of 
+
 
 ### Explore tools
 
