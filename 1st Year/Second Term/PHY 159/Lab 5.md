@@ -20,6 +20,8 @@ Microphone: It measures the air pressure and displays it through the
 
 
 ### Relate Quantities and forming relationships
+$${\LARGE \lambda}
+
 
 ### Testing
 
