@@ -145,7 +145,8 @@ where
 *n* is the resonance number.
 
 4)  Whenever a spike in the amplitude is observed, slow down even further until the accurate value of the frequency can be measured. 
-5)  Record the time it 
+5)  Record the frequency along with the resonant number and plot it on a graph with the frequency on the y axis and resonant frequency on the x axis.
+6)  The slope of the graph 
 
 
 
