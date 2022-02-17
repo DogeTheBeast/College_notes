@@ -119,7 +119,9 @@ $${445.1 = \frac{v}{2L}}$$
 $${v = 445.1 \times 2 \times 0.502}$$
 $${v = 445.1 m/s}$$
 
-$${\frac{\delta v}{v} = \sqrt{\left(\frac{1}{f_n}\right)^2+\left(\frac{\delta L}{L}\right)^2}}$$
+$${\frac{\delta v}{v} = \sqrt{\left(\frac{1}{309.8}\right)^2+\left(\frac{0.0005}{0.5}\right)^2}}$$
+$${\delta v = 3 \times 10^{-3}}$$
+Trounded to 1 sf
 
 
 
