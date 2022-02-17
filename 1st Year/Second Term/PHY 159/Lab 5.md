@@ -29,7 +29,7 @@ $${c = \lambda f}$$
 $${f_n = \frac{nv}{2L}}$$
 $${v = \frac{2f_n L}{n}}$$
 $${\frac{\delta v}{v} = \sqrt{\left(\frac{\delta f_n}{f_n}\right)^2+\left(\frac{\delta L}{L}\right)^2}}$$
-
+$${A sin(\omega t )}
 
 ## Testing
 
