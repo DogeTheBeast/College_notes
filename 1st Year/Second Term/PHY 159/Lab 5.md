@@ -141,8 +141,12 @@ This is the uncertainty in the measured speed of sound rounded to 1 significant 
 
 $${distance = \frac{L}{n}}$$
 where 
+*L* is the length of the tube, and
+*n* is the resonance number.
 
 4)  Whenever a spike in the amplitude is observed, slow down even further until the accurate value of the frequency can be measured. 
+5)  Record the time it 
+
 
 
 ## Evaluation
