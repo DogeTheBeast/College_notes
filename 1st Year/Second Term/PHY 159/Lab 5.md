@@ -40,28 +40,6 @@ where,
 
 By adjusting the knob for the frequency in the function generator near 343 Hz while keeping the microphone at the half way point of the tube (25 cm), we checked for the highest amplitude. The maximum amplitude of the wave means that the pressure is maximum at the middle of the wave, which only happens when it is at the fundamental frequency. This is determined to be 309.8 Hz.
 
-#### Fundamental Frequency (309.8 Hz)
-
-| Reading | Distance from the speaker (cm) | Amplitude |
-| ------- | ------------------------------ | --------- |
-| 1       | 0                              | 21.6      |
-| 2       | 10                             | 75.6      |
-| 3       | 20                             | 78.4      |
-| 4       | 30                             | 78.4      |
-| 5       | 40                             | 72.8      |
-| 6       | 50                             | 12.6      |
-
-#### 2nd Resonance Frequency (619.1 Hz)
-
-| Reading | Distance from the speaker (cm) | Amplitude |
-| ------- | ------------------------------ | --------- |
-| 1       | 0                              | 38.4      |
-| 2       | 10                             | 78.4      |
-| 3       | 20                             | 38.4      |
-| 4       | 30                             | 50.8      |
-| 5       | 40                             | 69.6      |
-| 6       | 50                             | 14.4      |
-
 
 
 $${\lambda_n = \frac{2L}{n}}$$
