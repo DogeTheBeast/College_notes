@@ -70,6 +70,8 @@ $${\Delta P = A\times sin(\omega t + \phi)}$$
 
 ## Testing
 
+### Sound pressure profile
+
 #### Fundamental Frequency (309.8 Hz)
 
 | Reading | Distance from the speaker (cm) | Amplitude |
