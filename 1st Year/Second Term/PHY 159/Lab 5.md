@@ -39,7 +39,7 @@ By adjusting the knob for the frequency in the function generator near 343 Hz wh
 | ------- | ------------------------------ | --------- |
 | 1       | 0                              | 21.6      |
 | 2       | 10                             | 75.6      |
-| 3       | 20                             |           |
+| 3       | 20                             | 78.4          |
 | 4       | 30                             |           |
 | 5       | 40                             |           |
 | 6       | 50                             |           |
