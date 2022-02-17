@@ -35,12 +35,13 @@ $${f = \frac{v}{2L} = \frac{343}{2 \times 50.2} \approx 343 Hz}$$
 
 By adjusting the knob for the frequency in the function generator near 343 Hz while keeping the microphone at the half way point of the tube (25 cm), we checked for the highest amplitude. The maximum amplitude of the wave means that the pressure is maximum at the middle of the wave, which only happens when it is at the fundamental frequency. This is determined to be 309.8 Hz.
 
-
+| Reading | 
+| ------- |
 
 
 
 $${\lambda_n = \frac{2L}{n}}$$
-$${c = \lambda f}$$
+$${v = \lambda f}$$
 $${f_n = \frac{nv}{2L}}$$
 $${v = \frac{2f_n L}{n}}$$
 $${\frac{\delta v}{v} = \sqrt{\left(\frac{\delta f_n}{f_n}\right)^2+\left(\frac{\delta L}{L}\right)^2}}$$
