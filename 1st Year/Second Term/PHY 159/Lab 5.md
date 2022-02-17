@@ -114,7 +114,7 @@ By used the method used to measure the fundamental frequency and the second reso
 
 ![[Frequency against n.PNG]]
 
-Using the curve above, the slope of the curve is determined to be 445.1. Using the equations stated in the previous part 
+Using the curve above, the slope of the curve is determined to be 445.1. Using the equations stated in the previous part (Relate Quantities). Using 445.1, the value of the 
 
 
 ## Procedure
