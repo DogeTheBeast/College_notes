@@ -98,7 +98,11 @@ $${\Delta P = A\times sin(\omega t + \phi)}$$
 | 6       | 50                             | 14.4      |
 
 
+## Second Objective - Speed of sound
 
+![[Frequency against n.PNG]]
+
+By used the method used to measure the fundamental frequency and the second a
 
 
 ## Procedure
