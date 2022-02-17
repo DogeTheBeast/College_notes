@@ -103,15 +103,18 @@ $${\Delta P = A\times sin(\omega t + \phi)}$$
 
 
 By used the method used to measure the fundamental frequency and the second resonance frequency, we found the third and the fourth resonance frequency which is stated below.
-| Resonance number | Frequency |
-| ---------------- | --------- |
-| 1                |  309.8         |
-| 2                |  619.1         |
-| 3                |           |
-| 4                |           |
+
+| Resonance number | Frequency (Hz) |
+| ---------------- | -------------- |
+| 1                | 309.8          |
+| 2                | 619.1          |
+| 3                | 1260           |
+| 4                | 1580           |
 
 
 ![[Frequency against n.PNG]]
+
+Using the slope of the curve, the value of the 
 
 
 ## Procedure
