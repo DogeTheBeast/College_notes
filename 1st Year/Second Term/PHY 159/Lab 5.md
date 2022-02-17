@@ -131,7 +131,11 @@ This is the uncertainty in the measured speed of sound rounded to 1 significant 
 2) Record the fundamental frequency of the tube.
 3) Move the microphone to equidistant intervals and measure the amplitude of the curve.
 4) Repeat step 3 for all distances from the speaker. 
-5) Plot the pressure amplitude profile with 
+5) Plot the pressure amplitude profile with the amplitude at the y axis and the distance from the speaker on the x axis.
+
+
+##### Speed of Sound
+1)  Determine the fundamental frequency of the tube by test and trial of the frequency while keeping the microphone half way inside the tube. 
 
 
 ## Evaluation
