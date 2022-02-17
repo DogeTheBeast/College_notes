@@ -30,7 +30,10 @@ The sound amplitude profile can be measured by measuring the slope of the sound 
 ## Relate Quantities and forming relationships
 
 ### First objective -  To measure the sound amplitude profile
-Firstly, we need to find the fundamental frequency and the 2nd resonance frequency. To find the fundamental frequency, we did a rough calculation and determined the value of the funda
+Firstly, we need to find the fundamental frequency and the 2nd resonance frequency. To find the fundamental frequency, we did a rough calculation and determined the value of the fundamental frequency to be near about 343 Hz.
+$${}
+
+By adjusting the knob for the frequency in the function generator near 343 Hz, we determined that the fundamental frequency is 307 Hz.
 
 
 
