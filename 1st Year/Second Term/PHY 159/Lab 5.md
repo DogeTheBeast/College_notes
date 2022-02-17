@@ -151,4 +151,4 @@ $${345.1 = \frac{v}{2L}}$$
 
 
 ## Evaluation
-The method used to measure the speed of sound is 
+The method used to measure the speed of sound is very accurate because the speed was very close to real life value along with the uncertainty. The method can be improved by 
