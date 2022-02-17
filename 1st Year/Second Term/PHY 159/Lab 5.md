@@ -70,7 +70,7 @@ $${\Delta P = A\times sin(\omega t + \phi)}$$
 
 ## Testing
 
-### Sound pressure profile
+### Pressure amplitude profile
 
 #### Fundamental Frequency (309.8 Hz)
 
