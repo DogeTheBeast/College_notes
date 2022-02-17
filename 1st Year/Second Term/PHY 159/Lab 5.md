@@ -114,17 +114,19 @@ By used the method used to measure the fundamental frequency and the second reso
 
 ![[Frequency against n.PNG]]
 
-Using the curve above, the slope of the curve is determined to be 445.1. Using the equations stated in the previous part (Relate Quantities). Using 445.1, the value of the speed of sound can be determined. 
-$${445.1 = \frac{v}{2L}}$$
-$${v = 445.1 \times 2 \times 0.502}$$
-$${v = 445.1 m/s}$$
+Using the curve above, the slope of the curve is determined to be 345.1. Using the equations stated in the previous part (Relate Quantities). Using 345.1, the value of the speed of sound can be determined. 
+$${345.1 = \frac{v}{2L}}$$
+$${v = 345.1 \times 2 \times 0.502}$$
+$${v = 345.1 m/s}$$
 
 $${\frac{\delta v}{v} = \sqrt{\left(\frac{1}{309.8}\right)^2+\left(\frac{0.0005}{0.5}\right)^2}}$$
 $${\delta v = 3 \times 10^{-3}}$$
-Trounded to 1 sf
+This is the uncertainty in the measured speed of sound rounded to 1 significant figure.
 
 
 
 ## Procedure
+
+
 
 ## Evaluation
