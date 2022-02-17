@@ -32,6 +32,8 @@ $${\frac{\delta v}{v} = \sqrt{\left(\frac{\delta f_n}{f_n}\right)^2+\left(\frac{
 $${x = A \times sin(\omega t + \phi)}$$
 where x is the displacement.
 
+$${\Delta P = A\times sin(\mera)}
+
 ## Testing
 
 ## Procedure
