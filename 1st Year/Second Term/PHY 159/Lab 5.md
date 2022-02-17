@@ -10,7 +10,7 @@ We will measure the speed of sound and the pressure amplitude inside an open pip
 2) Measure the pressure amplitude profile, *P(x)*, of the sounds waves inside the tube for the fundamental and the second resonance frequency.
 
 ## Clarify Objective
-Sound travels in the form of waves. Sound waves are movement of air particles in back and forth direction which carries energy through the air and is heard as sound by the listener. The pressure in the wave is the pressure of the air particles that  
+Sound travels in the form of waves. Sound waves are movement of air particles in back and forth direction which carries energy through the air and is heard as sound by the listener. The pressure in the wave is the pressure of the air particles that strikes the microphone which is similar to the volume of the sound. The fundamental frequency is the frequency at which the pressure in the tube at the ends is uniform and is maximum in the middle. 
 
 
 ## Explore tools
