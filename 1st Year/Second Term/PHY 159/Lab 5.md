@@ -65,7 +65,7 @@ ${\phi}$ is the phase change, which is not relevant in this measurement.
 $${\lambda_n = \frac{2L}{n}}$$
 $${v = \lambda f}$$
 $${v = \frac{2f_n L}{n}}$$
-Using the equations above, the relationship between v and the resonance number can
+Using the equations above, the relationship between v and the resonance number can be determined which can be used with the slope of the curve to find the speed of sound. Also, the uncertainty in this measurement is,
 $${\frac{\delta v}{v} = \sqrt{\left(\frac{\delta f_n}{f_n}\right)^2+\left(\frac{\delta L}{L}\right)^2}}$$
 
 ## Testing
