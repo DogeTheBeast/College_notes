@@ -23,7 +23,7 @@ The sound amplitude profile can be measured by measuring the slope of the sound 
 | Speaker box  | Frequency           |            |                                   | Used to produce a frequency of any hertz in the range                          |             |
 | Microphone   | Pressure            |            |                                   | Used to measure the pressure of the air particles.                             |             |
 | Amplifier    |                     |            |                                   | Amplifies the input voltage to an amount that can be read by the oscilloscope. |             |
-| Tube         |                     |            |                                   |                                                                                |             |
+| Tube         |                     |            |                                   | 50.2 cm long tube through which sound waves are being measured.                |             |
 
 
 
