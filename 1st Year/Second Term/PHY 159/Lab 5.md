@@ -74,7 +74,8 @@ $${\Delta P = A\times sin(\omega t + \phi)}$$
 ## Testing
 
 ### Pressure amplitude profile
-
+ 
+ By moving the microphone inside the tube to b
 #### Fundamental Frequency (309.8 Hz)
 
 | Reading | Distance from the speaker (cm) | Amplitude |
@@ -116,7 +117,9 @@ By used the method used to measure the fundamental frequency and the second reso
 
 Using the curve above, the slope of the curve is determined to be 445.1. Using the equations stated in the previous part (Relate Quantities). Using 445.1, the value of the speed of sound can be determined. 
 $${445.1 = \frac{v}{2L}}$$
-$${v = 445.1 \times 2 \times 0.}
+$${v = 445.1 \times 2 \times 0.502}$$
+$${v = 445.1 m/s}$$
+
 
 
 
