@@ -37,6 +37,8 @@ By adjusting the knob for the frequency in the function generator near 343 Hz wh
 
 
 
+
+
 $${\lambda_n = \frac{2L}{n}}$$
 $${c = \lambda f}$$
 $${f_n = \frac{nv}{2L}}$$
