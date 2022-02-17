@@ -43,7 +43,8 @@ By adjusting the knob for the frequency in the function generator near 343 Hz wh
 
 $${\Delta P = A\times sin(\omega t + \phi)}$$
 where,
-${\Delta P}$ is the difference in the pressure between the a
+${\Delta P}$ is the difference in the pressure between the atmosphere and the pressure inside the tube,
+*A* is the amplitude of the wave in 
 
 
 $${\lambda_n = \frac{2L}{n}}$$
