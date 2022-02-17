@@ -13,6 +13,8 @@ We will measure the speed of sound and the pressure amplitude inside an open pip
 Sound travels in the form of waves. Sound waves are movement of air particles in back and forth direction which carries energy through the air and is heard as sound by the listener. The pressure in the wave is the pressure of the air particles that strikes the microphone which is similar to the volume of the sound. The fundamental frequency is the frequency at which the pressure in the tube at the ends is uniform and is maximum in the middle. 
 
 
+The sound amplitude profile can be measured by measuring the slope of the sound wave inside the tube. The
+
 ## Explore tools
 | Tools        | Physical Parameters | Resolution | Range                             | Usage                                                 | Uncertainty |
 | ------------ | ------------------- | ---------- | --------------------------------- | ----------------------------------------------------- | ----------- |
