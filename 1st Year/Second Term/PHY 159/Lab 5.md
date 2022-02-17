@@ -129,7 +129,7 @@ This is the uncertainty in the measured speed of sound rounded to 1 significant 
 ##### Determine the pressure amplitude profile
 1) Determine the fundamental frequency of the tube by test and trail of the frequency while keeping the microphone half way inside the tube. 
 2) Record the fundamental frequency of the tube.
-3) 
+3) Move the microphone to equidistant intervals and measure the amplitude of the 
 
 
 ## Evaluation
