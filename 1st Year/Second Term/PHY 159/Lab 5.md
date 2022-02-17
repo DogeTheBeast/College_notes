@@ -16,13 +16,14 @@ Sound travels in the form of waves. Sound waves are movement of air particles in
 The sound amplitude profile can be measured by measuring the slope of the sound wave inside the tube. The ends of the tube will have the minimum pressure change but in the middle of the tube, the pressure will be maximum, for the fundamental frequency. Over time, the pressure at the middle of the tube will oscillate with the same amplitude as the maximum pressure but the frequency of the oscillation will be the same as the frequency of the sound traveling through the tube. 
 
 ## Explore tools
-| Tools        | Physical Parameters | Resolution | Range                             | Usage                                                 | Uncertainty |
-| ------------ | ------------------- | ---------- | --------------------------------- | ----------------------------------------------------- | ----------- |
-| Oscilloscope | Voltage             | 0.1 *V*    | 500 *uV* to 10 *V* (per division) | Used to measure the potential difference in a circuit | 0.1 *V*     |
-| Ruler        | Distance            | 0.5 *cm*   | 0 cm to 100 cm                    | Used to measure the distance between 2 points         | 0.5 *cm*    |
-| Speaker box  | Frequency           |            |                                   | Used to produce a frequency of any hertz in the range |             |
-| Microphone   | Pressure            |            |                                   | Used to measure the pressure of the air particles.    |             |
-|              |                     |            |                                   |                                                       |             | 
+| Tools        | Physical Parameters | Resolution | Range                             | Usage                                                                          | Uncertainty |
+| ------------ | ------------------- | ---------- | --------------------------------- | ------------------------------------------------------------------------------ | ----------- |
+| Oscilloscope | Voltage             | 0.1 *V*    | 500 *uV* to 10 *V* (per division) | Used to measure the potential difference in a circuit                          | 0.1 *V*     |
+| Ruler        | Distance            | 0.5 *cm*   | 0 cm to 100 cm                    | Used to measure the distance between 2 points                                  | 0.5 *cm*    |
+| Speaker box  | Frequency           |            |                                   | Used to produce a frequency of any hertz in the range                          |             |
+| Microphone   | Pressure            |            |                                   | Used to measure the pressure of the air particles.                             |             |
+| Amplifier    |                     |            |                                   | Amplifies the input voltage to an amount that can be read by the oscilloscope. |             |
+|              |                     |            |                                   |                                                                                |             |
 
 
 
