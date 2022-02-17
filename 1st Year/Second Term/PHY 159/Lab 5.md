@@ -41,8 +41,10 @@ where,
 By adjusting the knob for the frequency in the function generator near 343 Hz while keeping the microphone at the half way point of the tube (25 cm), we checked for the highest amplitude. The maximum amplitude of the wave means that the pressure is maximum at the middle of the wave, which only happens when it is at the fundamental frequency. This is determined to be 309.8 Hz.
 
 
-Using the formula eblow
+Using the formula below, the 2nd resonance frequency can roughly calculated to make it easier to find it by trial and error.
 $${f_n = \frac{nv}{2L}}$$
+where, 
+*n* is the 
 
 
 
