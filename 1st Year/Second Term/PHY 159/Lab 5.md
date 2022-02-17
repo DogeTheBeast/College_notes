@@ -28,6 +28,10 @@ The sound amplitude profile can be measured by measuring the slope of the sound 
 
 
 ## Relate Quantities and forming relationships
+
+
+
+
 $${\lambda_n = \frac{2L}{n}}$$
 $${c = \lambda f}$$
 $${f_n = \frac{nv}{2L}}$$
@@ -39,6 +43,10 @@ where x is the displacement.
 $${\Delta P = A\times sin(\omega t + \phi)}$$
 
 ## Testing
+
+
+
+
 
 ## Procedure
 
