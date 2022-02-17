@@ -75,7 +75,8 @@ $${\Delta P = A\times sin(\omega t + \phi)}$$
 
 ### Pressure amplitude profile
  
- By moving the microphone inside the tube to b
+ By moving the microphone inside the tube to be at a given distance from the speaker, the following data values are determined for each frequency.
+ 
 #### Fundamental Frequency (309.8 Hz)
 
 | Reading | Distance from the speaker (cm) | Amplitude |
@@ -88,6 +89,7 @@ $${\Delta P = A\times sin(\omega t + \phi)}$$
 | 6       | 50                             | 12.6      |
 
 ![[first fundamental.PNG]]
+
 #### 2nd Resonance Frequency (619.1 Hz)
 
 | Reading | Distance from the speaker (cm) | Amplitude |
