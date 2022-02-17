@@ -137,7 +137,10 @@ This is the uncertainty in the measured speed of sound rounded to 1 significant 
 ##### Speed of Sound
 1)  Determine the fundamental frequency of the tube by test and trial of the frequency while keeping the microphone half way inside the tube. 
 2)  Slowly adjust the knob on the function generator and increase the frequency of the sound while monitoring the oscilloscope. 
-3)  
+3)  Change the position of the knob to the appropriate distance from the speaker using the equation,
+
+
+
 4)  Whenever a spike in the amplitude is observed, slow down even further until the accurate value of the frequency can be measured. 
 
 
