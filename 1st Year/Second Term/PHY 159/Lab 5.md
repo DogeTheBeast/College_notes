@@ -7,7 +7,7 @@ Date - 2022-02-16
 ## Clarify Objective
 We will measure the speed of sound and the pressure amplitude inside an open pipe using the frequency of different waves.
 1) Measure the speed of sound inside a tube.
-2) Measure the pressure amplitude of the sounds waves for the 
+2) Measure the pressure amplitude of the sounds waves inside the tube for the fundamental and the second fundamental frequency.
 
 
 ## Explore tools
