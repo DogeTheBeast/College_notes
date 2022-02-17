@@ -44,9 +44,11 @@ By adjusting the knob for the frequency in the function generator near 343 Hz wh
 Using the formula below, the 2nd resonance frequency can roughly calculated to make it easier to find it by trial and error.
 $${f_n = \frac{nv}{2L}}$$
 where, 
-*n* is the 
+*n* is the number of resonance (which is 2 in this case).
 
+---
 
+The curve that we can expect to find should be similar to the curve formed by plotting this equation.
 
 $${\Delta P = A\times sin(\omega t + \phi)}$$
 where,
