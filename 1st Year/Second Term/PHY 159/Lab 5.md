@@ -37,8 +37,8 @@ By adjusting the knob for the frequency in the function generator near 343 Hz wh
 
 | Reading | Distance from the speaker (cm) | Amplitude |
 | ------- | ------------------------------ | --------- |
-| 1       | 0                              |           |
-| 2       | 10                             |           |
+| 1       | 0                              | 21.6      |
+| 2       | 10                             | 75.6      |
 | 3       | 20                             |           |
 | 4       | 30                             |           |
 | 5       | 40                             |           |
