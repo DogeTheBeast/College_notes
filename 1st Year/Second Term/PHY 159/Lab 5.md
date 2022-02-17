@@ -86,6 +86,7 @@ $${\Delta P = A\times sin(\omega t + \phi)}$$
 | 5       | 40                             | 72.8      |
 | 6       | 50                             | 12.6      |
 
+![[first fundamental.PNG]]
 #### 2nd Resonance Frequency (619.1 Hz)
 
 | Reading | Distance from the speaker (cm) | Amplitude |
@@ -96,19 +97,21 @@ $${\Delta P = A\times sin(\omega t + \phi)}$$
 | 4       | 30                             | 50.8      |
 | 5       | 40                             | 69.6      |
 | 6       | 50                             | 14.4      |
-
+![[second fundamental.PNG]]
 
 ## Second Objective - Speed of sound
 
-![[Frequency against n.PNG]]
 
 By used the method used to measure the fundamental frequency and the second resonance frequency, we found the third and the fourth resonance frequency which is stated below.
 | Resonance number | Frequency |
 | ---------------- | --------- |
-| 1                |           |
-| 2                |           |
+| 1                |  309.8         |
+| 2                |  619.1         |
 | 3                |           |
 | 4                |           |
+
+
+![[Frequency against n.PNG]]
 
 
 ## Procedure
