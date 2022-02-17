@@ -52,7 +52,6 @@ ${\phi}$ is the phase change, which is not relevant in this measurement.
 
 $${\lambda_n = \frac{2L}{n}}$$
 $${v = \lambda f}$$
-$${f_n = \frac{nv}{2L}}$$
 $${v = \frac{2f_n L}{n}}$$
 $${\frac{\delta v}{v} = \sqrt{\left(\frac{\delta f_n}{f_n}\right)^2+\left(\frac{\delta L}{L}\right)^2}}$$
 $${x = A \times sin(\omega t + \phi)}$$
