@@ -19,7 +19,7 @@ Microphone: It measures the air pressure and displays it through the
 
 
 ## Relate Quantities and forming relationships
-$${\LARGE \lambda_n = \frac{2L}{n}}$$
+$${\lambda_n = \frac{2L}{n}}$$
 $${c = \lambda f}$$
 $${f_n = \frac{nv}{2L}}$$
 $${v = \frac{2f_n L}{n}}$$
