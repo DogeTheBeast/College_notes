@@ -47,7 +47,7 @@ ${\Delta P}$ is the difference in the pressure between the atmosphere and the pr
 *A* is the amplitude of the wave which is relative to the maximum amplitude,
 ${\omega}$ is the angular frequency of the sound waves,
 *t* is time, and 
-
+${\phi}$ is the phase change, which is not relevant in this measurement.
 
 
 $${\lambda_n = \frac{2L}{n}}$$
