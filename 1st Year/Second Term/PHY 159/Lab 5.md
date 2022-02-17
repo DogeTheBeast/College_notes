@@ -119,6 +119,7 @@ $${445.1 = \frac{v}{2L}}$$
 $${v = 445.1 \times 2 \times 0.502}$$
 $${v = 445.1 m/s}$$
 
+$${\frac{\delta v}{v} = \sqrt{\left(\frac{1}{f_n}\right)^2+\left(\frac{\delta L}{L}\right)^2}}$$
 
 
 
