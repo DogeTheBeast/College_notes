@@ -51,7 +51,7 @@ By adjusting the knob for the frequency in the function generator near 343 Hz wh
 | 5       | 40                             | 72.8      |
 | 6       | 50                             | 12.6      |
 
-#### 2nd Resonance Frequency (625.4 Hz)
+#### 2nd Resonance Frequency (619. Hz)
 
 | Reading | Distance from the speaker (cm) | Amplitude |
 | ------- | ------------------------------ | --------- |
