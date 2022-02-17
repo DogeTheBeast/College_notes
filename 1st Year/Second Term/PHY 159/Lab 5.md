@@ -58,6 +58,9 @@ ${\omega}$ is the angular frequency of the sound waves,
 *t* is time, and 
 ${\phi}$ is the phase change, which is not relevant in this measurement.
 
+### Second Objective - Speed of Sound
+
+
 
 $${\lambda_n = \frac{2L}{n}}$$
 $${v = \lambda f}$$
