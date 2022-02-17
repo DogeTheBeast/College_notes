@@ -41,6 +41,11 @@ where,
 By adjusting the knob for the frequency in the function generator near 343 Hz while keeping the microphone at the half way point of the tube (25 cm), we checked for the highest amplitude. The maximum amplitude of the wave means that the pressure is maximum at the middle of the wave, which only happens when it is at the fundamental frequency. This is determined to be 309.8 Hz.
 
 
+Using the formula eblow
+$${f_n = \frac{nv}{2L}}$$
+
+
+
 $${\Delta P = A\times sin(\omega t + \phi)}$$
 where,
 ${\Delta P}$ is the difference in the pressure between the atmosphere and the pressure inside the tube,
