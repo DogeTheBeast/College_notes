@@ -21,3 +21,6 @@
 
 
 # Wesbrook Properties
+1. Central (6015 University Boulevard)
+2. Village Square (3338 Webber Lane)
+3. Mews (3333 Wesbrook Mall)
