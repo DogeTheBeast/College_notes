@@ -85,4 +85,10 @@ Studios from $1,350 - $1,400
 2 Bedroom from $2,255 - $2,480  
 3 Bedroom from $3,040 - $3,120
 
-##
+## Nobel House (3655 Wesbrook Mall)
+1 Bedroom from $1,550 - $1,610  
+2 Bedroom from $2,260 - $2,795  
+3 Bedroom from $2,880 - $3,225  
+4 Bedroom from $3,780 - $4,015
+
+## 
