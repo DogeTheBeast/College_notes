@@ -70,3 +70,7 @@ Studios from $1,150 - $1,210
 1 Bedroom from $1,670 - $1,970  
 2 Bedroom from $2,160 - $2,340  
 3 Bedroom from $2,770 - $3,010
+## Tamarack House (6230 Thunderbird Boulevard)
+2 Bedroom from $2,465 - $2,540  
+3 Bedroom from $2,915 - $3,880
+
