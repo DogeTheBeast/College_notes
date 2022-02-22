@@ -21,10 +21,15 @@
 
 
 # Wesbrook Properties
-1. Central (6015 University Boulevard)
-2. Village Square (3338 Webber Lane)
-3. Mews (3333 Wesbrook Mall)
-4. Greenwood Commons (2660 Wesbrook Mall)
-5. Granite Terrace (3233 Wesbrook Mall)
-6. Vista Point (5828 Thunderbird Boulevard)
-7. 
+## Central (6015 University Boulevard)
+## Village Square (3338 Webber Lane)
+## Mews (3333 Wesbrook Mall)
+## Greenwood Commons (2660 Wesbrook Mall)
+## Granite Terrace (3233 Wesbrook Mall)
+## Vista Point (5828 Thunderbird Boulevard)
+## Focal (6111 University Boulevard) 
+-   Studios: from $1700 - $1830/month
+-   1 Bedroom: from $1950 - $2610/month
+-   1 Bedroom + den: from $2230 - $2370/month
+-   2 Bedroom + 1 Bathroom: from $2250 - $2590/month
+-   2 Bedroom + 2 Bathroom: from $2800 - $2840/month
