@@ -46,5 +46,5 @@
 
 ### Contact Info
 
-Instructor - Geoffrey Tien (Email - gctien@cs.ubc.ca)
+Instructor - Seyyed Hosseini (Email - seyyed.hosseini@ubc.ca)
 
