@@ -62,4 +62,11 @@ Studios from $1,150 - $1,210
 2 Bedroom from $2,125 - $2,395  
 3 Bedroom from $3,055 - $3,325  
 4 Bedroom from $3,450 - $3,500
-## Cascara
+## Cascara House (6385 Hawthorn Lane)
+1 Bedroom from $1,670 - $2,080  
+2 Bedroom from $2,120 - $2,305  
+3 Bedroom from $2,890 - $2,940
+## Gardenia House (6309 Larkin Drive)
+1 Bedroom from $1,670 - $1,970  
+2 Bedroom from $2,160 - $2,340  
+3 Bedroom from $2,770 - $3,010
