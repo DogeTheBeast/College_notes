@@ -39,3 +39,5 @@
 -   1 Bedroom: from $1870/month
 -   2 Bedroom: from $2220/month
 -   3 Bedroom: from $3270/month
+
+# Village Gate Homes
