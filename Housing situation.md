@@ -1,7 +1,7 @@
-# Single Studio ()
+## Single Studio (Below 1100)
 
-# Double Apartment
+## Double Apartment (Below 2400)
 
-# Triple Apartment
+## Triple Apartment (Below )
 
 # 4 Person Apartment
