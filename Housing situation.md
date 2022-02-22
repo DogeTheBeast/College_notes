@@ -33,3 +33,9 @@
 -   1 Bedroom + den: from $2230 - $2370/month
 -   2 Bedroom + 1 Bathroom: from $2250 - $2590/month
 -   2 Bedroom + 2 Bathroom: from $2800 - $2840/month
+## Georgia Point (3381 Ross Drive)
+-   Studios: from $1600/month
+-   Jr 1 Bedroom: from $1860/month
+-   1 Bedroom: from $1870/month
+-   2 Bedroom: from $2220/month
+-   3 Bedroom: from $3270/month
