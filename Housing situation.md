@@ -42,4 +42,12 @@
 
 # Village Gate Homes
 ## Oakwood (3383 Ross Drive)
-4 Bedroom (rent - 4000-4275 CAD)
+4 Bedroom (rent - 4000 - 4275 CAD)
+## Mundell House (6038 Birney Avenue)
+Studios: from $1,215 - $1565/month  
+1 Bedroom: from $2,175 – $1,340/month  
+2 Bedroom: from $1,970 - $2,695/month  
+3 Bedroom: from $2,820 - $3,460/month  
+4 Bedroom: from $3,545 - $3,845/month
+
+## Cypress Ho
