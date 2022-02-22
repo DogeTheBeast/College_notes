@@ -41,3 +41,5 @@
 -   3 Bedroom: from $3270/month
 
 # Village Gate Homes
+## Oakwood (3383 Ross Drive)
+4 Bedroom (rent - 4000-4275 CAD)
