@@ -23,7 +23,7 @@ void main()
 }
 ```
 
-This happens because both the numbers used in division are integers. Therefore, the compiler tries to return a value in the form of an integer, truncating the values after the decimal.
+This happens because both the numbers used in division are integers. Therefore, the compiler tries to return a value in the form of an integer, truncating the values after the decimal. To fix this, we use a special declaration which tells the compiler that the return of the di
 
 
 
