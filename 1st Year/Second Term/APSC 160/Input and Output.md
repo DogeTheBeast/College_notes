@@ -67,6 +67,8 @@ void main()
 
 Pay attention to the number of spaces before the first digit of the output. The decimal is also taken into account when the field width is measured. This is true for any other symbol as well such as a negative sign (-).
 
+If a negative sign is placed before the format specifier, then the number of empty spaces added to the number will be to the right. So, 
+
 
 
 ## scanf and its variations
