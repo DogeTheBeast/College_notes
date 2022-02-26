@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1st Year/Second Term/APSC 160/Logical Operators.md",
+            "file": "1st Year/Second Term/APSC 160/Basic Syntax for C.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1st Year/Second Term/APSC 160/Logical Operators.md",
+            "file": "1st Year/Second Term/APSC 160/Basic Syntax for C.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Year/Second Term/APSC 160/Logical Operators.md",
+                "file": "1st Year/Second Term/APSC 160/Basic Syntax for C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +134,8 @@
   },
   "active": "5ec1531e01c7c641",
   "lastOpenFiles": [
-    "1st Year/Second Term/APSC 160/Logical Operators.md",
     "1st Year/Second Term/APSC 160/Basic Syntax for C.md",
+    "1st Year/Second Term/APSC 160/Logical Operators.md",
     "1st Year/Second Term/APSC 160/Data Types for C.md",
     "1st Year/Second Term/APSC 160/Input and Output.md",
     "1st Year/Second Term/APSC 160/Numbers in Different Bases.md",
