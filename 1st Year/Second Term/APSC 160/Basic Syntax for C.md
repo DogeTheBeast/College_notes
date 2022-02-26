@@ -75,5 +75,7 @@ a*=b;	//multiplies a by b every iteration
 a/=b;	//divides a by b every iteration
 ```
 
+### Preprocessing and post processing
+
 ---
 Read also - 
