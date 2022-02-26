@@ -77,5 +77,7 @@ a/=b;	//divides a by b every iteration
 
 ### Preprocessing and post processing
 
+Preprocessing refers to when the increment or decrement is performed 
+
 ---
 Read also - 
