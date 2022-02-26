@@ -28,7 +28,7 @@ These are the arguments that can go inside the double quotes in the printf state
 | %#x      | Hexadecimal integer with 0x        |
 | \n       | New line                           |
 
-## Special Cases of octal and hexadecimal integers
+### Special Cases of octal and hexadecimal integers
 
 To assign a octal integer to a variable and clarify that it is in the base of 8, we place a 0 before the value of the integer. For example,
 
@@ -43,6 +43,8 @@ Something similar is valid for Hexadecimal integers as well. Instead of a 0, we 
 int a = 0xEEFF0D;
 ```
 
+
+## scanf and its variations
 
 
 
