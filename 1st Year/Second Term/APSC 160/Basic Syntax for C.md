@@ -48,7 +48,11 @@ int main (void){
 
 ## Define
 
-Define is a macro definition that is not a variable. That means it has an absolute value which can't be changed while the program runs and it only refers to the 
+Define is a macro definition that is not a variable. That means it has an absolute value which can't be changed while the program runs and it, practically, only substitutes the value of the define object into the code.
+
+```c
+#define Name "Ratiq"
+#define Size 15
 
 
 ---
