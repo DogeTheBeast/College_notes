@@ -79,5 +79,46 @@ a/=b;	//divides a by b every iteration
 
 Preprocessing refers to when the increment or decrement is performed 
 
+
+These Operators are known as Increment operators. Increment Operators has two types:
+
+-   Pre Increment Operator(++a): In Pre Increment Operator, the value present in the variable is incremented first and then It is used in the program.
+-   Post Increment Operator(++a): In Post Increment Operator, the value present in the variable is assigned first and then It is incremented.
+
+Below is the code for the explanation of the increment operators:
+
+-   main() { 
+
+-    int a = 21; 
+
+-    int c ; 
+
+-    // Value of a will not be increased before assignment. 
+
+-    c = a++;  
+
+-    cout << "Line 1 - Value of a++ is :" << c << endl ; 
+
+-    // After expression value of a is increased 
+
+-    cout << "Line 2 - Value of a is :" << a << endl ;  
+
+-    // Value of a will be increased before assignment. 
+
+-    c = ++a;  
+
+-    cout << "Line 3 - Value of ++a is  :" << c << endl ; 
+
+-    return 0; 
+
+-   } 
+
+-   Output: 
+
+-   Value of a++ is :21 
+
+-   Value of a is :22 
+
+-   Value of ++a is  :23
 ---
 Read also - 
