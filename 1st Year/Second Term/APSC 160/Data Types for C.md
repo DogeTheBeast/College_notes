@@ -10,6 +10,9 @@
 
 ## Typecasting in *C*
 
+Typecasting is converting one datatype into another. This is generally used in division as division can lead to a float point value from an input of 2 integers. Consider the following example,
+
+```c
 
 
 
