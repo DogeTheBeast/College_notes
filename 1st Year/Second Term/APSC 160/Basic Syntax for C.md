@@ -84,7 +84,9 @@ a/=b;	//divides a by b every iteration
 void main()
 {
 	int a = 5;
-	int b = 
+	printf("%d",a++); //Output is 5
+	a = 5;
+	printf("%d")
 }
 
 ---
