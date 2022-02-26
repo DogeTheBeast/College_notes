@@ -54,6 +54,13 @@ Define is a macro definition that is not a variable. That means it has an absolu
 #define Name "Ratiq"
 #define Size 15
 
+void main()
+{	
+	printf
+
+
+}
+
 
 ---
 Read also - 
