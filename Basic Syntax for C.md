@@ -24,6 +24,16 @@ Below is a list of basic *C* libraries that are used in general programs along w
 
 To include a library in *C*,
 ```c
+// This adds a library to the program
+#include <stdio.h>
+```
+
+
+## main function
+
+The main function contains
+
+
 
 ---
 Read also - 
