@@ -65,7 +65,7 @@ void main()
 }
 ```
 
-Pay 
+Pay attention to the number of spaces before the first digit of the output. The decimal is also taken into account when the field width is calculated.
 
 
 
