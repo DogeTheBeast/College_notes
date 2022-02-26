@@ -65,7 +65,11 @@ void main()
 
 ## Increments and Decrements
 
-There are 4 possible ways to affect a number (increment or dec)
+There are 4 possible ways to affect a number (increment or decrement). They are
+```c
+a++; //increases the value of a by 1
+a--; //decreases the value of a by 1
+a*=b; //multiplies a by b 
 
 ---
 Read also - 
