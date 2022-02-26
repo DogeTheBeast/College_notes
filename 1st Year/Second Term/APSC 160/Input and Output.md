@@ -11,6 +11,8 @@ printf("%o", a);
 
 The term inside the double quotes is the placeholder and it replaces its value with the variable present after the comma. The *%o* gives the type of output it presents. This can be changed to present the variable as different datatypes.
 
+This can be done for multiple variables as well but the 
+
 ### The Variations
 
 These are the arguments that can go inside the double quotes in the printf statement.
@@ -67,8 +69,14 @@ void main()
 
 Pay attention to the number of spaces before the first digit of the output. The decimal is also taken into account when the field width is measured. This is true for any other symbol as well such as a negative sign (-).
 
-If a negative sign is placed before the format specifier, then the number of empty spaces added to the number will be to the right. So, 
-
+If a negative sign is placed before the format specifier, then the number of empty spaces added to the number will be to the right. So,
+```c
+void main()
+{
+	float num = 1.123456;
+	printf("%-6.2lf",num); // The output of this will be "1.12  "
+}
+```
 
 
 ## scanf and its variations
