@@ -86,8 +86,10 @@ void main()
 	int a = 5;
 	printf("%d",a++); //Output is 5
 	a = 5;
-	printf("%d")
+	printf("%d",++a); //Output is 6
 }
+```
+
 
 ---
 Read also - 
