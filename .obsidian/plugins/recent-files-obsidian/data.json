@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Logical Operators",
+      "path": "1st Year/Second Term/APSC 160/Logical Operators.md"
+    },
+    {
       "basename": "Basic Syntax for C",
       "path": "1st Year/Second Term/APSC 160/Basic Syntax for C.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Moment of a Force",
       "path": "1st Year/First Term/PHY170/Moment/Moment of a Force.md"
-    },
-    {
-      "basename": "Moment of a Couple",
-      "path": "1st Year/First Term/PHY170/Moment/Moment of a Couple.md"
     }
   ],
   "omittedPaths": [],
