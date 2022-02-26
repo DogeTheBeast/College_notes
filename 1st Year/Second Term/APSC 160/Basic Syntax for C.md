@@ -56,7 +56,9 @@ Define is a macro definition that is not a variable. That means it has an absolu
 
 void main()
 {	
-	
+	int Double_size;
+	Double_size = 2*Size; //Here size is substituted by the value of 15.
+	printf("")
 
 
 }
