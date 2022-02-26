@@ -58,7 +58,8 @@ void main()
 {	
 	int Double_size;
 	Double_size = 2*Size; //Here size is substituted by the value of 15.
-	printf("")
+	printf("%s", Name); //This prints out Ratiq
+	// This is fine as printf does not take a variable but an object which is 
 
 
 }
