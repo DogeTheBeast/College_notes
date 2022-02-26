@@ -55,8 +55,15 @@ void main()
 }
 ```
 
+Something similar can be used to define the number of spaces a number can take when printed out.
 
-
+```c
+void main()
+{
+	float num = 1.123456;
+	printf("%2lf",num); // The output of this will be 1.12 (up to 2 decimal places)
+}
+```
 
 ## scanf and its variations
 
