@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f606e61baeb1872",
+        "id": "5ec1531e01c7c641",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1st Year/Second Term/PHY 158/PHY 158 Syllabus.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Year/Second Term/PHY 158/PHY 158 Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +115,7 @@
     "width": 266.7156982421875,
     "collapsed": true
   },
-  "active": "7f606e61baeb1872",
+  "active": "5ec1531e01c7c641",
   "lastOpenFiles": [
     "1st Year/Second Term/PHY 158/PHY 158 Syllabus.md",
     "1st Year/Second Term/PHY 159/Lab 1.md",
