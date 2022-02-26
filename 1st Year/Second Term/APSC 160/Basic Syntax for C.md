@@ -63,7 +63,9 @@ void main()
 }
 ```
 
+## Increments and Decrements
 
+There are 4 possible ways to affect a number (increment or dec)
 
 ---
 Read also - 
