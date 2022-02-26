@@ -11,7 +11,14 @@ printf("%o", a);
 
 The term inside the double quotes is the placeholder and it replaces its value with the variable present after the comma. The *%o* gives the type of output it presents. This can be changed to present the variable as different datatypes.
 
-This can be done for multiple variables as well but the 
+This can be done for multiple variables as well but the order of the variables has to be the same as the format specifiers.
+
+```c 
+int a = 10;
+float b = 11.1;
+printf("%o %lf", a, b);
+// The output will be "10 11.1"
+```
 
 ### The Variations
 
