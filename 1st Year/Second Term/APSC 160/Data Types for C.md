@@ -36,7 +36,18 @@ void main()
 }
 ```
 
+But, if the expression is placed inside parenthesis, then the return of that arithmetic operation will be an integer.
 
+```c
+void main()
+{	
+	int a = 15;
+	int b = 10;
+	double c;
+	c = (double) (a/b);
+	printf("%lf",c); // The output of this program in "1.000000".
+}
+```
 
 
 
