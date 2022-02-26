@@ -43,6 +43,11 @@ Something similar is valid for Hexadecimal integers as well. Instead of a 0, we 
 int a = 0xEEFF0D;
 ```
 
+### Decimal places and field width
+
+The decimal places for a given output can be specified by 
+
+
 
 ## scanf and its variations
 
