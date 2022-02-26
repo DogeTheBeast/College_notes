@@ -16,8 +16,7 @@ This can be done for multiple variables as well but the order of the variables h
 ```c 
 int a = 10;
 float b = 11.1;
-printf("%o %lf", a, b);
-// The output will be "10 11.1"
+printf("%o %lf", a, b); // The output will be "10 11.1"
 ```
 
 ### The Variations
