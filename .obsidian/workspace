@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basic Syntax for C.md",
+            "file": "1st Year/Second Term/APSC 160/Basic Syntax for C.md",
             "mode": "source"
           }
-        },
-        "group": "0a3c08f3fd8d5013"
-      },
-      {
-        "id": "e678ce753177a23e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Basic Syntax for C.md",
-            "mode": "preview"
-          }
-        },
-        "group": "0a3c08f3fd8d5013"
+        }
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Syntax for C.md",
+                "file": "1st Year/Second Term/APSC 160/Basic Syntax for C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +121,15 @@
   },
   "active": "5ec1531e01c7c641",
   "lastOpenFiles": [
-    "Basic Syntax for C.md",
-    "1st Year/Second Term/APSC 160/Numbers in Different Bases.md",
+    "1st Year/Second Term/APSC 160/Basic Syntax for C.md",
+    "1st Year/Second Term/APSC 160/APSC 160 Syllabus.md",
     "1st Year/Second Term/APSC 160/Data Types for C.md",
+    "1st Year/Second Term/APSC 160/Numbers in Different Bases.md",
+    "1st Year/Second Term/APSC 160/Input and Output.md",
     "1st Year/Second Term/PHY 158/PHY 158 Syllabus.md",
     "1st Year/Second Term/PHY 159/Lab 1.md",
     "1st Year/Housing situation.md",
     "1st Year/First Term/APSC 100/Module 3/Benefits and problems with CAD.md",
-    "1st Year/Second Term/APSC 160/Input and Output.md",
-    "1st Year/Second Term/APSC 160/APSC 160 Syllabus.md",
     "1st Year/Second Term/PHY 159/Lab 2.md"
   ]
 }
