@@ -8,7 +8,9 @@
 | *char*   | Character |        | Stores a single character                                                |
 | *_Bool*  | Boolean   |        | Stores only true or false values (1 or 0)                                |
 
-## Division and Multiplication in *C*
+## Typecasting in *C*
+
+
 
 
 
