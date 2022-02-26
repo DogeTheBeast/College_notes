@@ -59,10 +59,10 @@ void main()
 	int Double_size;
 	Double_size = 2*Size; //Here size is substituted by the value of 15.
 	printf("%s", Name); //This prints out Ratiq
-	// This is fine as 
-
-
+	// This is fine as C sees that Name is defined and substitutes the value of Name into %s.
 }
+```
+
 
 
 ---
