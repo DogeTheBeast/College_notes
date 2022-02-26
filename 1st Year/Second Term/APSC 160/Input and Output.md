@@ -50,7 +50,8 @@ The decimal places for a given output can be specified by doing the following,
 ```c
 void main()
 {
-	
+	float num = 1.123456;
+	printf("%.2lf",num); // The output of this will be 1.12 (up to 2 decimal plac)
 }
 
 
