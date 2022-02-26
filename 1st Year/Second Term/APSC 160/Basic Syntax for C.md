@@ -48,7 +48,7 @@ int main (void){
 
 ## Define
 
-Define is a way to 
+Define is a macro definition that is not a variable. That means it has an absolute value which can't be changed while the program runs and it only refers to the 
 
 
 ---
