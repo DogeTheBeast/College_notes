@@ -56,7 +56,7 @@ Define is a macro definition that is not a variable. That means it has an absolu
 
 void main()
 {	
-	printf
+	
 
 
 }
