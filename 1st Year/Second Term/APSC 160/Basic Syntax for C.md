@@ -47,5 +47,9 @@ int main (void){
 
 
 ## Define
+
+Define is a way to 
+
+
 ---
 Read also - 
