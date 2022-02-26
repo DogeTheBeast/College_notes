@@ -65,7 +65,7 @@ void main()
 }
 ```
 
-Pay attention to the number of spaces before the first digit of the output. The decimal is also taken into account when the field width is calculated.
+Pay attention to the number of spaces before the first digit of the output. The decimal is also taken into account when the field width is measured. This is true for any other symbol as well such as a negative sign (-).
 
 
 
