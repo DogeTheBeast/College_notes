@@ -15,13 +15,15 @@ Typecasting is converting one datatype into another. This is generally used in d
 ```c
 void main()
 {	
-	int a = 10;
-	int b = 15;
+	int a = 15;
+	int b = 10;
 	double c;
 	c = a/b;
-	printf("%lf",c); // The output of this program in 
+	printf("%lf",c); // The output of this program in "1.000000".
 }
+```
 
+To make the 
 
 
 
