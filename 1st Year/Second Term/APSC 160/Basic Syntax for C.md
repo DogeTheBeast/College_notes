@@ -17,8 +17,9 @@ Comments in *C* are surrounded by either of the two ways presented below.
 ## Basic *C* libraries
 
 Below is a list of basic *C* libraries that are used in general programs along with the functionality they offer.
-| Library  | Functionality                                            |                              |
-| -------- | -------------------------------------------------------- | ---------------------------- |
+
+| Library  | Functionality                                            |
+| -------- | -------------------------------------------------------- |
 | stdio.h  | Standard input and output library                        |
 | stdlib.h | Better memory allocation and other general functionality |
 
@@ -32,7 +33,7 @@ To include a library in *C*,
 
 ## main function
 
-The main function contains what the program will actually perform and it is the first function that will be called when the program is executed.
+The main function contains what the program will actually perform and it is the first function that will be called when the program is executed. The return type is integer by default and it returns a 0 with the but it can be 
 
 
 
