@@ -31,7 +31,7 @@ To include a library in *C*,
 ```
 
 
-## main function
+## Main function
 
 The main function contains what the program will actually perform and it is the first function that will be called when the program is executed. The return type is integer by default and it returns a 0 (it is not necessary) with the program ends but it can be changed to a different data type such as void ([[Data Types for C]]).
 
