@@ -45,7 +45,13 @@ int a = 0xEEFF0D;
 
 ### Decimal places and field width
 
-The decimal places for a given output can be specified by 
+The decimal places for a given output can be specified by doing the following,
+
+```c
+void main()
+{
+	
+}
 
 
 
