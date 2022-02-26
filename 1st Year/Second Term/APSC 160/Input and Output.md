@@ -61,7 +61,7 @@ Something similar can be used to define the number of spaces a number can take w
 void main()
 {
 	float num = 1.123456;
-	printf("%2lf",num); // The output of this will be 1.12 (up to 2 decimal places)
+	printf("%6lf",num); // The output of this will be " "
 }
 ```
 
