@@ -31,7 +31,7 @@ To include a library in *C*,
 
 ## main function
 
-The main function contains
+The main function contains what the program will actually perform and it is the first function that will be called when the program is executed.
 
 
 
