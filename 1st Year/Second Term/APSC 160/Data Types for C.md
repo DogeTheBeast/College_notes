@@ -23,7 +23,18 @@ void main()
 }
 ```
 
-This happens because both the numbers used in division are integers. Therefore, the compiler tries to return a value in the form of an integer, truncating the values after the decimal. To fix this, we use a special declaration which tells the compiler that the return of the di
+This happens because both the numbers used in division are integers. Therefore, the compiler tries to return a value in the form of an integer, truncating the values after the decimal. To fix this, we use a special declaration which tells the compiler that the return of the division should be a double and not an integer.
+
+```c
+void main()
+{	
+	int a = 15;
+	int b = 10;
+	double c;
+	c = (double) a/b;
+	printf("%lf",c); // The output of this program in "1.500000".
+}
+```
 
 
 
