@@ -13,7 +13,14 @@
 Typecasting is converting one datatype into another. This is generally used in division as division can lead to a float point value from an input of 2 integers. Consider the following example,
 
 ```c
-
+void main()
+{	
+	int a = 10;
+	int b = 15;
+	double c;
+	c = a/b;
+	printf("%lf",c); // The output of this program in 
+}
 
 
 
