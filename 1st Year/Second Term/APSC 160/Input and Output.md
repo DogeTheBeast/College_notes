@@ -117,7 +117,7 @@ A basic sample of opening a file is presented below (with the input file called 
 ```c
 void main()
 {
-	FILE* file;
+	FILE* file; 							// Creates a variable that can 
 	file = fopen("data.txt","r");
 	
 	if(file == NULL)
@@ -125,7 +125,8 @@ void main()
 		printf("Error in opening the file");
 		return 0;
 	}
-	
+	fscanf(file, "%d %d", a, b);
+	printf("%d %d", a, b);
 }
 
 
