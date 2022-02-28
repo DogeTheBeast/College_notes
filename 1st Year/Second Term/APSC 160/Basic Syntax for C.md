@@ -92,7 +92,19 @@ void main()
 
 ## Conditional Statements
 
-Conditional statements are statement which execute code based on whether the given statement is true o
+Conditional statements are statement which execute code based on whether the given statement is true or false.
+
+```c
+void main()
+{
+	int a = 6;
+	if(a>=5)
+	{
+		printf("a is greater than 5"); // This code prints
+	}
+}
+```
+
 
 
 ---
