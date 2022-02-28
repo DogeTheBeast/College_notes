@@ -156,22 +156,19 @@ void main()
 Functions are a way to make your code look simpler and break it down into components which can be refers to without repeating the same code again and again (abstraction). To define a function in *C*, we need to write a function with its return type as well as a function prototype. 
 
 ```c
-double add(double a, double b) 
+double add(double a, double b);
 
 void main()
 {
 	double num_1 = 5;
 	double num_2 = 16;
-	printf("%lf", add(num_1,num_2)); 
+	printf("%lf", add(num_1,num_2)); // This returns the sum of num_1 and num_2
 }
 
-double add(double a, double b)
+double add(double a, double b) 	    //
 {
 	return a+b;
 }
-
-
-
 ```
 ---
 Read also - 
