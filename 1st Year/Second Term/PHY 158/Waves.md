@@ -34,7 +34,7 @@ $${\LARGE y_T (r_1,r_2,t) = A_1 sin(kr_1 - \omega t + \phi_1) + A_2 sin(kr_2 - \
 
 Using the equation above and trigonometric identities, it can be simplified into,
 
-$${\LARGE y_{total} = 2A}$$
+$${\LARGE y_{total} = 2A sin \left(\frac{k(r_1+r_2)}{2} - \omega t + \frac{\phi_1+\phi_2}{2}\right)}$$
 
 
 ---
