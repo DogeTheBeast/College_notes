@@ -40,7 +40,9 @@ The sin component describes the wave and the cos component describes the amplitu
 
 
 So, superposition can be simplified into 2 basic equations,
-For destructive interference
+For destructive interference,
+
+$${\LARGE k\delta r_{12} + \delta }$$
 
 
 ---
