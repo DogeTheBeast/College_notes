@@ -193,9 +193,10 @@ The output of this code is a file with 0123456789.
 
 
 ```c
-fscanf(file_variable, format_specifier, assignment_variables);
+fprintf(file_variable, format_specifier, printing_variables);
 ```
 
+fprintf takes a file variable (the object which stores the output file) and prints 
 
 
 ---
