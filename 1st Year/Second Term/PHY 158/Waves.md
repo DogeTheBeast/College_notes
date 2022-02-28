@@ -46,7 +46,7 @@ $${\LARGE k\Delta r_{12} + \Delta \phi_{12} = n_{odd} \pi}$$
 
 and for constructive interference,
 
-$${\LAREGE}
+$${\LARGE k\Delta r_{12} + \Delta \phi_{12} = 2 \pi n}$$
 
 
 ---
