@@ -106,6 +106,19 @@ void main()
 }
 ```
 
+Extra conditions can be added into the if statement which will be check if the first condition is not satisfied.
+
+```c
+void main()
+{
+	int a = 6;
+	if(a > = 5)
+	{
+		printf("a is greater than 5"); // This code prints this statement only
+									   //when the value of a is greater than 5
+	}
+}
+```
 
 
 ---
