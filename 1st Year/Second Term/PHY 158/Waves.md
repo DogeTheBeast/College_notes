@@ -30,7 +30,9 @@ $${\LARGE y_T = y_1 + y_2}$$
 $${\LARGE y_T (r_1,r_2,t) = A_1 sin(kr_1 - \omega t + \phi_1) + A_2 sin(kr_2 - \omega t + \phi_2)}$$
 
 
+![[Path difference.png]]
 
+Using the 
 
 
 ---
