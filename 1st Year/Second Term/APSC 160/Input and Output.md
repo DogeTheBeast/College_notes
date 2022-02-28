@@ -180,10 +180,13 @@ void main()
 	}
 	for(int i=0;i<10;i++)
 	{
-		printf("%d %d", a, b);				// Printing values of a and b
+		fprintf(file,"%d", i);				// Printing values of a and b into file
 	}
 	fclose(file);
 }
 ```
+
+The output of this code is a file with 0,1,2,3,4,5,6,7,8,9
+
 ---
 Read also - 
