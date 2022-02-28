@@ -117,10 +117,10 @@ A basic sample of opening a file is presented below (with the input file called 
 ```c
 void main()
 {
-	FILE* file; 							// Creates a variable that can 
-	file = fopen("data.txt","r");
-	
-	if(file == NULL)
+	FILE* file; 							// Creates a variable of FILE* data type
+	file = fopen("data.txt","r");			// Opens the input file and assigns it to the 
+											// variable.
+	if(file == NULL)						// Checking if the variable is em
 	{
 		printf("Error in opening the file");
 		return 0;
