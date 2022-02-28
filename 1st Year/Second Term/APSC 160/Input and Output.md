@@ -129,7 +129,12 @@ void main()
 											// file variable and assigning it to a and b
 	printf("%d %d", a, b);					// Printing values of a and b
 }
+```
 
+The fscanf function and the fopen have very unique parameters which are stated below.
+
+```c
+fscanf(variable which is the)
 
 
 ---
