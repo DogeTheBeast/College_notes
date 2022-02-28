@@ -165,7 +165,7 @@ fopen has a return type of FILE* and is used to open an input file and assign it
 	
 ## Outputting a file
 
-Outputting a file has a similar method to inputting a file except, instead of fscanf to input numbe
+Outputting a file has a similar method to inputting a file except, instead of fscanf to input data, we use fprintf to print information to the output file.
 
 ---
 Read also - 
