@@ -183,9 +183,13 @@ Arrays are data structures which allow multiple variables to be stored together 
 ```c
 void main()
 {
-	int data[100]
+	int data[100];					// This statemen
+	for(int i = 0; i<100; i++)
+	{
+		data[i] = i+1;
+	}
 }
-
+```
 
 
 ---
