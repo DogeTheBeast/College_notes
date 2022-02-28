@@ -112,9 +112,14 @@ Extra conditions can be added into the if statement which will be check if the f
 void main()
 {
 	int a = 6;
-	if(a > = 5)
+	if(a > = 10)
 	{
-		printf("a is greater than 5"); // This code prints this statement only
+		printf("a is greater than 10"); // This code prints this statement only
+									    //when the value of a is greater than 10
+	}
+	else if(a > 5)
+	{
+		printf("a is greater than 5"); // This code prints this statement only 
 									   //when the value of a is greater than 5
 	}
 }
