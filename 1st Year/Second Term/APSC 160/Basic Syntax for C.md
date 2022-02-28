@@ -160,9 +160,9 @@ double add(double a, double b)
 
 void main()
 {
-	int num_1 = 5;
-	int num_2 = 16;
-	printf("%")
+	double num_1 = 5;
+	double num_2 = 16;
+	printf("%lf", add(num_1,num_2)); 
 }
 
 double add(double a, double b)
