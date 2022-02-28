@@ -139,7 +139,17 @@ The while loop repeats the block of code while the condition inside the bracket 
 
 #### For loop
 
-In a for loop, a new variable is initialised which is used in testing the condition that is presented in the condition and if it true, the block of c
+In a for loop, a new variable is initialised which is used in testing the condition that is presented in the condition and if it true, the block of code inside the if loop is repeated.
+
+```c
+void main()
+{
+	for(int a = 5;a>0;a--) // The decrement operator is stated inside the for loop
+	{
+		printf("%d",a); // The output will be 54321
+	}
+}
+```
 
 
 ---
