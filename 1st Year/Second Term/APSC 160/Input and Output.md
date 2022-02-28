@@ -196,7 +196,7 @@ The output of this code is a file with 0123456789.
 fprintf(file_variable, format_specifier, printing_variables);
 ```
 
-fprintf takes a file variable (the object which stores the output file) and prints 
+fprintf takes a file variable (the object which stores the output file) and prints variables to the file in a specific format specified by the format specifier.
 
 
 ---
