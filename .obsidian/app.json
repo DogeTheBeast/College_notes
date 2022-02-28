@@ -20,7 +20,11 @@
     "animalised",
     "Multimeter",
     "Ratiq",
-    "Narwal"
+    "Narwal",
+    "fscanf",
+    "fprintf",
+    "fopen",
+    "scanf"
   ],
   "foldHeading": true,
   "foldIndent": true
