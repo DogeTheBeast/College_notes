@@ -134,8 +134,10 @@ void main()
 The fscanf function and the fopen have very unique parameters which are stated below.
 
 ```c
-fscanf(file_variable, format_specifier, assignment_
+fscanf(file_variable, format_specifier, assignment_variables);
+```
 
+The file variable is the variable which has the input file opened in. Format specifier is similar to the format specifier used in printf and scanf (It t)
 
 ---
 Read also - 
