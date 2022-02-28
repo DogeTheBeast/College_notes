@@ -125,7 +125,7 @@ void main()
 		printf("Error in opening the file");
 		return 0;
 	}
-	fscanf(file, "%d %d", a, b);			// Reading and inputting values from the file
+	fscanf(file, "%d %d", &a, &b);			// Reading and inputting values from the file
 											// file variable and assigning it to a and b
 	printf("%d %d", a, b);					// Printing values of a and b
 }
@@ -139,7 +139,7 @@ fscanf(file_variable, format_specifier, assignment_variables);
 
 The file variable is the variable which has the input file opened in. Format specifier is similar to the format specifier used in printf and scanf (It tells how the data in the file is arranged) and the assignment variables are the variables that have the data from the input file has been assigned to.
 
-The fscanf function has a pointer inside the file variable which moves every time a new va
+The fscanf function has a pointer inside the file variable which moves every time a new value is assigned to a variable. 
 
 ## Outputting a file
 
