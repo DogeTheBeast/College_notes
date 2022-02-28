@@ -178,6 +178,8 @@ The function prototype is a statement at the start of the code which defines all
 
 ## Arrays
 
+Arrays are data structures which allow multiple variables to be stored together under one name and in adjacent memory locations.
+
 
 ---
 Read also - 
