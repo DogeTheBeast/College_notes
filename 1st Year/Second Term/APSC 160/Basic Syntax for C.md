@@ -194,7 +194,10 @@ void main()
 An array can also be defined manually,
 
 ```c
-int data
+int data[] = {5, 6, 7, 8, 9, 10};
+// OR
+int data[6] = {5, 6, 7, 8, 9, 10};
+```
 
 
 
