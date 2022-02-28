@@ -112,8 +112,6 @@ The basic steps to input a file into *C* are as follows:-
 3. Check to make sure the file was successfully opened by checking to see if the variable == NULL. If it does, then an error has occurred in reading the file.
 4. Use the fprintf or fscanf functions to write/read from the file. Usually these function calls are placed in a loop. In the case of reading data, usually, the data is read in and placed in an array, but sometimes we process the data "on the fly" (i.e., we do not store the data, we process it and create a result directly before reading any more data.
 
-The fscanf function also has a return type of integer. It returns the number of successful number of variables that the value from the input has been assigned to. Therefore, this can be used to check whether all the data inside the input file has been read. 
-
 A basic sample of opening a file is presented below (with the input file called "data.txt").
 
 ```c
@@ -134,7 +132,9 @@ void main()
 }
 ```
 
-The fscanf function and the fopen have very unique parameters which are stated below.
+### fscan
+
+The fscanf function has a return type of integer. It returns the number of successful number of variables that the value from the input has been assigned to. Therefore, this can be used to check whether all the data inside the input file has been read. The fscanf function has a very unique parameters which are stated below.
 
 ```c
 fscanf(file_variable, format_specifier, assignment_variables);
@@ -144,7 +144,9 @@ The file variable is the variable which has the input file opened in. Format spe
 
 The fscanf function also has a pointer inside the file variable which moves every time a new value is assigned to a variable. So, a new value is assigned to the variables after every loop.
 
-
+fopen function has the parameters,
+```c
+fopen()
 
 
 ## Outputting a file
