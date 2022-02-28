@@ -137,7 +137,9 @@ void main()
 
 The while loop repeats the block of code while the condition inside the bracket is satisfied.
 
+#### For loop
 
+In a for loop, a new variable is initialised which is used in testing the condition that is presented in the condition and if it true, the block of c
 
 
 ---
