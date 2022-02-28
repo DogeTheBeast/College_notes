@@ -151,7 +151,9 @@ fopen function has the parameters,
 fopen("name_of_the_file", "method_of_opening");
 ```
 
-fopen is used to
+fopen has a return type of FILE* and is used to open an input file and assign it to a variable. Here, the method of opening refers to the type different ways of opening a file stated below,
+
+|
 
 	
 	
