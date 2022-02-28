@@ -157,7 +157,7 @@ fopen has a return type of FILE* and is used to open an input file and assign it
 | -------------------- | ------ |
 | Read only            | "r"    |
 | Write only           | "w"    |
-| Read and Write       | ""       |
+| Read and Write        | "w+"   | 
 
 	
 	
