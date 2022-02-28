@@ -116,5 +116,14 @@ void main()
 ```
 
 
+## Looping
+
+Looping is a way to repeat a set of lines of code for a limited amount of times. There are different types of loops in *C*.
+
+#### While loop
+
+```
+
+
 ---
 Read also - 
