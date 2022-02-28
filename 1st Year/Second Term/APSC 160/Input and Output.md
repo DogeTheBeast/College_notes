@@ -139,7 +139,7 @@ fscanf(file_variable, format_specifier, assignment_variables);
 
 The file variable is the variable which has the input file opened in. Format specifier is similar to the format specifier used in printf and scanf (It tells how the data in the file is arranged) and the assignment variables are the variables that have the data from the input file has been assigned to.
 
-The fscanf function has a retur
+The fscanf function also has a return type of integer. It returns the number of successful number of assignments that 
 
 has a pointer inside the file variable which moves every time a new value is assigned to a variable. 
 
