@@ -120,13 +120,14 @@ void main()
 	FILE* file; 							// Creates a variable of FILE* data type
 	file = fopen("data.txt","r");			// Opens the input file and assigns it to the 
 											// variable.
-	if(file == NULL)						// Checking if the variable is em
+	if(file == NULL)						// Checking if the variable is empty
 	{
 		printf("Error in opening the file");
 		return 0;
 	}
-	fscanf(file, "%d %d", a, b);
-	printf("%d %d", a, b);
+	fscanf(file, "%d %d", a, b);			// Reading and inputting values from the file
+											// file variable and assigning it to a and b
+	printf("%d %d", a, b);					// Printing values of a and b
 }
 
 
