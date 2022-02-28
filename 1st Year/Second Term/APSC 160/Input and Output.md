@@ -88,7 +88,15 @@ void main()
 ## scanf
 
 
-scanf is used to ask the user for an input through the console. The input is then assigned to a variable and the va
+scanf is used to ask the user for an input through the console. The input is then assigned to a variable and the variable can be used inside the program.
+
+```c
+void main()
+{
+	int input;
+	printf("Enter any integer value");
+	scanf("%")
+}
 
 
 
