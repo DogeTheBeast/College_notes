@@ -134,7 +134,7 @@ void main()
 
 ### fscan
 
-The fscanf function has a return type of integer. It returns the number of successful number of variables that the value from the input has been assigned to. Therefore, this can be used to check whether all the data inside the input file has been read. The fscanf function has a very unique parameters which are stated below.
+The fscanf function has a return type of integer. It returns the number of successful number of variables that the value from the input has been assigned to. Therefore, this can be used to check whether all the data inside the input file has been read. The fscanf function has very unique parameters which are stated below.
 
 ```c
 fscanf(file_variable, format_specifier, assignment_variables);
@@ -144,11 +144,17 @@ The file variable is the variable which has the input file opened in. Format spe
 
 The fscanf function also has a pointer inside the file variable which moves every time a new value is assigned to a variable. So, a new value is assigned to the variables after every loop.
 
+### fopen
+
 fopen function has the parameters,
 ```c
-fopen()
+fopen("name_of_the_file", "method_of_opening");
+```
 
+fopen is used to
 
+	
+	
 ## Outputting a file
 
 
