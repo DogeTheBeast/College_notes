@@ -137,7 +137,7 @@ The fscanf function and the fopen have very unique parameters which are stated b
 fscanf(file_variable, format_specifier, assignment_variables);
 ```
 
-The file variable is the variable which has the input file opened in. Format specifier is similar to the format specifier used in printf and scanf (It tells how the data in the file is arranged) and the assignment variables are the variables that have the data 
+The file variable is the variable which has the input file opened in. Format specifier is similar to the format specifier used in printf and scanf (It tells how the data in the file is arranged) and the assignment variables are the variables that have the data from the input file has been assigned to.
 
 ---
 Read also - 
