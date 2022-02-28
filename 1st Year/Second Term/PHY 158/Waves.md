@@ -39,6 +39,10 @@ $${\LARGE y_{total} = 2A sin \left(\frac{k(r_1+r_2)}{2} - \omega t + \frac{\phi_
 The sin component describes the wave and the cos component describes the amplitude modulation. Hence, the ${\delta r}$ and ${\delta \phi}$ affect the amplitude and it is independent of time.
 
 
+So, superposition can be simplified into 2 basic equations,
+For destructive interference
+
+
 ---
 Read also - 
 
