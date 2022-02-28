@@ -36,7 +36,7 @@ Using the equation above and trigonometric identities, it can be simplified into
 
 $${\LARGE y_{total} = 2A sin \left(\frac{k(r_1+r_2)}{2} - \omega t + \frac{\phi_1+\phi_2}{2}\right)cos\left(\frac{k(r_1-r_2) + \phi_1-\phi_2}{2}\right)}$$
 
-The sin component describes the wave and the cos component describes the amplitude modulation. Hence, the ${\delta r}$ and the ${\delta \phi}$ affect the 
+The sin component describes the wave and the cos component describes the amplitude modulation. Hence, the ${\delta r}$ and ${\delta \phi}$ affect the amplitude and it is independent of time.
 
 
 ---
