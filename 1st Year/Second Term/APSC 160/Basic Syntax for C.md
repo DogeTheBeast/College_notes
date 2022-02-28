@@ -170,5 +170,9 @@ double add(double a, double b) 	     // This is a function that adds 2 numbers.
 	return a+b;
 }
 ```
+
+The function has a return statement which returns a value after execution which can be used inside main. If the return type of a function is void, then it is not necessary for a function to have a return statement.
+
+
 ---
 Read also - 
