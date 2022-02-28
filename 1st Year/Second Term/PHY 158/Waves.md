@@ -25,7 +25,11 @@ In superposition, the equations of two traveling waves can be combined,
 
 $${\LARGE y_2(r_2,t) = A_2 sin(k(r_2 -vt) + \phi) = A_2 sin(kr_2 - \omega t + \phi)}$$
 
-$${\LARGE y_T}
+$${\LARGE y_T = y_1 + y_2}$$ 
+
+$${y_T (r_1,r)
+
+
 
 
 
