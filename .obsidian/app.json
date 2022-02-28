@@ -24,7 +24,9 @@
     "fscanf",
     "fprintf",
     "fopen",
-    "scanf"
+    "scanf",
+    "fclose",
+    "txt"
   ],
   "foldHeading": true,
   "foldIndent": true
