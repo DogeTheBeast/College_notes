@@ -112,12 +112,13 @@ The basic steps to input a file into *C* are as follows:-
 3. Check to make sure the file was successfully opened by checking to see if the variable == NULL. If it does, then an error has occurred in reading the file.
 4. Use the fprintf or fscanf functions to write/read from the file. Usually these function calls are placed in a loop. In the case of reading data, usually, the data is read in and placed in an array, but sometimes we process the data "on the fly" (i.e., we do not store the data, we process it and create a result directly before reading any more data.
 
-A basic sample of opening a file is presented below.
+A basic sample of opening a file is presented below (with the input file cal.
 
 ```c
 void main()
 {
-	
+	FILE* file;
+	fopen()
 }
 
 
