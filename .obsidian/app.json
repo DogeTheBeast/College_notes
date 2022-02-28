@@ -26,7 +26,8 @@
     "fopen",
     "scanf",
     "fclose",
-    "txt"
+    "txt",
+    "superpositions"
   ],
   "foldHeading": true,
   "foldIndent": true
