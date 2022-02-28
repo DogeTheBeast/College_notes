@@ -106,7 +106,7 @@ void main()
 }
 ```
 
-Extra conditions can be added into the if statement which will be check if the first condition is not satisfied.
+Extra conditions can be added into the if statement which will be check if the first condition is not satisfied. Also, a statement (else) can be added which will execute when none of the statements in the if condition are true.
 
 ```c
 void main()
@@ -115,12 +115,16 @@ void main()
 	if(a > = 10)
 	{
 		printf("a is greater than 10"); // This code prints this statement only
-									    //when the value of a is greater than 10
+									    // when the value of a is greater than 10
 	}
 	else if(a > 5)
 	{
 		printf("a is greater than 5"); // This code prints this statement only 
-									   //when the value of a is greater than 5
+									   // when the value of a is greater than 5
+	}
+	else
+	{
+		printf("a is less than 5");
 	}
 }
 ```
