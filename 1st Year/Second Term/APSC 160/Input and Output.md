@@ -88,7 +88,7 @@ void main()
 ## scanf
 
 
-scanf is used to ask the user for an input through the console. The input is then assigned to a variable and the variable can be used inside the program. scanf takes in a format specifier and a variable. The format specifier tells scanf the type of input that is expected from the user (in the code below, it is integer) and then assigns
+scanf is used to ask the user for an input through the console. The input is then assigned to a variable and the variable can be used inside the program. scanf takes in a format specifier and a variable. The format specifier tells scanf the type of input that is expected from the user (in the code below, it is integer) and then assigns it to input. The & sign before input tells the compiler to look for the variable called input inside the memory.
 
 ```c
 void main()
