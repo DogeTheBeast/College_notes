@@ -32,7 +32,9 @@ $${\LARGE y_T (r_1,r_2,t) = A_1 sin(kr_1 - \omega t + \phi_1) + A_2 sin(kr_2 - \
 
 ![[Path difference.png]]
 
-Using the 
+Using the equation above and trigonometric identities, it can be simplified into,
+
+$${\LARGE y_{total} = 2A}$$
 
 
 ---
