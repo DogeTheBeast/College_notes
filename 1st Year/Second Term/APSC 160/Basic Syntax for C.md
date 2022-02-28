@@ -139,7 +139,7 @@ The while loop repeats the block of code while the condition inside the bracket 
 
 #### For loop
 
-In a for loop, a new variable is initialised which is used in testing the condition that is presented in the condition and if it true, the block of code inside the if loop is repeated.
+In a for loop, a new variable is initialized which is used in testing the condition that is presented in the condition and if it true, the block of code inside the if loop is repeated.
 
 ```c
 void main()
