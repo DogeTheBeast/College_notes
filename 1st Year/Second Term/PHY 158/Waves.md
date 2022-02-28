@@ -27,7 +27,7 @@ $${\LARGE y_2(r_2,t) = A_2 sin(k(r_2 -vt) + \phi) = A_2 sin(kr_2 - \omega t + \p
 
 $${\LARGE y_T = y_1 + y_2}$$ 
 
-$${y_T (r_1,r)
+$${\LARGE y_T (r_1,r_2,t) = A_1 sin(kr_1 - \omega t + \phi_1) + A_2 sin(kr_2 - \omega t + \phi_1)}$$
 
 
 
