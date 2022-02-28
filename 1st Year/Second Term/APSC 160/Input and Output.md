@@ -134,7 +134,7 @@ void main()
 The fscanf function and the fopen have very unique parameters which are stated below.
 
 ```c
-fscanf(variable which is the)
+fscanf(file_variable, format_specifier, assignment_
 
 
 ---
