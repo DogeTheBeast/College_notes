@@ -100,7 +100,8 @@ void main()
 	int a = 6;
 	if(a>=5)
 	{
-		printf("a is greater than 5"); // This code prints
+		printf("a is greater than 5"); // This code prints this statement only
+									   //when the value of a is greater than 5
 	}
 }
 ```
