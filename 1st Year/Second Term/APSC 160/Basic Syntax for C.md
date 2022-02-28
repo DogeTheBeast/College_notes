@@ -153,7 +153,7 @@ void main()
 
 ## Functions
 
-
+Functions are a way to make your code look simpler and break it down into components which can be refers to without repeating the same code again and again (abstraction).
 
 
 ---
