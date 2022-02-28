@@ -128,8 +128,9 @@ void main()
 	int a = 5;
 	while(a>0)
 	{
-		printf("%d",a); // 
-		a--;
+		printf("%d",a); // The output will be 54321
+		a--; 			// Statement to decrease the value of a so that the while statement
+						// is false after a limited amount of repetitions.
 	}
 }
 
