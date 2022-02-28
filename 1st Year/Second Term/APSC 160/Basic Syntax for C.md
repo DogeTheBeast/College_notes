@@ -118,12 +118,19 @@ void main()
 
 ## Looping
 
-Looping is a way to repeat a set of lines of code for a limited amount of times. There are different types of loops in *C*.
+Looping is a way to repeat a set of lines of code for a limited amount of times. There are different types of loops in *C*. All loops are repeated based on a condition. When the condition is not true anymore, the loop stops and the compilr
 
 #### While loop
 
-```
-
+```c
+void main()
+{
+	int a = 5;
+	while(a>0)
+	{
+		
+	}
+}
 
 ---
 Read also - 
