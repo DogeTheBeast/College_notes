@@ -10,7 +10,9 @@ When two waves with the same frequency interfere, superposition occurs. Superpos
 
 ## Traveling waves
 
+Traveling waves can be expressed using a standard equation,
 
+$${\LARGE y_1(r_1,t) = A_1 sin(k(r_1 -vt) + \phi)}$$
 
 
 ---
