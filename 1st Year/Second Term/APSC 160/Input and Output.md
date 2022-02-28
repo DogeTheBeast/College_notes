@@ -165,7 +165,25 @@ fopen has a return type of FILE* and is used to open an input file and assign it
 	
 ## Outputting a file
 
-Outputting a file has a similar method to inputting a file except, instead of fscanf to input data, we use fprintf to print information to the output file.
+Outputting a file has a similar method to inputting a file except, instead of fscanf to input data, we use fprintf to print information to the output file. An example code is presented below,
 
+```c
+void main()
+{
+	FILE* file; 							// Creates a variable of FILE* data type
+	file = fopen("data.txt","w");			// Opens the input file and assigns it to the 
+											// variable.
+	if(file == NULL)						// Checking if the variable is empty
+	{
+		printf("Error in opening the file");
+		return 0;
+	}
+	for(int i=0;i<10;i++)
+	{
+		printf("%d %d", a, b);				// Printing values of a and b
+	}
+	fclose(file);
+}
+```
 ---
 Read also - 
