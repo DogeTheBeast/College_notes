@@ -133,6 +133,12 @@ void main()
 						// is false after a limited amount of repetitions.
 	}
 }
+```
+
+The while loop repeats the block of code while the condition inside the bracket is satisfied.
+
+
+
 
 ---
 Read also - 
