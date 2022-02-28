@@ -129,6 +129,7 @@ void main()
 	{
 		printf("%d %d", a, b);				// Printing values of a and b
 	}
+	fclose(file);
 }
 ```
 
@@ -153,11 +154,11 @@ fopen("name_of_the_file", "method_of_opening");
 
 fopen has a return type of FILE* and is used to open an input file and assign it to a variable. Here, the method of opening refers to the type different ways of opening a file stated below,
 
-| Type of opening file | Syntax |
-| -------------------- | ------ |
-| Read only            | "r"    |
-| Write only           | "w"    |
-| Read and Write        | "w+"   | 
+| Type of opening file                                                 | Syntax |
+| -------------------------------------------------------------------- | ------ |
+| Read only                                                            | "r"    |
+| Write only                                                           | "w"    |
+| Read and Write (if a file doesn't exist, a new file will be created) | "w+"   |
 
 	
 	
