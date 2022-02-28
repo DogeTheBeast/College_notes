@@ -144,7 +144,7 @@ In a for loop, a new variable is initialized which is used in testing the condit
 ```c
 void main()
 {
-	for(int a = 5;a>0;a--) // The decrement operator is stated inside the for loop
+	for(int a = 5; a > 0; a--) // The decrement operator is stated inside the for loop
 	{
 		printf("%d",a); // The output will be 54321
 	}
@@ -173,6 +173,7 @@ double add(double a, double b) 	     // This is a function that adds 2 numbers.
 
 The function has a return statement which returns a value after execution which can be used inside main. If the return type of a function is void, then it is not necessary for a function to have a return statement.
 
+The function prototype is a statement at the start of the code which defines all the attributes related to the function (same as the f) 
 
 ---
 Read also - 
