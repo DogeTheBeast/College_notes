@@ -127,7 +127,7 @@ void main()
 		printf("Error in opening the file");
 		return 0;
 	}
-	if(fscanf(file, "%d %d", &a, &b) == 2)	// Reading and inputting values from the file variable and assigning it to a and b
+	while(fscanf(file, "%d %d", &a, &b) == 2)	// Reading and inputting values from the file variable and assigning it to a and b
 	{
 		printf("%d %d", a, b);				// Printing values of a and b
 	}
@@ -140,10 +140,12 @@ The fscanf function and the fopen have very unique parameters which are stated b
 fscanf(file_variable, format_specifier, assignment_variables);
 ```
 
-The file variable is the variable which has the input file opened in. Format specifier is similar to the format specifier used in printf and scanf (It tells how the data in the file is arranged) and the assignment variables are the variables that have the data from the input file has been assigned to.
+The file variable is the variable which has the input file opened in. Format specifier is similar to the format specifier used in printf and scanf (It tells how the data in the file is arranged) and the assignment variables are the variables that have the data from the input file has been assigned to. 
+
+The fscanf function also has a pointer inside the file variable which moves every time a new value is assigned to a variable. So, a new value is assigned to the variables after every loop.
 
 
-The fscanf function also has a pointer inside the file variable which moves every time a new value is assigned to a variable so 
+
 
 ## Outputting a file
 
