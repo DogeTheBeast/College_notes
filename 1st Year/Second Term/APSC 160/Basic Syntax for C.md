@@ -178,7 +178,7 @@ The function prototype is a statement at the start of the code which defines all
 
 ## Arrays
 
-Arrays are data structures which allow multiple variables to be stored together under one name and in adjacent memory locations.
+Arrays are data structures which allow multiple variables to be stored together under one name and in adjacent memory locations. In an array, data is stored in a sequential order and every value inside the array has an index number which starts from 0 and goes on till (Size-1). 
 
 
 ---
