@@ -95,8 +95,12 @@ void main()
 {
 	int input;
 	printf("Enter any integer value");
-	scanf("%")
+	scanf("%d", &input); // This program asks the user for an input and assigns that value 
+						 // to the variable called input.
 }
+```
+
+
 
 
 
