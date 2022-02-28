@@ -92,7 +92,7 @@ void main()
 
 ## Conditional Statements
 
-Conditional statements 
+Conditional statements are statement which execute code based on whether the given statement is true o
 
 
 ---
