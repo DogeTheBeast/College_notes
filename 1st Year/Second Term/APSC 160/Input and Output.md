@@ -120,10 +120,12 @@ void main()
 	FILE* file;
 	file = fopen("data.txt","r");
 	
-	if(file != NULL)
+	if(file == NULL)
 	{
-		printf()
+		printf("Error in opening the file");
+		return 0;
 	}
+	
 }
 
 
