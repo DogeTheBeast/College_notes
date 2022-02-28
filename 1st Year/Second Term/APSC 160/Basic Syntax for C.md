@@ -175,5 +175,9 @@ The function has a return statement which returns a value after execution which 
 
 The function prototype is a statement at the start of the code which defines all the attributes related to the function (same as the first line when creating a function). 
 
+
+## Arrays
+
+
 ---
 Read also - 
