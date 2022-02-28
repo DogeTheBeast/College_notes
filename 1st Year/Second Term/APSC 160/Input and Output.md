@@ -180,13 +180,23 @@ void main()
 	}
 	for(int i=0;i<10;i++)
 	{
-		fprintf(file,"%d", i);				// Printing values of a and b into file
+		fprintf(file,"%d", i);				// Printing values of i into file
 	}
 	fclose(file);
 }
 ```
 
-The output of this code is a file with 0,1,2,3,4,5,6,7,8,9
+The output of this code is a file with 0123456789. 
+
+
+### fprintf
+
+
+```c
+fscanf(file_variable, format_specifier, assignment_variables);
+```
+
+
 
 ---
 Read also - 
