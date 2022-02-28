@@ -108,7 +108,8 @@ void main()
 The basic steps to input a file into *C* are as follows:-
 
 1. Create a variable of type "FILE*".
-2. Open the file using "fopen" 
+2. Open the file using "fopen" function and assign the file to the variable.
+3. Check to make sure the file was successfully opened by checking to see if the variable == NULL. If it does, then 
 
 
 ---
