@@ -21,8 +21,11 @@ where,
 *v* is the speed of the wave, and
 *${\phi}$* is the phase difference of the wave.
 
-$${\LARGE y_1(r_1,t) = A_1 sin(k(r_1 -vt) + \phi) = A_1 sin(kr_1 - \omega t + \phi)}$$
+In superposition, the equations of two traveling waves can be combined,
 
+$${\LARGE y_2(r_2,t) = A_2 sin(k(r_2 -vt) + \phi) = A_2 sin(kr_2 - \omega t + \phi)}$$
+
+$${\LARGE y_T}
 
 
 
