@@ -165,7 +165,7 @@ void main()
 	printf("%lf", add(num_1,num_2)); // This returns the sum of num_1 and num_2
 }
 
-double add(double a, double b) 	    //
+double add(double a, double b) 	     // This is a function that adds 2 numbers.
 {
 	return a+b;
 }
