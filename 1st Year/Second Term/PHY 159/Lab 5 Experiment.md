@@ -101,6 +101,8 @@ $${345.1 = \frac{v}{2L}}$$
 | 0.5                           | 0.24                     | 
 
 
+![[First harmonic lab5.PNG]]
+
 
 ### Second Harmonic
 
