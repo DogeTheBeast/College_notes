@@ -178,10 +178,13 @@ The following results were obtained for the speed of sound and the uncertainty f
 | -------------------- | ----------- |
 | 368.4                | 0.0209      |
 
-And the graph for the pressure profile for the first and second harmonic are stat
+And the graph for the pressure profile for the first and second harmonic are added above, under experimentation.
 
 
 ## Discuss the results
+
+
+The value of the speed of sound obtained are close to the actual 
 
 ## Conclusion
 
