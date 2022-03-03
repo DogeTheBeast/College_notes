@@ -172,6 +172,9 @@ By placing the values in the equation above, the value of the speed of sound is 
 
 ## Report your results
 
+The following results were obtained 
+
+
 ## Discuss the results
 
 ## Conclusion
