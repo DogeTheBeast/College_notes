@@ -155,7 +155,10 @@ The resonance frequencies were measured using the oscilloscope by placing the mi
 
 Using the graph and a linear fit of the graph, the value of the slope was obtained to be 368.4. The slope of the graph is related to the speed of sound using the formula,
 
-$${}
+$${v = \frac{2f_n L}{n}}$$
+$${m = \frac{f_n}{}}
+
+
 
 ## Second Objective - Speed of sound
 
