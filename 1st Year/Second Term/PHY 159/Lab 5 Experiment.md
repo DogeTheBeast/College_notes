@@ -134,12 +134,12 @@ Below is the plot of the values obtained after measuring the amplitude of the wa
 ![[Second Harmonic lab 5.PNG]]
 
 
-where, the x-axis is the distance between the speaker and the microphone (measured in meters) and on the y-axis it is the amplitude of the wave obtained from the microphone (with no units).The error bars for this graph are not visible because the uncertainty in the y value is very low.
+where, the x-axis is the distance between the speaker and the microphone (measured in meters) and on the y-axis it is the amplitude of the wave obtained from the microphone (with no units). The error bars for this graph are not visible because the uncertainty in the y value is very low.
 
 ### Speed of sound
 
 
-The resonance frequencies were measured using the oscilloscope by placing the microphone at distances calculated using the equation inside relating quantities.
+The resonance frequencies were measured using the oscilloscope by placing the microphone at distances calculated using the equation inside Relating Quantities.
 
 | Distance from the speaker (in m) | Resonance number | Frequency |
 | -------------------------------- | ---------------- | --------- |
@@ -155,7 +155,7 @@ The resonance frequencies were measured using the oscilloscope by placing the mi
 
 
 
-where, we have plotted frequency (in hertz) on the y-axis and the resonance number (no unit) on the x-axis.
+where, we have plotted frequency (in hertz) on the y-axis and the resonance number (no unit) on the x-axis. The error bars for this graph are not visible because the uncertainty in the y value is very low.
 
 Using the graph and a linear fit of the graph, the value of the slope was obtained to be 368.4. The slope of the graph is related to the speed of sound using the formula,
 
@@ -167,11 +167,6 @@ $${v = m \times 2L}$$
 By placing the values in the equation above, the value of the speed of sound is obtained to be 368.4 m/s.
 
 
-#### Uncertainty
-$${\frac{\delta v}{v} = \sqrt{\left(\frac{1}{318.5}\right)^2+\left(\frac{0.0005}{0.5}\right)^2}}$$
-$${\delta v \approx 3 \times 10^{-3}}$$
-
-This is the uncertainty in the measured speed of sound rounded to 1 significant figure.
 
 
 
