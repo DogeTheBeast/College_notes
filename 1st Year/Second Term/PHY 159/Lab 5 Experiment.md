@@ -117,19 +117,19 @@ where, the x-axis is the distance between the speaker and the microphone (measur
 
 ### Second Harmonic
 
-| Position of microphone (in m) | Pressure (without units) |
-| ----------------------------- | ------------------------ |
-| 0.00                          | 38.4                     |
-| 0.05                          | 46.8                     |
-| 0.1                           | 78.4                     |
-| 0.15                          | 68.3                     | 
-| 0.2                           | 38.4                     |
-| 0.25                          | 45.8                     |
-| 0.3                           | 50.8                     |
-| 0.35                          | 58.5                     |
-| 0.4                           | 69.6                     |
-| 0.45                          | 42.4                     |
-| 0.5                           | 14.4                     |
+| Position of microphone (in m) | Pressure (without units) | Pressure Uncertainty |
+| ----------------------------- | ------------------------ | -------------------- |
+| 0.00                          | 38.4                     | 0.1                  |
+| 0.05                          | 46.8                     | 0.1                  |
+| 0.1                           | 78.4                     | 0.1                  |
+| 0.15                          | 68.3                     | 0.1                  |
+| 0.2                           | 38.4                     | 0.1                  |
+| 0.25                          | 45.8                     | 0.1                  |
+| 0.3                           | 50.8                     | 0.1                  |
+| 0.35                          | 58.5                     | 0.1                  |
+| 0.4                           | 69.6                     | 0.1                  |
+| 0.45                          | 42.4                     | 0.1                  |
+| 0.5                           | 14.4                     | 0.1                  | 
 
 
 Below is the plot of the values obtained after measuring the amplitude of the wave obtained from the microphone against different distances from the speaker configured for the first harmonic.
