@@ -164,12 +164,7 @@ $${m = \frac{f_n}{n}}$$
 
 $${v = m \times 2L}$$
 
-By placing the values in the equation above, the value of the speed of sound is obtained to be 368.4 m/s.
-
-
-
-
-
+By placing the values in the equation above, the value of the speed of sound is obtained to be 368.4 m/s. And from MATLAB, the uncertainty in the slope is determined to be 0.0209.
 
 
 ## Report your results
