@@ -191,7 +191,7 @@ There were multiple problems that we faced with the instruments and the surround
  - When trying to measure the second harmonic, we accidentally measured the third harmonic which can be attributed to the method that we used. To improve this, we could have made a rough estimate for the second harmonic frequency using the first fundamental frequency as the second harmonic is a multiple of the first harmonic.
  - The microphone picked up sounds from other speakers which were set to a different frequency which interfered with out reading. To improve this, the experiment can be conducted in a isolated environment which would remove any unnecessary noise.
  - The tube was touching the speaker and the microphone was touching the tube as well which made  the reading inaccurate. To improve this, make sure that the tube is not touching the speaker and the microphone is placing in straight and had space on all sides.
- - The uncertainty was calculated to be too low because the instruments that were used were precise but not accurate. The frequency for the function generator we used was adj
+ - The uncertainty was calculated to be too low because the instruments that were used were precise but not accurate. The frequency for the function generator we used was adjusted by hand which introduces human error to the experiment. To improve this, we could use a better function generator and a more accurate way to place the microphone inside the tube.
 
 
 ---
