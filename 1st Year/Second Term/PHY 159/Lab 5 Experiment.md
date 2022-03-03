@@ -176,7 +176,7 @@ The following results were obtained for the speed of sound and the uncertainty f
 
 | Speed of Sound (m/s) | Uncertainty |
 | -------------------- | ----------- |
-| 368.4                | 0.0209      |
+| 368.4000             | 0.0209      |
 
 And the graph for the pressure profile for the first and second harmonic are added above, under experimentation.
 
@@ -190,7 +190,7 @@ The value of the speed of sound obtained are close to the actual value and the u
 There were multiple problems that we faced with the instruments and the surroundings stated below,
  - When trying to measure the second harmonic, we accidentally measured the third harmonic which can be attributed to the method that we used. To improve this, we could have made a rough estimate for the second harmonic frequency using the first fundamental frequency as the second harmonic is a multiple of the first harmonic.
  - The microphone picked up sounds from other speakers which were set to a different frequency which interfered with out reading. To improve this, the experiment can be conducted in a isolated environment which would remove any unnecessary noise.
- - The 
+ - The tube was touching the speaker and the microphone was touching the tube as well which made  
 
 
 ---
