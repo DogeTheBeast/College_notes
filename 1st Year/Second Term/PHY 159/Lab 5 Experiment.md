@@ -168,8 +168,8 @@ By placing the values in the equation above, the value of the speed of sound is 
 
 
 #### Uncertainty
-$${\frac{\delta v}{v} = \sqrt{\left(\frac{1}{309.8}\right)^2+\left(\frac{0.0005}{0.5}\right)^2}}$$
-$${\delta v = 3 \times 10^{-3}}$$
+$${\frac{\delta v}{v} = \sqrt{\left(\frac{1}{318.5}\right)^2+\left(\frac{0.0005}{0.5}\right)^2}}$$
+$${\delta v \approx 3 \times 10^{-3}}$$
 This is the uncertainty in the measured speed of sound rounded to 1 significant figure.
 
 
