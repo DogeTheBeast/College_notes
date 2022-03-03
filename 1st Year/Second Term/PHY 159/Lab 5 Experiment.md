@@ -1,6 +1,6 @@
 # Lab 5 Experiment
 Ratiq Narwal (10289395)
-Eesha Madan
+Eesha Madaan (19162999)
 Date - 2022-03-02
 
 ## Objective
@@ -65,7 +65,7 @@ where,
 
 ### Second Objective - Speed of Sound
 
-As it is a tube open from both ends
+As it is a tube open from both ends, the following formula can be used to find the wavelength of the 
 
 $${\lambda_n = \frac{2L}{n}}$$
 $${\lambda = \frac{v}{f}}$$
