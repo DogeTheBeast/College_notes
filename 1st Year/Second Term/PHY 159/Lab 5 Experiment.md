@@ -139,7 +139,7 @@ where, the x-axis is the distance between the speaker and the microphone (measur
 ### Speed of sound
 
 
-The resonance frequencies were measured using the oscilloscope by placing the microphone at distances half to the distance used for the previous harmonic.
+The resonance frequencies were measured using the oscilloscope by placing the microphone at distances calculated using the equation inside relating quantities.
 
 | Distance from the speaker (in m) | Resonance number | Frequency |
 | -------------------------------- | ---------------- | --------- |
@@ -149,9 +149,13 @@ The resonance frequencies were measured using the oscilloscope by placing the mi
 | 0.1000                           | 4                | 1456.2    |
 | 0.0833                           | 5                | 1790.2    |
 | 0.0714                           | 6                | 2104.5    |
-| 0.0                           | 7                | 2545.7    |
+| 0.0625                           | 7                | 2545.7    |
 
 ![[Speed of sound.PNG]]
+
+
+
+where, we have plotted frequency )
 
 Using the graph and a linear fit of the graph, the value of the slope was obtained to be 368.4. The slope of the graph is related to the speed of sound using the formula,
 
