@@ -84,6 +84,9 @@ $${345.1 = \frac{v}{2L}}$$
 
 Below is the setup that was used while measuring the pressure profile at the fundamental frequency and the second harmonic and the speed of sound.
 
+
+![[setup image.PNG]]
+
 ![[Setup Lab 5.jpg]]
 
  By moving the microphone inside the tube to be at a given distance from the speaker, the following data values are determined for each frequency.
