@@ -6,7 +6,7 @@ Date - 2022-03-02
 
 ## Objective
 We will measure the speed of sound and the pressure amplitude inside an open pipe using the frequency of different waves.
-1) Determine the speed of sound inside a tube using the .
+1) Determine the speed of sound inside a tube using the resonance number and the position insid.
 2) Measure the pressure amplitude profile, *P(x)*, of the sounds waves inside the tube for the fundamental and the second resonance frequency.
 
 
