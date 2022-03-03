@@ -35,8 +35,8 @@ where,
 
 | Resonance number | Frequency |
 | ---------------- | --------- |
-| 1                | 231.1 Hz  |
-| 2                | 902.7 Hz | 
+| 1                | 318.5 Hz  |
+| 2                | 675.6 Hz | 
 
 
 ### Second Objective - Speed of Sound
