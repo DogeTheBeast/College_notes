@@ -65,7 +65,7 @@ where,
 
 ### Second Objective - Speed of Sound
 
-As it is a tube open from both ends, the following formula can be used to find the wavelength of the 
+As it is a tube open from both ends, the following formula can be used to find the wavelength of the wave for different resonance numbers.
 
 $${\lambda_n = \frac{2L}{n}}$$
 $${\lambda = \frac{v}{f}}$$
