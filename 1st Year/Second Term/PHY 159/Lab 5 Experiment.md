@@ -18,7 +18,7 @@ We will measure the speed of sound and the pressure amplitude inside an open pip
 Firstly, we need to find the fundamental frequency and the 2nd resonance frequency. To find the fundamental frequency, we did a rough calculation and determined the value of the fundamental frequency to be near about 343 Hz. As it is open from both ends, the length of the tube is half the wavelength for the first harmonic.
 
 $${v = f \lambda}$$
-$${f = \frac{nv}{\lambda} =  \frac{v}{2L} = \frac{343}{2 \times 50.2} \approx 343 Hz}$$
+$${f = \frac{nv}{\lambda} =  \frac{v}{2L} = \frac{343}{2 \times 0.502} \approx 343 Hz}$$
 
 where,
 *f* is the fundamental frequency,
