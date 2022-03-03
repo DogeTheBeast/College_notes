@@ -123,6 +123,11 @@ $${345.1 = \frac{v}{2L}}$$
 ![[Second Harmonic lab 5.PNG]]
 
 
+### Speed of sound
+
+
+
+
 
 
 ## Testing
