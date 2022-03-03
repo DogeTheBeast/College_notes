@@ -155,7 +155,7 @@ The resonance frequencies were measured using the oscilloscope by placing the mi
 
 
 
-where, we have plotted frequency )
+where, we have plotted frequency (in hertz) on the y-axis and the resonance number (no unit) on the x-axis.
 
 Using the graph and a linear fit of the graph, the value of the slope was obtained to be 368.4. The slope of the graph is related to the speed of sound using the formula,
 
