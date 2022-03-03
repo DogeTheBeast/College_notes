@@ -61,18 +61,8 @@ By adjusting the knob for the frequency in the function generator near 343 Hz wh
 Using the formula below, the 2nd resonance frequency can roughly calculated to make it easier to find it by trial and error.
 $${f_n = \frac{nv}{2L}}$$
 where, 
-*n* is the number of resonance (which is 2 in this case).
+*n* is the number of resonance (which is 2 in this case) and by plotting the amplitude against the 
 
-
-The curve that we can expect to find should be similar to the curve formed by plotting this equation.
-
-$${\Delta P = A\times sin(\omega t + \phi)}$$
-where,
-*${\Delta P}$* is the difference in the pressure between the atmosphere and the pressure inside the tube,
-*A* is the amplitude of the wave which is relative to the maximum amplitude,
-${\omega}$ is the angular frequency of the sound waves,
-*t* is time, and 
-${\phi}$ is the phase change, which is not relevant in this measurement.
 
 ### Second Objective - Speed of Sound
 
