@@ -109,7 +109,7 @@ Below is the plot of the values obtained after measuring the amplitude of the wa
 
 ![[First harmonic lab5.PNG]]
 
-where, the x-axis is the distance between the speaker and the microphone (measured in meters) and on the y-axis it is the amplitude of the wave obtained from the microphone (with no units).
+where, the x-axis is the distance between the speaker and the microphone (measured in meters) and on the y-axis it is the amplitude of the wave obtained from the microphone (with no units). The error bars for this graph are not visible because the uncertainty in the y value is very low.
 
 
 ### Second Harmonic
@@ -170,6 +170,7 @@ By placing the values in the equation above, the value of the speed of sound is 
 #### Uncertainty
 $${\frac{\delta v}{v} = \sqrt{\left(\frac{1}{318.5}\right)^2+\left(\frac{0.0005}{0.5}\right)^2}}$$
 $${\delta v \approx 3 \times 10^{-3}}$$
+
 This is the uncertainty in the measured speed of sound rounded to 1 significant figure.
 
 
