@@ -44,10 +44,10 @@ $${345.1 = \frac{v}{2L}}$$
 ## Relate Quantities and forming relationships
 
 ### First objective -  To measure the sound amplitude profile
-Firstly, we need to find the fundamental frequency and the 2nd resonance frequency. To find the fundamental frequency, we did a rough calculation and determined the value of the fundamental frequency to be near about 343 Hz.
+Firstly, we need to find the fundamental frequency and the 2nd resonance frequency. To find the fundamental frequency, we did a rough calculation and determined the value of the fundamental frequency to be near about 343 Hz. The 
 
-$${}
-$${f = \frac{v}{2L} = \frac{343}{2 \times 50.2} \approx 343 Hz}$$
+$${v = f \lambda}$$
+$${f = \frac{v}{\lambda} =  \frac{v}{2L} = \frac{343}{2 \times 50.2} \approx 343 Hz}$$
 
 where,
 *f* is the fundamental frequency,
