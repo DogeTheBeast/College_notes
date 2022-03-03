@@ -35,7 +35,7 @@ where,
 
 | Resonance number | Frequency |
 | ---------------- | --------- |
-|                  |           |
+| 1                |           |
 
 
 ### Second Objective - Speed of Sound
