@@ -86,8 +86,9 @@ $${345.1 = \frac{v}{2L}}$$
 
 ### First Harmonic
 
-| Pressure (without units) | 
-| ------------------------ |
+| Position of microphone | Pressure (without units) |
+| ---------------------- | ------------------------ |
+|                        |                          |
 
 
 
