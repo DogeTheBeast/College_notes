@@ -1,4 +1,4 @@
-# Lab 6
+# Lab 5 Experiment
 Ratiq Narwal (10289395)
 Tim Ke (42973255)
 Bruno Eliseo (75871913)
