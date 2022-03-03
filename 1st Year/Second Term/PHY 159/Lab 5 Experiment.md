@@ -105,7 +105,7 @@ Below is the setup that was used while measuring the pressure profile at the fun
 | 0.5                           | 12.6                     | 
 
 
-Below is the plot of the values obtained after measuring the amplitude of the wave obtained from the microphone against different distances from the
+Below is the plot of the values obtained after measuring the amplitude of the wave obtained from the microphone against different distances from the speaker configured for the first harmonic.
 
 ![[First harmonic lab5.PNG]]
 
@@ -126,8 +126,13 @@ Below is the plot of the values obtained after measuring the amplitude of the wa
 | 0.45                          | 42.4                     |
 | 0.5                           | 14.4                     |
 
+
+Below is the plot of the values obtained after measuring the amplitude of the wave obtained from the microphone against different distances from the speaker configured for the first harmonic.
+
 ![[Second Harmonic lab 5.PNG]]
 
+
+w
 
 ### Speed of sound
 
