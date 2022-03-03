@@ -2,7 +2,7 @@
 Ratiq Narwal (10289395)
 Tim Ke (42973255)
 Bruno Eliseo (75871913)
-Date - 2022-03-16
+Date - 2022-03-02
 
 ## Objective
 We will measure the speed of sound and the pressure amplitude inside an open pipe using the frequency of different waves.
