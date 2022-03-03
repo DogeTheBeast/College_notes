@@ -11,35 +11,6 @@ We will measure the speed of sound and the pressure amplitude inside an open pip
 
 
 
-## Procedure (from last lab)
-
-##### Determine the pressure amplitude profile
-1) Determine the fundamental frequency of the tube by test and trial of the frequency while keeping the microphone half way inside the tube. 
-2) Record the fundamental frequency of the tube.
-3) Move the microphone to equidistant intervals and measure the amplitude of the curve.
-4) Repeat step 3 for all distances from the speaker. 
-5) Plot the pressure amplitude profile with the amplitude at the y axis and the distance from the speaker on the x axis.
-
-
-##### Speed of Sound
-
-1)  Determine the fundamental frequency of the tube by test and trial of the frequency while keeping the microphone half way inside the tube. 
-2)  Slowly adjust the knob on the function generator and increase the frequency of the sound while monitoring the oscilloscope. 
-3)  Change the position of the knob to the appropriate distance from the speaker using the equation,
-
-$${distance = \frac{L}{n}}$$
-where 
-*L* is the length of the tube, and
-*n* is the resonance number.
-
-4)  Whenever a spike in the amplitude is observed, slow down even further until the accurate value of the frequency can be measured. 
-5)  Record the frequency along with the resonant number and plot it on a graph with the frequency on the y axis and resonant frequency on the x axis.
-6)  The slope of the graph can be used to find the speed using the formula,
-$${345.1 = \frac{v}{2L}}$$
-
-
-## Setup
-
 
 ## Relate Quantities and forming relationships
 
@@ -72,6 +43,42 @@ $${\lambda = \frac{v}{f}}$$
 $${v = \frac{2f_n L}{n}}$$
 Using the equations above, the relationship between v and the resonance number can be determined which can be used with the slope of the curve to find the speed of sound. Also, the uncertainty in this measurement is,
 $${\frac{\delta v}{v} = \sqrt{\left(\frac{\delta f_n}{f_n}\right)^2+\left(\frac{\delta L}{L}\right)^2}}$$
+
+
+
+
+## Procedure (from last lab)
+
+##### Determine the pressure amplitude profile
+1) Determine the fundamental frequency of the tube by test and trial of the frequency while keeping the microphone half way inside the tube. 
+2) Record the fundamental frequency of the tube.
+3) Move the microphone to equidistant intervals and measure the amplitude of the curve.
+4) Repeat step 3 for all distances from the speaker. 
+5) Plot the pressure amplitude profile with the amplitude at the y axis and the distance from the speaker on the x axis.
+
+
+##### Speed of Sound
+
+1)  Determine the fundamental frequency of the tube by test and trial of the frequency while keeping the microphone half way inside the tube. 
+2)  Slowly adjust the knob on the function generator and increase the frequency of the sound while monitoring the oscilloscope. 
+3)  Change the position of the knob to the appropriate distance from the speaker using the equation,
+
+$${distance = \frac{L}{n}}$$
+where 
+*L* is the length of the tube, and
+*n* is the resonance number.
+
+4)  Whenever a spike in the amplitude is observed, slow down even further until the accurate value of the frequency can be measured. 
+5)  Record the frequency along with the resonant number and plot it on a graph with the frequency on the y axis and resonant frequency on the x axis.
+6)  The slope of the graph can be used to find the speed using the formula,
+$${345.1 = \frac{v}{2L}}$$
+
+
+
+## Setup
+
+
+
 
 ## Testing
 
