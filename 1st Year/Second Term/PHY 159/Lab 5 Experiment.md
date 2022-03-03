@@ -109,6 +109,8 @@ Below is the plot of the values obtained after measuring the amplitude of the wa
 
 ![[First harmonic lab5.PNG]]
 
+where, the x-axis is the distance between the speaker and the microphone (measured in meters) and on the y-axis it is the amplitude of the wave obtained from the microphone (with no units).
+
 
 ### Second Harmonic
 
