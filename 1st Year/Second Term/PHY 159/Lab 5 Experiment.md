@@ -144,15 +144,15 @@ where, the x-axis is the distance between the speaker and the microphone (measur
 
 The resonance frequencies were measured using the oscilloscope by placing the microphone at distances calculated using the equation inside Relating Quantities.
 
-| Distance from the speaker (in m) | Resonance number | Frequency |
-| -------------------------------- | ---------------- | --------- |
-| 0.2500                           | 1                | 318.5     |
-| 0.1666                           | 2                | 675.6     |
-| 0.1250                           | 3                | 1015.5    |
-| 0.1000                           | 4                | 1456.2    |
-| 0.0833                           | 5                | 1790.2    |
-| 0.0714                           | 6                | 2104.5    |
-| 0.0625                           | 7                | 2545.7    |
+| Distance from the speaker (in m) | Resonance number | Frequency | Uncertainty in Frequency |
+| -------------------------------- | ---------------- | --------- | ------------------------ |
+| 0.2500                           | 1                | 318.5     | 0.1                      |
+| 0.1666                           | 2                | 675.6     | 0.1                      |
+| 0.1250                           | 3                | 1015.5    | 0.1                      |
+| 0.1000                           | 4                | 1456.2    | 0.1                      |
+| 0.0833                           | 5                | 1790.2    | 0.1                      |
+| 0.0714                           | 6                | 2104.5    | 0.1                      |
+| 0.0625                           | 7                | 2545.7    | 0.1                      | 
 
 ![[Speed of sound.PNG]]
 
