@@ -35,8 +35,8 @@ where,
 
 | Resonance number | Frequency |
 | ---------------- | --------- |
-| 1                | 902.7 Hz  |
-| 2                | 1528.0 Hz | 
+| 1                | 231.1 Hz  |
+| 2                | 902.7 Hz | 
 
 
 ### Second Objective - Speed of Sound
@@ -83,6 +83,24 @@ $${345.1 = \frac{v}{2L}}$$
 ## Setup
 
 ![[Setup Lab 5.jpg]]
+
+### First Harmonic
+
+| Position of microphone (in m) | Pressure (without units) |
+| ----------------------------- | ------------------------ |
+| 0.00                          |                      |
+| 0.05                          | 2.08                     |
+| 0.1                           | 1.58                     |
+| 0.15.                         | 0.68                         |
+| 0.2                           | 2.23                         |
+| 0.25                          | 2.85                         |
+| 0.3                           | 1.31                         |
+| 0.35                          | 1.05                         |
+| 0.4                           | 2.28                         |
+| 0.45                          | 2.06                         |
+| 0.5                           | 0.79                         |
+
+
 
 ### Second Harmonic
 
