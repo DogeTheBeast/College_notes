@@ -64,7 +64,7 @@ The curve that we can expect to find should be similar to the curve formed by pl
 
 $${\Delta P = A\times sin(\omega t + \phi)}$$
 where,
-${\Delta P}$ is the difference in the pressure between the atmosphere and the pressure inside the tube,
+*${\Delta P}$* is the difference in the pressure between the atmosphere and the pressure inside the tube,
 *A* is the amplitude of the wave which is relative to the maximum amplitude,
 ${\omega}$ is the angular frequency of the sound waves,
 *t* is time, and 
