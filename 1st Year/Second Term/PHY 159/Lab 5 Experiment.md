@@ -93,19 +93,19 @@ Below is the setup that was used while measuring the pressure profile at the fun
 
 ### First Harmonic
 
-| Position of microphone (in m) | Pressure (without units) |
-| ----------------------------- | ------------------------ |
-| 0.00                          | 21.6                     |
-| 0.05                          | 52.4                     |
-| 0.1                           | 75.6                     |
-| 0.15.                         | 76.8                     |
-| 0.2                           | 78.4                     |
-| 0.25                          | 78.4                     |
-| 0.3                           | 78.4                     |
-| 0.35                          | 75.6                     |
-| 0.4                           | 72.8                     |
-| 0.45                          | 46.7                     |
-| 0.5                           | 12.6                     | 
+| Position of microphone (in m) | Pressure (without units) | Pressure uncertainty |
+| ----------------------------- | ------------------------ | -------------------- |
+| 0.00                          | 21.6                     | 0.1                  |
+| 0.05                          | 52.4                     | 0.1                  |
+| 0.1                           | 75.6                     | 0.1                  |
+| 0.15.                         | 76.8                     | 0.1                  |
+| 0.2                           | 78.4                     | 0.1                  |
+| 0.25                          | 78.4                     | 0.1                  |
+| 0.3                           | 78.4                     | 0.1                  |
+| 0.35                          | 75.6                     | 0.1                  |
+| 0.4                           | 72.8                     | 0.1                  |
+| 0.45                          | 46.7                     | 0.1                  |
+| 0.5                           | 12.6                     | 0.1                  | 
 
 
 Below is the plot of the values obtained after measuring the amplitude of the wave obtained from the microphone against different distances from the speaker configured for the first harmonic.
