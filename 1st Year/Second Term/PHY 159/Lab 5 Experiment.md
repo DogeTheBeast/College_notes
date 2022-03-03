@@ -143,11 +143,11 @@ The resonance frequencies were measured using the oscilloscope by placing the
 
 | Distance from the speaker (in m)    | Resonance number | Frequency |
 | --- | ---------------- | --------- |
-|     | 1                | 318.5     |
-|     | 2                | 675.6     |
-|     | 3                | 1015.5    |
-|     | 4                | 1456.2    |
-|     | 5                | 1790.2    |
+| 0.25    | 1                | 318.5     |
+| 0.125    | 2                | 675.6     |
+| 0.0625    | 3                | 1015.5    |
+| 0.0312    | 4                | 1456.2    |
+| 0.0151    | 5                | 1790.2    |
 |     | 6                | 2104.5    |
 |     | 7                | 2545.7    |
 
