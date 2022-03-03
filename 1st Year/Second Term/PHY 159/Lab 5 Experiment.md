@@ -190,33 +190,8 @@ The value of the speed of sound obtained are close to the actual value and the u
 There were multiple problems that we faced with the instruments and the surroundings stated below,
  - When trying to measure the second harmonic, we accidentally measured the third harmonic which can be attributed to the method that we used. To improve this, we could have made a rough estimate for the second harmonic frequency using the first fundamental frequency as the second harmonic is a multiple of the first harmonic.
  - The microphone picked up sounds from other speakers which were set to a different frequency which interfered with out reading. To improve this, the experiment can be conducted in a isolated environment which would remove any unnecessary noise.
- - The tube was touching the speaker and the microphone was touching the tube as well which made  
+ - The tube was touching the speaker and the microphone was touching the tube as well which made  the reading inaccurate. To improve this, make sure that the tube is not touching the speaker and the microphone is not 
 
 
 ---
-
-# Appendix
-## Procedure  (from last week)
-##### Determine the pressure amplitude profile
-1) Determine the fundamental frequency of the tube by test and trial of the frequency while keeping the microphone half way inside the tube. 
-2) Record the fundamental frequency of the tube.
-3) Move the microphone to equidistant intervals and measure the amplitude of the curve.
-4) Repeat step 3 for all distances from the speaker. 
-5) Plot the pressure amplitude profile with the amplitude at the y axis and the distance from the speaker on the x axis.
-
-
-##### Speed of Sound
-1)  Determine the fundamental frequency of the tube by test and trial of the frequency while keeping the microphone half way inside the tube. 
-2)  Slowly adjust the knob on the function generator and increase the frequency of the sound while monitoring the oscilloscope. 
-3)  Change the position of the knob to the appropriate distance from the speaker using the equation,
-
-$${distance = \frac{L}{n}}$$
-where 
-*L* is the length of the tube, and
-*n* is the resonance number.
-
-4)  Whenever a spike in the amplitude is observed, slow down even further until the accurate value of the frequency can be measured. 
-5)  Record the frequency along with the resonant number and plot it on a graph with the frequency on the y axis and resonant frequency on the x axis.
-6)  The slope of the graph can be used to find the speed using the formula,
-$${345.1 = \frac{v}{2L}}$$
 
