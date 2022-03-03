@@ -119,7 +119,7 @@ where, the x-axis is the distance between the speaker and the microphone (measur
 | 0.00                          | 38.4                     |
 | 0.05                          | 46.8                     |
 | 0.1                           | 78.4                     |
-| 0.15                          | 68.3                    |
+| 0.15                          | 68.3                     | 
 | 0.2                           | 38.4                     |
 | 0.25                          | 45.8                     |
 | 0.3                           | 50.8                     |
@@ -148,8 +148,8 @@ The resonance frequencies were measured using the oscilloscope by placing the
 | 0.0625    | 3                | 1015.5    |
 | 0.0312    | 4                | 1456.2    |
 | 0.0151    | 5                | 1790.2    |
-|     | 6                | 2104.5    |
-|     | 7                | 2545.7    |
+| 0.0052    | 6                | 2104.5    |
+| 0.00    | 7                | 2545.7    |
 
 ![[Speed of sound.PNG]]
 
