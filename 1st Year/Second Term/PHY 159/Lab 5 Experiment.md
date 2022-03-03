@@ -105,7 +105,7 @@ Below is the setup that was used while measuring the pressure profile at the fun
 | 0.5                           | 12.6                     | 
 
 
-
+Below is the plot of the values obtained after measuring the amplitude of the wave obtained from the microphone against different distances from the
 
 ![[First harmonic lab5.PNG]]
 
