@@ -1,7 +1,6 @@
 # Lab 5 Experiment
 Ratiq Narwal (10289395)
-Tim Ke (42973255)
-Bruno Eliseo (75871913)
+Eesha Madan
 Date - 2022-03-02
 
 ## Objective
@@ -66,10 +65,10 @@ where,
 
 ### Second Objective - Speed of Sound
 
-
+As it is a tube open from both ends
 
 $${\lambda_n = \frac{2L}{n}}$$
-$${v = \lambda f}$$
+$${\lambda = \frac{v}{f}}$$
 $${v = \frac{2f_n L}{n}}$$
 Using the equations above, the relationship between v and the resonance number can be determined which can be used with the slope of the curve to find the speed of sound. Also, the uncertainty in this measurement is,
 $${\frac{\delta v}{v} = \sqrt{\left(\frac{\delta f_n}{f_n}\right)^2+\left(\frac{\delta L}{L}\right)^2}}$$
