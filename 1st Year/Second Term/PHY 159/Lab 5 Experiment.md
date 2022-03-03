@@ -82,7 +82,12 @@ $${345.1 = \frac{v}{2L}}$$
 
 ## Setup
 
+![[Setup Lab 5.jpg]]
 
+### First Harmonic
+
+| Pressure (without units) | 
+| ------------------------ |
 
 
 
