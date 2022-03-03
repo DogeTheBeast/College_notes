@@ -139,7 +139,7 @@ where, the x-axis is the distance between the speaker and the microphone (measur
 ### Speed of sound
 
 
-The resonance frequencies were measured using the oscilloscope by placing the microphone at distances half to the distance 
+The resonance frequencies were measured using the oscilloscope by placing the microphone at distances half to the distance used for the previous harmonic.
 
 | Distance from the speaker (in m) | Resonance number | Frequency |
 | -------------------------------- | ---------------- | --------- |
