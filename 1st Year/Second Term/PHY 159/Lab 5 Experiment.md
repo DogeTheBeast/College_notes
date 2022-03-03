@@ -33,7 +33,9 @@ $${f_n = \frac{nv}{2L}}$$
 where, 
 *n* is the number of resonance (which is 2 in this case) and by plotting the amplitude against the position of the microphone inside the tube.
 
-|F
+| Resonance number | Frequency |
+| ---------------- | --------- |
+|                  |           |
 
 
 ### Second Objective - Speed of Sound
