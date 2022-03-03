@@ -173,9 +173,12 @@ By placing the values in the equation above, the value of the speed of sound is 
 ## Report your results
 
 The following results were obtained for the speed of sound and the uncertainty for it.
+
 | Speed of Sound (m/s) | Uncertainty |
-| -------------- | ----------- |
-| 368.4               |             |
+| -------------------- | ----------- |
+| 368.4                | 0.0209      |
+
+And the graph for the pressure profile for the first and second harmonic are stat
 
 
 ## Discuss the results
