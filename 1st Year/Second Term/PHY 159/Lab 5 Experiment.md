@@ -153,38 +153,7 @@ The resonance frequencies were measured using the oscilloscope by placing the mi
 
 ![[Speed of sound.PNG]]
 
-
-
-## Testing
-
-### Pressure amplitude profile
- 
- By moving the microphone inside the tube to be at a given distance from the speaker, the following data values are determined for each frequency.
- 
-#### Fundamental Frequency (309.8 Hz)
-
-| Reading | Distance from the speaker (cm) | Amplitude |
-| ------- | ------------------------------ | --------- |
-| 1       | 0                              | 21.6      |
-| 2       | 10                             | 75.6      |
-| 3       | 20                             | 78.4      |
-| 4       | 30                             | 78.4      |
-| 5       | 40                             | 72.8      |
-| 6       | 50                             | 12.6      |
-
-![[first fundamental.PNG]]
-
-#### 2nd Resonance Frequency (619.1 Hz)
-
-| Reading | Distance from the speaker (cm) | Amplitude |
-| ------- | ------------------------------ | --------- |
-| 1       | 0                              | 38.4      |
-| 2       | 10                             | 78.4      |
-| 3       | 20                             | 38.4      |
-| 4       | 30                             | 50.8      |
-| 5       | 40                             | 69.6      |
-| 6       | 50                             | 14.4      |
-![[second fundamental.PNG]]
+Using the graph and a linear fit of the graph, the value of the slope was obtained to be 
 
 ## Second Objective - Speed of sound
 
