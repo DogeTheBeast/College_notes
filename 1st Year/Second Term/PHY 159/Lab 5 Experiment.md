@@ -183,14 +183,14 @@ And the graph for the pressure profile for the first and second harmonic are add
 
 ## Discuss the results
 
-There were multiple problems that we faced with the instruments and the surroundings. 
+
 
 The value of the speed of sound obtained are close to the actual value and the uncertainty is very small meaning the value obtained is very precise. But, as the uncertainty is too small, that means our method resulted in a value of speed of sound which is not accurate. This can be attributed to different human and possible instrumental errors stated below,
  - 
 
 ## Conclusion
 
-
+There were multiple problems that we faced with the instruments and the surroundings. When trying to measure the second harmonic, we accidentally measured the third harmonic which was too hi
 
 
 ---
