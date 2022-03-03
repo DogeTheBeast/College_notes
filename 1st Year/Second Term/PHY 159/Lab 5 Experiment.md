@@ -138,6 +138,9 @@ where, the x-axis is the distance between the speaker and the microphone (measur
 
 ### Speed of sound
 
+
+The resonance frequencies were 
+
 | Resonance number | Frequency |
 | ---------------- | --------- |
 | 1                | 318.5     |
