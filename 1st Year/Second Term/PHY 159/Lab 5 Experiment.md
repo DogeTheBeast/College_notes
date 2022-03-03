@@ -84,7 +84,7 @@ $${345.1 = \frac{v}{2L}}$$
 
 ![[Setup Lab 5.jpg]]
 
-### Second  Harmonic
+### Second Harmonic
 
 | Position of microphone (in m) | Pressure (without units) |
 | ----------------------------- | ------------------------ |
