@@ -84,6 +84,8 @@ $${345.1 = \frac{v}{2L}}$$
 
 ![[Setup Lab 5.jpg]]
 
+ By moving the microphone inside the tube to be at a given distance from the speaker, the following data values are determined for each frequency.
+
 ### First Harmonic
 
 | Position of microphone (in m) | Pressure (without units) |
@@ -108,17 +110,17 @@ $${345.1 = \frac{v}{2L}}$$
 
 | Position of microphone (in m) | Pressure (without units) |
 | ----------------------------- | ------------------------ |
-| 0.00                          | 1.44                     |
-| 0.05                          | 2.08                     |
-| 0.1                           | 1.58                     |
-| 0.15                          | 0.68                     |
-| 0.2                           | 2.23                     |
-| 0.25                          | 2.85                     |
-| 0.3                           | 1.31                     |
-| 0.35                          | 1.05                     |
-| 0.4                           | 2.28                     |
-| 0.45                          | 2.06                     |
-| 0.5                           | 0.79                     |
+| 0.00                          | 38.4                     |
+| 0.05                          | 46.8                     |
+| 0.1                           | 78.4                     |
+| 0.15                          | 68.3                    |
+| 0.2                           | 38.4                     |
+| 0.25                          | 45.8                     |
+| 0.3                           | 50.8                     |
+| 0.35                          | 58.5                     |
+| 0.4                           | 69.6                     |
+| 0.45                          | 42.4                     |
+| 0.5                           | 14.4                     |
 
 ![[Second Harmonic lab 5.PNG]]
 
