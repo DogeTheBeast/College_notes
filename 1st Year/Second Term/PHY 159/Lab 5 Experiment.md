@@ -61,7 +61,7 @@ By adjusting the knob for the frequency in the function generator near 343 Hz wh
 Using the formula below, the 2nd resonance frequency can roughly calculated to make it easier to find it by trial and error.
 $${f_n = \frac{nv}{2L}}$$
 where, 
-*n* is the number of resonance (which is 2 in this case) and by plotting the amplitude against the 
+*n* is the number of resonance (which is 2 in this case) and by plotting the amplitude against the position of the microphone inside the tube.
 
 
 ### Second Objective - Speed of Sound
