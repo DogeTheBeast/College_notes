@@ -160,17 +160,9 @@ $${m = \frac{f_n}{n}}$$
 
 $${v = m \times 2L}$$
 
-By placing the values in the equation above, the value of the speed of soun
+By placing the values in the equation above, the value of the speed of sound is obtained to be 368.4 m/s.
 
 
-
-## Second Objective - Speed of sound
-
-
-Using the curve above, the slope of the curve is determined to be 345.1. Using the equations stated in the previous part (Relate Quantities). Using 345.1, the value of the speed of sound can be determined. 
-$${345.1 = \frac{v}{2L}}$$
-$${v = 345.1 \times 2 \times 0.502}$$
-$${v = 345.1 m/s}$$
 #### Uncertainty
 $${\frac{\delta v}{v} = \sqrt{\left(\frac{1}{309.8}\right)^2+\left(\frac{0.0005}{0.5}\right)^2}}$$
 $${\delta v = 3 \times 10^{-3}}$$
