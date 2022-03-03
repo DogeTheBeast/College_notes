@@ -134,7 +134,7 @@ Below is the plot of the values obtained after measuring the amplitude of the wa
 ![[Second Harmonic lab 5.PNG]]
 
 
-where, the x-axis is the distance between the speaker and the microphone (measured in meters) and on the y-axis it is the amplitude of the wave obtained from the microphone (with no units).
+where, the x-axis is the distance between the speaker and the microphone (measured in meters) and on the y-axis it is the amplitude of the wave obtained from the microphone (with no units).The error bars for this graph are not visible because the uncertainty in the y value is very low.
 
 ### Speed of sound
 
