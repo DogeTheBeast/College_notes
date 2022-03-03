@@ -137,7 +137,21 @@ This is the uncertainty in the measured speed of sound rounded to 1 significant 
 
 
 
-## Procedure
+
+
+## Report your results
+
+## Discuss the results
+
+## Conclusion
+
+
+
+
+---
+
+# Appendix
+## Procedure  (from last week)
 ##### Determine the pressure amplitude profile
 1) Determine the fundamental frequency of the tube by test and trial of the frequency while keeping the microphone half way inside the tube. 
 2) Record the fundamental frequency of the tube.
@@ -160,15 +174,4 @@ where
 5)  Record the frequency along with the resonant number and plot it on a graph with the frequency on the y axis and resonant frequency on the x axis.
 6)  The slope of the graph can be used to find the speed using the formula,
 $${345.1 = \frac{v}{2L}}$$
-
-
-## Evaluation
-The method used to measure the speed of sound is very accurate because the speed was very close to real life value along with the uncertainty. The method can be improved by used a more accurate machine to set the frequency instead of a human hand.
-
-
-## Report your results
-
-## Discuss the results
-
-## Conclusion
 
