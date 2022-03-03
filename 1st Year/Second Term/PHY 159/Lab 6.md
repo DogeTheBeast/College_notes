@@ -2,12 +2,43 @@
 Ratiq Narwal (10289395)
 Tim Ke (42973255)
 Bruno Eliseo (75871913)
-Date - 2022-02-16
+Date - 2022-03-16
 
 ## Objective
 We will measure the speed of sound and the pressure amplitude inside an open pipe using the frequency of different waves.
 1) Determine the speed of sound inside a tube.
 2) Measure the pressure amplitude profile, *P(x)*, of the sounds waves inside the tube for the fundamental and the second resonance frequency.
+
+
+
+## Procedure (from last lab)
+
+##### Determine the pressure amplitude profile
+1) Determine the fundamental frequency of the tube by test and trial of the frequency while keeping the microphone half way inside the tube. 
+2) Record the fundamental frequency of the tube.
+3) Move the microphone to equidistant intervals and measure the amplitude of the curve.
+4) Repeat step 3 for all distances from the speaker. 
+5) Plot the pressure amplitude profile with the amplitude at the y axis and the distance from the speaker on the x axis.
+
+
+##### Speed of Sound
+1)  Determine the fundamental frequency of the tube by test and trial of the frequency while keeping the microphone half way inside the tube. 
+2)  Slowly adjust the knob on the function generator and increase the frequency of the sound while monitoring the oscilloscope. 
+3)  Change the position of the knob to the appropriate distance from the speaker using the equation,
+
+$${distance = \frac{L}{n}}$$
+where 
+*L* is the length of the tube, and
+*n* is the resonance number.
+
+4)  Whenever a spike in the amplitude is observed, slow down even further until the accurate value of the frequency can be measured. 
+5)  Record the frequency along with the resonant number and plot it on a graph with the frequency on the y axis and resonant frequency on the x axis.
+6)  The slope of the graph can be used to find the speed using the formula,
+$${345.1 = \frac{v}{2L}}$$
+
+
+
+
 
 ## Clarify Objective
 Sound travels in the form of waves. Sound waves are movement of air particles in back and forth direction which carries energy through the air and is heard as sound by the listener. The pressure in the wave is the pressure of the air particles that strikes the microphone which is similar to the volume of the sound. The fundamental frequency is the frequency at which the pressure in the tube at the ends is uniform and is maximum in the middle. 
