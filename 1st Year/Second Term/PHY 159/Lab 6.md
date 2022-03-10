@@ -9,7 +9,7 @@ Date - 2022-03-09
 
 ### Clarify Objective
 
-To measure the capacitance of a capacitor. The capacitance 
+To measure the capacitance of a capacitor. The capacitance is the ratio of the charge in an electric in an 
 
 ### Explore tools
 | Tools              | Physical Parameters   | Resolution    | Range                                                           | Usage                                                                                                         | Uncertainty |
