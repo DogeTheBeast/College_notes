@@ -77,7 +77,7 @@ On the x-axis is the time (in micro seconds) and on the y-axis is the voltage (i
 
 The slope is calculated to be -0.00006176
 
-Using the equations in relating quantities, the value of C can be calculated and it is 0.0000000217 F
+Using the equations in relating quantities, the value of C can be calculated and it is 0.0000000217 F with the uncertainty as 1.0113 x 10^-7 F.
 
 #### Method 2 - Measuring the Time Constant
 
