@@ -19,6 +19,9 @@ To measure the capacitance of a capacitor. The capacitance is the ratio of the c
 | Breadboard         |                                |            |            | Used to construct circuits                                                 |                     |
 | Connecting cable   |                                |            |            | Used to connect components of a circuit together                           |                     |
 
+Value of resistance for 
+
+
 ### Relate Quantities
 
 
