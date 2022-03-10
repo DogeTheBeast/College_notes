@@ -32,6 +32,10 @@ We combined the 2 resistors provided to us to obtain a net resistance of a diffe
 
 ### Relate Quantities
 
+Constructing the 
+
+
+
 
 Constructing a RC circuit and 
 Measure the voltage across the capacitor and measure the time till the initial voltage becomes half. 
