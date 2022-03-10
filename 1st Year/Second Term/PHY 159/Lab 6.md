@@ -61,7 +61,7 @@ Multiple data points can be recorded for the value of the time constant for diff
 We measured the voltage across the capacitor using the resistor R3 and set it up as shown in the image below.
 
 
-The initial voltage of the circuit was measured by removing the capacitor and recording the value of the voltage obtained on the oscilloscope. The value was recorded to be 29.3 mV. The following values were obtained from the testing the circuit and recording the values from the oscilloscope,
+The initial voltage of the circuit was measured by removing the capacitor and recording the value of the voltage obtained on the oscilloscope. The value was recorded to be 8.8 V. The following values were obtained from the testing the circuit and recording the values from the oscilloscope,
 
 
 | Time   | Voltage |
