@@ -19,12 +19,13 @@ To measure the capacitance of a capacitor. The capacitance is the ratio of the c
 | Breadboard         |                                |            |            | Used to construct circuits                                                 |                     |
 | Connecting cable   |                                |            |            | Used to connect components of a circuit together                           |                     |
 
-We combined the 2 resistors provided to us to obtain a net resistance of a different value. We will connect tThe resistance of the Resistors measured using the digital multimeter
+We combined the 2 resistors provided to us to obtain a net resistance of a different value. We will connect the resistors in both series and parallel and record the resistance below. The resistance of the Resistors measured using the digital multimeter
 
-| Resistor Number | Resistance     | Uncertainty     |
-| --------------- | -------------- | --------------- |
-| R1              | 9.96 k${\ohm}$ | 0.001 k${\ohm}$ |
-| R2              |                |                 |
+| Resistor Number | Resistance        | Uncertainty      |
+| --------------- | ----------------- | ---------------- |
+| R1              | 9.96 k${\ohm}$    | 0.001 k${\ohm}$  |
+| R2              | 29.920 kk${\ohm}$ | 0.001 kk${\ohm}$ |
+| R3 (R1 + R2)    |                   |                  |
 
 
 Value of resistance for 9.96 kohm
