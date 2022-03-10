@@ -77,31 +77,18 @@ The initial voltage of the circuit was measured by removing the capacitor and re
 
 The slope is calculated to be -0.00006176
 
-and the vlaue of C is 0.0000000217 F
+and the value of C is 0.0000000217 F
 
 #### Method 2 - Measuring the Time Constant
-
-7.461
-parallel
-1.86/e =0.68425 
-280 us
-
-
-30
-4.28 / e = 1.5745
- us
-610
-
-10 ohm
-3.88/e = 1.427
-
-350 us
 
 
 | Time   | Initial VOltage | Voltage at time = Tau | Resistance |
 | ------ | --------------- | --------------------- | ---------- |
 | 280 us | 1.86            | 0.684                 | 7.461      |
-| 350 us | 3.88            | 1.427                 | 9.96           | 
+| 350 us | 3.88            | 1.427                 | 9.96       |
+| 610 us | 4.28            | 1.574                 | 29.92      | 
+
+
 ![[graph 3.PNG]]
 
 
