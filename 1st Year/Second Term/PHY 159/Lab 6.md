@@ -24,7 +24,7 @@ We combined the 2 resistors provided to us to obtain a net resistance of a diffe
 | Resistor Number | Resistance        | Uncertainty      |
 | --------------- | ----------------- | ---------------- |
 | R1              | 9.96 k${\ohm}$    | 0.001 k${\ohm}$  |
-| R2              | 29.920 kk${\ohm}$ | 0.001 kk${\ohm}$ |
+| R2              | 29.920 kk${\ohm}$ | 0.001 k${\ohm}$ |
 | R3 (R1 + R2)    |                   |                  |
 
 
