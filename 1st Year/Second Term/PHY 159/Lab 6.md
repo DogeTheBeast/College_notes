@@ -71,9 +71,11 @@ The initial voltage of the circuit was measured by removing the capacitor and re
 | 840 us  | 2.8V    | 1.029      |
 | 1.77 ms | 1.5V    | 0.405       | 
 
-Plot will be ln(V(t))
+![[graph 1.PNG]]
 
 
+
+The slope is calculated to be -0.00006176
 
 #### Method 2 - Measuring the Time Constant
 
