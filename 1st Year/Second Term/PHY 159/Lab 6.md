@@ -84,13 +84,13 @@ and the vlaue of C is 0.0217 F
 7.461
 parallel
 1.86/e =0.68425 
-610 us
+280 us
 
 
 30
 4.28 / e = 1.5745
-280 us
-
+ us
+610
 
 10 ohm
 3.88/e = 1.427
