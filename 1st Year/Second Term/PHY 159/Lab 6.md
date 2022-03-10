@@ -57,7 +57,8 @@ Multiple data points can be recorded for the value of the time constant for diff
 ### Testing
 
 #### Method 1 - Measuring Voltage
-We measured the voltage across the capacitor 
+
+We measured the voltage across the capacitor using the 
 
 
 | Time   | Voltage |
