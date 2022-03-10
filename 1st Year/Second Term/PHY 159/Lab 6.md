@@ -98,5 +98,37 @@ From the graph, the value of the slope is calculated to be 0.000014014 F with an
 
 
 ### Procedure
+Procedure:
 
-## Evaluation
+  
+
+1.  Set up the bread board as shown in the diagram below with the resistor and capacitor attached in series to the battery. 
+    
+2.  Change the function generator to square wave form.
+    
+3.  Look for the discharging part of the graph shown on the oscilloscope. 
+    
+4.  Once the graph has appeared properly on the oscillograph, To determine the initial voltage look for the maximum point on the graph and record the Y-value associated with that value.
+    
+5.  Record the time and voltage of 6 different data points with roughly the same time intervals in between. The data points should be located on the graph.
+    
+6.  Plot the data in a graphing software such as Matlab.
+    
+7.  Using Matlab the slope of the graph will be equal to (-t/RC) where t is the independent variable and R and C are constants. 
+    
+8.  To calculate C we use the relation C = (-1/R)*(1/slope).
+    
+9.  The uncertainty in C can be calculated using 
+    
+
+![[RC circuit.png]]
+  
+  
+
+## Reflection and justification of Procedure:
+
+Our Final procedure involved plotting the data points of a Voltage vs time graph. The capacitance was then found using the slope of this graph. This method was the preferred method because the plot allows us to use as many data points as necessary. Utilizing more or less data points allows us to measure the capacitance to a greater degree of certainty. This method also requires only one resistor, therefore it is easier to set up. The capacitance calculated yielded a value that was accurate and of low uncertainty.
+
+  
+
+As for the possible sources of error in the lab there were uncertainties and fluctuations in the oscilloscope as well as the DMM. Sources of error also include human error when measuring the resistances and adjusting the oscilloscope.
