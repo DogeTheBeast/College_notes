@@ -12,8 +12,8 @@ To measure the capacitance of a capacitor. The capacitance is the ratio of the c
 | Tools              | Physical Parameters            | Resolution | Range      | Usage                                                              | Uncertainty |
 | ------------------ | ------------------------------ | ---------- | ---------- | ------------------------------------------------------------------ | ----------- |
 | Oscilloscope       | Voltage and Current            | 0.001 mV   |            | Used to measure the current and voltage                            |             |
-| Function Generator | Frequency                      | 0.05       | 0 to 3M Hz | Used to generate a current of either DC or AC current              | 0.025 Hz    |
-| Multimeter         | Voltage Current and Resistance |            |            |                                                                    |             |
+| Function Generator | Frequency                      | 0.05 Hz    | 0 to 3M Hz | Used to generate a current of either DC or AC current              | 0.025 Hz    |
+| Multimeter         | Voltage Current and Resistance | 0.1 mV     |            | Used to measure the current, voltage and                                                                    |             |
 | Capacitor          | Capacitance                    |            |            | Capacitance that will be measured                                  |             |
 | Resistor           | Resistance                     |            |            | Provides resistance in the circuit that can be used in calculation |             |
 | Breadboard         |                                |            |            |                                                                    |             |
