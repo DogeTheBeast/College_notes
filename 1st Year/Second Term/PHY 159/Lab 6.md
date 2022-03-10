@@ -71,12 +71,12 @@ The initial voltage of the circuit was measured by removing the capacitor and re
 | 610us   | 600 mV  |
 | 1.08 ms | -2.46 V |
 | 1.49 ms | -3.32   |
-| 1.91 ms | 0.720 V |
+| 1.91 ms | -3.86V |
 
 #### Method 2 - Measuring the Time Constant
 
 parallel
-4.28/e = 
+1.86/e =0.68425 
 772 us
 
 
