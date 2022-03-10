@@ -66,8 +66,8 @@ The initial voltage of the circuit was measured by removing the capacitor and re
 
 | Time    | Voltage |
 | ------- | ------- |
-| 0       | 8.8 V   |
-| 288 us  | 6.04V   |
+| 0       | 4.28 V   |
+| 288 us  | 6.04 V   |
 | 648us   | 3.8V    |
 | 1.02 ms | 2.32 V  |
 | 1.44 ms | 1.28V   |
@@ -76,7 +76,7 @@ The initial voltage of the circuit was measured by removing the capacitor and re
 #### Method 2 - Measuring the Time Constant
 
 parallel
-8.8/e = 3.2373390823
+4.28/e = 
 772 us
 
 
