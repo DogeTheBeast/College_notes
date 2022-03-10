@@ -32,12 +32,15 @@ We combined the 2 resistors provided to us to obtain a net resistance of a diffe
 
 ### Relate Quantities
 
-Constructing an RC Circuit as shown below.
-
-and using the equations that relate 
 
 
+#### Method 1 - Measuring voltage
+Constructing an RC Circuit as shown below,
 
+and using the equations that define a RC circuit,
+
+
+The voltage while
 
 
 Measure the voltage across the capacitor and measure the time till the initial voltage becomes half. 
