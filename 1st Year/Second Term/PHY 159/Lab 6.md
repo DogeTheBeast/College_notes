@@ -9,9 +9,13 @@ Date - 2022-03-09
 To measure the capacitance of a capacitor. The capacitance is the ratio of the charge to the electric potential across the capacitor. 
 
 ### Explore tools
-| Tools | Physical Parameters | Resolution | Range | Usage | Uncertainty |
-| ----- | ------------------- | ---------- | ----- | ----- | ----------- |
-|       |                     |            |       |       |             |
+| Tools              | Physical Parameters | Resolution | Range | Usage | Uncertainty |
+| ------------------ | ------------------- | ---------- | ----- | ----- | ----------- |
+| Oscilloscope       |                     |            |       |       |             |
+| Function Generator |                     |            |       |       |             |
+| Multimeter         |                     |            |       |       |             |
+| Capacitor          |                     |            |       |       |             |
+|                    |                     |            |       |       |             |
 
 ### Relate Quantities and forming relationships
 
