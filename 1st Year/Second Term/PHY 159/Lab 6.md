@@ -47,7 +47,7 @@ The voltage, while the capacitor is discharging, can be measured and can be used
 
 #### Method 2 - Measuring the Time Constant
 
-
+The time constant defines 
 
 
 
