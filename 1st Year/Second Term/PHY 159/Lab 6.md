@@ -51,7 +51,7 @@ The time constant defines the value at which the initial voltage is at the value
 
 ![[Lab6 method 2.PNG]]
 
-Multiple data points 
+Multiple data points can be recorded for the value of the time constant for different resistors and they can be plotted against the resistance 
 
 
 
