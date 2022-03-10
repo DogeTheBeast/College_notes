@@ -38,6 +38,8 @@ Constructing an RC Circuit as shown below.
 
 
 
+
+
 Measure the voltage across the capacitor and measure the time till the initial voltage becomes half. 
 
 
