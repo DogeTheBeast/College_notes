@@ -9,15 +9,15 @@ Date - 2022-03-09
 To measure the capacitance of a capacitor. The capacitance is the ratio of the charge to the electric potential across the capacitor. 
 
 ### Explore tools
-| Tools              | Physical Parameters | Resolution | Range      | Usage                                                 | Uncertainty |
-| ------------------ | ------------------- | ---------- | ---------- | ----------------------------------------------------- | ----------- |
-| Oscilloscope       | Voltage and Current | 0.001 mV   |            | Used to measure the current and voltage               |             |
-| Function Generator | Frequency           | 0.05       | 0 to 3M Hz | Used to generate a current of either DC or AC current | 0.025 Hz    |
-| Multimeter         |                     |            |            |                                                       |             |
-| Capacitor          | Capacitance         |            |            | Capacitance that will be measured                     |             |
-| Resistor           | Resistance          |            |            | Provides resistance in the circuit that can be used                                                      |             |
-| Breadboard         |                     |            |            |                                                       |             |
-| Connecting cable   |                     |            |            |                                                       |             |
+| Tools              | Physical Parameters            | Resolution | Range      | Usage                                                              | Uncertainty |
+| ------------------ | ------------------------------ | ---------- | ---------- | ------------------------------------------------------------------ | ----------- |
+| Oscilloscope       | Voltage and Current            | 0.001 mV   |            | Used to measure the current and voltage                            |             |
+| Function Generator | Frequency                      | 0.05       | 0 to 3M Hz | Used to generate a current of either DC or AC current              | 0.025 Hz    |
+| Multimeter         | Voltage Current and Resistance |            |            |                                                                    |             |
+| Capacitor          | Capacitance                    |            |            | Capacitance that will be measured                                  |             |
+| Resistor           | Resistance                     |            |            | Provides resistance in the circuit that can be used in calculation |             |
+| Breadboard         |                                |            |            |                                                                    |             |
+| Connecting cable   |                                |            |            |                                                                    |             |
 
 ### Relate Quantities and forming relationships
 
