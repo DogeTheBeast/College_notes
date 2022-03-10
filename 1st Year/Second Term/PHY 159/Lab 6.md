@@ -19,6 +19,13 @@ To measure the capacitance of a capacitor. The capacitance is the ratio of the c
 | Breadboard         |                                |            |            | Used to construct circuits                                                 |                     |
 | Connecting cable   |                                |            |            | Used to connect components of a circuit together                           |                     |
 
+The resistance of the Resistors measured using the digital multimeter
+
+| Resistor Number | Resistance | Uncertainty |
+| --------------- | ---------- | ----------- |
+| R1              | 9.           |             |
+
+
 Value of resistance for 9.96 kohm
 29.92 kohm
 
