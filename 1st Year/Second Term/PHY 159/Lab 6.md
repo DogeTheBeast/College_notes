@@ -21,12 +21,12 @@ To measure the capacitance of a capacitor. The capacitance is the ratio of the c
 
 We combined the 2 resistors provided to us to obtain a net resistance of a different value. We will connect the resistors in both series and parallel and record the resistance below. The resistance of the Resistors measured using the digital multimeter
 
-| Resistor Number | Resistance      | Uncertainty    |
-| --------------- | --------------- | -------------- |
-| R1              | 9.96 k${\ohm}$  | 0.01 k${\ohm}$ |
-| R2              | 29.92 k${\ohm}$ | 0.01 k${\ohm}$ |
-| R3 (R1 + R2)    | 39.83 k${\ohm}$ | 0.01 k${\ohm}$ |
-| R4 ( )                |                 |                |
+| Resistor Number                                        | Resistance      | Uncertainty    |
+| ------------------------------------------------------ | --------------- | -------------- |
+| R1                                                     | 9.96 k${\ohm}$  | 0.01 k${\ohm}$ |
+| R2                                                     | 29.92 k${\ohm}$ | 0.01 k${\ohm}$ |
+| R3 (R1 + R2) (Series)                                  | 39.83 k${\ohm}$ | 0.01 k${\ohm}$ |
+| R4 (${\frac{1}{\frac{1}{R1}\frac{1}{R2}}}$) (Parallel) |                 |                |
 
 
 Value of resistance for 9.96 kohm
