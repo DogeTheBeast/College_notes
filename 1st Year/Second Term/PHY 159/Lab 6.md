@@ -17,7 +17,7 @@ To measure the capacitance of a capacitor. The capacitance is the ratio of the c
 | Capacitor          |                     |            |       |       |             |
 | Resistor           |                     |            |       |       |             |
 | Breadboard         |                     |            |       |       |             |
-| Connecting                    |                     |            |       |       |             |
+| Connecting cable   |                     |            |       |       |             |
 
 ### Relate Quantities and forming relationships
 
