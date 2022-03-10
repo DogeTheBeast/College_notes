@@ -66,9 +66,9 @@ The initial voltage of the circuit was measured by removing the capacitor and re
 
 | Time    | Voltage |
 | ------- | ------- |
-| 0       | 4.28 V   |
-| 288 us  | 6.04 V   |
-| 648us   | 3.8V    |
+| 0       | 4.28 V  |
+| 210 us  | 2.26 V  |
+| 610us   | 600 mV  |
 | 1.02 ms | 2.32 V  |
 | 1.44 ms | 1.28V   |
 | 1.91 ms | 0.720 V |
