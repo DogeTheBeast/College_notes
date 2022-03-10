@@ -68,8 +68,8 @@ The initial voltage of the circuit was measured by removing the capacitor and re
 | ------- | ------- | ----------- |
 | 0       | 4.46 V  | 1.495       |
 | 480 us  | 3.4 V   | 1.223       |
-| 840 us  | 2.8V    | 1.6486      |
-| 1.77 ms | 1.5V    | 2.014       | 
+| 840 us  | 2.8V    | 1.029      |
+| 1.77 ms | 1.5V    | 0.405       | 
 
 Plot will be ln(V(t))
 
