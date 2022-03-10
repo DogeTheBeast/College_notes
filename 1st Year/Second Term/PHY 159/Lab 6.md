@@ -37,9 +37,11 @@ We combined the 2 resistors provided to us to obtain a net resistance of a diffe
 #### Method 1 - Measuring voltage
 Constructing an RC Circuit as shown below,
 
+![[RC circuit.png]]
+
 and using the equations that define a RC circuit,
 
-
+![[]]
 The voltage, while the capacitor is discharging, can be measured and can be used to 
 
 
