@@ -93,9 +93,8 @@ By changing the resistor, the value of the time constant can be calculated,
 
 ![[graph 3.PNG]]
 
-From the graph, the value of the slope is calculated to be 0.000014014 F with an uncertainty of 
+From the graph, the value of the slope is calculated to be 0.000014014 F with an uncertainty of 1.0419 x 10^-7 F.
 
-with an uncertainty of 1.0419 x 10^-7.
 
 
 ### Procedure
