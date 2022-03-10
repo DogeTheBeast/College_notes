@@ -21,6 +21,9 @@ To measure the capacitance of a capacitor. The capacitance is the ratio of the c
 
 ### Relate Quantities and forming relationships
 
+
+
+
 ### Testing
 
 ### Procedure
