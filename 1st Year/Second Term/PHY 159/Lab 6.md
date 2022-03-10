@@ -9,6 +9,8 @@ Date - 2022-03-09
 
 ### Clarify Objective
 
+To measure the capacitance of a capacitor. The capacitance 
+
 ### Explore tools
 | Tools              | Physical Parameters   | Resolution    | Range                                                           | Usage                                                                                                         | Uncertainty |
 | ------------------ | --------------------- | ------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------- |
