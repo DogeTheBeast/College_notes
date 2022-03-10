@@ -40,7 +40,7 @@ Constructing an RC Circuit as shown below,
 and using the equations that define a RC circuit,
 
 
-The voltage while
+The voltage, while the capacitor is discharging, can be measured and can be used to 
 
 
 Measure the voltage across the capacitor and measure the time till the initial voltage becomes half. 
