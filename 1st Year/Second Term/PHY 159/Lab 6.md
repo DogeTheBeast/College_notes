@@ -69,8 +69,8 @@ The initial voltage of the circuit was measured by removing the capacitor and re
 | 0       | 4.28 V  |
 | 210 us  | 2.26 V  |
 | 610us   | 600 mV  |
-| 1.02 ms | 2.32 V  |
-| 1.44 ms | 1.28V   |
+| 1.08 ms | -2.46 V |
+| 1.49 ms | -3.32   |
 | 1.91 ms | 0.720 V |
 
 #### Method 2 - Measuring the Time Constant
