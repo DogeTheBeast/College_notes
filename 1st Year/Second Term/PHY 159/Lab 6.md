@@ -21,6 +21,8 @@ To measure the capacitance of a capacitor. The capacitance is the ratio of the c
 
 ### Relate Quantities
 
+
+Constructing a RC circuit and 
 Measure the voltage across the capacitor and measure the time till the initial voltage becomes half. 
 
 
