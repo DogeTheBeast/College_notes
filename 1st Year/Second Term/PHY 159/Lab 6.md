@@ -77,8 +77,9 @@ The initial voltage of the circuit was measured by removing the capacitor and re
 
 parallel
 1.86/e =0.68425 
-772 us
+610 us
 
+4.28 / e = 1.57
 
 
 
