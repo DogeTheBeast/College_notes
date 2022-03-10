@@ -64,14 +64,14 @@ We measured the voltage across the capacitor using the resistor R3 and set it up
 The initial voltage of the circuit was measured by removing the capacitor and recording the value of the voltage obtained on the oscilloscope. The value was recorded to be 8.8 V. The following values were obtained from the testing the circuit and recording the values from the oscilloscope,
 
 
-| Time   | Voltage |
-| ------ | ------- |
-| 0      | 8.8 V   |
-| 288 us | 6.04V   |
-| 428us  | 12.6mV  |
-| 796    | 17.2    |
-| 1.16ms | 20.2mV  |
-| 1.74ms | 22.6mV  |
+| Time    | Voltage |
+| ------- | ------- |
+| 0       | 8.8 V   |
+| 288 us  | 6.04V   |
+| 648us   | 3.8V    |
+| 1.02 ms | 2.32 V  |
+| 1.44 ms | 20.2mV  |
+| 1.74ms  | 22.6mV  |
 
 #### Method 2 - Measuring the Time Constant
 
