@@ -9,15 +9,15 @@ Date - 2022-03-09
 To measure the capacitance of a capacitor. The capacitance is the ratio of the charge to the electric potential across the capacitor. 
 
 ### Explore tools
-| Tools              | Physical Parameters | Resolution | Range | Usage | Uncertainty |
-| ------------------ | ------------------- | ---------- | ----- | ----- | ----------- |
-| Oscilloscope       | Voltage and Current | 0.001 mV   |       | Used to measure the current and voltage       |             |
-| Function Generator |                     |            |       |       |             |
-| Multimeter         |                     |            |       |       |             |
-| Capacitor          |                     |            |       |       |             |
-| Resistor           |                     |            |       |       |             |
-| Breadboard         |                     |            |       |       |             |
-| Connecting cable   |                     |            |       |       |             |
+| Tools              | Physical Parameters | Resolution | Range | Usage                                   | Uncertainty |
+| ------------------ | ------------------- | ---------- | ----- | --------------------------------------- | ----------- |
+| Oscilloscope       | Voltage and Current | 0.001 mV   |       | Used to measure the current and voltage |             |
+| Function Generator | Voltage and Current |            |       |                                         |             |
+| Multimeter         |                     |            |       |                                         |             |
+| Capacitor          |                     |            |       |                                         |             |
+| Resistor           |                     |            |       |                                         |             |
+| Breadboard         |                     |            |       |                                         |             |
+| Connecting cable   |                     |            |       |                                         |             |
 
 ### Relate Quantities and forming relationships
 
