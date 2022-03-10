@@ -77,7 +77,7 @@ On the x-axis is the time (in micro seconds) and on the y-axis is the voltage (i
 
 The slope is calculated to be -0.00006176
 
-Using the equations 
+Using the equations in relating quantities, the value of C can be calculated.
 
 and the value of C is 0.0000000217 F
 
