@@ -34,7 +34,7 @@ We combined the 2 resistors provided to us to obtain a net resistance of a diffe
 
 Constructing an RC Circuit as shown below.
 
-
+and using the equations that relate 
 
 
 
