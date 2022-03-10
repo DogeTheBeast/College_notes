@@ -73,6 +73,10 @@ The initial voltage of the circuit was measured by removing the capacitor and re
 | 1.49 ms | -3.32   |
 | 1.91 ms | -3.86V |
 
+Plot will be ln(V(t))
+
+
+
 #### Method 2 - Measuring the Time Constant
 
 parallel
