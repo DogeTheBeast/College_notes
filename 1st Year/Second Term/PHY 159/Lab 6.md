@@ -21,9 +21,10 @@ To measure the capacitance of a capacitor. The capacitance is the ratio of the c
 
 The resistance of the Resistors measured using the digital multimeter
 
-| Resistor Number | Resistance | Uncertainty |
-| --------------- | ---------- | ----------- |
-| R1              | 9.           |             |
+| Resistor Number | Resistance     | Uncertainty     |
+| --------------- | -------------- | --------------- |
+| R1              | 9.96 k${\ohm}$ | 0.001 k${\ohm}$ |
+|                 |                |                 |
 
 
 Value of resistance for 9.96 kohm
