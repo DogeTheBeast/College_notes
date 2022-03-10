@@ -60,7 +60,9 @@ Multiple data points can be recorded for the value of the time constant for diff
 | ------ | ------- |
 | 172 us | 6.3mV   |
 | 428us  | 12.6mV  |
-| 796    |         |
+| 796    | 17.2    |
+| 1.16ms | 20.2mV  |
+| 1.74ms | 22.6mV        |
 
 
 
