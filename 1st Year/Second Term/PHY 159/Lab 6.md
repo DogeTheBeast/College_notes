@@ -21,6 +21,7 @@ To measure the capacitance of a capacitor. The capacitance is the ratio of the c
 
 Value of resistance for 9.91k ohm
 29.92 kohm
+9.95 kohm
 
 
 
