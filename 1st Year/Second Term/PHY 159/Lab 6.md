@@ -118,7 +118,7 @@ Procedure:
     
 8.  To calculate C we use the relation C = (-1/R)*(1/slope).
     
-9.  The uncertainty in C can be calculated using 
+9.  The uncertainty in C can be calculated from the uncertainty in the slope of the graph, which will be calculated by Matlab automatically.
     
 
 ![[RC circuit.png]]
