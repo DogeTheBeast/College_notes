@@ -42,12 +42,14 @@ Constructing an RC Circuit as shown below,
 and using the equations that define a RC circuit,
 
 ![[Lab 6 formula.jpg]]
-The voltage, while the capacitor is discharging, can be measured and can be used to 
+The voltage, while the capacitor is discharging, can be measured and can be used with the formula above to form a plot. Using the plot, the slope can be measured 
 
 
 Measure the voltage across the capacitor and measure the time till the initial voltage becomes half. 
 
-#### Mea
+#### Method 2 - Measuring the Time Constant
+
+
 
 
 
