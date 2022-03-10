@@ -64,12 +64,12 @@ We measured the voltage across the capacitor using the resistor R3 and set it up
 The initial voltage of the circuit was measured by removing the capacitor and recording the value of the voltage obtained on the oscilloscope. The value was recorded to be 8.8 V. The following values were obtained from the testing the circuit and recording the values from the oscilloscope,
 
 
-| Time    | Voltage |     |
-| ------- | ------- | --- |
-| 0       | 4.46 V  |     |
-| 480 us  | 3.4 V   |     |
-| 840 us  | 5.2V    |     |
-| 1.77 ms | 7.5V    |     |
+| Time    | Voltage | ln(voltage) |
+| ------- | ------- | ----------- |
+| 0       | 4.46 V  | 1.495       |
+| 480 us  | 3.4 V   | 1.223       |
+| 840 us  | 5.2V    | 1.6486      |
+| 1.77 ms | 7.5V    | 2.014       | 
 
 Plot will be ln(V(t))
 
