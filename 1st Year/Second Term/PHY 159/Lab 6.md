@@ -12,7 +12,7 @@ To measure the capacitance of a capacitor. The capacitance is the ratio of the c
 | Tools              | Physical Parameters | Resolution | Range | Usage                                   | Uncertainty |
 | ------------------ | ------------------- | ---------- | ----- | --------------------------------------- | ----------- |
 | Oscilloscope       | Voltage and Current | 0.001 mV   |       | Used to measure the current and voltage |             |
-| Function Generator | Voltage and Current |            |       |                                         |             |
+| Function Generator | Frequency           | 0.05       |       |                                         |             |
 | Multimeter         |                     |            |       |                                         |             |
 | Capacitor          |                     |            |       |                                         |             |
 | Resistor           |                     |            |       |                                         |             |
