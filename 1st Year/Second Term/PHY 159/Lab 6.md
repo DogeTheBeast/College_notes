@@ -29,10 +29,6 @@ We combined the 2 resistors provided to us to obtain a net resistance of a diffe
 | R4 (${\frac{1}{\frac{1}{R1}\frac{1}{R2}}}$) (Parallel) |                 |                |
 
 
-Value of resistance for 9.96 kohm
-29.92 kohm
-
-
 
 ### Relate Quantities
 
