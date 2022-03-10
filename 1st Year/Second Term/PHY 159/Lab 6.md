@@ -11,7 +11,7 @@ To measure the capacitance of a capacitor. The capacitance is the ratio of the c
 ### Explore tools
 | Tools              | Physical Parameters | Resolution | Range | Usage | Uncertainty |
 | ------------------ | ------------------- | ---------- | ----- | ----- | ----------- |
-| Oscilloscope       |                     |            |       |       |             |
+| Oscilloscope       | Voltage and Current | 0.001 mV   |       |       |             |
 | Function Generator |                     |            |       |       |             |
 | Multimeter         |                     |            |       |       |             |
 | Capacitor          |                     |            |       |       |             |
