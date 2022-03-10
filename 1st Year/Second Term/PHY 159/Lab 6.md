@@ -47,7 +47,7 @@ The voltage, while the capacitor is discharging, can be measured and can be used
 
 Measure the voltage across the capacitor and measure the time till the initial voltage becomes half. 
 
-
+#### Mea
 
 
 
