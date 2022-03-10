@@ -64,7 +64,7 @@ Multiple data points can be recorded for the value of the time constant for diff
 | 1.16ms | 20.2mV  |
 | 1.74ms | 22.6mV        |
 
-
+V_0 29.2 mV
 
 
 ### Procedure
