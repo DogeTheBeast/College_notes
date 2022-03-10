@@ -1,6 +1,6 @@
 # Lab 6
 #### Ratiq Narwal (10289395)
-#### Time Ke ()
+#### Time Ke (42973255)
 Date - 2022-03-09
 
 
