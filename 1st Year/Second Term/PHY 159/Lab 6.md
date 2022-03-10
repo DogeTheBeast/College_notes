@@ -26,7 +26,7 @@ We combined the 2 resistors provided to us to obtain a net resistance of a diffe
 | R1                                                     | 9.96 k${\ohm}$  | 0.01 k${\ohm}$ |
 | R2                                                     | 29.92 k${\ohm}$ | 0.01 k${\ohm}$ |
 | R3 (R1 + R2) (Series)                                  | 39.83 k${\ohm}$ | 0.01 k${\ohm}$ |
-| R4 (${\frac{1}{\frac{1}{R1}\frac{1}{R2}}}$) (Parallel) |                 |                |
+| R4 (${\frac{1}{\frac{1}{R1}\frac{1}{R2}}}$) (Parallel) | 7.46 k${\ohm}$  | 0.01 k${\ohm}$ | 
 
 
 
