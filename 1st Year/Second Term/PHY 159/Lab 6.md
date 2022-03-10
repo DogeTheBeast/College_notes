@@ -75,7 +75,11 @@ The initial voltage of the circuit was measured by removing the capacitor and re
 
 #### Method 2 - Measuring the Time Constant
 
+parallel
 8.8/e = 3.2373390823
+772 us
+
+
 
 
 
