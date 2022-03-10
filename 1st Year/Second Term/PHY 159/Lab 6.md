@@ -1,6 +1,8 @@
 # Lab 6
 #### Ratiq Narwal (10289395)
 #### Time Ke (42973255)
+#### Bruno Eliseo (75871913)
+
 Date - 2022-03-09
 
 
