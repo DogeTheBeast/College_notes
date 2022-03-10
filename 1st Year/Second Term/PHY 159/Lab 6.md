@@ -56,9 +56,9 @@ Multiple data points can be recorded for the value of the time constant for diff
 
 ### Testing
 
-| Time | Voltage |
-| ---- | ------- |
-|      |         |
+| Time   | Voltage |
+| ------ | ------- |
+| 172 us |         |
 
 
 
