@@ -59,8 +59,8 @@ Multiple data points can be recorded for the value of the time constant for diff
 | Time   | Voltage |
 | ------ | ------- |
 | 172 us | 6.3mV   |
-| 428us  | 11.6mV  |
-|        |         |
+| 428us  | 12.6mV  |
+| 796    |         |
 
 
 
