@@ -97,7 +97,7 @@ parallel
 
 350 us
 
-
+![[graph 3.PNG]]
 
 
 ### Procedure
