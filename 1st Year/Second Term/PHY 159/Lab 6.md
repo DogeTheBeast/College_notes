@@ -98,9 +98,10 @@ parallel
 350 us
 
 
-| Time | Initial VOltage | Voltage at time = Tau | Resistance |
-| ---- | --------------- | --------------------- | ---------- |
-| 280   |                 |                       |            |
+| Time   | Initial VOltage | Voltage at time = Tau | Resistance |
+| ------ | --------------- | --------------------- | ---------- |
+| 280 us | 1.86            | 0.684                 | 7.461      |
+| 350 us | 3.88            | 1.427                 | 9.96           | 
 ![[graph 3.PNG]]
 
 
