@@ -61,21 +61,23 @@ Multiple data points can be recorded for the value of the time constant for diff
 We measured the voltage across the capacitor using the resistor R3 and set it up as shown in the image below.
 
 
-The initial voltage of the circuit was measured by removing the capacitor and recording the value of the voltage obtained on the oscilloscope. The value was recorded to be 8.8 V. The following values were obtained from the testing the circuit and recording the values from the oscilloscope,
+The initial voltage of the circuit was measured by removing the capacitor and recording the value of the voltage obtained on the oscilloscope. The following values were obtained from the testing the circuit and recording the values from the oscilloscope,
 
 
 | Time    | Voltage | ln(voltage) |
 | ------- | ------- | ----------- |
 | 0       | 4.46 V  | 1.495       |
 | 480 us  | 3.4 V   | 1.223       |
-| 840 us  | 2.8V    | 1.029      |
-| 1.77 ms | 1.5V    | 0.405       | 
+| 840 us  | 2.8V    | 1.029       |
+| 1770 us | 1.5V    | 0.405       |
 
 ![[graph 1.PNG]]
 
-
+On the x-axis is the time (in micro seconds) and on the y-axis is the voltage (in Volts).
 
 The slope is calculated to be -0.00006176
+
+Using the equations 
 
 and the value of C is 0.0000000217 F
 
