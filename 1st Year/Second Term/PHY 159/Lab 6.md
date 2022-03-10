@@ -15,7 +15,9 @@ To measure the capacitance of a capacitor. The capacitance is the ratio of the c
 | Function Generator |                     |            |       |       |             |
 | Multimeter         |                     |            |       |       |             |
 | Capacitor          |                     |            |       |       |             |
-|                    |                     |            |       |       |             |
+| Resistor           |                     |            |       |       |             |
+| Breadboard         |                     |            |       |       |             |
+| Connecting                    |                     |            |       |       |             |
 
 ### Relate Quantities and forming relationships
 
