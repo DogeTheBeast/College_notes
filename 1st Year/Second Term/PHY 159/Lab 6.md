@@ -82,9 +82,9 @@ Using the equations in relating quantities, the value of C can be calculated and
 #### Method 2 - Measuring the Time Constant
 
 
-By changing the resistor, the value of the time constant can be calculated 
+By changing the resistor, the value of the time constant can be calculated,
 
-| Time   | Initial VOltage | Voltage at time = Tau | Resistance |
+| Time   | Initial Voltage | Voltage at time = Tau | Resistance |
 | ------ | --------------- | --------------------- | ---------- |
 | 280 us | 1.86            | 0.684                 | 7.461      |
 | 350 us | 3.88            | 1.427                 | 9.96       |
@@ -93,7 +93,9 @@ By changing the resistor, the value of the time constant can be calculated
 
 ![[graph 3.PNG]]
 
- with an uncertainty of 1.0419 x 10^-7.
+From the graph, the value of the slope is calculated to be 0.000014014 F with an uncertainty of 
+
+with an uncertainty of 1.0419 x 10^-7.
 
 
 ### Procedure
