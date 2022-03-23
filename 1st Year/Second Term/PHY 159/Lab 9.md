@@ -17,6 +17,8 @@ Measure the molar density and atmosphere pressure in the atmosphere. Atmospheric
 | Masses                  | Mass                | 0.5 g        | 0 to 1000 g      | Used to measure the             | 0.5 g         |
 | Syringe                 | Volume              | 0.1 ${cm^3}$ | 0 to 10 ${cm^3}$ | Used to measure volume          | 0.05 ${cm^3}$ |
 | Digital Weighting scale |                     |              |                  |                                 |               |
+| Table Clamp             | -                   | -            | -                | -                               | -             | 
+| Metal bar with holes    | -                   | -            | -                | -                               | -             |
 
 ### Relate Quantities and forming relationships
 
