@@ -19,6 +19,7 @@ Measure the molar density and atmosphere pressure in the atmosphere. Atmospheric
 | Digital Weighting scale | Mass                | 0.0001 kg    | 0 to 10 kg       | Used to measure the mass of an object | 0.0001 kg     |
 | Table Clamp             | -                   | -            | -                | -                                     | -             |
 | Metal bar with holes    | -                   | -            | -                | -                                     | -             |
+| Vernier Calipers        | Length              | 0.025 mm     | 0 to                  |                                       |               |
 
 ### Relate Quantities and forming relationships
 
