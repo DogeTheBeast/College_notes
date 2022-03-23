@@ -25,11 +25,14 @@ Measure the molar density and atmosphere pressure in the atmosphere. Atmospheric
 
 #### Objective 1 - Measuring the atmospheric pressure
 
+The standard formula that relates pressure and volume with temperature for ideal gases is,
+
+
 
 $${\LARGE PV = nRT}$$
 $${\LARGE F = ma = mg = W}$$
 $${\LARGE A = \pi r^2}$$
-$${\LARGE F_{atm} = mg + F_gas}$$
+$${\LARGE F_{atm} = mg + F_{gas}}$$
 
 #### Objective 2 - Measuring the molar density
 
