@@ -23,13 +23,15 @@ Measure the molar density and atmosphere pressure in the atmosphere. Atmospheric
 
 ### Relate Quantities and forming relationships
 
-#### Objective 1 - Measuring the 
+#### Objective 1 - Measuring the atmospheric pressure
 
 
 $${\LARGE PV = nRT}$$
 $${\LARGE F = ma = mg = W}$$
 $${\LARGE A = \pi r^2}$$
 $${\LARGE F_{atm} = mg + F_gas}$$
+
+#### Objective 2 - 
 
 
 
