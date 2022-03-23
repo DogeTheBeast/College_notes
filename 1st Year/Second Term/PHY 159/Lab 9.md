@@ -7,7 +7,7 @@ Date - 2022-03-23
 
 ### Clarify Objective
 
-
+Measure the 
 
 
 ### Explore tools
