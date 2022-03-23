@@ -11,15 +11,15 @@ Measure the molar density and atmosphere pressure in the atmosphere. Atmospheric
 
 
 ### Explore tools
-| Tools                   | Physical Parameters | Resolution   | Range            | Usage                                 | Uncertainty   |
-| ----------------------- | ------------------- | ------------ | ---------------- | ------------------------------------- | ------------- |
-| Ruler                   | Length              | 0.05 cm      | 0 to 100 cm      | Measure the length of an object       | 0.1 cm        |
-| Masses                  | Mass                | 0.5 g        | 0 to 1000 g      | Masses used for measurement           | 0.5 g         |
-| Syringe                 | Volume              | 0.1 ${cm^3}$ | 0 to 10 ${cm^3}$ | Used to measure volume                | 0.05 ${cm^3}$ |
-| Digital Weighting scale | Mass                | 0.0001 kg    | 0 to 10 kg       | Used to measure the mass of an object | 0.0001 kg     |
-| Table Clamp             | -                   | -            | -                | -                                     | -             |
-| Metal bar with holes    | -                   | -            | -                | -                                     | -             |
-| Vernier Calipers        | Length              | 0.025 mm     | 0 to 150 mm      | Used to measure the length of smaller objects                                       |               |
+| Tools                   | Physical Parameters | Resolution   | Range            | Usage                                                   | Uncertainty   |
+| ----------------------- | ------------------- | ------------ | ---------------- | ------------------------------------------------------- | ------------- |
+| Ruler                   | Length              | 0.05 cm      | 0 to 100 cm      | Measure the length of an object                         | 0.1 cm        |
+| Masses                  | Mass                | 0.5 g        | 0 to 1000 g      | Masses used for measurement                             | 0.5 g         |
+| Syringe                 | Volume              | 0.1 ${cm^3}$ | 0 to 10 ${cm^3}$ | Used to measure volume                                  | 0.05 ${cm^3}$ |
+| Digital Weighting scale | Mass                | 0.0001 kg    | 0 to 10 kg       | Used to measure the mass of an object                   | 0.0001 kg     |
+| Table Clamp             | -                   | -            | -                | -                                                       | -             |
+| Metal bar with holes    | -                   | -            | -                | -                                                       | -             |
+| Vernier Calipers        | Length              | 0.05 mm      | 0 to 150 mm      | Used to measure the length of smaller objects precisely | 0.025 mm      |
 
 ### Relate Quantities and forming relationships
 
