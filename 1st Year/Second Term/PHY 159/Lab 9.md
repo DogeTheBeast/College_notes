@@ -22,8 +22,10 @@ Measure the molar density and atmosphere pressure in the atmosphere. Atmospheric
 
 ### Relate Quantities and forming relationships
 
-${\LARGE PV = nRT}$
-
+$${\LARGE PV = nRT}$$
+$${\LARGE F = ma = mg = W}$$
+$${\LARGE A = \pi r^2}$$
+$$
 
 ### Testing
 
