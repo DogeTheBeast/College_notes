@@ -11,11 +11,17 @@ Measure the molar density and atmosphere pressure in the atmosphere. Atmospheric
 
 
 ### Explore tools
-| Tools       | Physical Parameters | Resolution | Range | Usage | Uncertainty |
-| ----------- | ------------------- | ---------- | ----- | ----- | ----------- |
-| Meter Stick | Length              |            |       |       |             |
+| Tools | Physical Parameters | Resolution | Range       | Usage                           | Uncertainty |
+| ----- | ------------------- | ---------- | ----------- | ------------------------------- | ----------- |
+| Ruler | Length              | 0.05 cm    | 0 to 100 cm | Measure the length of an object | 0.1         |
+|       |                     |            |             |                                 |             |
 
 ### Relate Quantities and forming relationships
+
+| title | title2 | title3 |
+| ----- | ------ | ------ |
+| Hello |        |        |
+
 
 ### Testing
 
