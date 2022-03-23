@@ -7,7 +7,7 @@ Date - 2022-03-23
 
 ### Clarify Objective
 
-Measure the molar density and atmosphere pressure in the atmosphere. Atmosphh
+Measure the molar density and atmosphere pressure in the atmosphere. Atmospheric pressure is the amount of pressure that is felt on an object
 
 
 ### Explore tools
