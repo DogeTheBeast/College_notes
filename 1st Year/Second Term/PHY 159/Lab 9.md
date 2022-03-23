@@ -7,7 +7,7 @@ Date - 2022-03-23
 
 ### Clarify Objective
 
-Measure the 
+Measure the molar density and atmosphere pressure in the atmosphere
 
 
 ### Explore tools
