@@ -12,7 +12,20 @@
             "file": "1st Year/Second Term/PHY 159/Lab 9.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "ae82f9713c103f19"
+      },
+      {
+        "id": "22af3338907a6771",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1st Year/Second Term/PHY 159/Lab 9.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ae82f9713c103f19"
       }
     ],
     "direction": "vertical"

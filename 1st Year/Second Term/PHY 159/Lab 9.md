@@ -31,7 +31,7 @@ $${\LARGE F = ma = mg = W}$$
 $${\LARGE A = \pi r^2}$$
 $${\LARGE F_{atm} = mg + F_gas}$$
 
-#### Objective 2 - 
+#### Objective 2 - Measuring the molar density
 
 
 
