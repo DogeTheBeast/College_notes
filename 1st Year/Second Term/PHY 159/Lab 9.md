@@ -7,7 +7,7 @@ Date - 2022-03-23
 
 ### Clarify Objective
 
-Measure the molar density and atmosphere pressure in the atmosphere. Atmospheric pressure is the amount of pressure that is felt on an object by the weight of the air on top of the object. 
+Measure the molar density and atmosphere pressure in the atmosphere. Atmospheric pressure is the amount of pressure that is felt on an object by the weight of the air on top of the object. Pressure is calculated 
 
 
 ### Explore tools
