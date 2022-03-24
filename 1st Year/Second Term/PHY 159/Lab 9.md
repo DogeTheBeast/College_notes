@@ -27,6 +27,8 @@ Below is the free body diagram of the end of the syringe,
 
 ![[Syringe.PNG]]
 
+![[Radius for syringe.PNG]]
+
 
 #### Objective 1 - Measuring the atmospheric pressure
 
