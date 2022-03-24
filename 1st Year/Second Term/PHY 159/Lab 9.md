@@ -177,5 +177,5 @@ The method used to measure the molar density was determined to be very accurate 
 
 ## Reflection
 
-The syringe was stopping earlier than the position of equilibrium which was a big problem when we were conducting the experiment, we got over this issue by pushing the syringe as
+The syringe was stopping earlier than the position of equilibrium which was a big problem when we were conducting the experiment, we got over this issue by pushing the syringe as dynamic friction is less than the static friction. Otherwise, we felt that the volumetric measurement of the syringe was not very accurate and could be improved.
 
