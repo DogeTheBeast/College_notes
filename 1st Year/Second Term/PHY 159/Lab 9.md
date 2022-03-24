@@ -63,7 +63,7 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 $${\LARGE F_{atm} = mg + F_{gas}}$$
 $${\LARGE P_{atm} = \frac{F_{app}}{A} + P_{gas}}$$
 $${\LARGE P_{atm}\times A = F_{app} + P_{gas}\times A}$$
-$${\LARGE P_{atm}\times A = F_{app} + \frac{nRT}{V}A}$$
+$${\LARGE  \frac{nRT}{V} =  P_{atm} - \f$$
 
 where,
 *m* is the weight added on the syringe,
