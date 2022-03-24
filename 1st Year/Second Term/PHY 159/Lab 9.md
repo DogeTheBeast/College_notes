@@ -37,7 +37,7 @@ Below is the free body diagram of the end of the syringe,
 $${\LARGE F = ma = mg = W}$$
 
 $${\LARGE P_{atm}\times A = F_{app} + P_{gas}\times A}$$
-
+$${\LARGE P_{atm}\times A = F_{app} + \frac{nRT}{V}A}$$
 $${\LARGE A = \pi r^2}$$
 $${\LARGE F_{atm} = mg + F_{gas}}$$
 
