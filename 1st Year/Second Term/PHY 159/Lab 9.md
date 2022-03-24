@@ -172,7 +172,10 @@ ${- \frac{mg}{A}}$ is the x value,
 4. The value of the y intercept is same as the value of the atmospheric pressure. 
 
 ## Evaluation
-The method used to measure the molar density was determined to be very accurate as the percentage uncertainty of the method was very low. The second objective yielded a very high uncertainty in the value of the atmospheric which means that there is a lot of room for improvement in the second method.
+The method used to measure the molar density was determined to be very accurate as the percentage uncertainty of the method was very low. The second objective yielded a very high uncertainty in the value of the atmospheric which means that there is a lot of room for improvement in the second method. The second method relies heavily on the method used in the first objective which makes it not very reliable and can be improved by measuring the weight on the syringe using torque.
 
 
 ## Reflection
+
+
+
