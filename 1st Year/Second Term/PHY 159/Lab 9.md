@@ -38,6 +38,8 @@ $${\LARGE F_{atm} = mg + F_{gas}}$$
 #### Objective 2 - Measuring the molar density
 Below is the free body diagram of the end of the syringe,
 
+![[Syringe.PNG]]
+
 From the diagram, the following equation can be derived,
 
 $${\LARGE F_{atm} = mg + F_{gas}}$$
