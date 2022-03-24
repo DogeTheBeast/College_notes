@@ -30,23 +30,8 @@ Below is the free body diagram of the end of the syringe,
 ![[Radius for syringe.PNG]]
 
 
-#### Objective 1 - Measuring the atmospheric pressure
 
-$${\LARGE F_{atm} = mg + F_{gas}}$$
-$${\LARGE P_{atm} = \frac{F_{app}}{A} + P_{gas}}$$
-$${\LARGE P_{atm}\times A = F_{app} + P_{gas}\times A}$$
-$${\LARGE P_{atm}\times A = F_{app} + \frac{nRT}{V}A}$$
-
-where,
-*m* is the weight added on the syringe,
-*g* is acceleration due to gravity,
-*A* is the area of the seal,
-*n* is the number of moles,
-*R* is the gas constant (${8.314 J \times mol^{-1} \times K^{-1}}$), and
-*T* is the temperature of the gas (standard temperature (273.15 K)).
-
-
-#### Objective 2 - Measuring the molar density
+#### Objective 1 - Measuring the molar density
 
 The standard formula that relates pressure and volume with temperature for ideal gases is,
 
@@ -72,15 +57,33 @@ The equation above can be plotted to find the slope which will be equal to ${\fr
 
 $${\LARGE molar\space density = \frac{n}{V_0}}$$
 
+
+#### Objective 2 - Measuring the atmospheric pressure
+
+$${\LARGE F_{atm} = mg + F_{gas}}$$
+$${\LARGE P_{atm} = \frac{F_{app}}{A} + P_{gas}}$$
+$${\LARGE P_{atm}\times A = F_{app} + P_{gas}\times A}$$
+$${\LARGE P_{atm}\times A = F_{app} + \frac{nRT}{V}A}$$
+
+where,
+*m* is the weight added on the syringe,
+*g* is acceleration due to gravity,
+*A* is the area of the seal,
+*n* is the number of moles,
+*R* is the gas constant (${8.314 J \times mol^{-1} \times K^{-1}}$), and
+*T* is the temperature of the gas (standard temperature (273.15 K)).
+
+
+
 ### Testing
-#### Objective 1 - Measuring the atmospheric pressure
 
 
 
 
 
-#### Objective 2 - Measuring the molar density
 
+
+#### Objective 1 - Measuring the molar density
 
 | Weight (kg) | x value for graph (${kg/m^2}$) | Initial Volume (${m^3}$) | Final Volume (${cm^3}$) | Difference in volume (${cm^3}$) | ${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}}}$ |
 | ----------- | ------------------------------ | ------------------------ | ----------------------- | ------------------------------- | -------------------------------------------- |
@@ -94,6 +97,7 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 
 ![[Slope for syringe.PNG]]
 
+
 Using the value of the slope, the value of n can be calculated,
 $${\LARGE n = \frac{1}{1.3747 \times 294.55 \times 8.314}}$$
 $${\LARGE n = 2.9704 \times 10^{-4}}$$
@@ -103,7 +107,10 @@ and using the value of n, the value of the molar density can be calculated,
 $${\LARGE molar \space density = \frac{n}{V_0} = \frac{2.9704 \times 10^{-4}}{5\times 10^{-6}}}$$
 $${\LARGE molar \space density = 59.41}$$
 
-!
+![[uncertainty in syringe.PNG]]
+
+#### Objective 2 - Measuring the atmospheric pressure
+
 
 ### Procedure
 
