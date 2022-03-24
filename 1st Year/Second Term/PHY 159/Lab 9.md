@@ -79,7 +79,9 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 | 700         | 5.0                       | 6.9                     | 1.9                             |
 | 1000        | 5.0                       | 9.0                     | 3.0                                |
 
+![[graph for syringe.PNG]]
 
+![[slope for syringe.PNG]]
 
 #### Objective 2 - Measuring the molar density
 
