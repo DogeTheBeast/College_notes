@@ -137,6 +137,9 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 
 #### Objective 2 - Measuring the atmospheric pressure
 
+![[atmospheric pressure graph.PNG]]
+!{}
+
 ## Evaluation
 The method used to measure the molar density was determined to be very accurate 
 
