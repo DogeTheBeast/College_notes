@@ -41,7 +41,8 @@ Below is the free body diagram of the end of the syringe,
 From the diagram, the following equation can be derived,
 
 $${\LARGE F_{atm} = mg + F_{gas}}$$
-$${\LARGE \frac{F_{atm}}{A} = mg + F_{gas}}$$
+$${\LARGE \frac{F_{atm}}{A} = \frac{mg}{A} + \frac{F_{gas}}{A}}$$
+$${\LARGE \frac{nRT}{V_0} = }$$
 
 
 
