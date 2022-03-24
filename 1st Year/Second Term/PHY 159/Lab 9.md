@@ -124,8 +124,11 @@ The following values were obtained and modified to be plotted,
 | 0.7         | -42165                         | ${5.0 \times 10^{-6}}$   | ${6.9 \times 10^{-6}}$  | ${1.9 \times 10^{-6}}$          | 105390                     |
 | 1.0         | -60235                         | ${5.0 \times 10^{-6}}$   | ${9.0 \times 10^{-6}}$  | ${3.0 \times 10^{-6}}$          | 80799                      | 
 
-and the following graph was obtained for the va
+and the following graph was obtained for the values above,
+
 ![[atmospheric pressure graph.PNG]]
+
+On the x-axis, we have ${\frac{mg}{A}}$ and on the y-axis, we have 
 ![[y-intercept.PNG]]
 
 
