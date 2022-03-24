@@ -73,6 +73,12 @@ The equation above can be plotted to find the slope which will be equal to ${\fr
 $${\LARGE molar\space density = \frac{n}{V_0}}$$
 
 ### Testing
+#### Objective 
+
+
+
+#### Objective 2 - Measuring the molar density
+
 
 | Weight (kg) | x value for graph (${kg/m^2}$) | Initial Volume (${m^3}$) | Final Volume (${cm^3}$) | Difference in volume (${cm^3}$) | ${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}}}$ |
 | ----------- | ------------------------------ | ------------------------ | ----------------------- | ------------------------------- | -------------------------------------------- |
@@ -80,11 +86,6 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 | 0.4         | 24094                          | ${5.0 \times 10^{-6}}$   | ${5.9 \times 10^{-6}}$  | ${9.0 \times 10^{-7}}$          | 30508                                        |
 | 0.7         | 42165                          | ${5.0 \times 10^{-6}}$   | ${6.9 \times 10^{-6}}$  | ${1.9 \times 10^{-6}}$          | 55072                                        |
 | 1.0         | 60235                          | ${5.0 \times 10^{-6}}$   | ${9.0 \times 10^{-6}}$  | ${3.0 \times 10^{-6}}$          | 88889                                        | 
-
-
-
-#### Objective 2 - Measuring the molar density
-
 
 
 
