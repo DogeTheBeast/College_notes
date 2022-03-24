@@ -125,8 +125,10 @@ $${\LARGE molar \space density = 59.41}$$
 3. Suspend weights of different masses from the syringe and measure the extension new volume of the air in the syringe.
 4. Use the formula below to plot a graph of the behavior of the gas in the syringe.
 $${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}} = \frac{mg}{AnRT}}$$
+where,
+${\frac{1}{V_0} - \frac{1}{V_{gas}}$
 6. Use the slope of the graph and use the formula below to calculate the number of moles of the gas present. 
-$${\LARGE n = \frac{1}{slope}}
+$${\LARGE n = \frac{1}{slope\times R \times T}}$$
 8. Use the number of moles and divide it be the initial volume of the gas in the syringe to find the molar density.
 
 $${\LARGE molar\space density = \frac{n}{V_0}}$$
