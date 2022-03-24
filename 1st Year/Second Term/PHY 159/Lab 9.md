@@ -79,9 +79,7 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 | 0.7         | 4298.17                        | ${5.0 \times 10^{-6}}$   | ${6.9 \times 10^{-6}}$  | ${1.9 \times 10^{-6}}$          | 0.055                                        |
 | 1.0         | 6140.24                        | ${5.0 \times 10^{-6}}$   | ${9.0 \times 10^{-6}}$  | ${3.0 \times 10^{-6}}$          | 0.089                                        |
 
-![[graph for syringe.PNG]]
 
-![[slope for syringe.PNG]]
 
 #### Objective 2 - Measuring the molar density
 
