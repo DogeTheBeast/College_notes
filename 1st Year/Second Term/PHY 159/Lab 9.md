@@ -177,5 +177,5 @@ The method used to measure the molar density was determined to be very accurate 
 
 ## Reflection
 
-
+The syringe was stopping earlier than the position of equilibrium which was a big problem when we were conducting the experiment, we got over this issue by pushing the syringe as
 
