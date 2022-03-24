@@ -72,8 +72,9 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 
 ### Testing
 
-| Weight (kg) |     | 
-| ----------- | --- |
+| Weight (kg) | Initial Volume (${cm^3}$) | Final Volume (${cm^3}$) |
+| ----------- | ------------------------- | ----------------------- |
+|             |                           |                         |
 
 
 
