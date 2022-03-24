@@ -72,6 +72,9 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 
 ### Testing
 
+| Weight (kg) |     | 
+| ----------- | --- |
+
 
 
 #### Objective 2 - Measuring the molar density
