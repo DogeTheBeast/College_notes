@@ -49,7 +49,10 @@ $${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}} = \frac{mg}{AnRT}}$$
 
 where,
 *m* is the weight added on the syringe,
-*g* is acceleration due to gravity
+*g* is acceleration due to gravity,
+*A* is the area of the seal,
+*n* is the number of moles,
+*R* is the gas constant (8.314)
 
 
 
