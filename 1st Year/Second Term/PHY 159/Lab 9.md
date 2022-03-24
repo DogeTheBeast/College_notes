@@ -133,7 +133,7 @@ On the x-axis, we have ${\frac{mg}{A}}$ and on the y-axis, we have ${\LARGE \fra
 
 ![[y-intercept.PNG]]
 
-The value of the y intercept corresponds with the value of the atmospheric pressure and hence, the value we calculated for the atmospheric pressure is ${1.4}
+The value of the y intercept corresponds with the value of the atmospheric pressure and hence, the value we calculated for the atmospheric pressure is ${1.49 \times 10^5}$ with an uncertainty of ${1.4 \times 10^4}$.
 
 
 
