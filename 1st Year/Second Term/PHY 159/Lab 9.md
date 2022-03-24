@@ -109,9 +109,13 @@ and using the value of n, the value of the molar density can be calculated,
 $${\LARGE molar \space density = \frac{n}{V_0} = \frac{2.9704 \times 10^{-4}}{5\times 10^{-6}}}$$
 $${\LARGE molar \space density = 59.41}$$
 
+The uncertainty in the value of the molar density and the related calculations is shown below,
+
 ![[uncertainty in syringe.PNG]]
 
 #### Objective 2 - Measuring the atmospheric pressure
+
+The following values were obtained and modified to be plotted,
 
 | Weight (kg) | x value for graph (${kg/m^2}$) | Initial Volume (${m^3}$) | Final Volume (${cm^3}$) | Difference in volume (${cm^3}$) | ${\LARGE \frac{nRT}{V_0}}$ |
 | ----------- | ------------------------------ | ------------------------ | ----------------------- | ------------------------------- | -------------------------- |
@@ -120,7 +124,7 @@ $${\LARGE molar \space density = 59.41}$$
 | 0.7         | -42165                         | ${5.0 \times 10^{-6}}$   | ${6.9 \times 10^{-6}}$  | ${1.9 \times 10^{-6}}$          | 105390                     |
 | 1.0         | -60235                         | ${5.0 \times 10^{-6}}$   | ${9.0 \times 10^{-6}}$  | ${3.0 \times 10^{-6}}$          | 80799                      | 
 
-
+and the following graph was obtained for the va
 ![[atmospheric pressure graph.PNG]]
 ![[y-intercept.PNG]]
 
