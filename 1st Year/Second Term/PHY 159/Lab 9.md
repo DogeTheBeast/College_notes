@@ -30,12 +30,19 @@ Below is the free body diagram of the end of the syringe,
 
 #### Objective 1 - Measuring the atmospheric pressure
 
+$${\LARGE F_{atm} = mg + F_{gas}}$$
 $${\LARGE P_{atm} = \frac{F_{app}}{A} + P_{gas}}$$
-
 $${\LARGE P_{atm}\times A = F_{app} + P_{gas}\times A}$$
 $${\LARGE P_{atm}\times A = F_{app} + \frac{nRT}{V}A}$$
-$${\LARGE A = \pi r^2}$$
-$${\LARGE F_{atm} = mg + F_{gas}}$$
+
+where,
+*m* is the weight added on the syringe,
+*g* is acceleration due to gravity,
+*A* is the area of the seal,
+*n* is the number of moles,
+*R* is the gas constant (${8.314 J \times mol^{-1} \times K^{-1}}$), and
+*T* is the temperature of the gas (standard temperature (273.15 K)).
+
 
 #### Objective 2 - Measuring the molar density
 
