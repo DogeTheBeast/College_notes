@@ -52,8 +52,8 @@ where,
 *g* is acceleration due to gravity,
 *A* is the area of the seal,
 *n* is the number of moles,
-*R* is the gas constant (${8.314 J \times mol^{-1} \times K^{-1}}$),
-*T* is the temperature of the gas (standard temperature (273.15 K)),
+*R* is the gas constant (${8.314 J \times mol^{-1} \times K^{-1}}$), and
+*T* is the temperature of the gas (standard temperature (273.15 K)).
 
 
 
