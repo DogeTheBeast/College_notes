@@ -36,7 +36,12 @@ $${\LARGE A = \pi r^2}$$
 $${\LARGE F_{atm} = mg + F_{gas}}$$
 
 #### Objective 2 - Measuring the molar density
-Below is the free body diagram of the end of the sy
+Below is the free body diagram of the end of the syringe,
+
+From the diagram, the following equation can be derived,
+
+$${\LARGE F_{atm} = mg + F_{gas}}$$
+$${\LARGE \frac{F_{atm}}{A} = mg + F_{gas}}$$
 
 
 
