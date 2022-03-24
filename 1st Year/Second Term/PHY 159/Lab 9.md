@@ -90,7 +90,12 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 | 1.0         | 60235                          | ${5.0 \times 10^{-6}}$   | ${9.0 \times 10^{-6}}$  | ${3.0 \times 10^{-6}}$          | 88889                                        | 
 
 
+![[syringe graph.PNG]]
 
+![[Slope for syringe.PNG]]
+
+Using the value of the slope, the value of n can be calculated,
+$${\LARGE }
 
 
 ### Procedure
