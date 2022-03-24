@@ -49,7 +49,7 @@ $${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}} = \frac{mg}{AnRT}}$$
 
 where,
 *m* is the weight added on the syringe,
-*g* is accele
+*g* is acceleration due to gravity
 
 
 
