@@ -120,7 +120,8 @@ $${\LARGE molar \space density = 59.41}$$
 
 #### Objective 1 - Measuring the molar density
 
-
+1. Setup the apparatus as shown below with the syringe suspended from the bracket.
+2. Setup the syringe to a measuring 
 
 
 
