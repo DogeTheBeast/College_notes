@@ -159,6 +159,12 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 
 #### Objective 2 - Measuring the atmospheric pressure
 
+1. Setup the apparatus as the objective 1.
+2. 
+
+
+$${\LARGE  \frac{nRT}{V} =  P_{atm} - \frac{mg}{A}}$$
+
 ## Evaluation
 The method used to measure the molar density was determined to be very accurate 
 
