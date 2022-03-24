@@ -95,10 +95,12 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 ![[Slope for syringe.PNG]]
 
 Using the value of the slope, the value of n can be calculated,
-$${\LARGE n = \frac{1}{1.3747 \times 273.15 \times 8.314}}$$
-$${\LARGE n = 3.2698 \times 10^{-4}}$$
+$${\LARGE n = \frac{1}{1.3747 \times 294.55 \times 8.314}}$$
+$${\LARGE n = 2.9704 \times 10^{-4}}$$
 
-and using the value of n, the value of the molar
+and using the value of n, the value of the molar density can be calculated,
+
+$${\LARGE molar \space density = }
 
 
 ### Procedure
