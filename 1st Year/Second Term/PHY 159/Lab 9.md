@@ -45,7 +45,11 @@ $${\LARGE \frac{F_{atm}}{A} = \frac{mg}{A} + \frac{F_{gas}}{A}}$$
 $${\LARGE P_{gas} = \frac{mg}{A} + P_{gas}}$$
 $${\LARGE \frac{nRT}{V_0} = \frac{mg}{A} + \frac{nRT}{V_{gas}}}$$
 
-$${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}} = \frac{mg}}$$
+$${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}} = \frac{mg}{AnRT}}$$
+
+where,
+*m* is the weight added on the syringe,
+*g* is accele
 
 
 
