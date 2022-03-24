@@ -23,23 +23,28 @@ Measure the molar density and atmosphere pressure in the atmosphere. Atmospheric
 
 ### Relate Quantities and forming relationships
 
-#### Objective 1 - Measuring the atmospheric pressure
-
-The standard formula that relates pressure and volume with temperature for ideal gases is,
-
-$${\LARGE PV = nRT}$$
-
-
-
-$${\LARGE F = ma = mg = W}$$
-$${\LARGE A = \pi r^2}$$
-$${\LARGE F_{atm} = mg + F_{gas}}$$
-
-#### Objective 2 - Measuring the molar density
 Below is the free body diagram of the end of the syringe,
 
 ![[Syringe.PNG]]
 
+
+#### Objective 1 - Measuring the atmospheric pressure
+
+
+
+
+
+$${\LARGE F = ma = mg = W}$$
+
+$${\LARGE }
+$${\LARGE A = \pi r^2}$$
+$${\LARGE F_{atm} = mg + F_{gas}}$$
+
+#### Objective 2 - Measuring the molar density
+
+The standard formula that relates pressure and volume with temperature for ideal gases is,
+
+$${\LARGE PV = nRT}$$
 From the diagram, the following equation can be derived,
 
 $${\LARGE F_{atm} = mg + F_{gas}}$$
