@@ -123,7 +123,7 @@ $${\LARGE molar \space density = 59.41}$$
 1. Setup the apparatus as shown below with the syringe suspended from the bracket.
 2. Setup the syringe and fill it with air to a measuring and controlled amount. Use a stopper and close the syringe.
 3. Suspend weights of different masses from the syringe and measure the extension new volume of the air in the syringe.
-4. Use the formula below to 
+4. Use the formula below to plot a graph of the behaviour of the gas in the syringe and 
 
 
 
