@@ -63,7 +63,7 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 $${\LARGE F_{atm} = mg + F_{gas}}$$
 $${\LARGE P_{atm} = \frac{F_{app}}{A} + P_{gas}}$$
 $${\LARGE P_{atm}\times A = F_{app} + P_{gas}\times A}$$
-$${\LARGE  \frac{nRT}{V} =  P_{atm} - \f$$
+$${\LARGE  \frac{nRT}{V} =  P_{atm} - \frac{mg}{A}}$$
 
 where,
 *m* is the weight added on the syringe,
@@ -106,7 +106,7 @@ $${\LARGE molar \space density = 59.41}$$
 
 #### Objective 2 - Measuring the atmospheric pressure
 
-| Weight (kg) | x value for graph (${kg/m^2}$) | Initial Volume (${m^3}$) | Final Volume (${cm^3}$) | Difference in volume (${cm^3}$) | ${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}}}$ |
+| Weight (kg) | x value for graph (${kg/m^2}$) | Initial Volume (${m^3}$) | Final Volume (${cm^3}$) | Difference in volume (${cm^3}$) | ${\LARGE \frac{nRT}{V_0}}$ |
 | ----------- | ------------------------------ | ------------------------ | ----------------------- | ------------------------------- | -------------------------------------------- |
 | 0           | 0                              | ${5.0 \times 10^{-6}}$   | ${5.0 \times 10^{-6}}$  | 0.0                             | 0.000                                        |
 | 0.4         | -24094                          | ${5.0 \times 10^{-6}}$   | ${5.9 \times 10^{-6}}$  | ${9.0 \times 10^{-7}}$          | 30508                                        |
