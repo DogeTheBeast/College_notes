@@ -161,10 +161,13 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 
 1. Setup the apparatus as the objective 1.
 2. Record the values of the volume in the same method as the first objective.
-3. Plot the values on a graph as
-
+3. Plot the values on a graph in the same way as the equation below,
 
 $${\LARGE  \frac{nRT}{V} =  P_{atm} - \frac{mg}{A}}$$
+where,
+${\frac{nRT}{V}}$ is the y value,
+${P_{atm}}$ is the y intercept,
+${- \frac{mg}{A}}$ is the x value,
 
 ## Evaluation
 The method used to measure the molar density was determined to be very accurate 
