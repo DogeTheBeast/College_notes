@@ -79,6 +79,7 @@ where,
 
 
 #### Objective 1 - Measuring the molar density
+The values below were collected,
 
 | Weight (kg) | x value for graph (${kg/m^2}$) | Initial Volume (${m^3}$) | Final Volume (${cm^3}$) | Difference in volume (${cm^3}$) | ${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}}}$ |
 | ----------- | ------------------------------ | ------------------------ | ----------------------- | ------------------------------- | -------------------------------------------- |
@@ -86,6 +87,9 @@ where,
 | 0.4         | 24094                         | ${5.0 \times 10^{-6}}$   | ${5.9 \times 10^{-6}}$  | ${9.0 \times 10^{-7}}$          | 30508                                        |
 | 0.7         | 42165                         | ${5.0 \times 10^{-6}}$   | ${6.9 \times 10^{-6}}$  | ${1.9 \times 10^{-6}}$          | 55072                                        |
 | 1.0         | 60235                         | ${5.0 \times 10^{-6}}$   | ${9.0 \times 10^{-6}}$  | ${3.0 \times 10^{-6}}$          | 88889                                        |
+
+and the following 
+
 
 
 ![[syringe graph.PNG]]
@@ -114,6 +118,9 @@ $${\LARGE molar \space density = 59.41}$$
 | 1.0         | -60235                         | ${5.0 \times 10^{-6}}$   | ${9.0 \times 10^{-6}}$  | ${3.0 \times 10^{-6}}$          | 80799                      | 
 
 
+![[atmospheric pressure graph.PNG]]
+![[y-intercept.PNG]]
+
 
 
 ### Procedure
@@ -136,9 +143,6 @@ $${\LARGE n = \frac{1}{slope\times R \times T}}$$
 $${\LARGE molar\space density = \frac{n}{V_0}}$$
 
 #### Objective 2 - Measuring the atmospheric pressure
-
-![[atmospheric pressure graph.PNG]]
-!{}
 
 ## Evaluation
 The method used to measure the molar density was determined to be very accurate 
