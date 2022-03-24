@@ -169,8 +169,10 @@ ${\frac{nRT}{V}}$ is the y value,
 ${P_{atm}}$ is the y intercept,
 ${- \frac{mg}{A}}$ is the x value,
 
+4. The value of the y intercept is same as the value of the atmospheric pressure. 
+
 ## Evaluation
-The method used to measure the molar density was determined to be very accurate 
+The method used to measure the molar density was determined to be very accurate as the percentage uncertainty of the method was very
 
 
 ## Reflection
