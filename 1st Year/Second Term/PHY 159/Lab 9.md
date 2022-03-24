@@ -57,7 +57,9 @@ where,
 *R* is the gas constant (${8.314 J \times mol^{-1} \times K^{-1}}$), and
 *T* is the temperature of the gas (standard temperature (273.15 K)).
 
-The equation above can be plotted to find the slope which will be equal to ${\frac{1}{}}
+The equation above can be plotted to find the slope which will be equal to ${\frac{1}{AnRT}}$ and from this, the number of moles can be calculated. Using the number of moles, the molar density of the gas can be calculated using the equation,
+
+$${}
 
 
 
