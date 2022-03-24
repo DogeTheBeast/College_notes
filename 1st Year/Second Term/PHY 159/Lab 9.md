@@ -160,7 +160,8 @@ $${\LARGE molar\space density = \frac{n}{V_0}}$$
 #### Objective 2 - Measuring the atmospheric pressure
 
 1. Setup the apparatus as the objective 1.
-2. 
+2. Record the values of the volume in the same method as the first objective.
+3. Plot the values on a graph as
 
 
 $${\LARGE  \frac{nRT}{V} =  P_{atm} - \frac{mg}{A}}$$
