@@ -52,7 +52,7 @@ where,
 *g* is acceleration due to gravity,
 *A* is the area of the seal,
 *n* is the number of moles,
-*R* is the gas constant (8.314)
+*R* is the gas constant (${8.314 J \times mol^{-1} \times K^-1}$),
 
 
 
