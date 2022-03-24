@@ -55,7 +55,7 @@ From the diagram, the following equation can be derived,
 
 $${\LARGE F_{atm} = mg + F_{gas}}$$
 $${\LARGE \frac{F_{atm}}{A} = \frac{mg}{A} + \frac{F_{gas}}{A}}$$
-$${\LARGE P_{gas} = \frac{mg}{A} + P_{gas}}$$
+$${\LARGE P_{atm} = \frac{mg}{A} + P_{gas}}$$
 $${\LARGE \frac{nRT}{V_0} = \frac{mg}{A} + \frac{nRT}{V_{gas}}}$$
 
 $${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}} = \frac{mg}{AnRT}}$$
