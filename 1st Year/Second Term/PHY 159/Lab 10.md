@@ -9,6 +9,39 @@ Date - 2022-03-30
 
 Measure the molar density and atmosphere pressure in the atmosphere. Atmospheric pressure is the amount of pressure that is felt on an object by the weight of the air on top of the object. Pressure is calculated by measuring the force over unit area and molar density is amount of moles occupying a unit volume. 
 
+## Procedure
+#### Objective 1 - Measuring the molar density
+
+1. Setup the apparatus as shown below with the syringe suspended from the bracket.
+![[syringe setup.PNG]]
+3. Setup the syringe and fill it with air to a measuring and controlled amount. Use a stopper and close the syringe.
+4. Suspend weights of different masses from the syringe and measure the extension new volume of the air in the syringe.
+5. Use the formula below to plot a graph of the behavior of the gas in the syringe.
+$${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}} = \frac{mg}{AnRT}}$$
+where,
+${\frac{1}{V_0} - \frac{1}{V_{gas}}}$ is the y value,
+${\frac{1}{nRT}}$ is the slope, and
+${\frac{mg}{A}}$ is the x value.
+6. Use the slope of the graph and use the formula below to calculate the number of moles of the gas present. 
+$${\LARGE n = \frac{1}{slope\times R \times T}}$$
+8. Use the number of moles and divide it be the initial volume of the gas in the syringe to find the molar density.
+
+$${\LARGE molar\space density = \frac{n}{V_0}}$$
+
+#### Objective 2 - Measuring the atmospheric pressure
+
+1. Setup the apparatus as the objective 1.
+2. Record the values of the volume in the same method as the first objective.
+3. Plot the values on a graph in the same way as the equation below,
+
+$${\LARGE  \frac{nRT}{V} =  P_{atm} - \frac{mg}{A}}$$
+where,
+${\frac{nRT}{V}}$ is the y value,
+${P_{atm}}$ is the y intercept,
+${- \frac{mg}{A}}$ is the x value,
+
+4. The value of the y intercept is same as the value of the atmospheric pressure. 
+
 
 ### Explore tools
 | Tools                   | Physical Parameters | Resolution   | Range            | Usage                                                   | Uncertainty   |
@@ -139,37 +172,6 @@ The value of the y intercept corresponds with the value of the atmospheric press
 
 ### Procedure
 
-#### Objective 1 - Measuring the molar density
-
-1. Setup the apparatus as shown below with the syringe suspended from the bracket.
-![[syringe setup.PNG]]
-3. Setup the syringe and fill it with air to a measuring and controlled amount. Use a stopper and close the syringe.
-4. Suspend weights of different masses from the syringe and measure the extension new volume of the air in the syringe.
-5. Use the formula below to plot a graph of the behavior of the gas in the syringe.
-$${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}} = \frac{mg}{AnRT}}$$
-where,
-${\frac{1}{V_0} - \frac{1}{V_{gas}}}$ is the y value,
-${\frac{1}{nRT}}$ is the slope, and
-${\frac{mg}{A}}$ is the x value.
-6. Use the slope of the graph and use the formula below to calculate the number of moles of the gas present. 
-$${\LARGE n = \frac{1}{slope\times R \times T}}$$
-8. Use the number of moles and divide it be the initial volume of the gas in the syringe to find the molar density.
-
-$${\LARGE molar\space density = \frac{n}{V_0}}$$
-
-#### Objective 2 - Measuring the atmospheric pressure
-
-1. Setup the apparatus as the objective 1.
-2. Record the values of the volume in the same method as the first objective.
-3. Plot the values on a graph in the same way as the equation below,
-
-$${\LARGE  \frac{nRT}{V} =  P_{atm} - \frac{mg}{A}}$$
-where,
-${\frac{nRT}{V}}$ is the y value,
-${P_{atm}}$ is the y intercept,
-${- \frac{mg}{A}}$ is the x value,
-
-4. The value of the y intercept is same as the value of the atmospheric pressure. 
 
 ## Evaluation
 The method used to measure the molar density was determined to be very accurate as the percentage uncertainty of the method was very low. The second objective yielded a very high uncertainty in the value of the atmospheric which means that there is a lot of room for improvement in the second method. The second method relies heavily on the method used in the first objective which makes it not very reliable and can be improved by measuring the weight on the syringe using torque.
