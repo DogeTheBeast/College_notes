@@ -1,6 +1,6 @@
 # Lab 10
-#### Ratiq Narwal (10289395)
-#### Tausif Chowdhury (47469994)
+###### Ratiq Narwal (10289395)
+###### Tausif Chowdhury (47469994)
 Date - 2022-03-30
 
 
