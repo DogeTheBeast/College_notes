@@ -1,6 +1,6 @@
 # Lab 10
 #### Ratiq Narwal (10289395)
-#### Yutaka Kobashi (11315314)
+#### Tausif
 Date - 2022-03-23
 
 
