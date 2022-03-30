@@ -14,9 +14,10 @@ Measure the molar density and atmosphere pressure in the atmosphere. Atmospheric
 
 1. Setup the apparatus as shown below with the syringe suspended from the bracket.
 ![[syringe setup.PNG]]
-3. Setup the syringe and fill it with air to a measuring and controlled amount.  Use a stopper and close the syringe.
+3. Setup the syringe and fill it with air to a measuring and controlled amount. Use a stopper and close the syringe.
 4. Suspend weights of different masses from the syringe and measure the extension new volume of the air in the syringe.
-5. Use the formula below to plot a graph of the behavior of the gas in the syringe.
+5. After recording one reading, 
+6. Use the formula below to plot a graph of the behavior of the gas in the syringe.
 $${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}} = \frac{mg}{AnRT}}$$
 where,
 ${\frac{1}{V_0} - \frac{1}{V_{gas}}}$ is the y value,
