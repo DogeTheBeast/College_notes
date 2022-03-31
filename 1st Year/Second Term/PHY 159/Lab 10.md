@@ -165,6 +165,7 @@ The following values were obtained and modified to be plotted,
 
 and the following graph was obtained for the values above,
 
+![[objective 2 graph.PNG]]
 
 On the x-axis, we have ${\frac{mg}{A}}$ and on the y-axis, we have ${\LARGE \frac{nRT}{V_0}}$
 
