@@ -137,8 +137,8 @@ On the x axis, we have ${\frac{mg}{A}}$ and on the y axis, we have ${\frac{1}{V_
 
 
 Using the value of the slope, the value of n can be calculated,
-$${\LARGE n = \frac{1}{1.3747 \times 294.55 \times 8.314}}$$
-$${\LARGE n = 2.9704 \times 10^{-4}}$$
+$${\LARGE n = \frac{1}{1.8524 \times 294.55 \times 8.314}}$$
+$${\LARGE n = 2.2 \times 10^{-4}}$$
 
 and using the value of n, the value of the molar density can be calculated,
 
