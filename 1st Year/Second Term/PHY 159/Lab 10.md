@@ -147,7 +147,7 @@ $${\LARGE molar \space density = 44.0886}$$
 
 The uncertainty in the value of the molar density and the related calculations is shown below,
 
-![[uncertainty in syringe.PNG]]
+![[uncertainty lab 10.PNG]]
 
 #### Objective 2 - Measuring the atmospheric pressure
 
