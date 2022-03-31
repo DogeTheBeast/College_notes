@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "1st Year/Second Term/PHY 159/Lab 10.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.0036334991455
+    "width": 228.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "7ba8a47061505297",
