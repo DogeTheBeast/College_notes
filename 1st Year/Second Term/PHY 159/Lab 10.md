@@ -155,14 +155,6 @@ The uncertainty in the value of the molar density and the related calculations i
 
 The following values were obtained and modified to be plotted,
 
-| Weight (kg) | x value for graph (${kg/m^2}$) | Initial Volume (${m^3}$) | Final Volume (${cm^3}$) | Difference in volume (${cm^3}$) | ${\LARGE \frac{nRT}{V_0}}$ |
-| ----------- | ------------------------------ | ------------------------ | ----------------------- | ------------------------------- | -------------------------- |
-| 0           | 0                              | ${5.0 \times 10^{-6}}$   | ${5.0 \times 10^{-6}}$  | 0.0                             | 145439                     |
-| 0.4         | -24094                         | ${5.0 \times 10^{-6}}$   | ${5.9 \times 10^{-6}}$  | ${9.0 \times 10^{-7}}$          | 123253                     |
-| 0.7         | -42165                         | ${5.0 \times 10^{-6}}$   | ${6.9 \times 10^{-6}}$  | ${1.9 \times 10^{-6}}$          | 105390                     |
-| 1.0         | -60235                         | ${5.0 \times 10^{-6}}$   | ${9.0 \times 10^{-6}}$  | ${3.0 \times 10^{-6}}$          | 80799                      | 
-
-
 | Weight (kg) | x value for graph (${kg/m^2}$) | Initial Volume (${m^3}$) | Final Volume (${cm^3}$) | Difference in volume (${cm^3}$) | ${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}}}$ |
 | ----------- | ------------------------------ | ------------------------ | ----------------------- | ------------------------------- | -------------------------------------------- |
 | 0           | 0                              | ${5.0 \times 10^{-6}}$   | ${5.0 \times 10^{-6}}$  | 0.0                             | 0.000                                        |
