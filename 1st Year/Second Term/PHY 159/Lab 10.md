@@ -142,8 +142,8 @@ $${\LARGE n = 2.2 \times 10^{-4}}$$
 
 and using the value of n, the value of the molar density can be calculated,
 
-$${\LARGE molar \space density = \frac{n}{V_0} = \frac{2.9704 \times 10^{-4}}{5\times 10^{-6}}}$$
-$${\LARGE molar \space density = 59.41}$$
+$${\LARGE molar \space density = \frac{n}{V_0} = \frac{2.2 \times 10^{-4}}{5\times 10^{-6}}}$$
+$${\LARGE molar \space density = 44.0886}$$
 
 The uncertainty in the value of the molar density and the related calculations is shown below,
 
