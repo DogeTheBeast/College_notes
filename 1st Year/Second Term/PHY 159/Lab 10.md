@@ -175,13 +175,6 @@ On the x-axis, we have ${\frac{-mg}{A}}$ and on the y-axis, we have ${\LARGE \fr
 The value of the y intercept corresponds with the value of the atmospheric pressure and hence, the value we calculated for the atmospheric pressure is ${1.182 \times 10^5}$ with an uncertainty of ${997.7}$.
 
 ## Evaluation
-The method used to measure the molar density was determined to be very accurate as the percentage uncertainty of the method was very low. The second objective yielded a very high uncertainty in the value of the atmospheric which means that there is a lot of room for improvement in the second method. The second method relies heavily on the method used in the first objective which makes it not very reliable and can be improved by measuring the weight on the syringe using torque.
 
-The value of molar density and atmospheric pressure that we obtained from the revised version resulted in a more accurate result as seen from the values. 
-
-The revised version of the experiments fixes issues which were observed when the experiment was being designed initially. The friction of the syringe was addressed by moving the syringe and letting the syringe reach the final volume on its own. Additionally, we suggested to use lubricant which was not available to us, but it can lead to more certain results.
-
-## Reflection
-
-The syringe was stopping earlier than the position of equilibrium which was a big problem when we were conducting the experiment, we got over this issue by pushing the syringe as dynamic friction is less than the static friction. Otherwise, we felt that the volumetric measurement of the syringe was not very accurate and could be improved.
+The value of molar density and atmospheric pressure that we obtained from the revised version resulted in a more accurate result as seen from the values. The revised version of the experiments fixes issues which were observed when the experiment was being designed initially. The friction of the syringe was addressed by moving the syringe and letting the syringe reach the final volume on its own. Additionally, we suggested to use lubricant which was not available to us, but it can lead to more certain results.
 
