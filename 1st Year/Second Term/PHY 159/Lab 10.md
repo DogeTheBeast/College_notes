@@ -128,7 +128,7 @@ The values below were collected,
 
 and the following graph was obtained from the values above.
 
-
+[[Syringe graph experiment.PNG]]
 
 
 On the x axis, we have ${\frac{mg}{A}}$ and on the y axis, we have ${\frac{1}{V_0} - \frac{1}{V_{gas}}}$
