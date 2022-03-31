@@ -177,7 +177,7 @@ The value of the y intercept corresponds with the value of the atmospheric press
 ## Evaluation
 The method used to measure the molar density was determined to be very accurate as the percentage uncertainty of the method was very low. The second objective yielded a very high uncertainty in the value of the atmospheric which means that there is a lot of room for improvement in the second method. The second method relies heavily on the method used in the first objective which makes it not very reliable and can be improved by measuring the weight on the syringe using torque.
 
-The revised version of the experiments fixes issues which were observed when the experiment was being designed initially. The friction of the 
+The revised version of the experiments fixes issues which were observed when the experiment was being designed initially. The friction of the syringe was addressed by moving the syringe and letting the syringe reach the final volume on its own. Additionally, we suggested to use lubricant which was not available to us, but it can lea
 
 ## Reflection
 
