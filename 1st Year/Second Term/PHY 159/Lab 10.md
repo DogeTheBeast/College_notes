@@ -167,10 +167,10 @@ and the following graph was obtained for the values above,
 
 ![[objective 2 graph.PNG]]
 
-On the x-axis, we have ${\frac{mg}{A}}$ and on the y-axis, we have ${\LARGE \frac{nRT}{V_0}}$
+On the x-axis, we have ${\frac{-mg}{A}}$ and on the y-axis, we have ${\LARGE \frac{nRT}{V_0}}$
 
 
-![[y-intercept.PNG]]
+![[objective 2 value.PNG]]
 
 The value of the y intercept corresponds with the value of the atmospheric pressure and hence, the value we calculated for the atmospheric pressure is ${1.49 \times 10^5}$ with an uncertainty of ${1.4 \times 10^4}$.
 
