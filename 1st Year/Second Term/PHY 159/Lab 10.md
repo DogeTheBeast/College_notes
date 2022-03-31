@@ -176,5 +176,8 @@ The value of the y intercept corresponds with the value of the atmospheric press
 
 ## Evaluation
 
-The value of molar density and atmospheric pressure that we obtained from the revised version resulted in a more accurate result as seen from the values. The revised version of the experiments fixes issues which were observed when the experiment was being designed initially. The friction of the syringe was addressed by moving the syringe and letting the syringe reach the final volume on its own. Additionally, we suggested to use lubricant which was not available to us, but it can lead to more certain results.
+The value of molar density and atmospheric pressure that we obtained from the revised version resulted in a more accurate result as seen from the values. Even the 
+
+## Reflection
+The revised version of the experiments fixes issues which were observed when the experiment was being designed initially. The friction of the syringe was addressed by moving the syringe and letting the syringe reach the final volume on its own. Additionally, we suggested to use lubricant which was not available to us, but it can lead to more certain results.
 
