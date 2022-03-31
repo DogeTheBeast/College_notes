@@ -130,12 +130,10 @@ and the following graph was obtained from the values above.
 
 
 
-![[syringe graph.PNG]]
 
 On the x axis, we have ${\frac{mg}{A}}$ and on the y axis, we have ${\frac{1}{V_0} - \frac{1}{V_{gas}}}$
 
 
-![[Slope for syringe.PNG]]
 
 
 Using the value of the slope, the value of n can be calculated,
