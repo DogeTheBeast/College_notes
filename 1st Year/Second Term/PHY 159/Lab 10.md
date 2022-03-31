@@ -153,15 +153,15 @@ The uncertainty in the value of the molar density and the related calculations i
 
 The following values were obtained and modified to be plotted,
 
-| Weight (kg) | x value for graph (${kg/m^2}$) | Initial Volume (${m^3}$) | Final Volume (${cm^3}$) | Difference in volume (${cm^3}$) | ${\LARGE \frac{nRT}{V_0}}$ | 
+| Weight (kg) | x value for graph (${kg/m^2}$) | Initial Volume (${m^3}$) | Final Volume (${cm^3}$) | Difference in volume (${cm^3}$) | ${\LARGE \frac{nRT}{V_0}}$ |
 | ----------- | ------------------------------ | ------------------------ | ----------------------- | ------------------------------- | -------------------------- |
-| 0           | 0                              | ${5.0 \times 10^{-6}}$   | ${5.0 \times 10^{-6}}$  | 0.0                             | 109013                      |
-| 0.2         | -12047                         | ${5.0 \times 10^{-6}}$   | ${5.2 \times 10^{-6}}$  | ${2.0 \times 10^{-7}}$          | 104820                       |
+| 0           | 0                              | ${5.0 \times 10^{-6}}$   | ${5.0 \times 10^{-6}}$  | 0.0                             | 109013                     |
+| 0.2         | -12047                         | ${5.0 \times 10^{-6}}$   | ${5.2 \times 10^{-6}}$  | ${2.0 \times 10^{-7}}$          | 104820                     |
 | 0.4         | -24094                         | ${5.0 \times 10^{-6}}$   | ${5.9 \times 10^{-6}}$  | ${9.0 \times 10^{-7}}$          | 92384                      |
 | 0.5         | -30117                         | ${5.0 \times 10^{-6}}$   | ${6.4 \times 10^{-6}}$  | ${1.4 \times 10^{-6}}$          | 85166                      |
 | 0.7         | -42165                         | ${5.0 \times 10^{-6}}$   | ${6.9 \times 10^{-6}}$  | ${1.9 \times 10^{-6}}$          | 78995                      |
-| 0.9         | -54212                         | ${5.0 \times 10^{-6}}$   | ${9.2 \times 10^{-6}}$  | ${4.2 \times 10^{-6}}$          | 55072                      |
-| 1.0         | -60235                         | ${5.0 \times 10^{-6}}$   | ${9.8 \times 10^{-6}}$  | ${4.8 \times 10^{-6}}$          | 97959                      |
+| 0.9         | -54212                         | ${5.0 \times 10^{-6}}$   | ${9.2 \times 10^{-6}}$  | ${4.2 \times 10^{-6}}$          | 59246                      | 
+| 1.0         | -60235                         | ${5.0 \times 10^{-6}}$   | ${9.8 \times 10^{-6}}$  | ${4.8 \times 10^{-6}}$          | 55619                      |
 
 and the following graph was obtained for the values above,
 
