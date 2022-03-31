@@ -172,7 +172,7 @@ On the x-axis, we have ${\frac{-mg}{A}}$ and on the y-axis, we have ${\LARGE \fr
 
 ![[objective 2 value.PNG]]
 
-The value of the y intercept corresponds with the value of the atmospheric pressure and hence, the value we calculated for the atmospheric pressure is ${1.182 \times 10^5}$ with an uncertainty of ${997.7 \times 10^3}$.
+The value of the y intercept corresponds with the value of the atmospheric pressure and hence, the value we calculated for the atmospheric pressure is ${1.182 \times 10^5}$ with an uncertainty of ${997.7}$.
 
 ## Evaluation
 The method used to measure the molar density was determined to be very accurate as the percentage uncertainty of the method was very low. The second objective yielded a very high uncertainty in the value of the atmospheric which means that there is a lot of room for improvement in the second method. The second method relies heavily on the method used in the first objective which makes it not very reliable and can be improved by measuring the weight on the syringe using torque.
