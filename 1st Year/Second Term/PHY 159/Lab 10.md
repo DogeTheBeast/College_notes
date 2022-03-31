@@ -114,7 +114,8 @@ where,
 
 
 #### Objective 1 - Measuring the molar density
-For the revised version of our experiment, we took more measurements to obtain a more accurate result and precise measurements.
+<mark style="background: #FFB86CA6;">For the revised version of our experiment, we took more measurements to obtain a more accurate result and precise measurements.</mark> 
+
 | Weight (kg) | x value for graph (${kg/m^2}$) | Initial Volume (${m^3}$) | Final Volume (${cm^3}$) | Difference in volume (${cm^3}$) | ${\LARGE \frac{1}{V_0} - \frac{1}{V_{gas}}}$ |
 | ----------- | ------------------------------ | ------------------------ | ----------------------- | ------------------------------- | -------------------------------------------- |
 | 0           | 0                              | ${5.0 \times 10^{-6}}$   | ${5.0 \times 10^{-6}}$  | 0.0                             | 0.000                                        | 
