@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1st Year/Second Term/PHY 159/Lab 10.md",
+            "file": "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Year/Second Term/PHY 159/Lab 10.md",
+                "file": "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "a8b280236cc89752",
   "lastOpenFiles": [
+    "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
     "1st Year/Second Term/PHY 159/Lab 10.md",
     "1st Year/Second Term/PHY 159/Lab 9.md",
     "1st Year/Second Term/PHY 159/Lab 5 Experiment.md",
@@ -128,7 +129,6 @@
     "1st Year/Second Term/PHY 158/PHY 158 Syllabus.md",
     "1st Year/Second Term/APSC 160/APSC 160 Syllabus.md",
     "1st Year/Second Term/PHY 159/PHY 159 Syllabus.md",
-    "1st Year/Second Term/MATH 152/MATH 152 Syllabus.md",
     "1st Year/Second Term/APSC 160/Input and Output.md",
     "1st Year/Second Term/APSC 160/Logical Operators.md"
   ]
