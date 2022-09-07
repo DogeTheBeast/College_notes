@@ -29,6 +29,8 @@
 - Provide relevant, meaningful information for an audience
 - Use specific words and plain language for technical terms
 
+### Rhetorical Situation model
+Practical model for planning and preparing messages/documents.
 
 
 
