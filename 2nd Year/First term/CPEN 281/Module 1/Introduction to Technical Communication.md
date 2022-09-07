@@ -36,6 +36,10 @@ Practical model for planning and preparing messages/documents.
 - Genre + Media -  What is the most appropriate format to convey our message?
 - Context - Which factors affect your writing ?
 
+### Purpose and Audience Analysis
+
+- 
+
 
 
 ---
