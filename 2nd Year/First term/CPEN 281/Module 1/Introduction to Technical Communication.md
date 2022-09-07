@@ -32,8 +32,8 @@
 ### Rhetorical Situation model
 Practical model for planning and preparing messages/documents.
 - Purpose - Why write ? what is your purpose or goal ? What are your main ideas or "key messages" ?
-- Audeicnce - Who are your primary reaser? Do they have decision-making authority?
-- Genre+Media -  What is the most appropriate format to convey our message?
+- Audience - Who are your primary reaser? Do they have decision-making authority?
+- Genre + Media -  What is the most appropriate format to convey our message?
 - Context - Which factors shape your writing ?
 
 
