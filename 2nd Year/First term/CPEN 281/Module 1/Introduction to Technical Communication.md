@@ -24,6 +24,10 @@
 - Know your purpose
 - Apply principles of communication - 6 Cs
 - Select and Appropriate level of formality and technicality 
+- Use the writing process
+- Use correspondence format and ABC format
+- Provide relevant, meaningful information for an audience
+- Use specific words and plain language for technical terms
 
 
 
