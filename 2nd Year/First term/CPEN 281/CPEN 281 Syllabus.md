@@ -2,9 +2,11 @@
 
 ## Course grade breakup
 
-| Item | Number | Total Weight | Notes |
-| ---- | ------ | ------------ | ----- |
-|      |        |              |       |
+| Item    | Number | Total Weight | Notes |
+| ------- | ------ | ------------ | ----- |
+| Midterm | 1      | 15%          |       |
+| Final   | 1      | 30%          |       |
+|         |        |              |       |
 
 
 ## Course Topics Covered
