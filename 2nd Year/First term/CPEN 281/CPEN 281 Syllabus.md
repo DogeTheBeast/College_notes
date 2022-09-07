@@ -42,5 +42,5 @@
 
 ### Contact Info
 
-
+Hartaj Sanghara (hartaj.sanghara@ubc.ca)
 
