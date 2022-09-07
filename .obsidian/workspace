@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To do list.md",
+            "file": "TODO.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To do list.md",
+            "file": "TODO.md",
             "mode": "source"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To do list.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
   },
   "active": "cad0c169033cea2d",
   "lastOpenFiles": [
-    "To do list.md",
+    "TODO.md",
     "2nd Year/First term/CPEN 281/Module 1/Introduction to Technical Communication.md",
     "2nd Year/First term/CPEN 281/CPEN 281 Syllabus.md",
     "1st Year/Second Term/PHY 158/Waves.md",
