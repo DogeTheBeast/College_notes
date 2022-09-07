@@ -19,5 +19,10 @@
 	- proofread and check for minor errors
 
 
+### Tecgnical Writing strategies
+- Know your purpose
+- Apply principles of 
+
+
 ---
 Read also - 
