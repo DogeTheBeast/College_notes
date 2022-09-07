@@ -12,6 +12,7 @@
 	- Analyze and understand and audience's needs
 	- Brainstorm ideas and research information
 	- Create an outline with the main ideas
+
 - Drafting and revising
 	- Write the first draft
 	- Revise or organize content in the document
@@ -23,6 +24,9 @@
 - Know your purpose
 - Apply principles of communication - 6 Cs
 - Select and Appropriate level of formality and technicality 
+
+
+
 
 
 ---
