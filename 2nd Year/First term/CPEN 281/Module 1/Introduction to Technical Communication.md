@@ -19,9 +19,10 @@
 	- proofread and check for minor errors
 
 
-### Tecgnical Writing strategies
+### Technical Writing strategies
 - Know your purpose
-- Apply principles of 
+- Apply principles of communication - 6 Cs
+- Select and Appropriate level of formality and technicality 
 
 
 ---
