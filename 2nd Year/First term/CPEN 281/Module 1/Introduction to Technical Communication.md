@@ -45,7 +45,7 @@ Practical model for planning and preparing messages/documents.
 
 ---
 #todo 
-- [] Complete reflection and post on discussions
+- [ ] Complete reflection and post on discussions
 
 
 ---
