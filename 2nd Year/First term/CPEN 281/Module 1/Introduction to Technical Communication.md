@@ -6,6 +6,10 @@
 
 ### Styles
 
+### Writing process
+- Planning
+	- 
+
 
 ---
 Read also - 
