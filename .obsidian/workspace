@@ -7,8 +7,11 @@
         "id": "cad0c169033cea2d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2nd Year/First term/CPEN 281/CPEN 281 Syllabus.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2nd Year/First term/CPEN 281/CPEN 281 Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +126,8 @@
   },
   "active": "cad0c169033cea2d",
   "lastOpenFiles": [
+    "2nd Year/First term/CPEN 281/CPEN 281 Syllabus.md",
     "Extras/Daily Notes/2022-09-07.md",
-    "2nd Year/First term/CPEN 281/Untitled.md",
     "1st Year/Second Term/PHY 158/Waves.md",
     "1st Year/Second Term/APSC 101/APSC 101 Syllabus.md",
     "1st Year/Second Term/APSC 101/Module 6.md",
