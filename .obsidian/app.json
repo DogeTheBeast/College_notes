@@ -30,5 +30,6 @@
     "superpositions"
   ],
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "showFrontmatter": false
 }
