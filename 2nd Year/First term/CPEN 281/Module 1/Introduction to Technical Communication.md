@@ -8,7 +8,13 @@
 
 ### Writing process
 - Planning
-	- 
+	- Determine the topic and the purpose
+	- Analyse and undertand and audience's needs
+	- Brainstorn ideas and research information
+	- Create an outline with the main ideas
+- Drafting and revising
+	- Write the first draft
+	- Revice or organise content in
 
 
 ---
