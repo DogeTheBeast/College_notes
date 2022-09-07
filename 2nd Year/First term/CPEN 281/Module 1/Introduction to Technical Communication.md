@@ -4,6 +4,7 @@
 - Sloppy and inefficient (not concise enough) and not adequate use of vocab
 - Be more concise and confident in what I want to express
 
+### Styles
 
 
 ---
