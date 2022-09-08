@@ -11,7 +11,9 @@ Takes an input and turns it into a digital binary signal. Able to remove noise f
 
 ![[Buffer.png]]
 
+### Noise accumulation
 
+The more analof circuits we combine the more noise accumulation impacts the output of the circuit
 
 
 
