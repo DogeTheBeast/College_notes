@@ -4,9 +4,11 @@
 
 | Item                            | Number | Total Weight | Notes |
 | ------------------------------- | ------ | ------------ | ----- |
-| Lab                             |        | 20%          |       |
+| Lab                             |        | 21%          |       |
 | Lab Test                        |        | 15%          |       |
-| Flipped lecture video questions |        |              |       |
+| Flipped lecture video questions |        | 4%           |       |
+| Midterm                         |        | 20%          |       |
+| Final                           |        | 40%          |       |
 
 
 ## Course Topics Covered
