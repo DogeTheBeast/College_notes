@@ -31,5 +31,6 @@
   ],
   "foldHeading": true,
   "foldIndent": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "legacyEditor": true
 }
