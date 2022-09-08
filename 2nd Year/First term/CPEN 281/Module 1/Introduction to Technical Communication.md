@@ -43,10 +43,6 @@ Practical model for planning and preparing messages/documents.
 
 
 
----
-#todo 
-- [x] Complete reflection and post on discussions
-
 
 ---
 Read also - 
