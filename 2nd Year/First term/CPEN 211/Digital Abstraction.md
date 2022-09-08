@@ -9,7 +9,9 @@ Only 2 states exist (High and Low). Less possible states but also removes noise 
 ### Buffer
 Takes an input and turns it into a digital binary signal. Able to remove noise from the signal.
 
-![[buf]]
+![[Buffer.png]]
+
+
 
 
 
