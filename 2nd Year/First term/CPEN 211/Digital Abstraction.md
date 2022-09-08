@@ -4,7 +4,7 @@
 
 ---
 #todo 
-- [] 
+- [] Complete notes
 
 ---
 Read also - 
