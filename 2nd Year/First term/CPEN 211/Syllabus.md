@@ -2,9 +2,11 @@
 
 ## Course grade breakup
 
-| Item | Number | Total Weight | Notes |
-| ---- | ------ | ------------ | ----- |
-|      |        |              |       |
+| Item                            | Number | Total Weight | Notes |
+| ------------------------------- | ------ | ------------ | ----- |
+| Lab                             |        | 20%          |       |
+| Lab Test                        |        | 15%          |       |
+| Flipped lecture video questions |        |              |       |
 
 
 ## Course Topics Covered
