@@ -42,5 +42,5 @@
 
 ### Contact Info
 
-
+Office Hours - Tuesday and Thursday after class.
 
