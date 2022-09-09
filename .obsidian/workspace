@@ -104,7 +104,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "35d4ad99f0d9da80",
@@ -125,7 +126,7 @@
     "direction": "horizontal",
     "width": 266.7156982421875
   },
-  "active": "b3f1ee784c344305",
+  "active": "86d4ababfabaffe6",
   "lastOpenFiles": [
     "2nd Year/First term/CPEN 221/Syllabus.md",
     "2nd Year/First term/CPEN 211/Digital Abstraction.md",
