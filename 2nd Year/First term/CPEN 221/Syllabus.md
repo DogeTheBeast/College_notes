@@ -20,4 +20,5 @@
 
 
 ### Contact Info
-# **Sathish Gopalakrishnan
+
+Sathish Gopalakrishnan
