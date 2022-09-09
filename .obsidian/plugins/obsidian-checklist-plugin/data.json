@@ -4,7 +4,7 @@
   "groupBy": "page",
   "sortDirection": "old->new",
   "ignoreFiles": "",
-  "includeFiles": "",
+  "includeFiles": "TODO",
   "lookAndFeel": "classic",
   "_collapsedSections": []
 }
