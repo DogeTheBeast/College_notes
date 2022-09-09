@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "66c4d6f896d81049",
+        "id": "b3f1ee784c344305",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd Year/First term/CPEN 211/Digital Abstraction.md",
-            "mode": "preview"
+            "file": "2nd Year/First term/CPEN 221/Syllabus.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Year/First term/CPEN 211/Digital Abstraction.md",
+                "file": "2nd Year/First term/CPEN 221/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,11 +125,11 @@
     "direction": "horizontal",
     "width": 266.7156982421875
   },
-  "active": "66c4d6f896d81049",
+  "active": "b3f1ee784c344305",
   "lastOpenFiles": [
-    "2nd Year/First term/CPEN 211/Syllabus.md",
     "2nd Year/First term/CPEN 221/Syllabus.md",
     "2nd Year/First term/CPEN 211/Digital Abstraction.md",
+    "2nd Year/First term/CPEN 211/Syllabus.md",
     "2nd Year/First term/CPEN 281/CPEN 281 Syllabus.md",
     "TODO.md",
     "2nd Year/First term/CPEN 281/Module 1/Introduction to Technical Communication.md",
