@@ -46,7 +46,7 @@
 
 ### Contact Info
 
-
+Mieszko Lis and Prashant Nair
 
 
 Office Hours - Tuesday and Thursday after class.
