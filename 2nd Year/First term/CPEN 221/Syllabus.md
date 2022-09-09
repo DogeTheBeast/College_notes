@@ -22,5 +22,6 @@
 
 ### Contact Info
 
+[!note] this is a note
 
 
