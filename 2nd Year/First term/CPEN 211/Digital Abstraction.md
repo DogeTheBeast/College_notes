@@ -18,9 +18,12 @@ Takes an input and turns it into a digital binary signal. Able to remove noise f
 ### Noise accumulation
 
 The more analog circuits we combine the more noise accumulation impacts the output of the circuit. 
-To fix this, we can add buffers after every time noise is added to the circuit. Hence, digital binary systems are easily scalable.
 
 ![[Noise Accumulation.PNG]]
+
+To fix this, we can add buffers after every time noise is added to the circuit. Hence, digital binary systems are easily scalable.
+
+![[Fixed Noise Accumulation.PNG]]
 
 ---
 Read also - 
