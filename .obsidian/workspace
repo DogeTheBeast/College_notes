@@ -84,7 +84,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
