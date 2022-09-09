@@ -4,9 +4,7 @@
 
 | Item | Number | Total Weight | Notes |
 | ---- | ------ | ------------ | ----- |
-|      |        |              |       |
-
-<mark class="hltr-green"></mark> 
+|      |        |              |       | 
 
 
 ## Course homework Schedule
@@ -22,7 +20,4 @@
 
 
 ### Contact Info
-
-[!note] this is a note
-
 
