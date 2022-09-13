@@ -27,7 +27,8 @@
     "scanf",
     "fclose",
     "txt",
-    "superpositions"
+    "superpositions",
+    "Combinational"
   ],
   "foldHeading": true,
   "foldIndent": true,
