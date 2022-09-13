@@ -27,7 +27,7 @@ To fix this, we can add buffers after every time noise is added to the circuit. 
 
 ### Noise Tolerance
 
-We wish 
+We wish to design a buffer so that the tolerance for noise is lower.
 
 
 
