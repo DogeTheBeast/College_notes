@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bits and Bytes",
+      "path": "2nd Year/First term/CPEN 211/Bits and Bytes.md"
+    },
+    {
       "basename": "Digital Abstraction",
       "path": "2nd Year/First term/CPEN 211/Digital Abstraction.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Week Schedule Tempelate",
       "path": "Extras/Templates/Week Schedule Tempelate.md"
-    },
-    {
-      "basename": "Notes template",
-      "path": "Extras/Templates/Notes template.md"
     }
   ],
   "omittedPaths": [],
