@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd Year/First term/CPEN 211/Digital Abstraction.md",
+            "file": "2nd Year/First term/CPEN 221/Preconditions.md",
             "mode": "source"
           }
         }
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.0036334991455,
-    "collapsed": true
+    "width": 228.0036334991455
   },
   "right": {
     "id": "7ba8a47061505297",
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Year/First term/CPEN 211/Digital Abstraction.md",
+                "file": "2nd Year/First term/CPEN 221/Preconditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
     "width": 266.7156982421875,
     "collapsed": true
   },
-  "active": "93e1ee3d00ec4ad7",
+  "active": "297f932b46b267df",
   "lastOpenFiles": [
     "2nd Year/First term/CPEN 211/Digital Abstraction.md",
     "TODO.md",
