@@ -33,5 +33,8 @@ We wish to design a buffer so that the tolerance for noise is lower. The input v
 
 
 
+
+
+
 ---
 Read also - 
