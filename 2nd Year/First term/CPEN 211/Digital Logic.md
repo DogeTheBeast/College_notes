@@ -9,7 +9,7 @@ Combinational Logic can not remember things but can compute stuff. Similar to a 
 
 - Present output is a function of present input
 - Past input values do not matter
-
+- Can be defined by a lookup table
 
 
 ---
