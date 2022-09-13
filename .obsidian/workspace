@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TODO.md",
+            "file": "2nd Year/First term/CPEN 211/Digital Abstraction.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.0036334991455
+    "width": 228.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "7ba8a47061505297",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "2nd Year/First term/CPEN 211/Digital Abstraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +125,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.7156982421875
+    "width": 266.7156982421875,
+    "collapsed": true
   },
   "active": "b3f1ee784c344305",
   "lastOpenFiles": [
-    "2nd Year/First term/CPEN 221/Syllabus.md",
     "TODO.md",
+    "2nd Year/First term/CPEN 221/Syllabus.md",
     "2nd Year/First term/CPEN 211/Digital Abstraction.md",
     "2nd Year/First term/CPEN 211/Syllabus.md",
     "2nd Year/First term/CPEN 281/CPEN 281 Syllabus.md",

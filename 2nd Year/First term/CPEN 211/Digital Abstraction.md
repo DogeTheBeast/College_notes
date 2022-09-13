@@ -25,5 +25,9 @@ To fix this, we can add buffers after every time noise is added to the circuit. 
 
 ![[Fixed Noise Accumulation.PNG]]
 
+
+
+
+
 ---
 Read also - 
