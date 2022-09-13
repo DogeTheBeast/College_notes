@@ -29,7 +29,7 @@ To fix this, we can add buffers after every time noise is added to the circuit. 
 
 We wish to design a buffer so that the tolerance for noise is lower. The input voltage from the x axis is projected onto the y values from the graph. the slope needs to be less than 1 if we wish to make it less tolerant.
 
-
+### Noise Margins
 
 
 

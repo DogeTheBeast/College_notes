@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd Year/First term/CPEN 221/Preconditions.md",
+            "file": "2nd Year/First term/CPEN 211/Digital Abstraction.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Year/First term/CPEN 221/Preconditions.md",
+                "file": "2nd Year/First term/CPEN 211/Digital Abstraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "297f932b46b267df",
   "lastOpenFiles": [
+    "2nd Year/First term/CPEN 221/Preconditions and postconditions.md",
     "2nd Year/First term/CPEN 211/Digital Abstraction.md",
     "TODO.md",
     "2nd Year/First term/CPEN 221/Syllabus.md",
@@ -148,7 +149,6 @@
     "2nd Year/First term/CPEN 281/Module 1/Introduction to Technical Communication.md",
     "1st Year/Second Term/PHY 158/Waves.md",
     "1st Year/Second Term/PHY 158/PHY 158 Syllabus.md",
-    "1st Year/Housing situation.md",
-    "1st Year/First Term/PHY170/Moment/Moment of a Force.md"
+    "1st Year/Housing situation.md"
   ]
 }
