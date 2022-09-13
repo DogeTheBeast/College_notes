@@ -28,7 +28,8 @@
     "fclose",
     "txt",
     "superpositions",
-    "Combinational"
+    "Combinational",
+    "memoryless"
   ],
   "foldHeading": true,
   "foldIndent": true,
