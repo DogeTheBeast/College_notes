@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Digital Logic",
+      "path": "2nd Year/First term/CPEN 211/Digital Logic.md"
+    },
+    {
       "basename": "Bits and Bytes",
       "path": "2nd Year/First term/CPEN 211/Bits and Bytes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2022-01-12 16.14.14.excalidraw",
       "path": "Extras/Excalidraw/Drawing 2022-01-12 16.14.14.excalidraw.md"
-    },
-    {
-      "basename": "Week Schedule Tempelate",
-      "path": "Extras/Templates/Week Schedule Tempelate.md"
     }
   ],
   "omittedPaths": [],
