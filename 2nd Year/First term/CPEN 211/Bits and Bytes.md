@@ -2,7 +2,7 @@
 
 ### Representing numbers
 
-
+![[Numbers in Different Bases]]
 
 
 ---
