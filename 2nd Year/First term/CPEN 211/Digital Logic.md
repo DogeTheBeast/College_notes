@@ -5,7 +5,7 @@
 Sequential logic can remember things.
 - Needs storage for memory.
 - output is a function of current inputs and current state. 
-- Synchronous sequential logic: storage updated every time a clock ticks.
+- Synchronous sequential logic: storage updated every time a clock ticks and the computation is conducted when the clock strikes.
 
 
 
