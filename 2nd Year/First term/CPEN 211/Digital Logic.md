@@ -3,7 +3,8 @@
 
 ## Sequential Logic
 Sequential logic can remember things.
-- Needs storage for memo
+- Needs storage for memory.
+- output is a function of current inputs and current state. 
 
 
 
