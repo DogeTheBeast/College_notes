@@ -1,6 +1,6 @@
 #todo 
 - [x] Complete reflection and post on discussions
-- [ ] CPEN 221 Intro
+- [x] CPEN 221 Intro
 - [ ] MATH 226 Assignments
 - [ ] CPEN 211 Reading
 - [ ] CPEN 221 Lab
