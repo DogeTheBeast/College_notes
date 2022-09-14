@@ -54,8 +54,10 @@ Practical model for planning and preparing messages/documents.
 
 - Positive email/letter
 	- provides information on business operations, projects, products, or services 
+	- followup emails
 - Persuasive email/ sales letter
 	- Persuade an audience to adopt a new plan/strategy or make an improvement
+	- problem solving messages
 - Negative Message
 	- Present bad news or sensitive information
 

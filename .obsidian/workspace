@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd Year/First term/CPEN 281/Module 1/Introduction to Technical Communication.md",
+            "file": "2nd Year/First term/CPEN 281/Introduction to Technical Communication.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Year/First term/CPEN 281/Module 1/Introduction to Technical Communication.md",
+                "file": "2nd Year/First term/CPEN 281/Introduction to Technical Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,10 +127,10 @@
     "width": 266.7156982421875,
     "collapsed": true
   },
-  "active": "297f932b46b267df",
+  "active": "c7325059fbdf765e",
   "lastOpenFiles": [
     "TODO.md",
-    "2nd Year/First term/CPEN 281/Module 1/Introduction to Technical Communication.md",
+    "2nd Year/First term/CPEN 281/Introduction to Technical Communication.md",
     "2nd Year/First term/CPEN 211/Digital Abstraction.md",
     "2nd Year/First term/CPEN 211/Digital Logic.md",
     "2nd Year/First term/CPEN 211/Bits and Bytes.md",
