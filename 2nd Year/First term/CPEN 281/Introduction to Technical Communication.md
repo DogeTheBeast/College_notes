@@ -80,6 +80,12 @@ Practical model for planning and preparing messages/documents.
 	- professional, friendly greeting
 	- purpose statement and topic
 	- bridge between you letter and previous communication with a client
+- body
+	- details on the topic (information, requrest, response)
+	- background, description, requirements or relevant details
+- conclusion
+	- positive closing and appreciation
+	- next steps, timeline and contact information
 
 
 
