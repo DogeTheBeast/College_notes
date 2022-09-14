@@ -45,7 +45,12 @@
 
 
 ### Persuasive email
-
+- abstract - capture your audience's attention or interest
+	- annouce a new product or service
+	- show understanding of a client's problem and solution
+	- cite an interesting or statistic
+- body - convince your audience
+	- focus on a problem
 
 
 
