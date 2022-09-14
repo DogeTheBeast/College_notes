@@ -65,7 +65,7 @@
 	- brief statement of bad news or what can not be done
 	- supporting information, facts and reason
 - conclusion
-	- positive closing to continus business relationship
+	- positive closing to continue business relationship
 	- next steps and timeline, if appropriate
 
 
