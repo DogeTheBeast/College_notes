@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd Year/First term/CPEN 211/Digital Logic.md",
+            "file": "2nd Year/First term/CPEN 281/Module 1/Introduction to Technical Communication.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Year/First term/CPEN 211/Digital Logic.md",
+                "file": "2nd Year/First term/CPEN 281/Module 1/Introduction to Technical Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "297f932b46b267df",
   "lastOpenFiles": [
+    "2nd Year/First term/CPEN 211/Digital Logic.md",
     "2nd Year/First term/CPEN 211/Bits and Bytes.md",
     "1st Year/Second Term/APSC 160/Numbers in Different Bases.md",
     "2nd Year/First term/CPEN 211/Digital Abstraction.md",
@@ -148,7 +149,6 @@
     "2nd Year/First term/CPEN 221/Syllabus.md",
     "2nd Year/First term/CPEN 211/Syllabus.md",
     "2nd Year/First term/CPEN 281/CPEN 281 Syllabus.md",
-    "2nd Year/First term/CPEN 281/Module 1/Introduction to Technical Communication.md",
-    "1st Year/Second Term/PHY 158/Waves.md"
+    "2nd Year/First term/CPEN 281/Module 1/Introduction to Technical Communication.md"
   ]
 }
