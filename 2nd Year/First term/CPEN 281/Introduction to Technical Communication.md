@@ -74,7 +74,12 @@ Practical model for planning and preparing messages/documents.
 
 
 
-#### Positive em
+#### Positive email
+
+- abstract.introduction
+	- professional, friendly greeting
+	- purpose statement and topic
+	- bridge between you letter and previous communication with a client
 
 
 
