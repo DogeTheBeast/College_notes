@@ -46,7 +46,7 @@
 
 ### Persuasive email
 - abstract - capture your audience's attention or interest
-	- annouce a new product or service
+	- announce a new product or service
 	- show understanding of a client's problem and solution
 	- cite an interesting or statistic
 - body - convince your audience
@@ -54,7 +54,7 @@
 	- focus on value and quality
 - conclusion - control next steps in the sales process
 	- goodwill closing and main idea
-	- keep control of the next step and offer to 
+	- keep control of the next step and offer to contact the client
 
 
 
