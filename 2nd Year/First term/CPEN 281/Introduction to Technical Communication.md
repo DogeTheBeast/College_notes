@@ -65,7 +65,12 @@ Practical model for planning and preparing messages/documents.
 ### Correspondence format
 
 - context 
-	- prupo
+	- purpose statement
+	- context
+- Details
+	- relevant facts and details
+- next steps
+	- next steps, timeline and contact information (conclusion)
 
 
 
