@@ -60,7 +60,12 @@ Practical model for planning and preparing messages/documents.
 	- problem solving messages
 - Negative Message
 	- Present bad news or sensitive information
+	- announcements
 
+### Correspondence format
+
+- context 
+	- prupo
 
 
 
