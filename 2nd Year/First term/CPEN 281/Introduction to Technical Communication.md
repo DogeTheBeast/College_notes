@@ -81,7 +81,7 @@ Practical model for planning and preparing messages/documents.
 	- purpose statement and topic
 	- bridge between you letter and previous communication with a client
 - body
-	- details on the topic (information, requrest, response)
+	- details on the topic (information, request, response)
 	- background, description, requirements or relevant details
 - conclusion
 	- positive closing and appreciation
