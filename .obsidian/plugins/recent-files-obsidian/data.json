@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
       "basename": "Introduction to Technical Communication",
       "path": "2nd Year/First term/CPEN 281/Module 1/Introduction to Technical Communication.md"
+    },
+    {
+      "basename": "Digital Abstraction",
+      "path": "2nd Year/First term/CPEN 211/Digital Abstraction.md"
     },
     {
       "basename": "Digital Logic",
@@ -17,16 +25,8 @@
       "path": "1st Year/Second Term/APSC 160/Numbers in Different Bases.md"
     },
     {
-      "basename": "Digital Abstraction",
-      "path": "2nd Year/First term/CPEN 211/Digital Abstraction.md"
-    },
-    {
       "basename": "Preconditions and postconditions",
       "path": "2nd Year/First term/CPEN 221/Preconditions and postconditions.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     },
     {
       "basename": "Syllabus",

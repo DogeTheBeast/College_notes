@@ -38,7 +38,12 @@ Practical model for planning and preparing messages/documents.
 
 ### Purpose and Audience Analysis
 
-- 
+
+
+
+### Email Guidelines
+
+
 
 
 
