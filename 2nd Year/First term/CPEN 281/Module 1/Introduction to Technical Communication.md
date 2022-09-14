@@ -52,7 +52,9 @@ Practical model for planning and preparing messages/documents.
 
 ### Types of correspondence
 
-- 
+- Positive email/letter
+	- provides information on business operations, projects, products, or services 
+- Pur
 
 
 
