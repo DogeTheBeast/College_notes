@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1st Year/Second Term/APSC 160/Input and Output.md",
+            "file": "2nd Year/First term/CPEN 281/Introduction to Technical Communication.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Year/Second Term/APSC 160/Input and Output.md",
+                "file": "2nd Year/First term/CPEN 281/Introduction to Technical Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
   },
   "active": "297f932b46b267df",
   "lastOpenFiles": [
+    "1st Year/Second Term/APSC 160/Input and Output.md",
     "2nd Year/First term/CPEN 281/Introduction to Technical Communication.md",
     "TODO.md",
     "2nd Year/First term/CPEN 211/Digital Abstraction.md",
@@ -137,7 +138,6 @@
     "1st Year/Second Term/APSC 160/Numbers in Different Bases.md",
     "2nd Year/First term/CPEN 221/Preconditions and postconditions.md",
     "2nd Year/First term/CPEN 221/Syllabus.md",
-    "2nd Year/First term/CPEN 211/Syllabus.md",
-    "2nd Year/First term/CPEN 281/CPEN 281 Syllabus.md"
+    "2nd Year/First term/CPEN 211/Syllabus.md"
   ]
 }
