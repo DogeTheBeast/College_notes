@@ -43,7 +43,9 @@ Practical model for planning and preparing messages/documents.
 
 ### Email Guidelines
 
-
+- Use formal style 
+- focus on facts and information
+- use third part 
 
 
 
