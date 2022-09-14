@@ -50,6 +50,13 @@ Practical model for planning and preparing messages/documents.
 
 
 
+### Types of correspondence
+
+- 
+
+
+
+
 
 ---
 Read also - 
