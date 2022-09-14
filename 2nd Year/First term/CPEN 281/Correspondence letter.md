@@ -59,7 +59,7 @@
 ### Negative message
 - Abstract
 	- purpose statement and buffer such as appreciation
-	- bridge between your letter and previous communcation
+	- bridge between your letter and previous communication
 - Body
 	- Focus on what can be done or an option, if possible
 	- brief statement of bad news or what can not be done
