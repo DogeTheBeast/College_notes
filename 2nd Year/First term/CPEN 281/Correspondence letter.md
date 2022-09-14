@@ -62,7 +62,11 @@
 	- bridge between your letter and previous communcation
 - Body
 	- Focus on what can be done or an option, if possible
-	- brief statement o
+	- brief statement of bad news or what can not be done
+	- supporting information, facts and reason
+- conclusion
+	- positive closing to continus business relationship
+	- next steps and timeline, if appropriate
 
 
 ---
