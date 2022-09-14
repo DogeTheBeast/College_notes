@@ -3,6 +3,6 @@
 - [x] CPEN 221 Intro
 - [ ] MATH 226 Assignments
 - [ ] CPEN 211 Reading
-- [ ] CPEN 221 Lab
-- [ ] Correspondance assignment CPEN 281 (due friday 24th)
+- [x] CPEN 221 Lab
+- [ ] Correspondence assignment CPEN 281 (due friday 24th)
 - [ ] 
