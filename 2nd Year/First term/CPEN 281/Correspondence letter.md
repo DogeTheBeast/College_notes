@@ -56,7 +56,13 @@
 	- goodwill closing and main idea
 	- keep control of the next step and offer to contact the client
 
-
+### Negative message
+- Abstract
+	- purpose statement and buffer such as appreciation
+	- bridge between your letter and previous communcation
+- Body
+	- Focus on what can be done or an option, if possible
+	- brief statement o
 
 
 ---
