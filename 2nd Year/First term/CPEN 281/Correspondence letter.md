@@ -50,7 +50,11 @@
 	- show understanding of a client's problem and solution
 	- cite an interesting or statistic
 - body - convince your audience
-	- focus on a problem
+	- focus on a problem/solution, plus a selling point or benefit
+	- focus on value and quality
+- conclusion - control next steps in the sales process
+	- goodwill closing and main idea
+	- keep control of the next step and offer to 
 
 
 
