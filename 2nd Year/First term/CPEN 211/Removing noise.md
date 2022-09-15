@@ -8,7 +8,7 @@
 
 ### Metal oxide semiconductor (MOS) and Field effect transistors (FET)
 
-when there is current flowing into the source, the gate forms an electric field (because the gate is polarised) letting 
+when there is current flowing into the source, the gate forms an electric field (because the gate is polarised) letting electrons flow from the input into the output.
 
 ---
 Read also - 
