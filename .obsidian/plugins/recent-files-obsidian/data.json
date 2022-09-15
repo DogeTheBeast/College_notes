@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Boolean Algebra",
+      "path": "2nd Year/First term/CPEN 211/Boolean Algebra.md"
+    },
+    {
+      "basename": "Digital Abstraction",
+      "path": "2nd Year/First term/CPEN 211/Digital Abstraction.md"
+    },
+    {
+      "basename": "Bits and Bytes",
+      "path": "2nd Year/First term/CPEN 211/Bits and Bytes.md"
+    },
+    {
+      "basename": "Digital Logic",
+      "path": "2nd Year/First term/CPEN 211/Digital Logic.md"
+    },
+    {
+      "basename": "Preconditions and postconditions",
+      "path": "2nd Year/First term/CPEN 221/Preconditions and postconditions.md"
+    },
+    {
       "basename": "TODO",
       "path": "TODO.md"
     },
@@ -29,24 +49,8 @@
       "path": "1st Year/Second Term/APSC 160/Input and Output.md"
     },
     {
-      "basename": "Digital Abstraction",
-      "path": "2nd Year/First term/CPEN 211/Digital Abstraction.md"
-    },
-    {
-      "basename": "Digital Logic",
-      "path": "2nd Year/First term/CPEN 211/Digital Logic.md"
-    },
-    {
-      "basename": "Bits and Bytes",
-      "path": "2nd Year/First term/CPEN 211/Bits and Bytes.md"
-    },
-    {
       "basename": "Numbers in Different Bases",
       "path": "1st Year/Second Term/APSC 160/Numbers in Different Bases.md"
-    },
-    {
-      "basename": "Preconditions and postconditions",
-      "path": "2nd Year/First term/CPEN 221/Preconditions and postconditions.md"
     },
     {
       "basename": "Syllabus",
@@ -195,10 +199,6 @@
     {
       "basename": "Syllabus Outline Tempelate",
       "path": "Extras/Templates/Syllabus Outline Tempelate.md"
-    },
-    {
-      "basename": "Daily Notes Tempelate",
-      "path": "Extras/Templates/Daily Notes Tempelate.md"
     }
   ],
   "omittedPaths": [],

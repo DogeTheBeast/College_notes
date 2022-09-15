@@ -6,5 +6,5 @@
 - [x] CPEN 221 Lab
 - [ ] Correspondence assignment CPEN 281 (due friday 24th)
 - [ ] Discuss with Louie 281 hw
-- [ ] upload 221 lab on github
+- [x] upload 221 lab on github
 - [ ] 
