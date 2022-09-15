@@ -5,5 +5,8 @@
 - use input to switch between them
 - no input means output does not have noise at all.
 
+
+### Metal oxide semiconductor (MOS)
+
 ---
 Read also - 
