@@ -16,6 +16,9 @@ Methods of ethical persuasion
 
 ### Proposals
 
+Can be informative and persuasive
+- Persuade to solve a problem
+
 
 
 ---
