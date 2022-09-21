@@ -36,7 +36,8 @@ use letter formats for informal proposals
 	- Significance of topic
 	- Description of the problem
 	- Proposed plan, options or solution
-	- Team members and quali
+	- Team members and qualifications
+	- Schedule, tasks and cost
 
 ---
 Read also - 
