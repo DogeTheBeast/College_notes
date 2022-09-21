@@ -21,5 +21,10 @@ Can be informative and persuasive
 
 use letter formats for informal proposals
 
+- State the purose in the introduction
+- Establish a need for the propsed idea
+- Explain the idea, supporting information and details
+- Empahsize key po
+
 ---
 Read also - 
