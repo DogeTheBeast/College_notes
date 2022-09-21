@@ -29,7 +29,14 @@ use letter formats for informal proposals
 
 ### ABC format for informal proposal
 - Abstract/ Introduction
-	- 
+	- purpose and topic of proposal
+	- audeinces needs and interests
+	- Overview of the problem to be solved
+- Body paragraph
+	- Significance of topic
+	- Description of the problem
+	- Proposed plan, options or solution
+	- Team members and quali
 
 ---
 Read also - 
