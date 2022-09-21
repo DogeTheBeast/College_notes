@@ -6,7 +6,8 @@
 
 ### Persuasion
 
-- Ethical persuasion
+- Ethical persuasion builds trust and collaborate better
+- 
 
 ---
 Read also - 
