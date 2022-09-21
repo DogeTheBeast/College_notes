@@ -24,7 +24,12 @@ use letter formats for informal proposals
 - State the purose in the introduction
 - Establish a need for the propsed idea
 - Explain the idea, supporting information and details
-- Empahsize key po
+- Empahsize key points and benefits
+- request for approval
+
+### ABC format for informal proposal
+- Abstract/ Introduction
+	- 
 
 ---
 Read also - 
