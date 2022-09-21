@@ -10,8 +10,8 @@
 
 Methods of ethical persuasion
 - Logos - appeals to the audience's reason and logic.
-- Ethos - convery knowledge, expertise and credibility.
-- Pathos - appeal to an audience's emotion
+- Ethos - convey knowledge, expertise and credibility.
+- Pathos - appeal to an audience's emotions.
 
 ---
 Read also - 
