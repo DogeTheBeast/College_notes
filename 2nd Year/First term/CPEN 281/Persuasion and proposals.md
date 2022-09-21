@@ -13,5 +13,10 @@ Methods of ethical persuasion
 - Ethos - convey knowledge, expertise and credibility.
 - Pathos - appeal to an audience's emotions.
 
+
+### Proposals
+
+
+
 ---
 Read also - 
