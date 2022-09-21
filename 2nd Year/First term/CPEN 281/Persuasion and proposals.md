@@ -19,7 +19,7 @@ Methods of ethical persuasion
 Can be informative and persuasive
 - Persuade to solve a problem
 
-
+use letter formats for informal proposals
 
 ---
 Read also - 
