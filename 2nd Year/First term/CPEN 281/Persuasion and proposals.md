@@ -38,6 +38,10 @@ use letter formats for informal proposals
 	- Proposed plan, options or solution
 	- Team members and qualifications
 	- Schedule, tasks and cost
+- Conclusion
+	- Summary of key points and benefits
+	- Request for authorization approval of the proposal
+	- Next steps or action items
 
 ---
 Read also - 
