@@ -26,7 +26,9 @@ private final int id;
 String a = "foo";
 a = a.concat("bar");
 ```
-- when *concat* is used a new variable is declared and the pointer of *a* points toward the new instant
+- when *concat* is used a new variable is declared and the pointer of *a* points toward the new variable.
+- Hence, the original variable *a* is immutable.
+- **String Builder** can be used as an mutable variation of the String.
 
 
 
