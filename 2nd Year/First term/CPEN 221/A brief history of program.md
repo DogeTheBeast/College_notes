@@ -3,7 +3,7 @@
 ### 5.1 
 
 Steps of executing a program
-- Compiler - A compiler takes an input, e
+- Compiler - A compiler takes an input, evaluates (lexical analysis and parsing), 
 
 
 
