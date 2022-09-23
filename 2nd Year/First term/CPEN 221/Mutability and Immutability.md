@@ -42,8 +42,8 @@ tb.append("baz");
 - The variable *sb* is update along with *tb* as both of them point to the same object. So the value of *sb* is "foobarbaz".
 
 
-Runtime management system
-
+#### immutable strings can resuilt in many unnecessary copies
+- E.G., Constructing a large string by concatenating many smaller things.
 
 
 
