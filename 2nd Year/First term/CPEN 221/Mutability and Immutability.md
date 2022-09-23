@@ -20,6 +20,8 @@ private final int id;
 - The keyword *final* disables the user from the changing the value of variable *id*.
 - If the variable *id* is assigned a value for a second time, it returns a compiler error.
 
+Java *String* objects are immutable
+
 
 
 
