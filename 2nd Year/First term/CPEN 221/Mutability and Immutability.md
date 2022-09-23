@@ -17,7 +17,9 @@ int x = 10;
 private final int id;
 ```
 
-- The key
+- The keyword *final* disables the user from the changing the value of variable *id*.
+- If
+compiler error
 
 
 
