@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd Year/First term/CPEN 221/A brief history of program.md",
+            "file": "2nd Year/First term/CPEN 221/Mutability and Immutability.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Year/First term/CPEN 221/A brief history of program.md",
+                "file": "2nd Year/First term/CPEN 221/Mutability and Immutability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
   },
   "active": "297f932b46b267df",
   "lastOpenFiles": [
+    "2nd Year/First term/CPEN 221/A brief history of program.md",
     "2nd Year/First term/CPEN 281/Persuasion and proposals.md",
     "1st Year/Second Term/APSC 160/Input and Output.md",
     "2nd Year/First term/CPEN 211/Removing noise.md",
@@ -137,7 +138,6 @@
     "2nd Year/First term/CPEN 211/Digital Abstraction.md",
     "2nd Year/First term/CPEN 211/Bits and Bytes.md",
     "2nd Year/First term/CPEN 221/Preconditions and postconditions.md",
-    "TODO.md",
-    "2nd Year/First term/CPEN 221/Syllabus.md"
+    "TODO.md"
   ]
 }
