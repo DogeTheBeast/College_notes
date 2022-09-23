@@ -29,6 +29,7 @@ a = a.concat("bar");
 - when *concat* is used a new variable is declared and the pointer of *a* points toward the new variable.
 - Hence, the original variable *a* is immutable.
 - **String Builder** can be used as an mutable variation of the String.
+- In **String Builder**, if 2 variables with different names have the same string, both the strings point o
 
 
 
