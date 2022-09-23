@@ -29,7 +29,8 @@
     "txt",
     "superpositions",
     "Combinational",
-    "memoryless"
+    "memoryless",
+    "concat"
   ],
   "foldHeading": true,
   "foldIndent": true,
