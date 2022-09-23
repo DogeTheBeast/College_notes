@@ -32,7 +32,10 @@ a = a.concat("bar");
 - In **String Builder**, if 2 variables with different names have the same string, both the strings point to the same object.
 
 ```java 
-StringBuilder sb = new StringBuilder("foo")
+StringBuilder sb = new StringBuilder("foo");
+sb.append("bar");
+
+
 
 
 
