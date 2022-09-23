@@ -39,7 +39,7 @@ StringBuilder tb = sb;
 tb.append("baz");
 ```
 
-- The variable sb is update along with tb as both of them point to the same object.
+- The variable *sb* is update along with *tb* as both of them point to the same object. So both 
 
 
 
