@@ -1,6 +1,8 @@
 # Mutability and Immutability
 
-**Mutable** - 
+**Mutable** - Prone to change
+
+
 
 
 
