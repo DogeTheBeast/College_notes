@@ -35,7 +35,11 @@ a = a.concat("bar");
 StringBuilder sb = new StringBuilder("foo");
 sb.append("bar");
 
+StringBuilder tb = sb;
+tb.append("baz");
+```
 
+- The variable sb is update along with tb as both of them point to the same object.
 
 
 
