@@ -39,7 +39,12 @@ StringBuilder tb = sb;
 tb.append("baz");
 ```
 
-- The variable *sb* is update along with *tb* as both of them point to the same object. So both 
+- The variable *sb* is update along with *tb* as both of them point to the same object. So the value of *sb* is "foobarbaz".
+
+
+Runtime management system
+
+
 
 
 
