@@ -43,7 +43,8 @@ tb.append("baz");
 
 
 #### immutable strings can resuilt in many unnecessary copies
-- E.G., Constructing a large string by concatenating many smaller things.
+- E.g., Constructing a large string by concatenating many smaller things.
+- Temporary 
 
 
 
