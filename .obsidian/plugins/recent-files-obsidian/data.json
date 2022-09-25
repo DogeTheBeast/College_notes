@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
       "basename": "Mutability and Immutability",
       "path": "2nd Year/First term/CPEN 221/Mutability and Immutability.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Preconditions and postconditions",
       "path": "2nd Year/First term/CPEN 221/Preconditions and postconditions.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     },
     {
       "basename": "Syllabus",

@@ -5,6 +5,9 @@
 - [x] CPEN 211 Reading
 - [x] CPEN 221 Lab
 - [ ] Correspondence assignment CPEN 281 (due friday 24th)
-- [ ] Discuss with Louie 281 hw
+- [x] Discuss with Louie 281 hw
 - [x] upload 221 lab on github
+- [ ] 211 Lab
+- [ ] 221 Notes
+- [ ] 211 flipped lecture
 - [ ] 
