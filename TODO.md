@@ -4,12 +4,12 @@
 - [ ] MATH 226 Assignments
 - [x] CPEN 211 Reading
 - [x] CPEN 221 Lab
-- [ ] Correspondence assignment CPEN 281 (due friday 24th)
+- [ ] Correspondence assignment CPEN 281 
 - [x] Discuss with Louie 281 hw
 - [x] upload 221 lab on github
 - [ ] 211 Lab
 - [ ] 221 Notes
-- [ ] 211 flipped lecture
+- [x] 211 flipped lecture
 - [x] math 256 webwork 
 - [ ] math 256 written assignment
 - [ ] math 256 understand shit
