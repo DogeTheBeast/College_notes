@@ -2,5 +2,6 @@
   "baseFontSize": 13,
   "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "Deep Work"
+  "cssTheme": "Deep Work",
+  "accentColor": ""
 }
