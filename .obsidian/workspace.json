@@ -22,9 +22,10 @@
             "id": "9dc9f25d84e3d7b1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "1st Year/Second Term/APSC 160/Basic Syntax for C.md",
+                "mode": "preview"
               }
             }
           }
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Year/First term/CPEN 281/Correspondence letter.md",
+                "file": "1st Year/Second Term/APSC 160/Basic Syntax for C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
