@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2135dd1decaf5b11",
+        "id": "1c09cf04a3f5fe1d",
         "type": "tabs",
         "children": [
           {
-            "id": "1c04e6402c952559",
+            "id": "90da8d210e6ee69a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,8 +148,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1c04e6402c952559",
+  "active": "90da8d210e6ee69a",
   "lastOpenFiles": [
+    "1st Year/Second Term/APSC 160/Data Types for C.md",
+    "Untitled.md",
     "2nd Year/First term/CPEN 281/Correspondence letter.md",
     "1st Year/Second Term/APSC 160/Basic Syntax for C.md",
     "TODO.md",
@@ -157,8 +159,6 @@
     "2nd Year/First term/CPEN 221/A brief history of program.md",
     "2nd Year/First term/CPEN 281/Persuasion and proposals.md",
     "1st Year/Second Term/APSC 160/Input and Output.md",
-    "2nd Year/First term/CPEN 211/Removing noise.md",
-    "2nd Year/First term/CPEN 211/Digital Logic.md",
-    "2nd Year/First term/CPEN 211/Boolean Algebra.md"
+    "2nd Year/First term/CPEN 211/Removing noise.md"
   ]
 }
