@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f78129156488dd8a",
+        "id": "2135dd1decaf5b11",
         "type": "tabs",
         "children": [
           {
-            "id": "297f932b46b267df",
+            "id": "1c04e6402c952559",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2nd Year/First term/CPEN 281/Correspondence letter.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "9dc9f25d84e3d7b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1st Year/Second Term/APSC 160/Basic Syntax for C.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "5e2d588760224430",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
+                "file": "Untitled.md",
+                "mode": "source"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Year/Second Term/APSC 160/Basic Syntax for C.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.7156982421875
+    "width": 266.7156982421875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +148,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e2d588760224430",
+  "active": "1c04e6402c952559",
   "lastOpenFiles": [
+    "2nd Year/First term/CPEN 281/Correspondence letter.md",
+    "1st Year/Second Term/APSC 160/Basic Syntax for C.md",
     "TODO.md",
     "2nd Year/First term/CPEN 221/Mutability and Immutability.md",
     "2nd Year/First term/CPEN 221/A brief history of program.md",
@@ -178,8 +159,6 @@
     "1st Year/Second Term/APSC 160/Input and Output.md",
     "2nd Year/First term/CPEN 211/Removing noise.md",
     "2nd Year/First term/CPEN 211/Digital Logic.md",
-    "2nd Year/First term/CPEN 211/Boolean Algebra.md",
-    "2nd Year/First term/CPEN 211/Digital Abstraction.md",
-    "2nd Year/First term/CPEN 211/Bits and Bytes.md"
+    "2nd Year/First term/CPEN 211/Boolean Algebra.md"
   ]
 }
